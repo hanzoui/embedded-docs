@@ -41,7 +41,21 @@ Imagine communicating with a foreign artist - you need a translator to help accu
    - Use keyboard shortcuts `ctrl + up/down arrow` to quickly adjust weights
    - The weight adjustment step size can be modified in settings
 
-4. **Important Notes**
+4. **Wildcard/Dynamic Prompts**
+   - You can use `{day|night|morning}` for wildcard/dynamic prompts. With this syntax, `{red|green|blue}` will be randomly replaced by either `red`, `green`, or `blue` by the frontend every time you queue the prompt.
+   - To use `{}` characters in your actual prompt, escape them like: `\{` or `\}`.
+
+5. **Comments in Prompts**
+   - The prompt also support C-style comments:
+     - Use `//` to comment out a whole line
+     - Use `/* */` to comment out a section
+     - Example:
+     ```
+     // This line is excluded from the prompt
+     a beautiful landscape, /* this is also excluded */ high quality
+     ```
+
+6. **Important Notes**
    - Ensure the CLIP model is properly loaded
    - Use positive and clear text descriptions
    - When using embedding models, make sure the file name is correct and compatible with your current main model's architecture
