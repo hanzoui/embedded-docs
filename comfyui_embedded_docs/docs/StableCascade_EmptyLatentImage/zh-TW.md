@@ -6,14 +6,14 @@ StableCascade_EmptyLatentImage 節點為 Stable Cascade 模型建立空的潛在
 
 | 參數名稱 | 資料類型 | 必填 | 數值範圍 | 描述 |
 |-----------|-----------|----------|-------|-------------|
-| `width` | INT | 是 | 256 至 MAX_RESOLUTION | 輸出圖像的寬度（單位：像素）（預設值：1024，間隔：8） |
-| `height` | INT | 是 | 256 至 MAX_RESOLUTION | 輸出圖像的高度（單位：像素）（預設值：1024，間隔：8） |
-| `compression` | INT | 是 | 4 至 128 | 決定階段 C 潛在維度的壓縮係數（預設值：42，間隔：1） |
-| `batch_size` | INT | 否 | 1 至 4096 | 單次批次中要生成的潛在樣本數量（預設值：1） |
+| `寬度` | INT | 是 | 256 至 MAX_RESOLUTION | 輸出圖像的寬度（單位：像素）（預設值：1024，間隔：8） |
+| `高度` | INT | 是 | 256 至 MAX_RESOLUTION | 輸出圖像的高度（單位：像素）（預設值：1024，間隔：8） |
+| `壓縮` | INT | 是 | 4 至 128 | 決定階段 C 潛在維度的壓縮係數（預設值：42，間隔：1） |
+| `批次大小` | INT | 否 | 1 至 4096 | 單次批次中要生成的潛在樣本數量（預設值：1） |
 
 ## 輸出結果
 
 | 輸出名稱 | 資料類型 | 描述 |
 |-------------|-----------|-------------|
-| `stage_c` | LATENT | 階段 C 潛在張量，維度為 [batch_size, 16, height//compression, width//compression] |
+| `stage_b` | LATENT | 階段 C 潛在張量，維度為 [batch_size, 16, height//compression, width//compression] |
 | `stage_b` | LATENT | 階段 B 潛在張量，維度為 [batch_size, 4, height//4, width//4] |

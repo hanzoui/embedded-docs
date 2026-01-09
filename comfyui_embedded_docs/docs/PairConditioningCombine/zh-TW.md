@@ -15,5 +15,5 @@ PairConditioningCombine 節點將兩組條件資料（正面與負面）合併�
 
 | 輸出名稱 | 資料類型 | 說明 |
 |-------------|-----------|-------------|
-| `positive` | CONDITIONING | 合併後的正面條件輸出 |
+| `負向` | CONDITIONING | 合併後的正面條件輸出 |
 | `negative` | CONDITIONING | 合併後的負面條件輸出 |

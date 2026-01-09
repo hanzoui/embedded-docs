@@ -7,9 +7,9 @@
 | 參數名稱       | 資料類型       | Python 資料類型      | 描述 |
 |----------------|----------------|----------------------|------|
 | `model`        | `MODEL`        | `torch.nn.Module`    | 要透過連續 EDM 取樣功能增強的基础模型。它作為應用進階取樣技術的基礎。 |
-| `sampling`     | COMBO[STRING]  | `str`                | 指定要應用的取樣類型，可以是 'eps'（用於 epsilon 取樣）或 'v_prediction'（用於速度預測），這會影響模型在取樣過程中的行為。 |
-| `sigma_max`    | `FLOAT`        | `float`              | 雜訊水平的最大 sigma 值，用於控制在取樣過程中雜訊注入的上限。 |
-| `sigma_min`    | `FLOAT`        | `float`              | 雜訊水平的最小 sigma 值，設定了雜訊注入的下限，從而影響模型的取樣精度。 |
+| `取樣`     | COMBO[STRING]  | `str`                | 指定要應用的取樣類型，可以是 'eps'（用於 epsilon 取樣）或 'v_prediction'（用於速度預測），這會影響模型在取樣過程中的行為。 |
+| `最大 sigma`    | `FLOAT`        | `float`              | 雜訊水平的最大 sigma 值，用於控制在取樣過程中雜訊注入的上限。 |
+| `最小 sigma`    | `FLOAT`        | `float`              | 雜訊水平的最小 sigma 值，設定了雜訊注入的下限，從而影響模型的取樣精度。 |
 
 ## 輸出參數
 

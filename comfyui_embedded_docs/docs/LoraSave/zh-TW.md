@@ -6,12 +6,12 @@ LoraSave 節點從模型差異中提取並儲存 LoRA（低秩適應）檔案。
 
 | 參數名稱 | 資料類型 | 是否必填 | 數值範圍 | 參數說明 |
 |-----------|-----------|----------|-------|-------------|
-| `filename_prefix` | STRING | 是 | - | 輸出檔案名稱的前綴（預設值："loras/ComfyUI_extracted_lora"） |
-| `rank` | INT | 是 | 1-4096 | LoRA 的秩值，控制大小和複雜度（預設值：8） |
-| `lora_type` | COMBO | 是 | 提供多種選項 | 要建立的 LoRA 類型，提供多種可用選項 |
-| `bias_diff` | BOOLEAN | 是 | - | 是否在 LoRA 計算中包含偏差差異（預設值：True） |
-| `model_diff` | MODEL | 否 | - | 要轉換為 LoRA 的 ModelSubtract 輸出 |
-| `text_encoder_diff` | CLIP | 否 | - | 要轉換為 LoRA 的 CLIPSubtract 輸出 |
+| `檔名前綴` | STRING | 是 | - | 輸出檔案名稱的前綴（預設值："loras/ComfyUI_extracted_lora"） |
+| `秩(rank)` | INT | 是 | 1-4096 | LoRA 的秩值，控制大小和複雜度（預設值：8） |
+| `lora類型` | COMBO | 是 | 提供多種選項 | 要建立的 LoRA 類型，提供多種可用選項 |
+| `偏差差異` | BOOLEAN | 是 | - | 是否在 LoRA 計算中包含偏差差異（預設值：True） |
+| `模型差異` | MODEL | 否 | - | 要轉換為 LoRA 的 ModelSubtract 輸出 |
+| `文字編碼器差異` | CLIP | 否 | - | 要轉換為 LoRA 的 CLIPSubtract 輸出 |
 
 **注意：** 必須提供 `model_diff` 或 `text_encoder_diff` 中的至少一個參數，節點才能正常運作。如果兩者都未提供，節點將不會產生任何輸出。
 

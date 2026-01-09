@@ -6,7 +6,7 @@ SamplerEulerCFGpp 節點提供了一種用於生成輸出的 Euler CFG++ 採樣�
 
 | 參數名稱 | 資料類型 | 必填 | 數值範圍 | 參數說明 |
 |-----------|-----------|----------|-------|-------------|
-| `version` | STRING | 是 | `"regular"`<br>`"alternative"` | 要使用的 Euler CFG++ 採樣器實作版本 |
+| `版本` | STRING | 是 | `"regular"`<br>`"alternative"` | 要使用的 Euler CFG++ 採樣器實作版本 |
 
 ## 輸出結果
 

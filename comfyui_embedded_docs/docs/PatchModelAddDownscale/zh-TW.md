@@ -7,13 +7,13 @@ PatchModelAddDownscale 節點透過對模型中的特定區塊應用降尺度與
 | 參數名稱 | 資料類型 | 必填 | 數值範圍 | 描述 |
 |-----------|-----------|----------|-------|-------------|
 | `model` | MODEL | 是 | - | 要應用降尺度修補的模型 |
-| `block_number` | INT | 否 | 1-32 | 要應用降尺度的特定區塊編號（預設值：3） |
-| `downscale_factor` | FLOAT | 否 | 0.1-9.0 | 特徵降尺度的縮小係數（預設值：2.0） |
-| `start_percent` | FLOAT | 否 | 0.0-1.0 | 降尺度開始的去噪過程起始點（預設值：0.0） |
-| `end_percent` | FLOAT | 否 | 0.0-1.0 | 降尺度停止的去噪過程結束點（預設值：0.35） |
-| `downscale_after_skip` | BOOLEAN | 否 | - | 是否在跳躍連接後應用降尺度（預設值：True） |
-| `downscale_method` | COMBO | 否 | "bicubic"<br>"nearest-exact"<br>"bilinear"<br>"area"<br>"bislerp" | 用於降尺度操作的插值方法 |
-| `upscale_method` | COMBO | 否 | "bicubic"<br>"nearest-exact"<br>"bilinear"<br>"area"<br>"bislerp" | 用於升尺度操作的插值方法 |
+| `區塊編號` | INT | 否 | 1-32 | 要應用降尺度的特定區塊編號（預設值：3） |
+| `縮小比例` | FLOAT | 否 | 0.1-9.0 | 特徵降尺度的縮小係數（預設值：2.0） |
+| `起始百分比` | FLOAT | 否 | 0.0-1.0 | 降尺度開始的去噪過程起始點（預設值：0.0） |
+| `結束百分比` | FLOAT | 否 | 0.0-1.0 | 降尺度停止的去噪過程結束點（預設值：0.35） |
+| `跳過後縮小` | BOOLEAN | 否 | - | 是否在跳躍連接後應用降尺度（預設值：True） |
+| `縮小方法` | COMBO | 否 | "bicubic"<br>"nearest-exact"<br>"bilinear"<br>"area"<br>"bislerp" | 用於降尺度操作的插值方法 |
+| `放大方法` | COMBO | 否 | "bicubic"<br>"nearest-exact"<br>"bilinear"<br>"area"<br>"bislerp" | 用於升尺度操作的插值方法 |
 
 ## 輸出結果
 

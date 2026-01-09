@@ -1,22 +1,14 @@
-
-**Fonction du nœud :** Le nœud `Save Image-Sauvegarder l'Image` est principalement utilisé pour enregistrer des images dans le dossier **output** de ComfyUI. Si vous souhaitez uniquement prévisualiser l'image pendant le processus intermédiaire au lieu de l'enregistrer, vous pouvez utiliser le nœud `Preview Image-Prévisualiser l'Image`.
-Emplacement d'enregistrement par défaut : `ComfyUI/output/`
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveImage/fr.md)
 
 ## Entrées
 
-| Paramètre | Type de Donnée | Description |
-|-----------|-------------|-------------|
-| `images` | `IMAGE` | Les images à sauvegarder. Ce paramètre est crucial car il contient directement les données d'image qui seront traitées et sauvegardées sur le disque. |
-| `préfixe_du_nom_de_fichier` | STRING   | Le préfixe du nom de fichier pour les images enregistrées dans le dossier `ComfyUI/output/`. La valeur par défaut est `ComfyUI`, mais elle peut être personnalisée. |
+| Paramètre | Type de données | Requis | Plage | Description |
+|-----------|-----------|----------|-------|-------------|
+| `images` | IMAGE | Oui | - | Les images à enregistrer. |
+| `préfixe_du_nom_de_fichier` | STRING | Oui | - | Le préfixe pour le fichier à enregistrer. Peut inclure des informations de formatage telles que `%date:yyyy-MM-dd%` ou `%Empty Latent Image.width%` pour inclure des valeurs provenant d'autres nœuds (par défaut : "ComfyUI"). |
 
-## Options du Menu Contextuel
+## Sorties
 
-Après la génération de l'image, un clic droit sur le menu correspondant fournit les options et fonctions spécifiques au nœud suivantes :
-
-| Nom de l'Option | Fonction |
-|-----------------|-----------|
-| `Save Image-Sauvegarder l'Image` | Enregistrer l'image localement |
-| `Copy Image-Copier l'Image` | Copier l'image dans le presse-papiers |
-| `Open Image-Ouvrir l'Image` | Ouvrir l'image dans un nouvel onglet du navigateur |
-
-Les images sauvegardées sont généralement au format PNG et incluent toutes les données de génération d'images. Si vous souhaitez utiliser le flux de travail correspondant pour la régénération, il suffit de charger l'image correspondante dans ComfyUI pour charger le flux de travail.
+| Nom de la sortie | Type de données | Description |
+|-------------|-----------|-------------|
+| `ui` | UI_RESULT | Ce nœud produit un résultat d'interface utilisateur contenant une liste des images enregistrées avec leurs noms de fichiers et sous-dossiers. Il ne produit pas de données pour les connecter à d'autres nœuds. |
