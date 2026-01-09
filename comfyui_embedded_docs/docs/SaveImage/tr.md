@@ -13,4 +13,4 @@ SaveImage düğümü aldığı görüntüleri `ComfyUI/output` dizininize kayded
 
 | Çıkış Adı | Veri Türü | Açıklama |
 |-------------|-----------|-------------|
-| `ui` | UI_RESULT | Bu düğüm, kaydedilen görüntülerin dosya adlarını ve alt klasörlerini içeren bir liste barındıran bir UI sonucu çıktılar. Diğer düğümlere bağlanmak için veri çıktılamaz. |
+| `ui` | UI_RESULT | Bu düğüm, kaydedilen görüntülerin dosya adları ve alt klasörleriyle birlikte bir listesini içeren bir UI sonucu çıktılar. Diğer düğümlere bağlanmak için veri çıktılamaz. |
