@@ -29,6 +29,6 @@ WanFunControlToVideo 節點是 ComfyUI 的擴充功能，旨在支援萬 Fun Con
 
 | 參數名稱            | 資料類型           | 描述                                                  |
 |:-------------------|:-------------------|:-----------------------------------------------------|
-| positive           | CONDITIONING       | 提供增強的正面條件資料，包括編碼後的 `start_image` 和 `control_video`。 |
+| positive           | CONDITIONING       | 提供增強的正面條件資料，包括編碼後的 `起始影像` 和 `控制影片`。 |
 | negative           | CONDITIONING       | 提供同樣經過增強的負面條件資料，包含相同的 `concat_latent_image`。 |
 | latent             | LATENT             | 包含帶有 "samples" 鍵的空潛在張量的字典。 |

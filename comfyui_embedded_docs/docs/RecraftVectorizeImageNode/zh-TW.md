@@ -6,7 +6,7 @@
 
 | 參數名稱 | 資料類型 | 必填 | 數值範圍 | 描述 |
 |-----------|-----------|----------|-------|-------------|
-| `image` | IMAGE | 是 | - | 要轉換為 SVG 格式的輸入圖像 |
+| `圖片` | IMAGE | 是 | - | 要轉換為 SVG 格式的輸入圖像 |
 | `auth_token` | AUTH_TOKEN_COMFY_ORG | 否 | - | 用於 API 存取的身份驗證令牌 |
 | `comfy_api_key` | API_KEY_COMFY_ORG | 否 | - | 用於 Comfy.org 服務的 API 金鑰 |
 

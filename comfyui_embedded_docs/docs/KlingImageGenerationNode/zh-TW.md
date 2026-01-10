@@ -7,14 +7,14 @@ Kling 圖像生成節點能根據文字提示生成圖像，並可選擇使用�
 | 參數名稱 | 資料類型 | 必填 | 數值範圍 | 參數說明 |
 |-----------|-----------|----------|-------|-------------|
 | `prompt` | STRING | 是 | - | 正向文字提示 |
-| `negative_prompt` | STRING | 是 | - | 負向文字提示 |
+| `負向提示詞` | STRING | 是 | - | 負向文字提示 |
 | `image_type` | COMBO | 是 | 選項來自 KlingImageGenImageReferenceType<br>(從原始碼提取) | 圖像參考類型選擇 |
 | `image_fidelity` | FLOAT | 是 | 0.0 - 1.0 | 用戶上傳圖像的參考強度 (預設值: 0.5) |
 | `human_fidelity` | FLOAT | 是 | 0.0 - 1.0 | 主體參考相似度 (預設值: 0.45) |
 | `model_name` | COMBO | 是 | "kling-v1"<br>(以及 KlingImageGenModelName 的其他選項) | 圖像生成的模型選擇 (預設值: "kling-v1") |
 | `aspect_ratio` | COMBO | 是 | "16:9"<br>(以及 KlingImageGenAspectRatio 的其他選項) | 生成圖像的長寬比 (預設值: "16:9") |
 | `n` | INT | 是 | 1 - 9 | 生成圖像的數量 (預設值: 1) |
-| `image` | IMAGE | 否 | - | 可選的參考圖像 |
+| `影像` | IMAGE | 否 | - | 可選的參考圖像 |
 
 **參數限制：**
 

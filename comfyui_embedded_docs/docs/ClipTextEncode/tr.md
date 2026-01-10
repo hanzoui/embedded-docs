@@ -1,49 +1,67 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncode/tr.md)
 
-`CLIP Text Encode (CLIPTextEncode)`, yaratıcı metin açıklamalarınızı AI'nın anlayabileceği özel bir "dile" dönüştüren, AI'nın ne tür bir görsel oluşturmak istediğinizi doğru bir şekilde yorumlamasına yardımcı olan bir çevirmen gibi davranır.
+`CLIP Text Encode (CLIPTextEncode)`, metin açıklamalarınızı AI'nın anlayabileceği bir formata dönüştüren bir çevirmen gibi çalışır. Bu, AI'nın girdinizi yorumlamasına ve istenen görseli oluşturmasına yardımcı olur.
 
-Yabancı bir sanatçıyla iletişim kurduğunuzu hayal edin - istediğiniz sanat eserini doğru bir şekilde iletmek için bir çevirmene ihtiyacınız vardır. Bu düğüm, metin açıklamalarınızı anlamak ve onları AI sanat modelinin anlayabileceği "talimatlara" dönüştürmek için CLIP modelini (çok sayıda görsel-metin çifti üzerinde eğitilmiş bir AI modeli) kullanan o çevirmenin rolünü üstlenir.
+Farklı bir dil konuşan bir sanatçıyla iletişim kurmak gibi düşünün. Geniş görsel-metin çiftleri üzerinde eğitilmiş CLIP modeli, açıklamalarınızı AI modelinin takip edebileceği "talimatlara" dönüştürerek bu boşluğu kapatır.
 
 ## Girdiler
 
 | Parametre | Veri Türü | Girdi Yöntemi | Varsayılan | Aralık | Açıklama |
 |-----------|-----------|--------------|---------|--------|-------------|
-| text | STRING | Metin Girdisi | Boş | Herhangi bir metin | Bir sanatçıya verilen detaylı talimatlar gibi, görsel açıklamanızı buraya girin. Detaylı açıklamalar için çok satırlı metinleri destekler. |
-| clip | CLIP | Model Seçimi | Yok | Yüklenen CLIP modelleri | Belirli bir çevirmen seçmek gibi, farklı CLIP modelleri, sanatsal stilleri biraz farklı şekilde anlayan farklı çevirmenler gibidir. |
+| text | STRING | Metin Girdisi | Boş | Herhangi bir metin | Oluşturmak istediğiniz görselin açıklamasını (prompt) girin. Detaylı açıklamalar için çok satırlı girdiyi destekler. |
+| clip | CLIP | Model Seçimi | Yok | Yüklenmiş CLIP modelleri | Açıklamanızı AI modeli için talimatlara çevirirken kullanılacak CLIP modelini seçin. |
 
 ## Çıktılar
 
 | Çıktı Adı | Veri Türü | Açıklama |
 |-------------|-----------|-------------|
-| CONDITIONING | CONDITIONING | Bunlar, AI modelinin anlayabileceği detaylı yaratıcı rehberliği içeren, çevrilmiş "resim yapma talimatlarıdır". Bu talimatlar, AI modeline açıklamanıza uygun bir görseli nasıl oluşturacağını söyler. |
+| CONDITIONING | CONDITIONING | AI modelini bir görsel oluştururken yönlendiren, açıklamanızın işlenmiş "talimatları". |
 
-## Kullanım İpuçları
+## Prompt Özellikleri
 
-1. **Temel Metin İstemi Kullanımı**
-   - Kısa bir deneme yazıyormuş gibi detaylı açıklamalar yazın
-   - Daha spesifik açıklamalar, daha doğru sonuçlara yol açar
-   - Farklı betimleyici öğeleri ayırmak için İngilizce virgüller kullanın
+### Gömme (Embedding) Modelleri
 
-2. **Özel Özellik: Gömme Modellerini Kullanma**
-   - Gömme modelleri, belirli sanatsal efektleri hızlıca uygulayabilen önceden ayarlanmış sanat stili paketleri gibidir
-   - Şu anda .safetensors, .pt ve .bin dosya formatlarını destekler ve tam model adını kullanmanız gerekli değildir
-   - Nasıl kullanılır:
-     1. Gömme model dosyasını (.pt formatında) `ComfyUI/models/embeddings` klasörüne yerleştirin
-     2. Metninizde `embedding:model_adi` kullanın
-     Örnek: `EasyNegative.pt` adında bir modeliniz varsa, şu şekilde kullanabilirsiniz:
+Gömme modelleri, belirli sanatsal efektler veya stiller uygulamanıza olanak tanır. Desteklenen formatlar `.safetensors`, `.pt` ve `.bin`'i içerir. Bir gömme modeli kullanmak için:
 
-     ```
-     a beautiful landscape, embedding:EasyNegative, high quality
-     ```
+1. Dosyayı `ComfyUI/models/embeddings` klasörüne yerleştirin.
+2. Metninizde `embedding:model_adi` kullanarak ona referans verin.
 
-3. **İstemi Ağırlık Ayarlama**
-   - Belirli açıklamaların önemini ayarlamak için parantez kullanın
-   - Örneğin: `(beautiful:1.2)` "güzel" özelliğini daha belirgin hale getirecektir
-   - Normal parantezler `()` varsayılan olarak 1.1 ağırlığa sahiptir
-   - Ağırlıkları hızlıca ayarlamak için klavye kısayollarını `ctrl + yukarı/aşağı ok` kullanın
-   - Ağırlık ayarlama adım boyutu ayarlardan değiştirilebilir
+Örnek: `ComfyUI/models/embeddings` klasörünüzde `EasyNegative.pt` adlı bir modeliniz varsa, onu şu şekilde kullanabilirsiniz:
 
-4. **Önemli Notlar**
-   - CLIP modelinin düzgün şekilde yüklendiğinden emin olun
-   - Olumlu ve net metin açıklamaları kullanın
-   - Gömme modellerini kullanırken, dosya adının doğru olduğundan ve mevcut ana modelinizin mimarisiyle uyumlu olduğundan emin olun
+```
+worst quality, embedding:EasyNegative, bad quality
+```
+
+**ÖNEMLİ**: Gömme modelleri kullanırken, dosya adının eşleştiğinden ve model mimarinizle uyumlu olduğundan emin olun. Örneğin, SD1.5 için tasarlanmış bir gömme, bir SDXL modeli için doğru çalışmayacaktır.
+
+### Prompt Ağırlık Ayarlama
+
+Parantez kullanarak açıklamanızın belirli bölümlerinin önemini ayarlayabilirsiniz. Örneğin:
+
+- `(beautiful:1.2)`, "beautiful" kelimesinin ağırlığını artırır.
+- `(beautiful:0.8)`, "beautiful" kelimesinin ağırlığını azaltır.
+- Sade parantezler `(beautiful)`, varsayılan olarak 1.1 ağırlığı uygular.
+
+Ağırlıkları hızlıca ayarlamak için `ctrl + yukarı/aşağı ok` klavye kısayollarını kullanabilirsiniz. Ağırlık ayarlama adım boyutu ayarlardan değiştirilebilir.
+
+Prompt'unuzda ağırlığı değiştirmeden gerçek parantezler eklemek istiyorsanız, onları ters eğik çizgi kullanarak kaçış karakteri ile yazabilirsiniz, örn. `\(word\)`.
+
+### Joker/Dinamik Prompt'lar
+
+Dinamik prompt'lar oluşturmak için `{}` kullanın. Örneğin, `{day|night|morning}` her prompt işlendiğinde rastgele bir seçenek seçecektir.
+
+Prompt'unuzda dinamik davranışı tetiklemeden gerçek süslü parantezler eklemek istiyorsanız, onları ters eğik çizgi kullanarak kaçış karakteri ile yazabilirsiniz, örn. `\{word\}`.
+
+### Prompt'larda Yorumlar
+
+Prompt'tan hariç tutulan yorumlar eklemek için şunları kullanabilirsiniz:
+
+- Tek bir satırı yorum satırı yapmak için `//`.
+- Bir bölümü veya birden çok satırı yorum satırı yapmak için `/* */`.
+
+Örnek:
+
+```
+// bu satır prompt'tan hariç tutulur.
+a beautiful landscape, /* bu kısım göz ardı edilir */ high quality
+```

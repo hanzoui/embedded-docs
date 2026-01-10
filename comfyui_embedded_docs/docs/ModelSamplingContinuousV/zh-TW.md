@@ -7,9 +7,9 @@ ModelSamplingContinuousV 節點透過應用連續 V-prediction 採樣參數來�
 | 參數名稱 | 資料類型 | 必填 | 數值範圍 | 描述 |
 |-----------|-----------|----------|-------|-------------|
 | `model` | MODEL | 是 | - | 要使用連續 V-prediction 採樣進行修改的輸入模型 |
-| `sampling` | STRING | 是 | "v_prediction" | 要應用的採樣方法（目前僅支援 V-prediction） |
-| `sigma_max` | FLOAT | 是 | 0.0 - 1000.0 | 採樣的最大 sigma 值（預設值：500.0） |
-| `sigma_min` | FLOAT | 是 | 0.0 - 1000.0 | 採樣的最小 sigma 值（預設值：0.03） |
+| `取樣` | STRING | 是 | "v_prediction" | 要應用的採樣方法（目前僅支援 V-prediction） |
+| `最大 sigma` | FLOAT | 是 | 0.0 - 1000.0 | 採樣的最大 sigma 值（預設值：500.0） |
+| `最小 sigma` | FLOAT | 是 | 0.0 - 1000.0 | 採樣的最小 sigma 值（預設值：0.03） |
 
 ## 輸出結果
 

@@ -1,22 +1,16 @@
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveImage/en.md)
 
-**Node Function:** The `Save Image` node is mainly used to save images to the **output** folder in ComfyUI. If you only want to preview the image during the intermediate process rather than saving it, you can use the `Preview Image` node.
-Default save location: `ComfyUI/output/`
+The SaveImage node saves the images it receives to your `ComfyUI/output` directory. It saves each image as a PNG file and can embed workflow metadata, such as the prompt, into the saved file for future reference.
 
 ## Inputs
 
-| Parameter | Data Type | Description |
-|-----------|-------------|-------------|
-| `images` | `IMAGE` | The images to be saved. This parameter is crucial as it directly contains the image data that will be processed and saved to disk. |
-| `filename_prefix` | STRING   | The filename prefix for images saved to the `ComfyUI/output/` folder. The default is `ComfyUI`, but you can customize it. |
+| Parameter | Data Type | Required | Range | Description |
+|-----------|-----------|----------|-------|-------------|
+| `images` | IMAGE | Yes | - | The images to save. |
+| `filename_prefix` | STRING | Yes | - | The prefix for the file to save. This may include formatting information such as `%date:yyyy-MM-dd%` or `%Empty Latent Image.width%` to include values from nodes (default: "ComfyUI"). |
 
-## Right-click Menu Options
+## Outputs
 
-After the image generation is complete, right-clicking on the corresponding menu provides the following node-specific options and functions:
-
-| Option Name | Function |
-|-------------|----------|
-| `Save Image` | Save the image locally |
-| `Copy Image` | Copy the image to clipboard |
-| `Open Image` | Open the image in a new browser tab |
-
-The saved images are generally in PNG format and include all the image generation data. If you want to use the corresponding workflow for regeneration, you can simply load the corresponding image into ComfyUI to load the workflow.
+| Output Name | Data Type | Description |
+|-------------|-----------|-------------|
+| `ui` | UI_RESULT | This node outputs a UI result containing a list of the saved images with their filenames and subfolders. It does not output data for connecting to other nodes. |

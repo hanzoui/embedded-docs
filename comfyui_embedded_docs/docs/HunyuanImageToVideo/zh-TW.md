@@ -6,14 +6,14 @@ HunyuanImageToVideo 節點使用 Hunyuan 影片模型將圖像轉換為影片潛
 
 | 參數名稱 | 資料類型 | 必填 | 數值範圍 | 參數說明 |
 |-----------|-----------|----------|-------|-------------|
-| `positive` | CONDITIONING | 是 | - | 用於引導影片生成的正向條件輸入 |
+| `正向` | CONDITIONING | 是 | - | 用於引導影片生成的正向條件輸入 |
 | `vae` | VAE | 是 | - | 用於將圖像編碼到潛在空間的 VAE 模型 |
-| `width` | INT | 是 | 16 至 MAX_RESOLUTION | 輸出影片的寬度（單位：像素，預設值：848，間距：16） |
-| `height` | INT | 是 | 16 至 MAX_RESOLUTION | 輸出影片的高度（單位：像素，預設值：480，間距：16） |
-| `length` | INT | 是 | 1 至 MAX_RESOLUTION | 輸出影片的幀數（預設值：53，間距：4） |
-| `batch_size` | INT | 是 | 1 至 4096 | 同時生成的影片數量（預設值：1） |
-| `guidance_type` | COMBO | 是 | "v1 (concat)"<br>"v2 (replace)"<br>"custom" | 將起始圖像納入影片生成的方法 |
-| `start_image` | IMAGE | 否 | - | 用於初始化影片生成的可選起始圖像 |
+| `寬度` | INT | 是 | 16 至 MAX_RESOLUTION | 輸出影片的寬度（單位：像素，預設值：848，間距：16） |
+| `高度` | INT | 是 | 16 至 MAX_RESOLUTION | 輸出影片的高度（單位：像素，預設值：480，間距：16） |
+| `長度` | INT | 是 | 1 至 MAX_RESOLUTION | 輸出影片的幀數（預設值：53，間距：4） |
+| `批次大小` | INT | 是 | 1 至 4096 | 同時生成的影片數量（預設值：1） |
+| `引導類型` | COMBO | 是 | "v1 (concat)"<br>"v2 (replace)"<br>"custom" | 將起始圖像納入影片生成的方法 |
+| `起始影像` | IMAGE | 否 | - | 用於初始化影片生成的可選起始圖像 |
 
 **注意：** 當提供 `start_image` 時，節點會根據選擇的 `guidance_type` 使用不同的引導方法：
 
@@ -25,5 +25,5 @@ HunyuanImageToVideo 節點使用 Hunyuan 影片模型將圖像轉換為影片潛
 
 | 輸出名稱 | 資料類型 | 輸出說明 |
 |-------------|-----------|-------------|
-| `positive` | CONDITIONING | 當提供起始圖像時，套用圖像引導後的修改正向條件 |
+| `潛在空間` | CONDITIONING | 當提供起始圖像時，套用圖像引導後的修改正向條件 |
 | `latent` | LATENT | 準備供影片生成模型進一步處理的影片潛在表示 |

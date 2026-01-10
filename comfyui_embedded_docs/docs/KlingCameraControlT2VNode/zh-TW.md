@@ -9,7 +9,7 @@ Kling Text to Video Camera Control 節點能將文字轉換為具有專業攝影
 | 參數 | 資料類型 | 必填 | 範圍 | 描述 |
 |-----------|-----------|----------|-------|-------------|
 | `prompt` | STRING | 是 | - | 正向文字提示 |
-| `negative_prompt` | STRING | 是 | - | 負向文字提示 |
+| `負向提示詞` | STRING | 是 | - | 負向文字提示 |
 | `cfg_scale` | FLOAT | 否 | 0.0-1.0 | 控制輸出與提示詞的貼合程度（預設值：0.75） |
 | `aspect_ratio` | COMBO | 否 | "16:9"<br>"9:16"<br>"1:1"<br>"21:9"<br>"3:4"<br>"4:3" | 生成影片的長寬比（預設值："16:9"） |
 | `camera_control` | CAMERA_CONTROL | 否 | - | 可使用 Kling Camera Controls 節點建立。控制影片生成過程中的攝影機移動和運動。 |

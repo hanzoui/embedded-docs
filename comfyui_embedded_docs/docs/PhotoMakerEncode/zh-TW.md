@@ -7,9 +7,9 @@ PhotoMakerEncode 節點處理影像和文字，為 AI 影像生成生成條件�
 | 參數名稱 | 資料類型 | 必填 | 數值範圍 | 描述 |
 |-----------|-----------|----------|-------|-------------|
 | `photomaker` | PHOTOMAKER | 是 | - | 用於處理影像和生成嵌入向量的 PhotoMaker 模型 |
-| `image` | IMAGE | 是 | - | 提供條件化視覺特徵的參考影像 |
+| `影像` | IMAGE | 是 | - | 提供條件化視覺特徵的參考影像 |
 | `clip` | CLIP | 是 | - | 用於文字標記化和編碼的 CLIP 模型 |
-| `text` | STRING | 是 | - | 用於生成條件化的文字提示（預設值："photograph of photomaker"） |
+| `文字` | STRING | 是 | - | 用於生成條件化的文字提示（預設值："photograph of photomaker"） |
 
 **注意：** 當文字中包含 "photomaker" 一詞時，節點會在提示詞的該位置應用基於影像的條件化。如果在文字中找不到 "photomaker"，節點將生成不帶影像影響的標準文字條件化。
 
