@@ -1,14 +1,15 @@
 > 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HitPawVideoEnhance/zh.md)
 
 ## 概述
-HitPaw Video Enhance 节点通过外部 API 提升视频质量。它将低分辨率视频放大至更高分辨率，去除视觉伪影并降低噪点。处理费用根据输入视频的时长（每秒）计算。
+
+HitPaw Video Enhance 节点通过外部 API 提升视频质量。它可以将低分辨率视频放大到更高分辨率，去除视觉伪影并降低噪点。处理费用根据输入视频的时长（每秒）计算。
 
 ## 输入
 
 | 参数 | 数据类型 | 必填 | 范围 | 描述 |
 |-----------|-----------|----------|-------|-------------|
 | `model` | DYNAMIC COMBO | 是 | 提供多个选项 | 用于视频增强的 AI 模型。选择一个模型会显示嵌套的 `resolution` 参数。 |
-| `model.resolution` | COMBO | 是 | `"original"`<br>`"720p"`<br>`"1080p"`<br>`"2k/qhd"`<br>`"4k/uhd"`<br>`"8k"` | 增强视频的目标分辨率。某些选项可能因所选的 `model` 而不可用。 |
+| `model.resolution` | COMBO | 是 | `"original"`<br>`"720p"`<br>`"1080p"`<br>`"2k/qhd"`<br>`"4k/uhd"`<br>`"8k"` | 增强视频的目标分辨率。某些选项可能根据所选的 `model` 而不可用。 |
 | `video` | VIDEO | 是 | N/A | 待增强的输入视频文件。 |
 
 **约束条件：**
