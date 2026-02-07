@@ -26,10 +26,11 @@ WanInfiniteTalkToVideoノードは、音声入力から動画シーケンスを�
 | `mask_2` | MASK | いいえ | - | 2人目の話者のマスクです。2つの音声入力を使用する場合に必要です。 |
 
 **パラメータ制約:**
-*   `mode`が`"two_speakers"`に設定されている場合、パラメータ`audio_encoder_output_2`、`mask_1`、`mask_2`は必須になります。
-*   `audio_encoder_output_2`が提供される場合、`mask_1`と`mask_2`も両方提供する必要があります。
-*   `mask_1`と`mask_2`が提供される場合、`audio_encoder_output_2`も提供する必要があります。
-*   `previous_frames`が提供される場合、`motion_frame_count`で指定された数以上のフレームを含んでいる必要があります。
+
+* `mode`が`"two_speakers"`に設定されている場合、パラメータ`audio_encoder_output_2`、`mask_1`、`mask_2`は必須になります。
+* `audio_encoder_output_2`が提供される場合、`mask_1`と`mask_2`も両方提供する必要があります。
+* `mask_1`と`mask_2`が提供される場合、`audio_encoder_output_2`も提供する必要があります。
+* `previous_frames`が提供される場合、`motion_frame_count`で指定された数以上のフレームを含んでいる必要があります。
 
 ## 出力
 

@@ -20,9 +20,10 @@ Le nœud Meshy : Image vers Modèle utilise l'API Meshy pour générer un modèl
 | `seed` | INT | Oui | 0 - 2147483647 | Une valeur de seed pour le processus de génération. Les résultats sont non déterministes quelle que soit la valeur du seed. La valeur par défaut est 0. |
 
 **Note sur les contraintes des paramètres :**
-*   Les entrées `topology` et `target_polycount` ne sont requises que lorsque `should_remesh` est défini sur `"true"`.
-*   Les entrées `enable_pbr`, `texture_prompt` et `texture_image` ne sont disponibles que lorsque `should_texture` est défini sur `"true"`.
-*   Vous ne pouvez pas utiliser `texture_prompt` et `texture_image` en même temps. Si les deux sont fournis lorsque `should_texture` est `"true"`, le nœud générera une erreur.
+
+* Les entrées `topology` et `target_polycount` ne sont requises que lorsque `should_remesh` est défini sur `"true"`.
+* Les entrées `enable_pbr`, `texture_prompt` et `texture_image` ne sont disponibles que lorsque `should_texture` est défini sur `"true"`.
+* Vous ne pouvez pas utiliser `texture_prompt` et `texture_image` en même temps. Si les deux sont fournis lorsque `should_texture` est `"true"`, le nœud générera une erreur.
 
 ## Sorties
 

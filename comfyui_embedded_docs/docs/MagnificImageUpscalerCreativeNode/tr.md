@@ -18,10 +18,11 @@ Bu düğüm, bir görüntüyü büyütmek ve yaratıcı bir şekilde geliştirme
 | `auto_downscale` | BOOLEAN | Hayır | - | Etkinleştirildiğinde, talep edilen büyütme işlemi izin verilen maksimum 25,3 megapiksel çıktı boyutunu aşacaksa, düğüm giriş görüntüsünü otomatik olarak küçültecektir (varsayılan: False). |
 
 **Kısıtlamalar:**
-*   Giriş `image` tam olarak bir görüntü olmalıdır.
-*   Giriş görüntüsünün minimum yüksekliği ve genişliği 160 piksel olmalıdır.
-*   Giriş görüntüsünün en-boy oranı 1:3 ile 3:1 arasında olmalıdır.
-*   Nihai çıktı boyutu (giriş boyutları `scale_factor` ile çarpıldığında) 25.300.000 pikseli aşamaz. Eğer `auto_downscale` devre dışı bırakılmışsa ve bu limit aşılacaksa, düğüm bir hata verecektir.
+
+* Giriş `image` tam olarak bir görüntü olmalıdır.
+* Giriş görüntüsünün minimum yüksekliği ve genişliği 160 piksel olmalıdır.
+* Giriş görüntüsünün en-boy oranı 1:3 ile 3:1 arasında olmalıdır.
+* Nihai çıktı boyutu (giriş boyutları `scale_factor` ile çarpıldığında) 25.300.000 pikseli aşamaz. Eğer `auto_downscale` devre dışı bırakılmışsa ve bu limit aşılacaksa, düğüm bir hata verecektir.
 
 ## Çıktılar
 

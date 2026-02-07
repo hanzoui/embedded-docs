@@ -14,10 +14,11 @@ Magnific Image Skin Enhancer düğümü, portre görüntülerine cilt görünüm
 | `optimized_for` | COMBO | Hayır | `"enhance_skin"`<br>`"improve_lighting"`<br>`"enhance_everything"`<br>`"transform_to_real"`<br>`"no_make_up"` | Geliştirme optimizasyon hedefi. Bu giriş yalnızca `mode` `"flexible"` olarak ayarlandığında mevcuttur ve gereklidir. |
 
 **Kısıtlamalar:**
-*   Düğüm tam olarak bir giriş görüntüsü kabul eder.
-*   Giriş görüntüsünün minimum yükseklik ve genişliği 160 piksel olmalıdır.
-*   `skin_detail` parametresi yalnızca `mode` `"faithful"` olarak ayarlandığında etkindir.
-*   `optimized_for` parametresi yalnızca `mode` `"flexible"` olarak ayarlandığında etkindir.
+
+* Düğüm tam olarak bir giriş görüntüsü kabul eder.
+* Giriş görüntüsünün minimum yükseklik ve genişliği 160 piksel olmalıdır.
+* `skin_detail` parametresi yalnızca `mode` `"faithful"` olarak ayarlandığında etkindir.
+* `optimized_for` parametresi yalnızca `mode` `"flexible"` olarak ayarlandığında etkindir.
 
 ## Çıkışlar
 

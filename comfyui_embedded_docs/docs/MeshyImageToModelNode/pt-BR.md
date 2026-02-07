@@ -20,9 +20,10 @@ O nó Meshy: Image to Model utiliza a API Meshy para gerar um modelo 3D a partir
 | `seed` | INT | Sim | 0 - 2147483647 | Um valor de seed para o processo de geração. Os resultados são não determinísticos independentemente do valor da seed. O valor padrão é 0. |
 
 **Nota sobre Restrições de Parâmetros:**
-*   As entradas `topology` e `target_polycount` são obrigatórias apenas quando `should_remesh` está definido como `"true"`.
-*   As entradas `enable_pbr`, `texture_prompt` e `texture_image` estão disponíveis apenas quando `should_texture` está definido como `"true"`.
-*   Você não pode usar `texture_prompt` e `texture_image` ao mesmo tempo. Se ambos forem fornecidos quando `should_texture` for `"true"`, o nó gerará um erro.
+
+* As entradas `topology` e `target_polycount` são obrigatórias apenas quando `should_remesh` está definido como `"true"`.
+* As entradas `enable_pbr`, `texture_prompt` e `texture_image` estão disponíveis apenas quando `should_texture` está definido como `"true"`.
+* Você não pode usar `texture_prompt` e `texture_image` ao mesmo tempo. Se ambos forem fornecidos quando `should_texture` for `"true"`, o nó gerará um erro.
 
 ## Saídas
 

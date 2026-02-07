@@ -19,10 +19,11 @@
 | `fixed_generation` | BOOLEAN | 否 | - | 禁用时，每次生成都会引入一定程度的随机性，从而产生更多样化的结果（默认值：True）。 |
 
 **约束条件：**
-*   必须恰好提供一个 `image` 和一个 `reference_image`。
-*   两张图像的宽高比必须在 1:3 到 3:1 之间。
-*   两张图像的最小高度和宽度必须为 160 像素。
-*   `portrait_style` 和 `portrait_beautifier` 参数仅在 `portrait_mode` 设置为 "enabled" 时生效且为必需。
+
+* 必须恰好提供一个 `image` 和一个 `reference_image`。
+* 两张图像的宽高比必须在 1:3 到 3:1 之间。
+* 两张图像的最小高度和宽度必须为 160 像素。
+* `portrait_style` 和 `portrait_beautifier` 参数仅在 `portrait_mode` 设置为 "enabled" 时生效且为必需。
 
 ## 输出
 

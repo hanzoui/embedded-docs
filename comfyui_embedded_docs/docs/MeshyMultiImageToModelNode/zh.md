@@ -20,10 +20,11 @@
 | `seed` | INT | 是 | 0 到 2147483647 | 生成过程的种子值（默认值：0）。无论种子值如何，结果都是非确定性的，但更改种子值可以触发节点重新运行。 |
 
 **参数约束：**
-*   必须为 `images` 输入提供 2 到 4 张图像。
-*   `topology` 和 `target_polycount` 参数仅在 `should_remesh` 设置为 `"true"` 时生效。
-*   `enable_pbr`、`texture_prompt` 和 `texture_image` 参数仅在 `should_texture` 设置为 `"true"` 时生效。
-*   不能同时使用 `texture_prompt` 和 `texture_image`；它们是互斥的。
+
+* 必须为 `images` 输入提供 2 到 4 张图像。
+* `topology` 和 `target_polycount` 参数仅在 `should_remesh` 设置为 `"true"` 时生效。
+* `enable_pbr`、`texture_prompt` 和 `texture_image` 参数仅在 `should_texture` 设置为 `"true"` 时生效。
+* 不能同时使用 `texture_prompt` 和 `texture_image`；它们是互斥的。
 
 ## 输出参数
 

@@ -19,10 +19,11 @@ Este nó aplica o estilo visual de uma imagem de referência à sua imagem de en
 | `fixed_generation` | BOOLEAN | Não | - | Quando desativado, cada geração introduzirá um grau de aleatoriedade, levando a resultados mais diversos (padrão: True). |
 
 **Restrições:**
-*   Exatamente uma `image` e uma `reference_image` são obrigatórias.
-*   Ambas as imagens devem ter uma proporção entre 1:3 e 3:1.
-*   Ambas as imagens devem ter uma altura e largura mínimas de 160 pixels.
-*   Os parâmetros `portrait_style` e `portrait_beautifier` só estão ativos e são obrigatórios quando `portrait_mode` está definido como "enabled".
+
+* Exatamente uma `image` e uma `reference_image` são obrigatórias.
+* Ambas as imagens devem ter uma proporção entre 1:3 e 3:1.
+* Ambas as imagens devem ter uma altura e largura mínimas de 160 pixels.
+* Os parâmetros `portrait_style` e `portrait_beautifier` só estão ativos e são obrigatórios quando `portrait_mode` está definido como "enabled".
 
 ## Saídas
 

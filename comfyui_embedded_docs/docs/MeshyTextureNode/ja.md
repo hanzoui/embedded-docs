@@ -14,8 +14,9 @@ Meshy: Texture ノードは、AI生成のテクスチャを3Dモデルに適用�
 | `image_style` | IMAGE | いいえ | - | テクスチャリングプロセスをガイドするための2D参照画像です。`text_style_prompt`と同時に使用することはできません。 |
 
 **パラメータの制約:**
-*   `text_style_prompt` または `image_style` のいずれかを指定する必要がありますが、両方を同時に指定することはできません。
-*   `text_style_prompt` は最大600文字に制限されています。
+
+* `text_style_prompt` または `image_style` のいずれかを指定する必要がありますが、両方を同時に指定することはできません。
+* `text_style_prompt` は最大600文字に制限されています。
 
 ## 出力
 

@@ -11,8 +11,9 @@ O nó HitPaw Video Enhance utiliza uma API externa para melhorar a qualidade de 
 | `video` | VIDEO | Sim | N/A | O arquivo de vídeo de entrada a ser aprimorado. |
 
 **Restrições:**
-*   O `video` de entrada deve ter uma duração entre 0,5 segundos e 60 minutos (3600 segundos).
-*   A `resolution` selecionada deve ser maior que as dimensões do vídeo de entrada. Se o vídeo for quadrado, a resolução selecionada deve ser maior que sua largura/altura. Para vídeos não quadrados, a resolução selecionada deve ser maior que a dimensão mais curta do vídeo. Se a resolução de destino for menor, um erro será gerado. Escolha `"original"` para manter a resolução do vídeo de entrada.
+
+* O `video` de entrada deve ter uma duração entre 0,5 segundos e 60 minutos (3600 segundos).
+* A `resolution` selecionada deve ser maior que as dimensões do vídeo de entrada. Se o vídeo for quadrado, a resolução selecionada deve ser maior que sua largura/altura. Para vídeos não quadrados, a resolução selecionada deve ser maior que a dimensão mais curta do vídeo. Se a resolução de destino for menor, um erro será gerado. Escolha `"original"` para manter a resolução do vídeo de entrada.
 
 ## Saídas
 

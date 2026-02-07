@@ -17,15 +17,16 @@ Magnific Image Relight düğümü, bir girdi görüntüsünün aydınlatmasını
 | `reference_image` | IMAGE | Hayır | Yok | Aydınlatma aktarımı için isteğe bağlı referans görüntüsü. Sağlanırsa, tam olarak bir görüntü gereklidir. Minimum boyutlar 160x160 pikseldir. En-boy oranı 1:3 ile 3:1 arasında olmalıdır. |
 
 **Gelişmiş Ayarlar Notu:** `advanced_settings` `"enabled"` olarak ayarlandığında, aşağıdaki iç içe parametreler etkinleşir:
-*   `whites`: Görüntüdeki en parlak tonları ayarlar. Aralık: 0 - 100. Varsayılan: 50.
-*   `blacks`: Görüntüdeki en koyu tonları ayarlar. Aralık: 0 - 100. Varsayılan: 50.
-*   `brightness`: Genel parlaklık ayarı. Aralık: 0 - 100. Varsayılan: 50.
-*   `contrast`: Kontrast ayarı. Aralık: 0 - 100. Varsayılan: 50.
-*   `saturation`: Renk doygunluğu ayarı. Aralık: 0 - 100. Varsayılan: 50.
-*   `engine`: İşleme motoru seçimi. Seçenekler: `"automatic"`, `"balanced"`, `"cool"`, `"real"`, `"illusio"`, `"fairy"`, `"colorful_anime"`, `"hard_transform"`, `"softy"`.
-*   `transfer_light_a`: Işık aktarımının yoğunluğu. Seçenekler: `"automatic"`, `"low"`, `"medium"`, `"normal"`, `"high"`, `"high_on_faces"`.
-*   `transfer_light_b`: Ayrıca ışık aktarım yoğunluğunu değiştirir. Önceki kontrolle birleştirilerek çeşitli efektler elde edilebilir. Seçenekler: `"automatic"`, `"composition"`, `"straight"`, `"smooth_in"`, `"smooth_out"`, `"smooth_both"`, `"reverse_both"`, `"soft_in"`, `"soft_out"`, `"soft_mid"`, `"style_shift"`, `"strong_shift"`.
-*   `fixed_generation`: Aynı ayarlarla tutarlı çıktı sağlar. Varsayılan: True.
+
+* `whites`: Görüntüdeki en parlak tonları ayarlar. Aralık: 0 - 100. Varsayılan: 50.
+* `blacks`: Görüntüdeki en koyu tonları ayarlar. Aralık: 0 - 100. Varsayılan: 50.
+* `brightness`: Genel parlaklık ayarı. Aralık: 0 - 100. Varsayılan: 50.
+* `contrast`: Kontrast ayarı. Aralık: 0 - 100. Varsayılan: 50.
+* `saturation`: Renk doygunluğu ayarı. Aralık: 0 - 100. Varsayılan: 50.
+* `engine`: İşleme motoru seçimi. Seçenekler: `"automatic"`, `"balanced"`, `"cool"`, `"real"`, `"illusio"`, `"fairy"`, `"colorful_anime"`, `"hard_transform"`, `"softy"`.
+* `transfer_light_a`: Işık aktarımının yoğunluğu. Seçenekler: `"automatic"`, `"low"`, `"medium"`, `"normal"`, `"high"`, `"high_on_faces"`.
+* `transfer_light_b`: Ayrıca ışık aktarım yoğunluğunu değiştirir. Önceki kontrolle birleştirilerek çeşitli efektler elde edilebilir. Seçenekler: `"automatic"`, `"composition"`, `"straight"`, `"smooth_in"`, `"smooth_out"`, `"smooth_both"`, `"reverse_both"`, `"soft_in"`, `"soft_out"`, `"soft_mid"`, `"style_shift"`, `"strong_shift"`.
+* `fixed_generation`: Aynı ayarlarla tutarlı çıktı sağlar. Varsayılan: True.
 
 ## Çıktılar
 

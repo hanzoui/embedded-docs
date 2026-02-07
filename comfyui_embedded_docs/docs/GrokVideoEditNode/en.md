@@ -12,8 +12,9 @@ This node uses the Grok API to edit an existing video based on a text prompt. It
 | `seed` | INT | No | 0 to 2147483647 | A seed value to determine if the node should re-run. The actual results are nondeterministic regardless of the seed value (default: 0). |
 
 **Constraints:**
-*   The input `video` must be between 1 and 8.7 seconds in duration.
-*   The input `video` file size must not exceed 50MB.
+
+* The input `video` must be between 1 and 8.7 seconds in duration.
+* The input `video` file size must not exceed 50MB.
 
 ## Outputs
 

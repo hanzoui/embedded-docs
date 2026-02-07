@@ -20,10 +20,11 @@
 | `seed` | INT | نعم | 0 إلى 2147483647 | قيمة بذرة لعملية الإنشاء (الافتراضي: 0). النتائج غير حتمية بغض النظر عن البذرة، لكن تغيير البذرة يمكن أن يؤدي إلى إعادة تشغيل العقدة. |
 
 **قيود المعاملات:**
-*   يجب تقديم ما بين 2 و 4 صور لمدخل `images`.
-*   معاملا `topology` و `target_polycount` يكونان نشطين فقط عند تعيين `should_remesh` إلى `"true"`.
-*   معاملات `enable_pbr` و `texture_prompt` و `texture_image` تكون نشطة فقط عند تعيين `should_texture` إلى `"true"`.
-*   لا يمكن استخدام `texture_prompt` و `texture_image` في نفس الوقت؛ فهما متعارضان.
+
+* يجب تقديم ما بين 2 و 4 صور لمدخل `images`.
+* معاملا `topology` و `target_polycount` يكونان نشطين فقط عند تعيين `should_remesh` إلى `"true"`.
+* معاملات `enable_pbr` و `texture_prompt` و `texture_image` تكون نشطة فقط عند تعيين `should_texture` إلى `"true"`.
+* لا يمكن استخدام `texture_prompt` و `texture_image` في نفس الوقت؛ فهما متعارضان.
 
 ## المخرجات
 

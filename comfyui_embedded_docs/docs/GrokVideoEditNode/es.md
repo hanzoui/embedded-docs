@@ -12,8 +12,9 @@ Este nodo utiliza la API de Grok para editar un video existente basándose en un
 | `seed` | INT | No | 0 a 2147483647 | Un valor de semilla para determinar si el nodo debe volver a ejecutarse. Los resultados reales son no deterministas independientemente del valor de la semilla (valor por defecto: 0). |
 
 **Restricciones:**
-*   El `video` de entrada debe tener una duración entre 1 y 8,7 segundos.
-*   El tamaño del archivo del `video` de entrada no debe superar los 50 MB.
+
+* El `video` de entrada debe tener una duración entre 1 y 8,7 segundos.
+* El tamaño del archivo del `video` de entrada no debe superar los 50 MB.
 
 ## Salidas
 

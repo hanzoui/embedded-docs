@@ -26,10 +26,11 @@ WanInfiniteTalkToVideo 节点可从音频输入生成视频序列。它使用视
 | `mask_2` | MASK | 否 | - | 第二个说话者的遮罩，使用两个音频输入时必须提供。 |
 
 **参数约束：**
-*   当 `mode` 设置为 `"two_speakers"` 时，参数 `audio_encoder_output_2`、`mask_1` 和 `mask_2` 变为必填项。
-*   如果提供了 `audio_encoder_output_2`，则必须同时提供 `mask_1` 和 `mask_2`。
-*   如果提供了 `mask_1` 和 `mask_2`，则必须同时提供 `audio_encoder_output_2`。
-*   如果提供了 `previous_frames`，则其包含的帧数必须至少等于 `motion_frame_count` 指定的数量。
+
+* 当 `mode` 设置为 `"two_speakers"` 时，参数 `audio_encoder_output_2`、`mask_1` 和 `mask_2` 变为必填项。
+* 如果提供了 `audio_encoder_output_2`，则必须同时提供 `mask_1` 和 `mask_2`。
+* 如果提供了 `mask_1` 和 `mask_2`，则必须同时提供 `audio_encoder_output_2`。
+* 如果提供了 `previous_frames`，则其包含的帧数必须至少等于 `motion_frame_count` 指定的数量。
 
 ## 输出参数
 

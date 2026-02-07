@@ -15,9 +15,10 @@ El nodo de Generación de Video a partir de Imagen Vidu2 crea una secuencia de v
 | `movement_amplitude` | COMBO | Sí | `"auto"`<br>`"small"`<br>`"medium"`<br>`"large"` | La amplitud del movimiento de los objetos en el fotograma. |
 
 **Restricciones:**
-*   La entrada `image` debe contener exactamente una imagen.
-*   La relación de aspecto de la imagen de entrada debe estar entre 1:4 y 4:1.
-*   El texto del `prompt` está limitado a un máximo de 2000 caracteres.
+
+* La entrada `image` debe contener exactamente una imagen.
+* La relación de aspecto de la imagen de entrada debe estar entre 1:4 y 4:1.
+* El texto del `prompt` está limitado a un máximo de 2000 caracteres.
 
 ## Salidas
 

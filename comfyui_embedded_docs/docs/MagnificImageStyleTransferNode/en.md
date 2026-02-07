@@ -19,10 +19,11 @@ This node applies the visual style from a reference image to your input image. I
 | `fixed_generation` | BOOLEAN | No | - | When disabled, expect each generation to introduce a degree of randomness, leading to more diverse outcomes (default: True). |
 
 **Constraints:**
-*   Exactly one `image` and one `reference_image` are required.
-*   Both images must have an aspect ratio between 1:3 and 3:1.
-*   Both images must have a minimum height and width of 160 pixels.
-*   The `portrait_style` and `portrait_beautifier` parameters are only active and required when `portrait_mode` is set to "enabled".
+
+* Exactly one `image` and one `reference_image` are required.
+* Both images must have an aspect ratio between 1:3 and 3:1.
+* Both images must have a minimum height and width of 160 pixels.
+* The `portrait_style` and `portrait_beautifier` parameters are only active and required when `portrait_mode` is set to "enabled".
 
 ## Outputs
 

@@ -15,9 +15,10 @@ Vidu2 Görüntüden-Videoya Üretim düğümü, tek bir giriş görüntüsünden
 | `movement_amplitude` | COMBO | Evet | `"auto"`<br>`"small"`<br>`"medium"`<br>`"large"` | Kare içindeki nesnelerin hareket genliği. |
 
 **Kısıtlamalar:**
-*   `image` girişi tam olarak bir görüntü içermelidir.
-*   Giriş görüntüsünün en-boy oranı 1:4 ile 4:1 arasında olmalıdır.
-*   `prompt` metni maksimum 2000 karakter ile sınırlıdır.
+
+* `image` girişi tam olarak bir görüntü içermelidir.
+* Giriş görüntüsünün en-boy oranı 1:4 ile 4:1 arasında olmalıdır.
+* `prompt` metni maksimum 2000 karakter ile sınırlıdır.
 
 ## Çıkışlar
 

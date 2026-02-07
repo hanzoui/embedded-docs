@@ -14,8 +14,9 @@ Meshy: Texture 节点将 AI 生成的纹理应用到 3D 模型上。它接收来
 | `image_style` | IMAGE | 否 | - | 用于指导纹理生成过程的 2D 参考图像。不能与 `text_style_prompt` 同时使用。 |
 
 **参数约束：**
-*   必须提供 `text_style_prompt` 或 `image_style` 中的一个，但不能同时提供两者。
-*   `text_style_prompt` 最多限制为 600 个字符。
+
+* 必须提供 `text_style_prompt` 或 `image_style` 中的一个，但不能同时提供两者。
+* `text_style_prompt` 最多限制为 600 个字符。
 
 ## 输出参数
 

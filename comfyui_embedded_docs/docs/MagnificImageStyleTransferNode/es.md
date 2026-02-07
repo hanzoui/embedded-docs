@@ -19,10 +19,11 @@ Este nodo aplica el estilo visual de una imagen de referencia a tu imagen de ent
 | `fixed_generation` | BOOLEAN | No | - | Cuando está desactivado, cada generación introducirá un grado de aleatoriedad, dando lugar a resultados más diversos (por defecto: True). |
 
 **Restricciones:**
-*   Se requiere exactamente una `image` y una `reference_image`.
-*   Ambas imágenes deben tener una relación de aspecto entre 1:3 y 3:1.
-*   Ambas imágenes deben tener una altura y un ancho mínimos de 160 píxeles.
-*   Los parámetros `portrait_style` y `portrait_beautifier` solo están activos y son obligatorios cuando `portrait_mode` está configurado como "enabled".
+
+* Se requiere exactamente una `image` y una `reference_image`.
+* Ambas imágenes deben tener una relación de aspecto entre 1:3 y 3:1.
+* Ambas imágenes deben tener una altura y un ancho mínimos de 160 píxeles.
+* Los parámetros `portrait_style` y `portrait_beautifier` solo están activos y son obligatorios cuando `portrait_mode` está configurado como "enabled".
 
 ## Salidas
 

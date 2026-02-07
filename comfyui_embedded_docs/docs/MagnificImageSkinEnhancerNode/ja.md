@@ -14,10 +14,11 @@ Magnific Image Skin Enhancerノードは、ポートレート画像に特殊なA
 | `optimized_for` | COMBO | いいえ | `"enhance_skin"`<br>`"improve_lighting"`<br>`"enhance_everything"`<br>`"transform_to_real"`<br>`"no_make_up"` | 強化の最適化対象。この入力は、`mode`が`"flexible"`に設定されている場合にのみ利用可能かつ必須となります。 |
 
 **制約:**
-*   このノードは正確に1枚の入力画像を受け付けます。
-*   入力画像の高さと幅は最低160ピクセル以上である必要があります。
-*   `skin_detail`パラメータは、`mode`が`"faithful"`に設定されている場合にのみ有効です。
-*   `optimized_for`パラメータは、`mode`が`"flexible"`に設定されている場合にのみ有効です。
+
+* このノードは正確に1枚の入力画像を受け付けます。
+* 入力画像の高さと幅は最低160ピクセル以上である必要があります。
+* `skin_detail`パラメータは、`mode`が`"faithful"`に設定されている場合にのみ有効です。
+* `optimized_for`パラメータは、`mode`が`"flexible"`に設定されている場合にのみ有効です。
 
 ## 出力
 

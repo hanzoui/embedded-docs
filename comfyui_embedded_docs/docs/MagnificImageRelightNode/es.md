@@ -17,15 +17,16 @@ El nodo Magnific Image Relight ajusta la iluminación de una imagen de entrada. 
 | `reference_image` | IMAGE | No | N/A | Imagen de referencia opcional de la cual transferir la iluminación. Si se proporciona, se requiere exactamente una imagen. Las dimensiones mínimas son 160x160 píxeles. La relación de aspecto debe estar entre 1:3 y 3:1. |
 
 **Nota sobre Ajustes Avanzados:** Cuando `advanced_settings` se establece en `"enabled"`, los siguientes parámetros anidados se activan:
-*   `whites`: Ajusta los tonos más brillantes de la imagen. Rango: 0 a 100. Por defecto: 50.
-*   `blacks`: Ajusta los tonos más oscuros de la imagen. Rango: 0 a 100. Por defecto: 50.
-*   `brightness`: Ajuste del brillo general. Rango: 0 a 100. Por defecto: 50.
-*   `contrast`: Ajuste del contraste. Rango: 0 a 100. Por defecto: 50.
-*   `saturation`: Ajuste de la saturación del color. Rango: 0 a 100. Por defecto: 50.
-*   `engine`: Selección del motor de procesamiento. Opciones: `"automatic"`, `"balanced"`, `"cool"`, `"real"`, `"illusio"`, `"fairy"`, `"colorful_anime"`, `"hard_transform"`, `"softy"`.
-*   `transfer_light_a`: La intensidad de la transferencia de luz. Opciones: `"automatic"`, `"low"`, `"medium"`, `"normal"`, `"high"`, `"high_on_faces"`.
-*   `transfer_light_b`: También modifica la intensidad de la transferencia de luz. Puede combinarse con el control anterior para efectos variados. Opciones: `"automatic"`, `"composition"`, `"straight"`, `"smooth_in"`, `"smooth_out"`, `"smooth_both"`, `"reverse_both"`, `"soft_in"`, `"soft_out"`, `"soft_mid"`, `"style_shift"`, `"strong_shift"`.
-*   `fixed_generation`: Garantiza una salida consistente con la misma configuración. Por defecto: Verdadero.
+
+* `whites`: Ajusta los tonos más brillantes de la imagen. Rango: 0 a 100. Por defecto: 50.
+* `blacks`: Ajusta los tonos más oscuros de la imagen. Rango: 0 a 100. Por defecto: 50.
+* `brightness`: Ajuste del brillo general. Rango: 0 a 100. Por defecto: 50.
+* `contrast`: Ajuste del contraste. Rango: 0 a 100. Por defecto: 50.
+* `saturation`: Ajuste de la saturación del color. Rango: 0 a 100. Por defecto: 50.
+* `engine`: Selección del motor de procesamiento. Opciones: `"automatic"`, `"balanced"`, `"cool"`, `"real"`, `"illusio"`, `"fairy"`, `"colorful_anime"`, `"hard_transform"`, `"softy"`.
+* `transfer_light_a`: La intensidad de la transferencia de luz. Opciones: `"automatic"`, `"low"`, `"medium"`, `"normal"`, `"high"`, `"high_on_faces"`.
+* `transfer_light_b`: También modifica la intensidad de la transferencia de luz. Puede combinarse con el control anterior para efectos variados. Opciones: `"automatic"`, `"composition"`, `"straight"`, `"smooth_in"`, `"smooth_out"`, `"smooth_both"`, `"reverse_both"`, `"soft_in"`, `"soft_out"`, `"soft_mid"`, `"style_shift"`, `"strong_shift"`.
+* `fixed_generation`: Garantiza una salida consistente con la misma configuración. Por defecto: Verdadero.
 
 ## Salidas
 

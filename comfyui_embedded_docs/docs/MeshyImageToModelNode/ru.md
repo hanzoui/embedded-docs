@@ -20,9 +20,10 @@
 | `seed` | INT | Да | 0 - 2147483647 | Значение сида для процесса генерации. Результаты не являются детерминированными независимо от значения сида. Значение по умолчанию — 0. |
 
 **Примечание об ограничениях параметров:**
-*   Входы `topology` и `target_polycount` требуются только когда `should_remesh` установлен в `"true"`.
-*   Входы `enable_pbr`, `texture_prompt` и `texture_image` доступны только когда `should_texture` установлен в `"true"`.
-*   Нельзя использовать `texture_prompt` и `texture_image` одновременно. Если оба предоставлены при `should_texture` равном `"true"`, узел выдаст ошибку.
+
+* Входы `topology` и `target_polycount` требуются только когда `should_remesh` установлен в `"true"`.
+* Входы `enable_pbr`, `texture_prompt` и `texture_image` доступны только когда `should_texture` установлен в `"true"`.
+* Нельзя использовать `texture_prompt` и `texture_image` одновременно. Если оба предоставлены при `should_texture` равном `"true"`, узел выдаст ошибку.
 
 ## Выходные данные
 

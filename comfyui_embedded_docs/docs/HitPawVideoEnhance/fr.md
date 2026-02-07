@@ -9,8 +9,9 @@
 | `video` | VIDEO | Oui | N/A | Le fichier vidéo d'entrée à améliorer. |
 
 **Contraintes :**
-*   La `video` d'entrée doit avoir une durée comprise entre 0,5 seconde et 60 minutes (3600 secondes).
-*   La `resolution` sélectionnée doit être supérieure aux dimensions de la vidéo d'entrée. Si la vidéo est carrée, la résolution sélectionnée doit être supérieure à sa largeur/hauteur. Pour les vidéos non carrées, la résolution sélectionnée doit être supérieure à la dimension la plus courte de la vidéo. Si la résolution cible est inférieure, une erreur sera générée. Choisissez `"original"` pour conserver la résolution de la vidéo d'entrée.
+
+* La `video` d'entrée doit avoir une durée comprise entre 0,5 seconde et 60 minutes (3600 secondes).
+* La `resolution` sélectionnée doit être supérieure aux dimensions de la vidéo d'entrée. Si la vidéo est carrée, la résolution sélectionnée doit être supérieure à sa largeur/hauteur. Pour les vidéos non carrées, la résolution sélectionnée doit être supérieure à la dimension la plus courte de la vidéo. Si la résolution cible est inférieure, une erreur sera générée. Choisissez `"original"` pour conserver la résolution de la vidéo d'entrée.
 
 ## Sorties
 

@@ -20,9 +20,10 @@
 | `seed` | INT | نعم | 0 - 2147483647 | قيمة بذرة لعملية الإنشاء. النتائج غير حتمية بغض النظر عن قيمة البذرة. القيمة الافتراضية هي 0. |
 
 **ملاحظة حول قيود المعاملات:**
-*   مدخلات `topology` و `target_polycount` مطلوبة فقط عند تعيين `should_remesh` إلى `"true"`.
-*   مدخلات `enable_pbr` و `texture_prompt` و `texture_image` متاحة فقط عند تعيين `should_texture` إلى `"true"`.
-*   لا يمكنك استخدام `texture_prompt` و `texture_image` في نفس الوقت. إذا تم توفير كليهما عندما يكون `should_texture` هو `"true"`، سيرفع العقد خطأ.
+
+* مدخلات `topology` و `target_polycount` مطلوبة فقط عند تعيين `should_remesh` إلى `"true"`.
+* مدخلات `enable_pbr` و `texture_prompt` و `texture_image` متاحة فقط عند تعيين `should_texture` إلى `"true"`.
+* لا يمكنك استخدام `texture_prompt` و `texture_image` في نفس الوقت. إذا تم توفير كليهما عندما يكون `should_texture` هو `"true"`، سيرفع العقد خطأ.
 
 ## المخرجات
 

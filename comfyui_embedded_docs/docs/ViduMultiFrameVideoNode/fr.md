@@ -14,9 +14,10 @@ Ce nœud génère une vidéo en créant des transitions entre plusieurs images c
 
 **Entrées pour les trames (révélées dynamiquement) :**
 Lorsque vous sélectionnez une valeur pour `frames` (par exemple, "3"), le nœud affichera un ensemble correspondant d'entrées requises pour chaque transition. Pour chaque trame `i` de 1 au nombre sélectionné, vous devez fournir :
-*   `end_image{i}` (IMAGE) : L'image cible pour cette transition. Le rapport d'aspect doit être compris entre 1:4 et 4:1.
-*   `prompt{i}` (STRING) : Une description textuelle guidant la transition vers cette trame (maximum 2000 caractères).
-*   `duration{i}` (INT) : La durée en secondes pour ce segment de transition spécifique.
+
+* `end_image{i}` (IMAGE) : L'image cible pour cette transition. Le rapport d'aspect doit être compris entre 1:4 et 4:1.
+* `prompt{i}` (STRING) : Une description textuelle guidant la transition vers cette trame (maximum 2000 caractères).
+* `duration{i}` (INT) : La durée en secondes pour ce segment de transition spécifique.
 
 ## Sorties
 

@@ -20,9 +20,10 @@ Meshy: Image to Model 節點使用 Meshy API 從單一輸入圖像生成 3D 模�
 | `seed` | INT | 是 | 0 - 2147483647 | 生成過程的種子值。無論種子值為何，結果都是非確定性的。預設值為 0。 |
 
 **參數限制說明：**
-*   `topology` 和 `target_polycount` 輸入僅在 `should_remesh` 設定為 `"true"` 時為必需。
-*   `enable_pbr`、`texture_prompt` 和 `texture_image` 輸入僅在 `should_texture` 設定為 `"true"` 時可用。
-*   您不能同時使用 `texture_prompt` 和 `texture_image`。如果在 `should_texture` 為 `"true"` 時同時提供了兩者，節點將引發錯誤。
+
+* `topology` 和 `target_polycount` 輸入僅在 `should_remesh` 設定為 `"true"` 時為必需。
+* `enable_pbr`、`texture_prompt` 和 `texture_image` 輸入僅在 `should_texture` 設定為 `"true"` 時可用。
+* 您不能同時使用 `texture_prompt` 和 `texture_image`。如果在 `should_texture` 為 `"true"` 時同時提供了兩者，節點將引發錯誤。
 
 ## 輸出結果
 

@@ -18,9 +18,10 @@ Bria FIBO 이미지 편집 노드를 사용하면 텍스트 지시문을 통해 
 | `mask` | MASK | 아니요 | - | 선택적 마스크 이미지입니다. 제공된 경우 편집은 이미지의 마스크된 영역에만 적용됩니다. |
 
 **중요 제약 사항:**
-*   `prompt` 또는 `structured_prompt` 입력 중 적어도 하나를 제공해야 합니다. 둘 다 비어 있을 수 없습니다.
-*   정확히 하나의 `image` 입력이 필요합니다.
-*   `moderation` 매개변수가 `"true"`로 설정되면, 세 가지 추가 불리언 입력(`prompt_content_moderation`, `visual_input_moderation`, `visual_output_moderation`)을 사용할 수 있게 됩니다.
+
+* `prompt` 또는 `structured_prompt` 입력 중 적어도 하나를 제공해야 합니다. 둘 다 비어 있을 수 없습니다.
+* 정확히 하나의 `image` 입력이 필요합니다.
+* `moderation` 매개변수가 `"true"`로 설정되면, 세 가지 추가 불리언 입력(`prompt_content_moderation`, `visual_input_moderation`, `visual_output_moderation`)을 사용할 수 있게 됩니다.
 
 ## 출력
 

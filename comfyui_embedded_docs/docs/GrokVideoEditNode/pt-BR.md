@@ -12,8 +12,9 @@ Este nó utiliza a API Grok para editar um vídeo existente com base em um promp
 | `seed` | INT | Não | 0 a 2147483647 | Um valor de semente para determinar se o nó deve ser executado novamente. Os resultados reais são não determinísticos, independentemente do valor da semente (padrão: 0). |
 
 **Restrições:**
-*   O `video` de entrada deve ter entre 1 e 8,7 segundos de duração.
-*   O tamanho do arquivo do `video` de entrada não deve exceder 50MB.
+
+* O `video` de entrada deve ter entre 1 e 8,7 segundos de duração.
+* O tamanho do arquivo do `video` de entrada não deve exceder 50MB.
 
 ## Saídas
 

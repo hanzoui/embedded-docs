@@ -18,9 +18,10 @@
 | `mask` | MASK | لا | - | صورة قناع اختيارية. إذا تم توفيرها، ستُطبّق التعديلات فقط على المناطق المقنعة من الصورة. |
 
 **قيود مهمة:**
-*   يجب تقديم واحد على الأقل من المدخلات `prompt` أو `structured_prompt`. لا يمكن أن يكون كلاهما فارغًا.
-*   يلزم وجود مدخل `image` واحد بالضبط.
-*   عند ضبط معامل `moderation` على `"true"`، تصبح ثلاث مدخلات منطقية إضافية متاحة: `prompt_content_moderation`، و`visual_input_moderation`، و`visual_output_moderation`.
+
+* يجب تقديم واحد على الأقل من المدخلات `prompt` أو `structured_prompt`. لا يمكن أن يكون كلاهما فارغًا.
+* يلزم وجود مدخل `image` واحد بالضبط.
+* عند ضبط معامل `moderation` على `"true"`، تصبح ثلاث مدخلات منطقية إضافية متاحة: `prompt_content_moderation`، و`visual_input_moderation`، و`visual_output_moderation`.
 
 ## المخرجات
 

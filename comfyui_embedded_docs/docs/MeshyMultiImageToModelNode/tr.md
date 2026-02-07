@@ -20,10 +20,11 @@ Bu düğüm, birden fazla girdi görselinden 3B model oluşturmak için Meshy AP
 | `seed` | INT | Evet | 0 ila 2147483647 | Oluşturma işlemi için bir tohum değeri (varsayılan: 0). Sonuçlar tohumdan bağımsız olarak belirleyici değildir, ancak tohumu değiştirmek düğümün yeniden çalıştırılmasını tetikleyebilir. |
 
 **Parametre Kısıtlamaları:**
-*   `images` girdisi için 2 ile 4 arasında görsel sağlamanız gerekir.
-*   `topology` ve `target_polycount` parametreleri yalnızca `should_remesh` `"true"` olarak ayarlandığında etkindir.
-*   `enable_pbr`, `texture_prompt` ve `texture_image` parametreleri yalnızca `should_texture` `"true"` olarak ayarlandığında etkindir.
-*   `texture_prompt` ve `texture_image` aynı anda kullanılamaz; birbirini dışlayan seçeneklerdir.
+
+* `images` girdisi için 2 ile 4 arasında görsel sağlamanız gerekir.
+* `topology` ve `target_polycount` parametreleri yalnızca `should_remesh` `"true"` olarak ayarlandığında etkindir.
+* `enable_pbr`, `texture_prompt` ve `texture_image` parametreleri yalnızca `should_texture` `"true"` olarak ayarlandığında etkindir.
+* `texture_prompt` ve `texture_image` aynı anda kullanılamaz; birbirini dışlayan seçeneklerdir.
 
 ## Çıktılar
 

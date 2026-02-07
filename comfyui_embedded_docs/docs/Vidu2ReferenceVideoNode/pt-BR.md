@@ -17,11 +17,12 @@ O nó Vidu2 Reference-to-Video Generation cria um vídeo a partir de um prompt d
 | `movement_amplitude` | COMBO | Não | `"auto"`<br>`"small"`<br>`"medium"`<br>`"large"` | Controla a amplitude do movimento dos objetos no quadro. |
 
 **Restrições:**
-*   O `prompt` deve ter entre 1 e 2000 caracteres.
-*   Você pode definir múltiplos sujeitos, mas o número total de imagens de referência entre todos os sujeitos não deve exceder 7.
-*   Cada sujeito individual pode ter no máximo 3 imagens de referência.
-*   Cada imagem de referência deve ter uma proporção largura-altura entre 1:4 e 4:1.
-*   Cada imagem de referência deve ter pelo menos 128 pixels tanto em largura quanto em altura.
+
+* O `prompt` deve ter entre 1 e 2000 caracteres.
+* Você pode definir múltiplos sujeitos, mas o número total de imagens de referência entre todos os sujeitos não deve exceder 7.
+* Cada sujeito individual pode ter no máximo 3 imagens de referência.
+* Cada imagem de referência deve ter uma proporção largura-altura entre 1:4 e 4:1.
+* Cada imagem de referência deve ter pelo menos 128 pixels tanto em largura quanto em altura.
 
 ## Saídas
 

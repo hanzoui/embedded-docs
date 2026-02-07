@@ -20,10 +20,11 @@
 | `seed` | INT | はい | 0 から 2147483647 | 生成プロセスのためのシード値です（デフォルト: 0）。結果はシードに関わらず非決定的ですが、シードを変更することでノードの再実行をトリガーできます。 |
 
 **パラメータの制約:**
-*   `images`入力には、2枚から4枚の画像を提供する必要があります。
-*   `topology`および`target_polycount`パラメータは、`should_remesh`が`"true"`に設定されている場合にのみ有効になります。
-*   `enable_pbr`、`texture_prompt`、`texture_image`パラメータは、`should_texture`が`"true"`に設定されている場合にのみ有効になります。
-*   `texture_prompt`と`texture_image`は同時に使用できません。これらは相互排他的です。
+
+* `images`入力には、2枚から4枚の画像を提供する必要があります。
+* `topology`および`target_polycount`パラメータは、`should_remesh`が`"true"`に設定されている場合にのみ有効になります。
+* `enable_pbr`、`texture_prompt`、`texture_image`パラメータは、`should_texture`が`"true"`に設定されている場合にのみ有効になります。
+* `texture_prompt`と`texture_image`は同時に使用できません。これらは相互排他的です。
 
 ## 出力
 

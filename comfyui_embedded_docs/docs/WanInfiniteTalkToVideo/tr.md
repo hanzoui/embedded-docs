@@ -26,10 +26,11 @@ WanInfiniteTalkToVideo düğümü, ses girişinden video dizileri oluşturur. Bi
 | `mask_2` | MASK | Hayır | - | İkinci konuşmacı için maske, iki ses girişi kullanılıyorsa gereklidir. |
 
 **Parametre Kısıtlamaları:**
-*   `mode` `"two_speakers"` olarak ayarlandığında, `audio_encoder_output_2`, `mask_1` ve `mask_2` parametreleri zorunlu hale gelir.
-*   `audio_encoder_output_2` sağlanırsa, `mask_1` ve `mask_2` de sağlanmalıdır.
-*   `mask_1` ve `mask_2` sağlanırsa, `audio_encoder_output_2` de sağlanmalıdır.
-*   `previous_frames` sağlanırsa, `motion_frame_count` ile belirtilen sayıda en az kare içermelidir.
+
+* `mode` `"two_speakers"` olarak ayarlandığında, `audio_encoder_output_2`, `mask_1` ve `mask_2` parametreleri zorunlu hale gelir.
+* `audio_encoder_output_2` sağlanırsa, `mask_1` ve `mask_2` de sağlanmalıdır.
+* `mask_1` ve `mask_2` sağlanırsa, `audio_encoder_output_2` de sağlanmalıdır.
+* `previous_frames` sağlanırsa, `motion_frame_count` ile belirtilen sayıda en az kare içermelidir.
 
 ## Çıktılar
 

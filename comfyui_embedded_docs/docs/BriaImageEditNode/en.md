@@ -18,9 +18,10 @@ The Bria FIBO Image Edit node allows you to modify an existing image using a tex
 | `mask` | MASK | No | - | An optional mask image. If provided, edits will only be applied to the masked areas of the image. |
 
 **Important Constraints:**
-*   You must provide at least one of the `prompt` or `structured_prompt` inputs. They cannot both be empty.
-*   Exactly one input `image` is required.
-*   When the `moderation` parameter is set to `"true"`, three additional boolean inputs become available: `prompt_content_moderation`, `visual_input_moderation`, and `visual_output_moderation`.
+
+* You must provide at least one of the `prompt` or `structured_prompt` inputs. They cannot both be empty.
+* Exactly one input `image` is required.
+* When the `moderation` parameter is set to `"true"`, three additional boolean inputs become available: `prompt_content_moderation`, `visual_input_moderation`, and `visual_output_moderation`.
 
 ## Outputs
 

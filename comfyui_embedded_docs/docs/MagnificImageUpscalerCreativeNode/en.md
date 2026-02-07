@@ -18,10 +18,11 @@ This node uses the Magnific AI service to upscale and creatively enhance an imag
 | `auto_downscale` | BOOLEAN | No | - | When enabled, the node will automatically downscale the input image if the requested upscale would exceed the maximum allowed output size of 25.3 megapixels (default: False). |
 
 **Constraints:**
-*   The input `image` must be exactly one image.
-*   The input image must have a minimum height and width of 160 pixels.
-*   The input image's aspect ratio must be between 1:3 and 3:1.
-*   The final output size (input dimensions multiplied by the `scale_factor`) cannot exceed 25,300,000 pixels. If `auto_downscale` is disabled and this limit would be exceeded, the node will raise an error.
+
+* The input `image` must be exactly one image.
+* The input image must have a minimum height and width of 160 pixels.
+* The input image's aspect ratio must be between 1:3 and 3:1.
+* The final output size (input dimensions multiplied by the `scale_factor`) cannot exceed 25,300,000 pixels. If `auto_downscale` is disabled and this limit would be exceeded, the node will raise an error.
 
 ## Outputs
 

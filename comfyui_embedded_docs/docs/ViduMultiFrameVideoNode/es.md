@@ -14,9 +14,10 @@ Este nodo genera un video creando transiciones entre múltiples fotogramas clave
 
 **Entradas de Fotograma (Reveladas Dinámicamente):**
 Cuando seleccionas un valor para `frames` (por ejemplo, "3"), el nodo mostrará un conjunto correspondiente de entradas requeridas para cada transición. Para cada fotograma `i`, desde 1 hasta el número seleccionado, debes proporcionar:
-*   `end_image{i}` (IMAGE): La imagen objetivo para esta transición. La relación de aspecto debe estar entre 1:4 y 4:1.
-*   `prompt{i}` (STRING): Una descripción de texto que guía la transición hacia este fotograma (máximo 2000 caracteres).
-*   `duration{i}` (INT): La duración en segundos para este segmento de transición específico.
+
+* `end_image{i}` (IMAGE): La imagen objetivo para esta transición. La relación de aspecto debe estar entre 1:4 y 4:1.
+* `prompt{i}` (STRING): Una descripción de texto que guía la transición hacia este fotograma (máximo 2000 caracteres).
+* `duration{i}` (INT): La duración en segundos para este segmento de transición específico.
 
 ## Salidas
 

@@ -17,15 +17,16 @@ Magnific Image Relight 노드는 입력 이미지의 조명을 조정합니다. 
 | `reference_image` | IMAGE | 아니요 | 해당 없음 | 조명을 전달할 선택적 참조 이미지입니다. 제공되는 경우 정확히 하나의 이미지가 필요합니다. 최소 크기는 160x160 픽셀입니다. 종횡비는 1:3에서 3:1 사이여야 합니다. |
 
 **고급 설정 참고사항:** `advanced_settings`가 `"enabled"`로 설정되면 다음과 같은 중첩 매개변수가 활성화됩니다:
-*   `whites`: 이미지의 가장 밝은 톤을 조정합니다. 범위: 0 ~ 100. 기본값: 50.
-*   `blacks`: 이미지의 가장 어두운 톤을 조정합니다. 범위: 0 ~ 100. 기본값: 50.
-*   `brightness`: 전체 밝기 조정입니다. 범위: 0 ~ 100. 기본값: 50.
-*   `contrast`: 대비 조정입니다. 범위: 0 ~ 100. 기본값: 50.
-*   `saturation`: 색상 채도 조정입니다. 범위: 0 ~ 100. 기본값: 50.
-*   `engine`: 처리 엔진 선택입니다. 옵션: `"automatic"`, `"balanced"`, `"cool"`, `"real"`, `"illusio"`, `"fairy"`, `"colorful_anime"`, `"hard_transform"`, `"softy"`.
-*   `transfer_light_a`: 조명 전달의 강도입니다. 옵션: `"automatic"`, `"low"`, `"medium"`, `"normal"`, `"high"`, `"high_on_faces"`.
-*   `transfer_light_b`: 조명 전달 강도도 수정합니다. 이전 제어와 결합하여 다양한 효과를 낼 수 있습니다. 옵션: `"automatic"`, `"composition"`, `"straight"`, `"smooth_in"`, `"smooth_out"`, `"smooth_both"`, `"reverse_both"`, `"soft_in"`, `"soft_out"`, `"soft_mid"`, `"style_shift"`, `"strong_shift"`.
-*   `fixed_generation`: 동일한 설정으로 일관된 출력을 보장합니다. 기본값: True.
+
+* `whites`: 이미지의 가장 밝은 톤을 조정합니다. 범위: 0 ~ 100. 기본값: 50.
+* `blacks`: 이미지의 가장 어두운 톤을 조정합니다. 범위: 0 ~ 100. 기본값: 50.
+* `brightness`: 전체 밝기 조정입니다. 범위: 0 ~ 100. 기본값: 50.
+* `contrast`: 대비 조정입니다. 범위: 0 ~ 100. 기본값: 50.
+* `saturation`: 색상 채도 조정입니다. 범위: 0 ~ 100. 기본값: 50.
+* `engine`: 처리 엔진 선택입니다. 옵션: `"automatic"`, `"balanced"`, `"cool"`, `"real"`, `"illusio"`, `"fairy"`, `"colorful_anime"`, `"hard_transform"`, `"softy"`.
+* `transfer_light_a`: 조명 전달의 강도입니다. 옵션: `"automatic"`, `"low"`, `"medium"`, `"normal"`, `"high"`, `"high_on_faces"`.
+* `transfer_light_b`: 조명 전달 강도도 수정합니다. 이전 제어와 결합하여 다양한 효과를 낼 수 있습니다. 옵션: `"automatic"`, `"composition"`, `"straight"`, `"smooth_in"`, `"smooth_out"`, `"smooth_both"`, `"reverse_both"`, `"soft_in"`, `"soft_out"`, `"soft_mid"`, `"style_shift"`, `"strong_shift"`.
+* `fixed_generation`: 동일한 설정으로 일관된 출력을 보장합니다. 기본값: True.
 
 ## 출력
 

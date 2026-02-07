@@ -14,9 +14,10 @@ Bu düğüm, birden fazla anahtar kare arasında geçişler oluşturarak bir vid
 
 **Kare Girdileri (Dinamik Olarak Görünen):**
 `frames` için bir değer (örneğin, "3") seçtiğinizde, düğüm her bir geçiş için karşılık gelen bir dizi zorunlu girdi gösterecektir. Seçilen sayıya kadar olan her bir `i` karesi için şunları sağlamanız gerekir:
-*   `end_image{i}` (IMAGE): Bu geçiş için hedef görüntü. En-boy oranı 1:4 ile 4:1 arasında olmalıdır.
-*   `prompt{i}` (STRING): Bu kareye geçişi yönlendiren bir metin açıklaması (maksimum 2000 karakter).
-*   `duration{i}` (INT): Bu belirli geçiş bölümü için saniye cinsinden süre.
+
+* `end_image{i}` (IMAGE): Bu geçiş için hedef görüntü. En-boy oranı 1:4 ile 4:1 arasında olmalıdır.
+* `prompt{i}` (STRING): Bu kareye geçişi yönlendiren bir metin açıklaması (maksimum 2000 karakter).
+* `duration{i}` (INT): Bu belirli geçiş bölümü için saniye cinsinden süre.
 
 ## Çıktılar
 

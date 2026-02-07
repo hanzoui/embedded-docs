@@ -18,10 +18,11 @@ Ce nœud utilise le service Magnific AI pour suréchantillonner et améliorer cr
 | `auto_downscale` | BOOLEAN | Non | - | Lorsqu'activé, le nœud réduira automatiquement l'image d'entrée si le suréchantillonnage demandé dépasserait la taille de sortie maximale autorisée de 25,3 mégapixels (par défaut : Faux). |
 
 **Contraintes :**
-*   L'`image` d'entrée doit être exactement une image.
-*   L'image d'entrée doit avoir une hauteur et une largeur minimales de 160 pixels.
-*   Le rapport d'aspect de l'image d'entrée doit être compris entre 1:3 et 3:1.
-*   La taille de sortie finale (dimensions d'entrée multipliées par le `scale_factor`) ne peut pas dépasser 25 300 000 pixels. Si `auto_downscale` est désactivé et que cette limite serait dépassée, le nœud générera une erreur.
+
+* L'`image` d'entrée doit être exactement une image.
+* L'image d'entrée doit avoir une hauteur et une largeur minimales de 160 pixels.
+* Le rapport d'aspect de l'image d'entrée doit être compris entre 1:3 et 3:1.
+* La taille de sortie finale (dimensions d'entrée multipliées par le `scale_factor`) ne peut pas dépasser 25 300 000 pixels. Si `auto_downscale` est désactivé et que cette limite serait dépassée, le nœud générera une erreur.
 
 ## Sorties
 

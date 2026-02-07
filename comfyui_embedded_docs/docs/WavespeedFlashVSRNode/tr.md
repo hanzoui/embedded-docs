@@ -10,8 +10,9 @@ WavespeedFlashVSRNode, düşük çözünürlüklü veya bulanık görüntüler i
 | `target_resolution` | STRING | Evet | `"720p"`<br>`"1080p"`<br>`"2K"`<br>`"4K"` | Yükseltilmiş çıktı videosu için istenen çözünürlük. |
 
 **Girdi Kısıtlamaları:**
-*   Girdi `video` dosyası MP4 konteyner formatında olmalıdır.
-*   Girdi `video` dosyasının süresi 5 saniye ile 10 dakika (600 saniye) arasında olmalıdır.
+
+* Girdi `video` dosyası MP4 konteyner formatında olmalıdır.
+* Girdi `video` dosyasının süresi 5 saniye ile 10 dakika (600 saniye) arasında olmalıdır.
 
 ## Çıktılar
 

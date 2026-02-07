@@ -20,10 +20,11 @@ Este nodo utiliza la API de Meshy para generar un modelo 3D a partir de múltipl
 | `seed` | INT | Sí | 0 a 2147483647 | Un valor de semilla para el proceso de generación (por defecto: 0). Los resultados no son deterministas independientemente de la semilla, pero cambiar la semilla puede hacer que el nodo se vuelva a ejecutar. |
 
 **Restricciones de Parámetros:**
-*   Debes proporcionar entre 2 y 4 imágenes para la entrada `images`.
-*   Los parámetros `topology` y `target_polycount` solo están activos cuando `should_remesh` está establecido en `"true"`.
-*   Los parámetros `enable_pbr`, `texture_prompt` y `texture_image` solo están activos cuando `should_texture` está establecido en `"true"`.
-*   No puedes usar `texture_prompt` y `texture_image` al mismo tiempo; son mutuamente excluyentes.
+
+* Debes proporcionar entre 2 y 4 imágenes para la entrada `images`.
+* Los parámetros `topology` y `target_polycount` solo están activos cuando `should_remesh` está establecido en `"true"`.
+* Los parámetros `enable_pbr`, `texture_prompt` y `texture_image` solo están activos cuando `should_texture` está establecido en `"true"`.
+* No puedes usar `texture_prompt` y `texture_image` al mismo tiempo; son mutuamente excluyentes.
 
 ## Salidas
 

@@ -17,15 +17,16 @@ Magnific Image Relightノードは、入力画像の照明を調整します。�
 | `reference_image` | IMAGE | いいえ | N/A | 照明を転写するためのオプションの参照画像です。提供する場合は、画像は1枚のみ必要です。最小サイズは160x160ピクセルです。アスペクト比は1:3から3:1の間である必要があります。 |
 
 **高度な設定に関する注意:** `advanced_settings`が`"enabled"`に設定されている場合、以下のネストされたパラメータが有効になります:
-*   `whites`: 画像内の最も明るいトーンを調整します。範囲: 0 から 100。デフォルト: 50。
-*   `blacks`: 画像内の最も暗いトーンを調整します。範囲: 0 から 100。デフォルト: 50。
-*   `brightness`: 全体的な明るさの調整です。範囲: 0 から 100。デフォルト: 50。
-*   `contrast`: コントラストの調整です。範囲: 0 から 100。デフォルト: 50。
-*   `saturation`: 色の彩度の調整です。範囲: 0 から 100。デフォルト: 50。
-*   `engine`: 処理エンジンの選択です。オプション: `"automatic"`, `"balanced"`, `"cool"`, `"real"`, `"illusio"`, `"fairy"`, `"colorful_anime"`, `"hard_transform"`, `"softy"`。
-*   `transfer_light_a`: 光の転写の強度です。オプション: `"automatic"`, `"low"`, `"medium"`, `"normal"`, `"high"`, `"high_on_faces"`。
-*   `transfer_light_b`: 光の転写強度も変更します。前のコントロールと組み合わせて様々な効果を得ることができます。オプション: `"automatic"`, `"composition"`, `"straight"`, `"smooth_in"`, `"smooth_out"`, `"smooth_both"`, `"reverse_both"`, `"soft_in"`, `"soft_out"`, `"soft_mid"`, `"style_shift"`, `"strong_shift"`。
-*   `fixed_generation`: 同じ設定で一貫した出力を保証します。デフォルト: True。
+
+* `whites`: 画像内の最も明るいトーンを調整します。範囲: 0 から 100。デフォルト: 50。
+* `blacks`: 画像内の最も暗いトーンを調整します。範囲: 0 から 100。デフォルト: 50。
+* `brightness`: 全体的な明るさの調整です。範囲: 0 から 100。デフォルト: 50。
+* `contrast`: コントラストの調整です。範囲: 0 から 100。デフォルト: 50。
+* `saturation`: 色の彩度の調整です。範囲: 0 から 100。デフォルト: 50。
+* `engine`: 処理エンジンの選択です。オプション: `"automatic"`, `"balanced"`, `"cool"`, `"real"`, `"illusio"`, `"fairy"`, `"colorful_anime"`, `"hard_transform"`, `"softy"`。
+* `transfer_light_a`: 光の転写の強度です。オプション: `"automatic"`, `"low"`, `"medium"`, `"normal"`, `"high"`, `"high_on_faces"`。
+* `transfer_light_b`: 光の転写強度も変更します。前のコントロールと組み合わせて様々な効果を得ることができます。オプション: `"automatic"`, `"composition"`, `"straight"`, `"smooth_in"`, `"smooth_out"`, `"smooth_both"`, `"reverse_both"`, `"soft_in"`, `"soft_out"`, `"soft_mid"`, `"style_shift"`, `"strong_shift"`。
+* `fixed_generation`: 同じ設定で一貫した出力を保証します。デフォルト: True。
 
 ## 出力
 

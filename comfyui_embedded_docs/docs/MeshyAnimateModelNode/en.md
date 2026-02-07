@@ -7,7 +7,7 @@ This node applies a specific animation to a 3D character model that has already 
 | Parameter | Data Type | Required | Range | Description |
 |-----------|-----------|----------|-------|-------------|
 | `rig_task_id` | STRING | Yes | N/A | The unique task ID from a previously completed Meshy character rigging operation. |
-| `action_id` | INT | Yes | 0 to 696 | The ID number of the animation action to apply. Visit https://docs.meshy.ai/en/api/animation-library for a list of available values. (default: 0) |
+| `action_id` | INT | Yes | 0 to 696 | The ID number of the animation action to apply. Visit <https://docs.meshy.ai/en/api/animation-library> for a list of available values. (default: 0) |
 
 ## Outputs
 

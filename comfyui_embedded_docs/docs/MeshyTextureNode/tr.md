@@ -14,8 +14,9 @@ Meshy: Texture Düğümü, bir 3B modele yapay zeka ile oluşturulmuş dokular u
 | `image_style` | IMAGE | Hayır | - | Dokulama sürecine rehberlik etmesi için kullanılan 2B referans görseli. `text_style_prompt` ile aynı anda kullanılamaz. |
 
 **Parametre Kısıtlamaları:**
-*   Ya bir `text_style_prompt` ya da bir `image_style` sağlamalısınız, ancak her ikisini aynı anda sağlayamazsınız.
-*   `text_style_prompt` maksimum 600 karakter ile sınırlıdır.
+
+* Ya bir `text_style_prompt` ya da bir `image_style` sağlamalısınız, ancak her ikisini aynı anda sağlayamazsınız.
+* `text_style_prompt` maksimum 600 karakter ile sınırlıdır.
 
 ## Çıktılar
 

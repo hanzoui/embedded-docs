@@ -17,11 +17,12 @@ Le nœud Vidu2 Reference-to-Video Generation crée une vidéo à partir d'une de
 | `movement_amplitude` | COMBO | Non | `"auto"`<br>`"small"`<br>`"medium"`<br>`"large"` | Contrôle l'amplitude du mouvement des objets dans le cadre. |
 
 **Contraintes :**
-*   Le `prompt` doit comporter entre 1 et 2000 caractères.
-*   Vous pouvez définir plusieurs sujets, mais le nombre total d'images de référence pour tous les sujets ne doit pas dépasser 7.
-*   Chaque sujet individuel peut avoir un maximum de 3 images de référence.
-*   Chaque image de référence doit avoir un rapport largeur/hauteur compris entre 1:4 et 4:1.
-*   Chaque image de référence doit mesurer au moins 128 pixels en largeur et en hauteur.
+
+* Le `prompt` doit comporter entre 1 et 2000 caractères.
+* Vous pouvez définir plusieurs sujets, mais le nombre total d'images de référence pour tous les sujets ne doit pas dépasser 7.
+* Chaque sujet individuel peut avoir un maximum de 3 images de référence.
+* Chaque image de référence doit avoir un rapport largeur/hauteur compris entre 1:4 et 4:1.
+* Chaque image de référence doit mesurer au moins 128 pixels en largeur et en hauteur.
 
 ## Sorties
 

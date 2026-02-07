@@ -20,9 +20,10 @@ Meshy: Image to Model ノードは、Meshy API を使用して単一の入力画
 | `seed` | INT | はい | 0 - 2147483647 | 生成プロセス用のシード値です。シード値に関わらず、結果は非決定的です。デフォルト値は0です。 |
 
 **パラメータ制約に関する注意:**
-*   `topology`および`target_polycount`入力は、`should_remesh`が`"true"`に設定されている場合にのみ必須です。
-*   `enable_pbr`、`texture_prompt`、`texture_image`入力は、`should_texture`が`"true"`に設定されている場合にのみ利用可能です。
-*   `texture_prompt`と`texture_image`を同時に使用することはできません。`should_texture`が`"true"`の場合に両方が提供されると、ノードはエラーを発生させます。
+
+* `topology`および`target_polycount`入力は、`should_remesh`が`"true"`に設定されている場合にのみ必須です。
+* `enable_pbr`、`texture_prompt`、`texture_image`入力は、`should_texture`が`"true"`に設定されている場合にのみ利用可能です。
+* `texture_prompt`と`texture_image`を同時に使用することはできません。`should_texture`が`"true"`の場合に両方が提供されると、ノードはエラーを発生させます。
 
 ## 出力
 

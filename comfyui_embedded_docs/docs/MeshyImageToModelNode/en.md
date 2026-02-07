@@ -20,9 +20,10 @@ The Meshy: Image to Model node uses the Meshy API to generate a 3D model from a 
 | `seed` | INT | Yes | 0 - 2147483647 | A seed value for the generation process. The results are non-deterministic regardless of the seed value. The default value is 0. |
 
 **Note on Parameter Constraints:**
-*   The `topology` and `target_polycount` inputs are only required when `should_remesh` is set to `"true"`.
-*   The `enable_pbr`, `texture_prompt`, and `texture_image` inputs are only available when `should_texture` is set to `"true"`.
-*   You cannot use `texture_prompt` and `texture_image` at the same time. If both are provided when `should_texture` is `"true"`, the node will raise an error.
+
+* The `topology` and `target_polycount` inputs are only required when `should_remesh` is set to `"true"`.
+* The `enable_pbr`, `texture_prompt`, and `texture_image` inputs are only available when `should_texture` is set to `"true"`.
+* You cannot use `texture_prompt` and `texture_image` at the same time. If both are provided when `should_texture` is `"true"`, the node will raise an error.
 
 ## Outputs
 

@@ -9,8 +9,9 @@
 | `video` | VIDEO | Evet | Yok | İyileştirilecek giriş video dosyası. |
 
 **Kısıtlamalar:**
-*   Giriş `video` dosyasının süresi 0.5 saniye ile 60 dakika (3600 saniye) arasında olmalıdır.
-*   Seçilen `resolution`, giriş videosunun boyutlarından büyük olmalıdır. Video kare ise, seçilen çözünürlük genişlik/yükseklik değerinden büyük olmalıdır. Kare olmayan videolarda, seçilen çözünürlük videonun daha kısa olan boyutundan büyük olmalıdır. Hedef çözünürlük daha küçükse bir hata oluşur. Giriş videosunun çözünürlüğünü korumak için `"original"` seçeneğini belirleyin.
+
+* Giriş `video` dosyasının süresi 0.5 saniye ile 60 dakika (3600 saniye) arasında olmalıdır.
+* Seçilen `resolution`, giriş videosunun boyutlarından büyük olmalıdır. Video kare ise, seçilen çözünürlük genişlik/yükseklik değerinden büyük olmalıdır. Kare olmayan videolarda, seçilen çözünürlük videonun daha kısa olan boyutundan büyük olmalıdır. Hedef çözünürlük daha küçükse bir hata oluşur. Giriş videosunun çözünürlüğünü korumak için `"original"` seçeneğini belirleyin.
 
 ## Çıkışlar
 

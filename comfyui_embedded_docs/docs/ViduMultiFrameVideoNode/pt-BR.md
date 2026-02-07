@@ -14,9 +14,10 @@ Este nó gera um vídeo criando transições entre múltiplos *keyframes*. Ele p
 
 **Entradas de Quadro (Reveladas Dinamicamente):**
 Quando você seleciona um valor para `frames` (por exemplo, "3"), o nó mostrará um conjunto correspondente de entradas obrigatórias para cada transição. Para cada quadro `i`, de 1 até o número selecionado, você deve fornecer:
-*   `end_image{i}` (IMAGE): A imagem de destino para esta transição. A proporção deve estar entre 1:4 e 4:1.
-*   `prompt{i}` (STRING): Uma descrição textual que guia a transição para este quadro (máximo de 2000 caracteres).
-*   `duration{i}` (INT): A duração em segundos para este segmento de transição específico.
+
+* `end_image{i}` (IMAGE): A imagem de destino para esta transição. A proporção deve estar entre 1:4 e 4:1.
+* `prompt{i}` (STRING): Uma descrição textual que guia a transição para este quadro (máximo de 2000 caracteres).
+* `duration{i}` (INT): A duração em segundos para este segmento de transição específico.
 
 ## Saídas
 

@@ -12,8 +12,9 @@ Ce nœud utilise l'API Grok pour modifier une vidéo existante à partir d'une c
 | `seed` | INT | Non | 0 à 2147483647 | Une valeur de départ (seed) pour déterminer si le nœud doit être réexécuté. Les résultats réels sont non déterministes, quelle que soit la valeur du seed (par défaut : 0). |
 
 **Contraintes :**
-*   La vidéo d'entrée `video` doit avoir une durée comprise entre 1 et 8,7 secondes.
-*   La taille du fichier vidéo d'entrée `video` ne doit pas dépasser 50 Mo.
+
+* La vidéo d'entrée `video` doit avoir une durée comprise entre 1 et 8,7 secondes.
+* La taille du fichier vidéo d'entrée `video` ne doit pas dépasser 50 Mo.
 
 ## Sorties
 

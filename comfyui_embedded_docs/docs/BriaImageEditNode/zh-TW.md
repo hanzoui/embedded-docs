@@ -18,9 +18,10 @@ Bria FIBO 影像編輯節點讓您能夠透過文字指令修改現有影像。�
 | `mask` | MASK | 否 | - | 可選的遮罩影像。如果提供，編輯將僅套用至影像的遮罩區域。 |
 
 **重要限制：**
-*   您必須至少提供 `prompt` 或 `structured_prompt` 其中一個輸入。兩者不能同時為空。
-*   必須且僅能有一個輸入 `image`。
-*   當 `moderation` 參數設為 `"true"` 時，會出現三個額外的布林值輸入：`prompt_content_moderation`、`visual_input_moderation` 和 `visual_output_moderation`。
+
+* 您必須至少提供 `prompt` 或 `structured_prompt` 其中一個輸入。兩者不能同時為空。
+* 必須且僅能有一個輸入 `image`。
+* 當 `moderation` 參數設為 `"true"` 時，會出現三個額外的布林值輸入：`prompt_content_moderation`、`visual_input_moderation` 和 `visual_output_moderation`。
 
 ## 輸出結果
 

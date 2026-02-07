@@ -19,10 +19,11 @@
 | `fixed_generation` | BOOLEAN | 否 | - | 停用時，每次生成將引入一定程度的隨機性，從而產生更多樣化的結果（預設值：True）。 |
 
 **限制條件：**
-*   必須且僅能提供一個 `image` 和一個 `reference_image`。
-*   兩個圖像的長寬比必須介於 1:3 至 3:1 之間。
-*   兩個圖像的高度和寬度必須至少為 160 像素。
-*   `portrait_style` 和 `portrait_beautifier` 參數僅在 `portrait_mode` 設為 "enabled" 時才會啟用且為必填。
+
+* 必須且僅能提供一個 `image` 和一個 `reference_image`。
+* 兩個圖像的長寬比必須介於 1:3 至 3:1 之間。
+* 兩個圖像的高度和寬度必須至少為 160 像素。
+* `portrait_style` 和 `portrait_beautifier` 參數僅在 `portrait_mode` 設為 "enabled" 時才會啟用且為必填。
 
 ## 輸出結果
 

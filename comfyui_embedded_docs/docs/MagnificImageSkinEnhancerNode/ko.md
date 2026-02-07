@@ -14,10 +14,11 @@ Magnific Image Skin Enhancer 노드는 인물 사진의 피부 외관을 개선�
 | `optimized_for` | COMBO | 아니요 | `"enhance_skin"`<br>`"improve_lighting"`<br>`"enhance_everything"`<br>`"transform_to_real"`<br>`"no_make_up"` | 개선 최적화 대상입니다. 이 입력은 `mode`가 `"flexible"`로 설정된 경우에만 사용 가능하며 필수입니다. |
 
 **제약 조건:**
-*   이 노드는 정확히 하나의 입력 이미지만 허용합니다.
-*   입력 이미지는 높이와 너비가 최소 160픽셀이어야 합니다.
-*   `skin_detail` 매개변수는 `mode`가 `"faithful"`로 설정된 경우에만 활성화됩니다.
-*   `optimized_for` 매개변수는 `mode`가 `"flexible"`로 설정된 경우에만 활성화됩니다.
+
+* 이 노드는 정확히 하나의 입력 이미지만 허용합니다.
+* 입력 이미지는 높이와 너비가 최소 160픽셀이어야 합니다.
+* `skin_detail` 매개변수는 `mode`가 `"faithful"`로 설정된 경우에만 활성화됩니다.
+* `optimized_for` 매개변수는 `mode`가 `"flexible"`로 설정된 경우에만 활성화됩니다.
 
 ## 출력
 

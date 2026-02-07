@@ -13,9 +13,10 @@
 | `movement_amplitude` | COMBO | Oui | `"auto"`<br>`"small"`<br>`"medium"`<br>`"large"` | L'amplitude du mouvement des objets dans le cadre. |
 
 **Contraintes :**
-*   L'entrée `image` doit contenir exactement une image.
-*   Le rapport d'aspect de l'image d'entrée doit être compris entre 1:4 et 4:1.
-*   Le texte du `prompt` est limité à un maximum de 2000 caractères.
+
+* L'entrée `image` doit contenir exactement une image.
+* Le rapport d'aspect de l'image d'entrée doit être compris entre 1:4 et 4:1.
+* Le texte du `prompt` est limité à un maximum de 2000 caractères.
 
 ## Sorties
 

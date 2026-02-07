@@ -15,9 +15,10 @@ O nó Geração de Vídeo Vidu2 a partir de Imagem cria uma sequência de vídeo
 | `movement_amplitude` | COMBO | Sim | `"auto"`<br>`"small"`<br>`"medium"`<br>`"large"` | A amplitude de movimento dos objetos no quadro. |
 
 **Restrições:**
-*   A entrada `image` deve conter exatamente uma imagem.
-*   A proporção da imagem de entrada deve estar entre 1:4 e 4:1.
-*   O texto do `prompt` está limitado a um máximo de 2000 caracteres.
+
+* A entrada `image` deve conter exatamente uma imagem.
+* A proporção da imagem de entrada deve estar entre 1:4 e 4:1.
+* O texto do `prompt` está limitado a um máximo de 2000 caracteres.
 
 ## Saídas
 

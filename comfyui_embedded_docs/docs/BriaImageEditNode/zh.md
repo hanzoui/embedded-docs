@@ -18,9 +18,10 @@ Bria FIBO 图像编辑节点允许您通过文本指令修改现有图像。它�
 | `mask` | MASK | 否 | - | 可选的蒙版图像。如果提供，编辑将仅应用于图像的蒙版区域。 |
 
 **重要限制：**
-*   您必须至少提供 `prompt` 或 `structured_prompt` 输入之一。两者不能同时为空。
-*   恰好需要一个 `image` 输入。
-*   当 `moderation` 参数设置为 `"true"` 时，会额外出现三个布尔值输入：`prompt_content_moderation`、`visual_input_moderation` 和 `visual_output_moderation`。
+
+* 您必须至少提供 `prompt` 或 `structured_prompt` 输入之一。两者不能同时为空。
+* 恰好需要一个 `image` 输入。
+* 当 `moderation` 参数设置为 `"true"` 时，会额外出现三个布尔值输入：`prompt_content_moderation`、`visual_input_moderation` 和 `visual_output_moderation`。
 
 ## 输出参数
 

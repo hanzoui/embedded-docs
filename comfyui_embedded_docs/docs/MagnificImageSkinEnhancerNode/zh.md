@@ -14,10 +14,11 @@ Magnific Image Skin Enhancer 节点对肖像图像应用专门的 AI 处理，�
 | `optimized_for` | COMBO | 否 | `"enhance_skin"`<br>`"improve_lighting"`<br>`"enhance_everything"`<br>`"transform_to_real"`<br>`"no_make_up"` | 增强优化目标。此输入仅在 `mode` 设置为 `"flexible"` 时可用且必需。 |
 
 **约束条件：**
-*   该节点仅接受一个输入图像。
-*   输入图像的高度和宽度必须至少为 160 像素。
-*   `skin_detail` 参数仅在 `mode` 设置为 `"faithful"` 时生效。
-*   `optimized_for` 参数仅在 `mode` 设置为 `"flexible"` 时生效。
+
+* 该节点仅接受一个输入图像。
+* 输入图像的高度和宽度必须至少为 160 像素。
+* `skin_detail` 参数仅在 `mode` 设置为 `"faithful"` 时生效。
+* `optimized_for` 参数仅在 `mode` 设置为 `"flexible"` 时生效。
 
 ## 输出参数
 

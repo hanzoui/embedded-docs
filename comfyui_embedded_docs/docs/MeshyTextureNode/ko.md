@@ -14,8 +14,9 @@ Meshy: Texture 노드는 AI 생성 텍스처를 3D 모델에 적용합니다. �
 | `image_style` | IMAGE | 아니요 | - | 텍스처링 과정을 안내하는 2D 참조 이미지입니다. `text_style_prompt`와 동시에 사용할 수 없습니다. |
 
 **매개변수 제약 조건:**
-*   `text_style_prompt` 또는 `image_style` 중 하나를 반드시 제공해야 하지만, 둘을 동시에 제공할 수는 없습니다.
-*   `text_style_prompt`는 최대 600자로 제한됩니다.
+
+* `text_style_prompt` 또는 `image_style` 중 하나를 반드시 제공해야 하지만, 둘을 동시에 제공할 수는 없습니다.
+* `text_style_prompt`는 최대 600자로 제한됩니다.
 
 ## 출력
 

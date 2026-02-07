@@ -14,8 +14,9 @@
 | `image_style` | IMAGE | 否 | - | 用於引導紋理處理過程的 2D 參考圖像。不能與 `text_style_prompt` 同時使用。 |
 
 **參數限制：**
-*   您必須提供 `text_style_prompt` 或 `image_style` 其中一項，但不能同時提供兩者。
-*   `text_style_prompt` 最多限制為 600 個字元。
+
+* 您必須提供 `text_style_prompt` 或 `image_style` 其中一項，但不能同時提供兩者。
+* `text_style_prompt` 最多限制為 600 個字元。
 
 ## 輸出結果
 

@@ -19,10 +19,11 @@ Bu düğüm, bir referans görselden alınan görsel stili giriş görselinize u
 | `fixed_generation` | BOOLEAN | Hayır | - | Devre dışı bırakıldığında, her üretimin bir dereceye kadar rastgelelik getirmesi ve daha çeşitli sonuçlara yol açması beklenir (varsayılan: True). |
 
 **Kısıtlamalar:**
-*   Tam olarak bir `image` ve bir `reference_image` gereklidir.
-*   Her iki görselin en boy oranı 1:3 ile 3:1 arasında olmalıdır.
-*   Her iki görselin minimum yüksekliği ve genişliği 160 piksel olmalıdır.
-*   `portrait_style` ve `portrait_beautifier` parametreleri yalnızca `portrait_mode` "enabled" olarak ayarlandığında etkin ve gerekli hale gelir.
+
+* Tam olarak bir `image` ve bir `reference_image` gereklidir.
+* Her iki görselin en boy oranı 1:3 ile 3:1 arasında olmalıdır.
+* Her iki görselin minimum yüksekliği ve genişliği 160 piksel olmalıdır.
+* `portrait_style` ve `portrait_beautifier` parametreleri yalnızca `portrait_mode` "enabled" olarak ayarlandığında etkin ve gerekli hale gelir.
 
 ## Çıkışlar
 

@@ -17,11 +17,12 @@ The Vidu2 Reference-to-Video Generation node creates a video from a text prompt 
 | `movement_amplitude` | COMBO | No | `"auto"`<br>`"small"`<br>`"medium"`<br>`"large"` | Controls the movement amplitude of objects in the frame. |
 
 **Constraints:**
-*   The `prompt` must be between 1 and 2000 characters long.
-*   You can define multiple subjects, but the total number of reference images across all subjects must not exceed 7.
-*   Each individual subject can have a maximum of 3 reference images.
-*   Each reference image must have a width-to-height ratio between 1:4 and 4:1.
-*   Each reference image must be at least 128 pixels in both width and height.
+
+* The `prompt` must be between 1 and 2000 characters long.
+* You can define multiple subjects, but the total number of reference images across all subjects must not exceed 7.
+* Each individual subject can have a maximum of 3 reference images.
+* Each reference image must have a width-to-height ratio between 1:4 and 4:1.
+* Each reference image must be at least 128 pixels in both width and height.
 
 ## Outputs
 

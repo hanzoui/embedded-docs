@@ -15,9 +15,10 @@ The Vidu2 Image-to-Video Generation node creates a video sequence starting from 
 | `movement_amplitude` | COMBO | Yes | `"auto"`<br>`"small"`<br>`"medium"`<br>`"large"` | The movement amplitude of objects in the frame. |
 
 **Constraints:**
-*   The `image` input must contain exactly one image.
-*   The input image's aspect ratio must be between 1:4 and 4:1.
-*   The `prompt` text is limited to a maximum of 2000 characters.
+
+* The `image` input must contain exactly one image.
+* The input image's aspect ratio must be between 1:4 and 4:1.
+* The `prompt` text is limited to a maximum of 2000 characters.
 
 ## Outputs
 

@@ -18,9 +18,10 @@ Bria FIBO Görüntü Düzenleme düğümü, mevcut bir görüntüyü bir metin t
 | `mask` | MASK | Hayır | - | İsteğe bağlı bir maske görüntüsü. Sağlanırsa, düzenlemeler yalnızca görüntünün maskelenmiş alanlarına uygulanır. |
 
 **Önemli Kısıtlamalar:**
-*   `prompt` veya `structured_prompt` girdilerinden en az birini sağlamalısınız. İkisi de boş olamaz.
-*   Tam olarak bir `image` girdisi gereklidir.
-*   `moderation` parametresi `"true"` olarak ayarlandığında, üç ek boole girdisi kullanılabilir hale gelir: `prompt_content_moderation`, `visual_input_moderation` ve `visual_output_moderation`.
+
+* `prompt` veya `structured_prompt` girdilerinden en az birini sağlamalısınız. İkisi de boş olamaz.
+* Tam olarak bir `image` girdisi gereklidir.
+* `moderation` parametresi `"true"` olarak ayarlandığında, üç ek boole girdisi kullanılabilir hale gelir: `prompt_content_moderation`, `visual_input_moderation` ve `visual_output_moderation`.
 
 ## Çıktılar
 

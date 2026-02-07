@@ -14,8 +14,9 @@ Le nœud Meshy : Texture applique des textures générées par IA à un modèle 
 | `image_style` | IMAGE | Non | - | Une image de référence 2D pour guider le processus de texturation. Ne peut pas être utilisée en même temps que `text_style_prompt`. |
 
 **Contraintes des paramètres :**
-*   Vous devez fournir soit un `text_style_prompt`, soit une `image_style`, mais vous ne pouvez pas fournir les deux en même temps.
-*   Le `text_style_prompt` est limité à un maximum de 600 caractères.
+
+* Vous devez fournir soit un `text_style_prompt`, soit une `image_style`, mais vous ne pouvez pas fournir les deux en même temps.
+* Le `text_style_prompt` est limité à un maximum de 600 caractères.
 
 ## Sorties
 

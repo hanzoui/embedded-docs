@@ -20,10 +20,11 @@ This node uses the Meshy API to generate a 3D model from multiple input images. 
 | `seed` | INT | Yes | 0 to 2147483647 | A seed value for the generation process (default: 0). Results are non-deterministic regardless of the seed, but changing the seed can trigger the node to re-run. |
 
 **Parameter Constraints:**
-*   You must provide between 2 and 4 images for the `images` input.
-*   The `topology` and `target_polycount` parameters are only active when `should_remesh` is set to `"true"`.
-*   The `enable_pbr`, `texture_prompt`, and `texture_image` parameters are only active when `should_texture` is set to `"true"`.
-*   You cannot use `texture_prompt` and `texture_image` at the same time; they are mutually exclusive.
+
+* You must provide between 2 and 4 images for the `images` input.
+* The `topology` and `target_polycount` parameters are only active when `should_remesh` is set to `"true"`.
+* The `enable_pbr`, `texture_prompt`, and `texture_image` parameters are only active when `should_texture` is set to `"true"`.
+* You cannot use `texture_prompt` and `texture_image` at the same time; they are mutually exclusive.
 
 ## Outputs
 

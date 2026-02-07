@@ -10,8 +10,9 @@ El WavespeedFlashVSRNode es un potente escalador de video rápido y de alta cali
 | `target_resolution` | STRING | Sí | `"720p"`<br>`"1080p"`<br>`"2K"`<br>`"4K"` | La resolución deseada para el video de salida escalado. |
 
 **Restricciones de Entrada:**
-*   El archivo de entrada `video` debe estar en formato contenedor MP4.
-*   La duración del `video` de entrada debe estar entre 5 segundos y 10 minutos (600 segundos).
+
+* El archivo de entrada `video` debe estar en formato contenedor MP4.
+* La duración del `video` de entrada debe estar entre 5 segundos y 10 minutos (600 segundos).
 
 ## Salidas
 

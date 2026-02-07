@@ -14,9 +14,10 @@ This node generates a video by creating transitions between multiple keyframes. 
 
 **Frame Inputs (Dynamically Revealed):**
 When you select a value for `frames` (e.g., "3"), the node will show a corresponding set of required inputs for each transition. For each frame `i` from 1 to the selected number, you must provide:
-*   `end_image{i}` (IMAGE): The target image for this transition. Aspect ratio must be between 1:4 and 4:1.
-*   `prompt{i}` (STRING): A text description guiding the transition to this frame (maximum 2000 characters).
-*   `duration{i}` (INT): The duration in seconds for this specific transition segment.
+
+* `end_image{i}` (IMAGE): The target image for this transition. Aspect ratio must be between 1:4 and 4:1.
+* `prompt{i}` (STRING): A text description guiding the transition to this frame (maximum 2000 characters).
+* `duration{i}` (INT): The duration in seconds for this specific transition segment.
 
 ## Outputs
 

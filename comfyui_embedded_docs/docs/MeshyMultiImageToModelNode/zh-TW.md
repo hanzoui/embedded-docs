@@ -20,10 +20,11 @@
 | `seed` | INT | 是 | 0 到 2147483647 | 生成過程的種子值（預設值：0）。無論種子為何，結果都是非確定性的，但更改種子可以觸發節點重新執行。 |
 
 **參數限制：**
-*   您必須為 `images` 輸入提供 2 到 4 張圖像。
-*   `topology` 和 `target_polycount` 參數僅在 `should_remesh` 設為 `"true"` 時有效。
-*   `enable_pbr`、`texture_prompt` 和 `texture_image` 參數僅在 `should_texture` 設為 `"true"` 時有效。
-*   您不能同時使用 `texture_prompt` 和 `texture_image`；它們是互斥的。
+
+* 您必須為 `images` 輸入提供 2 到 4 張圖像。
+* `topology` 和 `target_polycount` 參數僅在 `should_remesh` 設為 `"true"` 時有效。
+* `enable_pbr`、`texture_prompt` 和 `texture_image` 參數僅在 `should_texture` 設為 `"true"` 時有效。
+* 您不能同時使用 `texture_prompt` 和 `texture_image`；它們是互斥的。
 
 ## 輸出結果
 

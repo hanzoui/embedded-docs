@@ -26,10 +26,11 @@ O nó WanInfiniteTalkToVideo gera sequências de vídeo a partir de uma entrada 
 | `mask_2` | MASK | Não | - | Máscara para o segundo falante, necessária se estiver usando duas entradas de áudio. |
 
 **Restrições dos Parâmetros:**
-*   Quando `mode` está definido como `"two_speakers"`, os parâmetros `audio_encoder_output_2`, `mask_1` e `mask_2` tornam-se obrigatórios.
-*   Se `audio_encoder_output_2` for fornecido, `mask_1` e `mask_2` também devem ser fornecidos.
-*   Se `mask_1` e `mask_2` forem fornecidos, `audio_encoder_output_2` também deve ser fornecido.
-*   Se `previous_frames` for fornecido, ele deve conter pelo menos tantos quadros quanto especificado por `motion_frame_count`.
+
+* Quando `mode` está definido como `"two_speakers"`, os parâmetros `audio_encoder_output_2`, `mask_1` e `mask_2` tornam-se obrigatórios.
+* Se `audio_encoder_output_2` for fornecido, `mask_1` e `mask_2` também devem ser fornecidos.
+* Se `mask_1` e `mask_2` forem fornecidos, `audio_encoder_output_2` também deve ser fornecido.
+* Se `previous_frames` for fornecido, ele deve conter pelo menos tantos quadros quanto especificado por `motion_frame_count`.
 
 ## Saídas
 

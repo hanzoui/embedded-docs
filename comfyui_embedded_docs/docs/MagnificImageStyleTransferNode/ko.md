@@ -19,10 +19,11 @@
 | `fixed_generation` | BOOLEAN | 아니요 | - | 비활성화하면 각 생성 시 어느 정도의 무작위성이 도입되어 더 다양한 결과를 얻을 수 있습니다 (기본값: True). |
 
 **제약 조건:**
-*   정확히 하나의 `image`와 하나의 `reference_image`가 필요합니다.
-*   두 이미지 모두 가로세로 비율이 1:3에서 3:1 사이여야 합니다.
-*   두 이미지 모두 높이와 너비가 최소 160픽셀이어야 합니다.
-*   `portrait_style` 및 `portrait_beautifier` 매개변수는 `portrait_mode`가 "enabled"로 설정된 경우에만 활성화되고 필요합니다.
+
+* 정확히 하나의 `image`와 하나의 `reference_image`가 필요합니다.
+* 두 이미지 모두 가로세로 비율이 1:3에서 3:1 사이여야 합니다.
+* 두 이미지 모두 높이와 너비가 최소 160픽셀이어야 합니다.
+* `portrait_style` 및 `portrait_beautifier` 매개변수는 `portrait_mode`가 "enabled"로 설정된 경우에만 활성화되고 필요합니다.
 
 ## 출력
 

@@ -7,7 +7,7 @@
 | 參數名稱 | 資料類型 | 必填 | 數值範圍 | 描述 |
 |-----------|-----------|----------|-------|-------------|
 | `rig_task_id` | STRING | 是 | N/A | 來自先前已完成的 Meshy 角色綁定操作之唯一任務 ID。 |
-| `action_id` | INT | 是 | 0 至 696 | 要套用的動畫動作之 ID 編號。請造訪 https://docs.meshy.ai/en/api/animation-library 以查看可用數值列表。(預設值: 0) |
+| `action_id` | INT | 是 | 0 至 696 | 要套用的動畫動作之 ID 編號。請造訪 <https://docs.meshy.ai/en/api/animation-library> 以查看可用數值列表。(預設值: 0) |
 
 ## 輸出結果
 

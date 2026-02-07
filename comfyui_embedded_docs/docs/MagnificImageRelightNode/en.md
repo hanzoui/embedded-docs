@@ -17,15 +17,16 @@ The Magnific Image Relight node adjusts the lighting of an input image. It can a
 | `reference_image` | IMAGE | No | N/A | Optional reference image to transfer lighting from. If provided, exactly one image is required. Minimum dimensions are 160x160 pixels. Aspect ratio must be between 1:3 and 3:1. |
 
 **Note on Advanced Settings:** When `advanced_settings` is set to `"enabled"`, the following nested parameters become active:
-*   `whites`: Adjusts the brightest tones in the image. Range: 0 to 100. Default: 50.
-*   `blacks`: Adjusts the darkest tones in the image. Range: 0 to 100. Default: 50.
-*   `brightness`: Overall brightness adjustment. Range: 0 to 100. Default: 50.
-*   `contrast`: Contrast adjustment. Range: 0 to 100. Default: 50.
-*   `saturation`: Color saturation adjustment. Range: 0 to 100. Default: 50.
-*   `engine`: Processing engine selection. Options: `"automatic"`, `"balanced"`, `"cool"`, `"real"`, `"illusio"`, `"fairy"`, `"colorful_anime"`, `"hard_transform"`, `"softy"`.
-*   `transfer_light_a`: The intensity of light transfer. Options: `"automatic"`, `"low"`, `"medium"`, `"normal"`, `"high"`, `"high_on_faces"`.
-*   `transfer_light_b`: Also modifies light transfer intensity. Can be combined with the previous control for varied effects. Options: `"automatic"`, `"composition"`, `"straight"`, `"smooth_in"`, `"smooth_out"`, `"smooth_both"`, `"reverse_both"`, `"soft_in"`, `"soft_out"`, `"soft_mid"`, `"style_shift"`, `"strong_shift"`.
-*   `fixed_generation`: Ensures consistent output with the same settings. Default: True.
+
+* `whites`: Adjusts the brightest tones in the image. Range: 0 to 100. Default: 50.
+* `blacks`: Adjusts the darkest tones in the image. Range: 0 to 100. Default: 50.
+* `brightness`: Overall brightness adjustment. Range: 0 to 100. Default: 50.
+* `contrast`: Contrast adjustment. Range: 0 to 100. Default: 50.
+* `saturation`: Color saturation adjustment. Range: 0 to 100. Default: 50.
+* `engine`: Processing engine selection. Options: `"automatic"`, `"balanced"`, `"cool"`, `"real"`, `"illusio"`, `"fairy"`, `"colorful_anime"`, `"hard_transform"`, `"softy"`.
+* `transfer_light_a`: The intensity of light transfer. Options: `"automatic"`, `"low"`, `"medium"`, `"normal"`, `"high"`, `"high_on_faces"`.
+* `transfer_light_b`: Also modifies light transfer intensity. Can be combined with the previous control for varied effects. Options: `"automatic"`, `"composition"`, `"straight"`, `"smooth_in"`, `"smooth_out"`, `"smooth_both"`, `"reverse_both"`, `"soft_in"`, `"soft_out"`, `"soft_mid"`, `"style_shift"`, `"strong_shift"`.
+* `fixed_generation`: Ensures consistent output with the same settings. Default: True.
 
 ## Outputs
 

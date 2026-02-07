@@ -19,10 +19,11 @@
 | `fixed_generation` | BOOLEAN | いいえ | - | 無効にすると、各生成にランダム性が導入され、より多様な結果が得られます（デフォルト: True）。 |
 
 **制約事項:**
-*   `image`と`reference_image`はそれぞれ1つずつ必要です。
-*   両方の画像のアスペクト比は1:3から3:1の間である必要があります。
-*   両方の画像の高さと幅は最低160ピクセルである必要があります。
-*   `portrait_style`および`portrait_beautifier`パラメータは、`portrait_mode`が"enabled"に設定されている場合にのみ有効かつ必須となります。
+
+* `image`と`reference_image`はそれぞれ1つずつ必要です。
+* 両方の画像のアスペクト比は1:3から3:1の間である必要があります。
+* 両方の画像の高さと幅は最低160ピクセルである必要があります。
+* `portrait_style`および`portrait_beautifier`パラメータは、`portrait_mode`が"enabled"に設定されている場合にのみ有効かつ必須となります。
 
 ## 出力
 

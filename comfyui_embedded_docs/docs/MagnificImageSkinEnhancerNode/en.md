@@ -14,10 +14,11 @@ The Magnific Image Skin Enhancer node applies specialized AI processing to portr
 | `optimized_for` | COMBO | No | `"enhance_skin"`<br>`"improve_lighting"`<br>`"enhance_everything"`<br>`"transform_to_real"`<br>`"no_make_up"` | Enhancement optimization target. This input is only available and required when the `mode` is set to `"flexible"`. |
 
 **Constraints:**
-*   The node accepts exactly one input image.
-*   The input image must have a minimum height and width of 160 pixels.
-*   The `skin_detail` parameter is only active when `mode` is set to `"faithful"`.
-*   The `optimized_for` parameter is only active when `mode` is set to `"flexible"`.
+
+* The node accepts exactly one input image.
+* The input image must have a minimum height and width of 160 pixels.
+* The `skin_detail` parameter is only active when `mode` is set to `"faithful"`.
+* The `optimized_for` parameter is only active when `mode` is set to `"flexible"`.
 
 ## Outputs
 

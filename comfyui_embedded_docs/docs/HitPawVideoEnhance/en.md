@@ -11,8 +11,9 @@ The HitPaw Video Enhance node uses an external API to improve the quality of vid
 | `video` | VIDEO | Yes | N/A | The input video file to be enhanced. |
 
 **Constraints:**
-*   The input `video` must be between 0.5 seconds and 60 minutes (3600 seconds) in duration.
-*   The selected `resolution` must be larger than the input video's dimensions. If the video is square, the selected resolution must be larger than its width/height. For non-square videos, the selected resolution must be larger than the video's shorter dimension. If the target resolution is smaller, an error will be raised. Choose `"original"` to keep the input video's resolution.
+
+* The input `video` must be between 0.5 seconds and 60 minutes (3600 seconds) in duration.
+* The selected `resolution` must be larger than the input video's dimensions. If the video is square, the selected resolution must be larger than its width/height. For non-square videos, the selected resolution must be larger than the video's shorter dimension. If the target resolution is smaller, an error will be raised. Choose `"original"` to keep the input video's resolution.
 
 ## Outputs
 

@@ -17,15 +17,16 @@ Magnific Image Relight 节点用于调整输入图像的照明效果。它可以
 | `reference_image` | IMAGE | 否 | N/A | 用于转移照明效果的可选参考图像。如果提供，必须且仅能输入一张图像。最小尺寸为 160x160 像素。宽高比必须在 1:3 到 3:1 之间。 |
 
 **关于高级设置的说明：** 当 `advanced_settings` 设置为 `"enabled"` 时，以下嵌套参数将被激活：
-*   `whites`：调整图像中最亮的色调。范围：0 到 100。默认值：50。
-*   `blacks`：调整图像中最暗的色调。范围：0 到 100。默认值：50。
-*   `brightness`：整体亮度调整。范围：0 到 100。默认值：50。
-*   `contrast`：对比度调整。范围：0 到 100。默认值：50。
-*   `saturation`：色彩饱和度调整。范围：0 到 100。默认值：50。
-*   `engine`：处理引擎选择。选项：`"automatic"`, `"balanced"`, `"cool"`, `"real"`, `"illusio"`, `"fairy"`, `"colorful_anime"`, `"hard_transform"`, `"softy"`。
-*   `transfer_light_a`：光线转移的强度。选项：`"automatic"`, `"low"`, `"medium"`, `"normal"`, `"high"`, `"high_on_faces"`。
-*   `transfer_light_b`：同样修改光线转移强度。可与前一个控制项结合以产生不同效果。选项：`"automatic"`, `"composition"`, `"straight"`, `"smooth_in"`, `"smooth_out"`, `"smooth_both"`, `"reverse_both"`, `"soft_in"`, `"soft_out"`, `"soft_mid"`, `"style_shift"`, `"strong_shift"`。
-*   `fixed_generation`：确保使用相同设置时输出结果一致。默认值：True。
+
+* `whites`：调整图像中最亮的色调。范围：0 到 100。默认值：50。
+* `blacks`：调整图像中最暗的色调。范围：0 到 100。默认值：50。
+* `brightness`：整体亮度调整。范围：0 到 100。默认值：50。
+* `contrast`：对比度调整。范围：0 到 100。默认值：50。
+* `saturation`：色彩饱和度调整。范围：0 到 100。默认值：50。
+* `engine`：处理引擎选择。选项：`"automatic"`, `"balanced"`, `"cool"`, `"real"`, `"illusio"`, `"fairy"`, `"colorful_anime"`, `"hard_transform"`, `"softy"`。
+* `transfer_light_a`：光线转移的强度。选项：`"automatic"`, `"low"`, `"medium"`, `"normal"`, `"high"`, `"high_on_faces"`。
+* `transfer_light_b`：同样修改光线转移强度。可与前一个控制项结合以产生不同效果。选项：`"automatic"`, `"composition"`, `"straight"`, `"smooth_in"`, `"smooth_out"`, `"smooth_both"`, `"reverse_both"`, `"soft_in"`, `"soft_out"`, `"soft_mid"`, `"style_shift"`, `"strong_shift"`。
+* `fixed_generation`：确保使用相同设置时输出结果一致。默认值：True。
 
 ## 输出
 

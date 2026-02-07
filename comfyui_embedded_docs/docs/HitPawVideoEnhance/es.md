@@ -9,8 +9,9 @@
 | `video` | VIDEO | Sí | N/A | El archivo de vídeo de entrada que se va a mejorar. |
 
 **Restricciones:**
-*   El `video` de entrada debe tener una duración entre 0.5 segundos y 60 minutos (3600 segundos).
-*   La `resolution` seleccionada debe ser mayor que las dimensiones del vídeo de entrada. Si el vídeo es cuadrado, la resolución seleccionada debe ser mayor que su ancho/alto. Para vídeos no cuadrados, la resolución seleccionada debe ser mayor que la dimensión más corta del vídeo. Si la resolución objetivo es menor, se generará un error. Elija `"original"` para mantener la resolución del vídeo de entrada.
+
+* El `video` de entrada debe tener una duración entre 0.5 segundos y 60 minutos (3600 segundos).
+* La `resolution` seleccionada debe ser mayor que las dimensiones del vídeo de entrada. Si el vídeo es cuadrado, la resolución seleccionada debe ser mayor que su ancho/alto. Para vídeos no cuadrados, la resolución seleccionada debe ser mayor que la dimensión más corta del vídeo. Si la resolución objetivo es menor, se generará un error. Elija `"original"` para mantener la resolución del vídeo de entrada.
 
 ## Salidas
 

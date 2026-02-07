@@ -10,8 +10,9 @@ Le WavespeedFlashVSRNode est un suréchantillonneur vidéo rapide et de haute qu
 | `target_resolution` | STRING | Oui | `"720p"`<br>`"1080p"`<br>`"2K"`<br>`"4K"` | La résolution souhaitée pour la vidéo de sortie suréchantillonnée. |
 
 **Contraintes d'entrée :**
-*   Le fichier `video` d'entrée doit être au format conteneur MP4.
-*   La durée de la `video` d'entrée doit être comprise entre 5 secondes et 10 minutes (600 secondes).
+
+* Le fichier `video` d'entrée doit être au format conteneur MP4.
+* La durée de la `video` d'entrée doit être comprise entre 5 secondes et 10 minutes (600 secondes).
 
 ## Sorties
 

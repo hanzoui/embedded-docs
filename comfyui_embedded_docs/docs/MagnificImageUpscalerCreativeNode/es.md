@@ -18,10 +18,11 @@ Este nodo utiliza el servicio Magnific AI para aumentar la escala y mejorar crea
 | `auto_downscale` | BOOLEAN | No | - | Cuando está habilitado, el nodo reducirá automáticamente la escala de la imagen de entrada si el aumento solicitado excediera el tamaño máximo de salida permitido de 25,3 megapíxeles (valor por defecto: Falso). |
 
 **Restricciones:**
-*   La entrada `image` debe ser exactamente una imagen.
-*   La imagen de entrada debe tener una altura y un ancho mínimos de 160 píxeles.
-*   La relación de aspecto de la imagen de entrada debe estar entre 1:3 y 3:1.
-*   El tamaño final de salida (dimensiones de entrada multiplicadas por el `scale_factor`) no puede exceder los 25.300.000 píxeles. Si `auto_downscale` está deshabilitado y se excedería este límite, el nodo generará un error.
+
+* La entrada `image` debe ser exactamente una imagen.
+* La imagen de entrada debe tener una altura y un ancho mínimos de 160 píxeles.
+* La relación de aspecto de la imagen de entrada debe estar entre 1:3 y 3:1.
+* El tamaño final de salida (dimensiones de entrada multiplicadas por el `scale_factor`) no puede exceder los 25.300.000 píxeles. Si `auto_downscale` está deshabilitado y se excedería este límite, el nodo generará un error.
 
 ## Salidas
 

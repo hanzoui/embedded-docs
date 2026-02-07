@@ -20,9 +20,10 @@ Meshy: Image to Model 노드는 Meshy API를 사용하여 단일 입력 이미�
 | `seed` | INT | 예 | 0 - 2147483647 | 생성 과정을 위한 시드 값입니다. 시드 값과 관계없이 결과는 비결정적입니다. 기본값은 0입니다. |
 
 **매개변수 제약 사항 참고:**
-*   `topology` 및 `target_polycount` 입력은 `should_remesh`가 `"true"`로 설정된 경우에만 필수입니다.
-*   `enable_pbr`, `texture_prompt`, `texture_image` 입력은 `should_texture`가 `"true"`로 설정된 경우에만 사용 가능합니다.
-*   `texture_prompt`와 `texture_image`는 동시에 사용할 수 없습니다. `should_texture`가 `"true"`일 때 둘 다 제공되면 노드에서 오류가 발생합니다.
+
+* `topology` 및 `target_polycount` 입력은 `should_remesh`가 `"true"`로 설정된 경우에만 필수입니다.
+* `enable_pbr`, `texture_prompt`, `texture_image` 입력은 `should_texture`가 `"true"`로 설정된 경우에만 사용 가능합니다.
+* `texture_prompt`와 `texture_image`는 동시에 사용할 수 없습니다. `should_texture`가 `"true"`일 때 둘 다 제공되면 노드에서 오류가 발생합니다.
 
 ## 출력
 

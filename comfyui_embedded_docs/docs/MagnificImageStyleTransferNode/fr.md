@@ -19,10 +19,11 @@ Ce nœud applique le style visuel d'une image de référence à votre image d'en
 | `fixed_generation` | BOOLEAN | Non | - | Lorsque désactivé, chaque génération introduit un degré d'aléatoire, conduisant à des résultats plus diversifiés (par défaut : True). |
 
 **Contraintes :**
-*   Exactement une `image` et une `reference_image` sont requises.
-*   Les deux images doivent avoir un rapport d'aspect compris entre 1:3 et 3:1.
-*   Les deux images doivent avoir une hauteur et une largeur minimales de 160 pixels.
-*   Les paramètres `portrait_style` et `portrait_beautifier` ne sont actifs et requis que lorsque `portrait_mode` est défini sur "enabled".
+
+* Exactement une `image` et une `reference_image` sont requises.
+* Les deux images doivent avoir un rapport d'aspect compris entre 1:3 et 3:1.
+* Les deux images doivent avoir une hauteur et une largeur minimales de 160 pixels.
+* Les paramètres `portrait_style` et `portrait_beautifier` ne sont actifs et requis que lorsque `portrait_mode` est défini sur "enabled".
 
 ## Sorties
 

@@ -18,9 +18,10 @@ El nodo Bria FIBO Image Edit permite modificar una imagen existente mediante una
 | `mask` | MASK | No | - | Una imagen de máscara opcional. Si se proporciona, las ediciones solo se aplicarán a las áreas enmascaradas de la imagen. |
 
 **Restricciones importantes:**
-*   Debe proporcionar al menos una de las entradas `prompt` o `structured_prompt`. Ambas no pueden estar vacías.
-*   Se requiere exactamente una entrada `image`.
-*   Cuando el parámetro `moderation` se establece en `"true"`, se habilitan tres entradas booleanas adicionales: `prompt_content_moderation`, `visual_input_moderation` y `visual_output_moderation`.
+
+* Debe proporcionar al menos una de las entradas `prompt` o `structured_prompt`. Ambas no pueden estar vacías.
+* Se requiere exactamente una entrada `image`.
+* Cuando el parámetro `moderation` se establece en `"true"`, se habilitan tres entradas booleanas adicionales: `prompt_content_moderation`, `visual_input_moderation` y `visual_output_moderation`.
 
 ## Salidas
 

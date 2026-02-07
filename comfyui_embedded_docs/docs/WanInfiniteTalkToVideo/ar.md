@@ -28,10 +28,11 @@
 | `mask_2` | MASK | لا | - | قناع للمتحدث الثاني، مطلوب إذا تم استخدام مدخلين صوتيين. |
 
 **قيود المعاملات:**
-*   عند ضبط `mode` على `"two_speakers"`، تصبح المعاملات `audio_encoder_output_2` و `mask_1` و `mask_2` مطلوبة.
-*   إذا تم توفير `audio_encoder_output_2`، فيجب أيضًا توفير كل من `mask_1` و `mask_2`.
-*   إذا تم توفير `mask_1` و `mask_2`، فيجب أيضًا توفير `audio_encoder_output_2`.
-*   إذا تم توفير `previous_frames`، فيجب أن تحتوي على عدد من الإطارات لا يقل عن العدد المحدد في `motion_frame_count`.
+
+* عند ضبط `mode` على `"two_speakers"`، تصبح المعاملات `audio_encoder_output_2` و `mask_1` و `mask_2` مطلوبة.
+* إذا تم توفير `audio_encoder_output_2`، فيجب أيضًا توفير كل من `mask_1` و `mask_2`.
+* إذا تم توفير `mask_1` و `mask_2`، فيجب أيضًا توفير `audio_encoder_output_2`.
+* إذا تم توفير `previous_frames`، فيجب أن تحتوي على عدد من الإطارات لا يقل عن العدد المحدد في `motion_frame_count`.
 
 ## المخرجات
 

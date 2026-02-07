@@ -7,7 +7,7 @@ Bu düğüm, Meshy hizmeti kullanılarak önceden iskeletlendirilmiş (rigged) b
 | Parametre | Veri Türü | Zorunlu | Aralık | Açıklama |
 |-----------|-----------|----------|-------|-------------|
 | `rig_task_id` | STRING | Evet | Yok | Daha önce tamamlanmış bir Meshy karakter iskeletlendirme işleminden alınan benzersiz görev kimliği. |
-| `action_id` | INT | Evet | 0 - 696 | Uygulanacak animasyon eyleminin kimlik numarası. Mevcut değerlerin listesi için https://docs.meshy.ai/en/api/animation-library adresini ziyaret edin. (varsayılan: 0) |
+| `action_id` | INT | Evet | 0 - 696 | Uygulanacak animasyon eyleminin kimlik numarası. Mevcut değerlerin listesi için <https://docs.meshy.ai/en/api/animation-library> adresini ziyaret edin. (varsayılan: 0) |
 
 ## Çıkışlar
 

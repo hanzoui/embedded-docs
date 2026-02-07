@@ -14,8 +14,9 @@ El nodo Meshy: Texture aplica texturas generadas por IA a un modelo 3D. Toma un 
 | `image_style` | IMAGE | No | - | Una imagen de referencia 2D para guiar el proceso de texturizado. No se puede usar al mismo tiempo que `text_style_prompt`. |
 
 **Restricciones de Parámetros:**
-*   Debes proporcionar un `text_style_prompt` o un `image_style`, pero no puedes proporcionar ambos al mismo tiempo.
-*   El `text_style_prompt` está limitado a un máximo de 600 caracteres.
+
+* Debes proporcionar un `text_style_prompt` o un `image_style`, pero no puedes proporcionar ambos al mismo tiempo.
+* El `text_style_prompt` está limitado a un máximo de 600 caracteres.
 
 ## Salidas
 

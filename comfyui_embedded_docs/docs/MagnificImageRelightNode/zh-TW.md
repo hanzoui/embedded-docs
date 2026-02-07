@@ -17,15 +17,16 @@ Magnific Image Relight 節點可調整輸入圖像的照明效果。它能根據
 | `reference_image` | IMAGE | 否 | N/A | 用於轉移照明的可選參考圖像。若提供，必須恰好一張圖像。最小尺寸為 160x160 像素。長寬比必須介於 1:3 至 3:1 之間。 |
 
 **關於進階設定的說明：** 當 `advanced_settings` 設定為 `"enabled"` 時，以下嵌套參數將被啟用：
-*   `whites`：調整圖像中最亮的色調。範圍：0 至 100。預設值：50。
-*   `blacks`：調整圖像中最暗的色調。範圍：0 至 100。預設值：50。
-*   `brightness`：整體亮度調整。範圍：0 至 100。預設值：50。
-*   `contrast`：對比度調整。範圍：0 至 100。預設值：50。
-*   `saturation`：色彩飽和度調整。範圍：0 至 100。預設值：50。
-*   `engine`：處理引擎選擇。選項：`"automatic"`、`"balanced"`、`"cool"`、`"real"`、`"illusio"`、`"fairy"`、`"colorful_anime"`、`"hard_transform"`、`"softy"`。
-*   `transfer_light_a`：光線轉移的強度。選項：`"automatic"`、`"low"`、`"medium"`、`"normal"`、`"high"`、`"high_on_faces"`。
-*   `transfer_light_b`：同樣修改光線轉移強度。可與前一個控制項結合以產生不同效果。選項：`"automatic"`、`"composition"`、`"straight"`、`"smooth_in"`、`"smooth_out"`、`"smooth_both"`、`"reverse_both"`、`"soft_in"`、`"soft_out"`、`"soft_mid"`、`"style_shift"`、`"strong_shift"`。
-*   `fixed_generation`：確保使用相同設定時輸出結果一致。預設值：True。
+
+* `whites`：調整圖像中最亮的色調。範圍：0 至 100。預設值：50。
+* `blacks`：調整圖像中最暗的色調。範圍：0 至 100。預設值：50。
+* `brightness`：整體亮度調整。範圍：0 至 100。預設值：50。
+* `contrast`：對比度調整。範圍：0 至 100。預設值：50。
+* `saturation`：色彩飽和度調整。範圍：0 至 100。預設值：50。
+* `engine`：處理引擎選擇。選項：`"automatic"`、`"balanced"`、`"cool"`、`"real"`、`"illusio"`、`"fairy"`、`"colorful_anime"`、`"hard_transform"`、`"softy"`。
+* `transfer_light_a`：光線轉移的強度。選項：`"automatic"`、`"low"`、`"medium"`、`"normal"`、`"high"`、`"high_on_faces"`。
+* `transfer_light_b`：同樣修改光線轉移強度。可與前一個控制項結合以產生不同效果。選項：`"automatic"`、`"composition"`、`"straight"`、`"smooth_in"`、`"smooth_out"`、`"smooth_both"`、`"reverse_both"`、`"soft_in"`、`"soft_out"`、`"soft_mid"`、`"style_shift"`、`"strong_shift"`。
+* `fixed_generation`：確保使用相同設定時輸出結果一致。預設值：True。
 
 ## 輸出結果
 

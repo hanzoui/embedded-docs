@@ -26,10 +26,11 @@ Le nœud WanInfiniteTalkToVideo génère des séquences vidéo à partir d'une e
 | `mask_2` | MASK | Non | - | Masque pour le deuxième locuteur, requis si deux entrées audio sont utilisées. |
 
 **Contraintes des paramètres :**
-*   Lorsque `mode` est défini sur `"two_speakers"`, les paramètres `audio_encoder_output_2`, `mask_1` et `mask_2` deviennent requis.
-*   Si `audio_encoder_output_2` est fourni, `mask_1` et `mask_2` doivent également être fournis.
-*   Si `mask_1` et `mask_2` sont fournis, `audio_encoder_output_2` doit également être fourni.
-*   Si `previous_frames` est fourni, il doit contenir au moins autant d'images que spécifié par `motion_frame_count`.
+
+* Lorsque `mode` est défini sur `"two_speakers"`, les paramètres `audio_encoder_output_2`, `mask_1` et `mask_2` deviennent requis.
+* Si `audio_encoder_output_2` est fourni, `mask_1` et `mask_2` doivent également être fournis.
+* Si `mask_1` et `mask_2` sont fournis, `audio_encoder_output_2` doit également être fourni.
+* Si `previous_frames` est fourni, il doit contenir au moins autant d'images que spécifié par `motion_frame_count`.
 
 ## Sorties
 

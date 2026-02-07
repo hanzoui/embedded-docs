@@ -14,10 +14,11 @@ Le nœud Magnific Image Skin Enhancer applique un traitement IA spécialisé aux
 | `optimized_for` | COMBO | Non | `"enhance_skin"`<br>`"improve_lighting"`<br>`"enhance_everything"`<br>`"transform_to_real"`<br>`"no_make_up"` | Cible d'optimisation de l'amélioration. Cette entrée n'est disponible et requise que lorsque le `mode` est défini sur `"flexible"`. |
 
 **Contraintes :**
-*   Le nœud accepte exactement une image en entrée.
-*   L'image d'entrée doit avoir une hauteur et une largeur minimales de 160 pixels.
-*   Le paramètre `skin_detail` n'est actif que lorsque le `mode` est défini sur `"faithful"`.
-*   Le paramètre `optimized_for` n'est actif que lorsque le `mode` est défini sur `"flexible"`.
+
+* Le nœud accepte exactement une image en entrée.
+* L'image d'entrée doit avoir une hauteur et une largeur minimales de 160 pixels.
+* Le paramètre `skin_detail` n'est actif que lorsque le `mode` est défini sur `"faithful"`.
+* Le paramètre `optimized_for` n'est actif que lorsque le `mode` est défini sur `"flexible"`.
 
 ## Sorties
 

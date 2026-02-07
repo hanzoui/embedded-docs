@@ -14,10 +14,11 @@ El nodo Magnific Image Skin Enhancer aplica un procesamiento especializado con I
 | `optimized_for` | COMBO | No | `"enhance_skin"`<br>`"improve_lighting"`<br>`"enhance_everything"`<br>`"transform_to_real"`<br>`"no_make_up"` | Objetivo de optimización de la mejora. Esta entrada solo está disponible y es obligatoria cuando el `mode` está configurado en `"flexible"`. |
 
 **Restricciones:**
-*   El nodo acepta exactamente una imagen de entrada.
-*   La imagen de entrada debe tener una altura y un ancho mínimos de 160 píxeles.
-*   El parámetro `skin_detail` solo está activo cuando `mode` está configurado en `"faithful"`.
-*   El parámetro `optimized_for` solo está activo cuando `mode` está configurado en `"flexible"`.
+
+* El nodo acepta exactamente una imagen de entrada.
+* La imagen de entrada debe tener una altura y un ancho mínimos de 160 píxeles.
+* El parámetro `skin_detail` solo está activo cuando `mode` está configurado en `"faithful"`.
+* El parámetro `optimized_for` solo está activo cuando `mode` está configurado en `"flexible"`.
 
 ## Salidas
 

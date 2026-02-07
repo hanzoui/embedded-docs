@@ -26,10 +26,11 @@ El nodo WanInfiniteTalkToVideo genera secuencias de video a partir de una entrad
 | `mask_2` | MASK | No | - | Máscara para el segundo hablante, requerida si se utilizan dos entradas de audio. |
 
 **Restricciones de Parámetros:**
-*   Cuando `mode` está configurado en `"two_speakers"`, los parámetros `audio_encoder_output_2`, `mask_1` y `mask_2` se vuelven obligatorios.
-*   Si se proporciona `audio_encoder_output_2`, también se deben proporcionar `mask_1` y `mask_2`.
-*   Si se proporcionan `mask_1` y `mask_2`, también se debe proporcionar `audio_encoder_output_2`.
-*   Si se proporciona `previous_frames`, debe contener al menos tantos fotogramas como los especificados por `motion_frame_count`.
+
+* Cuando `mode` está configurado en `"two_speakers"`, los parámetros `audio_encoder_output_2`, `mask_1` y `mask_2` se vuelven obligatorios.
+* Si se proporciona `audio_encoder_output_2`, también se deben proporcionar `mask_1` y `mask_2`.
+* Si se proporcionan `mask_1` y `mask_2`, también se debe proporcionar `audio_encoder_output_2`.
+* Si se proporciona `previous_frames`, debe contener al menos tantos fotogramas como los especificados por `motion_frame_count`.
 
 ## Salidas
 

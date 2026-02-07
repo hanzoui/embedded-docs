@@ -7,7 +7,7 @@
 | 参数 | 数据类型 | 必填 | 取值范围 | 描述 |
 |-----------|-----------|----------|-------|-------------|
 | `rig_task_id` | STRING | 是 | 无 | 来自先前已完成的 Meshy 角色骨骼绑定操作的唯一任务 ID。 |
-| `action_id` | INT | 是 | 0 至 696 | 要应用的动画动作的 ID 编号。可访问 https://docs.meshy.ai/en/api/animation-library 查看可用值列表。（默认值：0） |
+| `action_id` | INT | 是 | 0 至 696 | 要应用的动画动作的 ID 编号。可访问 <https://docs.meshy.ai/en/api/animation-library> 查看可用值列表。（默认值：0） |
 
 ## 输出结果
 

@@ -20,10 +20,11 @@ Este nó utiliza a API Meshy para gerar um modelo 3D a partir de múltiplas imag
 | `seed` | INT | Sim | 0 a 2147483647 | Um valor de semente para o processo de geração (padrão: 0). Os resultados não são determinísticos independentemente da semente, mas alterar a semente pode fazer com que o nó seja executado novamente. |
 
 **Restrições dos Parâmetros:**
-*   Você deve fornecer entre 2 e 4 imagens para a entrada `images`.
-*   Os parâmetros `topology` e `target_polycount` estão ativos apenas quando `should_remesh` está definido como `"true"`.
-*   Os parâmetros `enable_pbr`, `texture_prompt` e `texture_image` estão ativos apenas quando `should_texture` está definido como `"true"`.
-*   Você não pode usar `texture_prompt` e `texture_image` ao mesmo tempo; eles são mutuamente exclusivos.
+
+* Você deve fornecer entre 2 e 4 imagens para a entrada `images`.
+* Os parâmetros `topology` e `target_polycount` estão ativos apenas quando `should_remesh` está definido como `"true"`.
+* Os parâmetros `enable_pbr`, `texture_prompt` e `texture_image` estão ativos apenas quando `should_texture` está definido como `"true"`.
+* Você não pode usar `texture_prompt` e `texture_image` ao mesmo tempo; eles são mutuamente exclusivos.
 
 ## Saídas
 

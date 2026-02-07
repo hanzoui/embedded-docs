@@ -26,10 +26,11 @@ The WanInfiniteTalkToVideo node generates video sequences from audio input. It u
 | `mask_2` | MASK | No | - | Mask for the second speaker, required if using two audio inputs. |
 
 **Parameter Constraints:**
-*   When `mode` is set to `"two_speakers"`, the parameters `audio_encoder_output_2`, `mask_1`, and `mask_2` become required.
-*   If `audio_encoder_output_2` is provided, both `mask_1` and `mask_2` must also be provided.
-*   If `mask_1` and `mask_2` are provided, `audio_encoder_output_2` must also be provided.
-*   If `previous_frames` is provided, it must contain at least as many frames as specified by `motion_frame_count`.
+
+* When `mode` is set to `"two_speakers"`, the parameters `audio_encoder_output_2`, `mask_1`, and `mask_2` become required.
+* If `audio_encoder_output_2` is provided, both `mask_1` and `mask_2` must also be provided.
+* If `mask_1` and `mask_2` are provided, `audio_encoder_output_2` must also be provided.
+* If `previous_frames` is provided, it must contain at least as many frames as specified by `motion_frame_count`.
 
 ## Outputs
 

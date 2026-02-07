@@ -7,7 +7,7 @@ Ce nœud applique une animation spécifique à un modèle de personnage 3D déj�
 | Paramètre | Type de données | Requis | Plage | Description |
 |-----------|-----------|----------|-------|-------------|
 | `rig_task_id` | STRING | Oui | N/A | L'identifiant unique de tâche provenant d'une opération de rigging de personnage Meshy précédemment terminée. |
-| `action_id` | INT | Oui | 0 à 696 | Le numéro d'identifiant de l'action d'animation à appliquer. Consultez https://docs.meshy.ai/en/api/animation-library pour une liste des valeurs disponibles. (par défaut : 0) |
+| `action_id` | INT | Oui | 0 à 696 | Le numéro d'identifiant de l'action d'animation à appliquer. Consultez <https://docs.meshy.ai/en/api/animation-library> pour une liste des valeurs disponibles. (par défaut : 0) |
 
 ## Sorties
 

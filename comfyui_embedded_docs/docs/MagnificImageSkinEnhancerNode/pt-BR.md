@@ -14,10 +14,11 @@ O nó Magnific Image Skin Enhancer aplica processamento especializado de IA a im
 | `optimized_for` | COMBO | Não | `"enhance_skin"`<br>`"improve_lighting"`<br>`"enhance_everything"`<br>`"transform_to_real"`<br>`"no_make_up"` | Alvo de otimização do aprimoramento. Esta entrada está disponível e é obrigatória apenas quando o `mode` está definido como `"flexible"`. |
 
 **Restrições:**
-*   O nó aceita exatamente uma imagem de entrada.
-*   A imagem de entrada deve ter uma altura e largura mínimas de 160 pixels.
-*   O parâmetro `skin_detail` só está ativo quando o `mode` está definido como `"faithful"`.
-*   O parâmetro `optimized_for` só está ativo quando o `mode` está definido como `"flexible"`.
+
+* O nó aceita exatamente uma imagem de entrada.
+* A imagem de entrada deve ter uma altura e largura mínimas de 160 pixels.
+* O parâmetro `skin_detail` só está ativo quando o `mode` está definido como `"faithful"`.
+* O parâmetro `optimized_for` só está ativo quando o `mode` está definido como `"flexible"`.
 
 ## Saídas
 

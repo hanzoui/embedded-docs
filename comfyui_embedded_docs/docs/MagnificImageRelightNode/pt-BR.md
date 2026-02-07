@@ -17,15 +17,16 @@ O nó Magnific Image Relight ajusta a iluminação de uma imagem de entrada. Ele
 | `reference_image` | IMAGE | Não | N/A | Imagem de referência opcional para transferir a iluminação. Se fornecida, exatamente uma imagem é necessária. Dimensões mínimas são 160x160 pixels. A proporção deve estar entre 1:3 e 3:1. |
 
 **Nota sobre Configurações Avançadas:** Quando `advanced_settings` é definido como `"enabled"`, os seguintes parâmetros aninhados tornam-se ativos:
-*   `whites`: Ajusta os tons mais claros da imagem. Intervalo: 0 a 100. Padrão: 50.
-*   `blacks`: Ajusta os tons mais escuros da imagem. Intervalo: 0 a 100. Padrão: 50.
-*   `brightness`: Ajuste geral de brilho. Intervalo: 0 a 100. Padrão: 50.
-*   `contrast`: Ajuste de contraste. Intervalo: 0 a 100. Padrão: 50.
-*   `saturation`: Ajuste de saturação de cor. Intervalo: 0 a 100. Padrão: 50.
-*   `engine`: Seleção do mecanismo de processamento. Opções: `"automatic"`, `"balanced"`, `"cool"`, `"real"`, `"illusio"`, `"fairy"`, `"colorful_anime"`, `"hard_transform"`, `"softy"`.
-*   `transfer_light_a`: A intensidade da transferência de luz. Opções: `"automatic"`, `"low"`, `"medium"`, `"normal"`, `"high"`, `"high_on_faces"`.
-*   `transfer_light_b`: Também modifica a intensidade da transferência de luz. Pode ser combinado com o controle anterior para efeitos variados. Opções: `"automatic"`, `"composition"`, `"straight"`, `"smooth_in"`, `"smooth_out"`, `"smooth_both"`, `"reverse_both"`, `"soft_in"`, `"soft_out"`, `"soft_mid"`, `"style_shift"`, `"strong_shift"`.
-*   `fixed_generation`: Garante uma saída consistente com as mesmas configurações. Padrão: Verdadeiro.
+
+* `whites`: Ajusta os tons mais claros da imagem. Intervalo: 0 a 100. Padrão: 50.
+* `blacks`: Ajusta os tons mais escuros da imagem. Intervalo: 0 a 100. Padrão: 50.
+* `brightness`: Ajuste geral de brilho. Intervalo: 0 a 100. Padrão: 50.
+* `contrast`: Ajuste de contraste. Intervalo: 0 a 100. Padrão: 50.
+* `saturation`: Ajuste de saturação de cor. Intervalo: 0 a 100. Padrão: 50.
+* `engine`: Seleção do mecanismo de processamento. Opções: `"automatic"`, `"balanced"`, `"cool"`, `"real"`, `"illusio"`, `"fairy"`, `"colorful_anime"`, `"hard_transform"`, `"softy"`.
+* `transfer_light_a`: A intensidade da transferência de luz. Opções: `"automatic"`, `"low"`, `"medium"`, `"normal"`, `"high"`, `"high_on_faces"`.
+* `transfer_light_b`: Também modifica a intensidade da transferência de luz. Pode ser combinado com o controle anterior para efeitos variados. Opções: `"automatic"`, `"composition"`, `"straight"`, `"smooth_in"`, `"smooth_out"`, `"smooth_both"`, `"reverse_both"`, `"soft_in"`, `"soft_out"`, `"soft_mid"`, `"style_shift"`, `"strong_shift"`.
+* `fixed_generation`: Garante uma saída consistente com as mesmas configurações. Padrão: Verdadeiro.
 
 ## Saídas
 

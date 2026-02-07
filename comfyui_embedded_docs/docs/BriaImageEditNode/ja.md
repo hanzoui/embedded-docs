@@ -18,9 +18,10 @@ Bria FIBO Image Edit ノードを使用すると、テキストによる指示�
 | `mask` | MASK | いいえ | - | オプションのマスク画像です。提供された場合、編集は画像のマスクされた領域にのみ適用されます。 |
 
 **重要な制約事項:**
-*   `prompt` または `structured_prompt` の少なくとも一方を入力する必要があります。両方を空にすることはできません。
-*   入力 `image` は正確に1つ必要です。
-*   `moderation` パラメータが `"true"` に設定されている場合、`prompt_content_moderation`、`visual_input_moderation`、`visual_output_moderation` という3つの追加のブール値入力が利用可能になります。
+
+* `prompt` または `structured_prompt` の少なくとも一方を入力する必要があります。両方を空にすることはできません。
+* 入力 `image` は正確に1つ必要です。
+* `moderation` パラメータが `"true"` に設定されている場合、`prompt_content_moderation`、`visual_input_moderation`、`visual_output_moderation` という3つの追加のブール値入力が利用可能になります。
 
 ## 出力
 

@@ -17,11 +17,12 @@ Vidu2 Referans-Görüntüden Video Üretme düğümü, bir metin istemi ve birde
 | `movement_amplitude` | COMBO | Hayır | `"auto"`<br>`"small"`<br>`"medium"`<br>`"large"` | Kare içindeki nesnelerin hareket genliğini kontrol eder. |
 
 **Kısıtlamalar:**
-*   `prompt` 1 ile 2000 karakter arasında uzunlukta olmalıdır.
-*   Birden fazla özne tanımlayabilirsiniz, ancak tüm özneler arasındaki toplam referans görseli sayısı 7'yi geçmemelidir.
-*   Her bir öznenin en fazla 3 referans görseli olabilir.
-*   Her bir referans görselinin genişlik-yükseklik oranı 1:4 ile 4:1 arasında olmalıdır.
-*   Her bir referans görselinin hem genişliği hem de yüksekliği en az 128 piksel olmalıdır.
+
+* `prompt` 1 ile 2000 karakter arasında uzunlukta olmalıdır.
+* Birden fazla özne tanımlayabilirsiniz, ancak tüm özneler arasındaki toplam referans görseli sayısı 7'yi geçmemelidir.
+* Her bir öznenin en fazla 3 referans görseli olabilir.
+* Her bir referans görselinin genişlik-yükseklik oranı 1:4 ile 4:1 arasında olmalıdır.
+* Her bir referans görselinin hem genişliği hem de yüksekliği en az 128 piksel olmalıdır.
 
 ## Çıkışlar
 

@@ -17,11 +17,12 @@ El nodo Vidu2 Reference-to-Video Generation crea un vídeo a partir de un texto 
 | `movement_amplitude` | COMBO | No | `"auto"`<br>`"small"`<br>`"medium"`<br>`"large"` | Controla la amplitud del movimiento de los objetos en el fotograma. |
 
 **Restricciones:**
-*   El `prompt` debe tener entre 1 y 2000 caracteres de longitud.
-*   Puedes definir múltiples sujetos, pero el número total de imágenes de referencia entre todos los sujetos no debe exceder de 7.
-*   Cada sujeto individual puede tener un máximo de 3 imágenes de referencia.
-*   Cada imagen de referencia debe tener una relación ancho-alto entre 1:4 y 4:1.
-*   Cada imagen de referencia debe tener al menos 128 píxeles tanto en ancho como en alto.
+
+* El `prompt` debe tener entre 1 y 2000 caracteres de longitud.
+* Puedes definir múltiples sujetos, pero el número total de imágenes de referencia entre todos los sujetos no debe exceder de 7.
+* Cada sujeto individual puede tener un máximo de 3 imágenes de referencia.
+* Cada imagen de referencia debe tener una relación ancho-alto entre 1:4 y 4:1.
+* Cada imagen de referencia debe tener al menos 128 píxeles tanto en ancho como en alto.
 
 ## Salidas
 

@@ -18,10 +18,11 @@ Este nó utiliza o serviço Magnific AI para ampliar e aprimorar criativamente u
 | `auto_downscale` | BOOLEAN | Não | - | Quando ativado, o nó reduzirá automaticamente a escala da imagem de entrada se a ampliação solicitada exceder o tamanho máximo permitido de saída de 25,3 megapixels (padrão: Falso). |
 
 **Restrições:**
-*   A `image` de entrada deve ser exatamente uma imagem.
-*   A imagem de entrada deve ter uma altura e largura mínimas de 160 pixels.
-*   A proporção da imagem de entrada deve estar entre 1:3 e 3:1.
-*   O tamanho final de saída (dimensões de entrada multiplicadas pelo `scale_factor`) não pode exceder 25.300.000 pixels. Se `auto_downscale` estiver desativado e esse limite for excedido, o nó gerará um erro.
+
+* A `image` de entrada deve ser exatamente uma imagem.
+* A imagem de entrada deve ter uma altura e largura mínimas de 160 pixels.
+* A proporção da imagem de entrada deve estar entre 1:3 e 3:1.
+* O tamanho final de saída (dimensões de entrada multiplicadas pelo `scale_factor`) não pode exceder 25.300.000 pixels. Se `auto_downscale` estiver desativado e esse limite for excedido, o nó gerará um erro.
 
 ## Saídas
 

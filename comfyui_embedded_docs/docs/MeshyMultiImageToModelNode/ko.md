@@ -20,10 +20,11 @@
 | `seed` | INT | 예 | 0 ~ 2147483647 | 생성 과정을 위한 시드 값입니다 (기본값: 0). 결과는 시드와 관계없이 비결정적이지만, 시드를 변경하면 노드가 다시 실행되도록 트리거할 수 있습니다. |
 
 **매개변수 제약 조건:**
-*   `images` 입력에는 2개에서 4개의 이미지를 제공해야 합니다.
-*   `topology` 및 `target_polycount` 매개변수는 `should_remesh`가 `"true"`로 설정된 경우에만 활성화됩니다.
-*   `enable_pbr`, `texture_prompt`, `texture_image` 매개변수는 `should_texture`가 `"true"`로 설정된 경우에만 활성화됩니다.
-*   `texture_prompt`와 `texture_image`는 동시에 사용할 수 없으며, 상호 배타적입니다.
+
+* `images` 입력에는 2개에서 4개의 이미지를 제공해야 합니다.
+* `topology` 및 `target_polycount` 매개변수는 `should_remesh`가 `"true"`로 설정된 경우에만 활성화됩니다.
+* `enable_pbr`, `texture_prompt`, `texture_image` 매개변수는 `should_texture`가 `"true"`로 설정된 경우에만 활성화됩니다.
+* `texture_prompt`와 `texture_image`는 동시에 사용할 수 없으며, 상호 배타적입니다.
 
 ## 출력
 

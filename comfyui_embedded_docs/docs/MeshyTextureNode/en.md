@@ -14,8 +14,9 @@ The Meshy: Texture Node applies AI-generated textures to a 3D model. It takes a 
 | `image_style` | IMAGE | No | - | A 2D reference image to guide the texturing process. Cannot be used at the same time as `text_style_prompt`. |
 
 **Parameter Constraints:**
-*   You must provide either a `text_style_prompt` or an `image_style`, but you cannot provide both at the same time.
-*   The `text_style_prompt` is limited to a maximum of 600 characters.
+
+* You must provide either a `text_style_prompt` or an `image_style`, but you cannot provide both at the same time.
+* The `text_style_prompt` is limited to a maximum of 600 characters.
 
 ## Outputs
 

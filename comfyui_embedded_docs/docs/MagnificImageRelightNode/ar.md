@@ -17,15 +17,16 @@
 | `reference_image` | IMAGE | لا | N/A | صورة مرجعية اختيارية لنقل الإضاءة منها. إذا تم توفيرها، مطلوب صورة واحدة بالضبط. الحد الأدنى للأبعاد هو 160x160 بكسل. يجب أن تكون نسبة الأبعاد بين 1:3 و 3:1. |
 
 **ملاحظة حول الإعدادات المتقدمة:** عند تعيين `advanced_settings` إلى `"enabled"`، تصبح المعاملات المتداخلة التالية نشطة:
-*   `whites`: يضبط ألمع الدرجات اللونية في الصورة. النطاق: 0 إلى 100. الافتراضي: 50.
-*   `blacks`: يضبط أغمق الدرجات اللونية في الصورة. النطاق: 0 إلى 100. الافتراضي: 50.
-*   `brightness`: ضبط السطوع العام. النطاق: 0 إلى 100. الافتراضي: 50.
-*   `contrast`: ضبط التباين. النطاق: 0 إلى 100. الافتراضي: 50.
-*   `saturation`: ضبط تشبع الألوان. النطاق: 0 إلى 100. الافتراضي: 50.
-*   `engine`: اختيار محرك المعالجة. الخيارات: `"automatic"`, `"balanced"`, `"cool"`, `"real"`, `"illusio"`, `"fairy"`, `"colorful_anime"`, `"hard_transform"`, `"softy"`.
-*   `transfer_light_a`: شدة نقل الإضاءة. الخيارات: `"automatic"`, `"low"`, `"medium"`, `"normal"`, `"high"`, `"high_on_faces"`.
-*   `transfer_light_b`: يعدل أيضًا شدة نقل الإضاءة. يمكن دمجه مع عنصر التحكم السابق للحصول على تأثيرات متنوعة. الخيارات: `"automatic"`, `"composition"`, `"straight"`, `"smooth_in"`, `"smooth_out"`, `"smooth_both"`, `"reverse_both"`, `"soft_in"`, `"soft_out"`, `"soft_mid"`, `"style_shift"`, `"strong_shift"`.
-*   `fixed_generation`: يضمن نتائج متسقة مع نفس الإعدادات. الافتراضي: True.
+
+* `whites`: يضبط ألمع الدرجات اللونية في الصورة. النطاق: 0 إلى 100. الافتراضي: 50.
+* `blacks`: يضبط أغمق الدرجات اللونية في الصورة. النطاق: 0 إلى 100. الافتراضي: 50.
+* `brightness`: ضبط السطوع العام. النطاق: 0 إلى 100. الافتراضي: 50.
+* `contrast`: ضبط التباين. النطاق: 0 إلى 100. الافتراضي: 50.
+* `saturation`: ضبط تشبع الألوان. النطاق: 0 إلى 100. الافتراضي: 50.
+* `engine`: اختيار محرك المعالجة. الخيارات: `"automatic"`, `"balanced"`, `"cool"`, `"real"`, `"illusio"`, `"fairy"`, `"colorful_anime"`, `"hard_transform"`, `"softy"`.
+* `transfer_light_a`: شدة نقل الإضاءة. الخيارات: `"automatic"`, `"low"`, `"medium"`, `"normal"`, `"high"`, `"high_on_faces"`.
+* `transfer_light_b`: يعدل أيضًا شدة نقل الإضاءة. يمكن دمجه مع عنصر التحكم السابق للحصول على تأثيرات متنوعة. الخيارات: `"automatic"`, `"composition"`, `"straight"`, `"smooth_in"`, `"smooth_out"`, `"smooth_both"`, `"reverse_both"`, `"soft_in"`, `"soft_out"`, `"soft_mid"`, `"style_shift"`, `"strong_shift"`.
+* `fixed_generation`: يضمن نتائج متسقة مع نفس الإعدادات. الافتراضي: True.
 
 ## المخرجات
 

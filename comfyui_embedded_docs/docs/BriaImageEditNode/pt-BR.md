@@ -18,9 +18,10 @@ O nó Bria FIBO Image Edit permite que você modifique uma imagem existente usan
 | `mask` | MASK | Não | - | Uma imagem de máscara opcional. Se fornecida, as edições serão aplicadas apenas às áreas mascaradas da imagem. |
 
 **Restrições Importantes:**
-*   Você deve fornecer pelo menos uma das entradas `prompt` ou `structured_prompt`. Ambas não podem estar vazias.
-*   Exatamente uma entrada `image` é obrigatória.
-*   Quando o parâmetro `moderation` é definido como `"true"`, três entradas booleanas adicionais ficam disponíveis: `prompt_content_moderation`, `visual_input_moderation` e `visual_output_moderation`.
+
+* Você deve fornecer pelo menos uma das entradas `prompt` ou `structured_prompt`. Ambas não podem estar vazias.
+* Exatamente uma entrada `image` é obrigatória.
+* Quando o parâmetro `moderation` é definido como `"true"`, três entradas booleanas adicionais ficam disponíveis: `prompt_content_moderation`, `visual_input_moderation` e `visual_output_moderation`.
 
 ## Saídas
 

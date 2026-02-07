@@ -20,10 +20,11 @@ Ce nœud utilise l'API Meshy pour générer un modèle 3D à partir de plusieurs
 | `seed` | INT | Oui | 0 à 2147483647 | Une valeur de seed pour le processus de génération (par défaut : 0). Les résultats ne sont pas déterministes quelle que soit la seed, mais la modifier peut déclencher une nouvelle exécution du nœud. |
 
 **Contraintes des paramètres :**
-*   Vous devez fournir entre 2 et 4 images pour l'entrée `images`.
-*   Les paramètres `topology` et `target_polycount` ne sont actifs que lorsque `should_remesh` est défini sur `"true"`.
-*   Les paramètres `enable_pbr`, `texture_prompt` et `texture_image` ne sont actifs que lorsque `should_texture` est défini sur `"true"`.
-*   Vous ne pouvez pas utiliser `texture_prompt` et `texture_image` en même temps ; ils s'excluent mutuellement.
+
+* Vous devez fournir entre 2 et 4 images pour l'entrée `images`.
+* Les paramètres `topology` et `target_polycount` ne sont actifs que lorsque `should_remesh` est défini sur `"true"`.
+* Les paramètres `enable_pbr`, `texture_prompt` et `texture_image` ne sont actifs que lorsque `should_texture` est défini sur `"true"`.
+* Vous ne pouvez pas utiliser `texture_prompt` et `texture_image` en même temps ; ils s'excluent mutuellement.
 
 ## Sorties
 

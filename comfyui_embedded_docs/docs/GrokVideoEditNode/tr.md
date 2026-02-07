@@ -12,8 +12,9 @@ Bu düğüm, mevcut bir videoyu metin tabanlı bir isteme göre düzenlemek içi
 | `seed` | INT | Hayır | 0 ile 2147483647 arası | Düğümün yeniden çalıştırılıp çalıştırılmayacağını belirlemek için bir başlangıç değeri. Gerçek sonuçlar, başlangıç değerinden bağımsız olarak belirleyici değildir (varsayılan: 0). |
 
 **Kısıtlamalar:**
-*   Giriş `video` süresi 1 ile 8.7 saniye arasında olmalıdır.
-*   Giriş `video` dosya boyutu 50MB'ı geçmemelidir.
+
+* Giriş `video` süresi 1 ile 8.7 saniye arasında olmalıdır.
+* Giriş `video` dosya boyutu 50MB'ı geçmemelidir.
 
 ## Çıktılar
 

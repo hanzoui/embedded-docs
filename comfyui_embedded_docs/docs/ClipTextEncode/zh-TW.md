@@ -23,8 +23,8 @@
 
 嵌入模型允許您應用特定的藝術效果或風格。支援的格式包括 `.safetensors`、`.pt` 和 `.bin`。使用嵌入模型的步驟如下：
 
-1.  將檔案放入 `ComfyUI/models/embeddings` 資料夾。
-2.  在您的文字中使用 `embedding:模型名稱` 來引用它。
+1. 將檔案放入 `ComfyUI/models/embeddings` 資料夾。
+2. 在您的文字中使用 `embedding:模型名稱` 來引用它。
 
 範例：如果您在 `ComfyUI/models/embeddings` 資料夾中有一個名為 `EasyNegative.pt` 的模型，則可以像這樣使用它：
 

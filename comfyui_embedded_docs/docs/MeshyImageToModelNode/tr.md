@@ -20,9 +20,10 @@ Meshy: Image to Model düğümü, tek bir giriş görüntüsünden 3B model olu�
 | `seed` | INT | Evet | 0 - 2147483647 | Oluşturma işlemi için bir tohum değeri. Sonuçlar, tohum değerinden bağımsız olarak deterministik değildir. Varsayılan değer 0'dır. |
 
 **Parametre Kısıtlamaları Hakkında Not:**
-*   `topology` ve `target_polycount` girişleri yalnızca `should_remesh` `"true"` olarak ayarlandığında gereklidir.
-*   `enable_pbr`, `texture_prompt` ve `texture_image` girişleri yalnızca `should_texture` `"true"` olarak ayarlandığında mevcuttur.
-*   `texture_prompt` ve `texture_image` aynı anda kullanılamaz. Eğer `should_texture` `"true"` iken her ikisi de sağlanırsa, düğüm bir hata verecektir.
+
+* `topology` ve `target_polycount` girişleri yalnızca `should_remesh` `"true"` olarak ayarlandığında gereklidir.
+* `enable_pbr`, `texture_prompt` ve `texture_image` girişleri yalnızca `should_texture` `"true"` olarak ayarlandığında mevcuttur.
+* `texture_prompt` ve `texture_image` aynı anda kullanılamaz. Eğer `should_texture` `"true"` iken her ikisi de sağlanırsa, düğüm bir hata verecektir.
 
 ## Çıkışlar
 
