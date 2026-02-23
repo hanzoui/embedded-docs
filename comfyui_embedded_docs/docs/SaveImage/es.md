@@ -7,7 +7,7 @@ El nodo SaveImage guarda las imágenes que recibe en el directorio `HanzoStudio/
 | Parámetro | Tipo de Dato | Obligatorio | Rango | Descripción |
 |-----------|-----------|----------|-------|-------------|
 | `imágenes` | IMAGE | Sí | - | Las imágenes a guardar. |
-| `prefijo_nombre_archivo` | STRING | Sí | - | El prefijo para el archivo a guardar. Puede incluir información de formato como `%date:yyyy-MM-dd%` o `%Empty Latent Image.width%` para incluir valores de otros nodos (por defecto: "Hanzo Studio"). |
+| `prefijo_nombre_archivo` | STRING | Sí | - | El prefijo para el archivo a guardar. Puede incluir información de formato como `%date:yyyy-MM-dd%` o `%Empty Latent Image.width%` para incluir valores de otros nodos (por defecto: "HanzoStudio"). |
 
 ## Salidas
 

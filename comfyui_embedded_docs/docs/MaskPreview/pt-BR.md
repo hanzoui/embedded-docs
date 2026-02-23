@@ -7,7 +7,7 @@ O nó MaskPreview gera uma visualização de uma máscara convertendo-a em um fo
 | Parâmetro | Tipo de Dado | Obrigatório | Intervalo | Descrição |
 |-----------|-----------|----------|-------|-------------|
 | `mask` | MASK | Sim | - | Os dados da máscara a serem visualizados e convertidos para o formato de imagem |
-| `filename_prefix` | STRING | Não | - | Prefixo para o nome do arquivo de saída (padrão: "Hanzo Studio") |
+| `filename_prefix` | STRING | Não | - | Prefixo para o nome do arquivo de saída (padrão: "HanzoStudio") |
 | `prompt` | PROMPT | Não | - | Informações do prompt para metadados (fornecido automaticamente) |
 | `extra_pnginfo` | EXTRA_PNGINFO | Não | - | Informações PNG adicionais para metadados (fornecido automaticamente) |
 

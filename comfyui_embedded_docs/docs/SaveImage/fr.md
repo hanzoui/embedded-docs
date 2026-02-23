@@ -5,7 +5,7 @@
 | Paramètre | Type de données | Requis | Plage | Description |
 |-----------|-----------|----------|-------|-------------|
 | `images` | IMAGE | Oui | - | Les images à enregistrer. |
-| `préfixe_du_nom_de_fichier` | STRING | Oui | - | Le préfixe pour le fichier à enregistrer. Peut inclure des informations de formatage telles que `%date:yyyy-MM-dd%` ou `%Empty Latent Image.width%` pour inclure des valeurs provenant d'autres nœuds (par défaut : "Hanzo Studio"). |
+| `préfixe_du_nom_de_fichier` | STRING | Oui | - | Le préfixe pour le fichier à enregistrer. Peut inclure des informations de formatage telles que `%date:yyyy-MM-dd%` ou `%Empty Latent Image.width%` pour inclure des valeurs provenant d'autres nœuds (par défaut : "HanzoStudio"). |
 
 ## Sorties
 

@@ -7,7 +7,7 @@ The SaveWEBM node saves a sequence of images as a WEBM video file. It takes mult
 | Parameter | Data Type | Required | Range | Description |
 |-----------|-----------|----------|-------|-------------|
 | `images` | IMAGE | Yes | - | Sequence of input images to encode as video frames |
-| `filename_prefix` | STRING | No | - | Prefix for the output filename (default: "Hanzo Studio") |
+| `filename_prefix` | STRING | No | - | Prefix for the output filename (default: "HanzoStudio") |
 | `codec` | COMBO | Yes | "vp9"<br>"av1" | Video codec to use for encoding |
 | `fps` | FLOAT | No | 0.01-1000.0 | Frame rate for the output video (default: 24.0) |
 | `crf` | FLOAT | No | 0-63.0 | Quality setting where higher crf means lower quality with smaller file size, lower crf means higher quality with larger file size (default: 32.0) |

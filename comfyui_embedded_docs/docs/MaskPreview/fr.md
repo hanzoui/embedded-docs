@@ -7,7 +7,7 @@ Le nœud MaskPreview génère un aperçu visuel d'un masque en le convertissant 
 | Paramètre | Type de données | Requis | Plage | Description |
 |-----------|-----------|----------|-------|-------------|
 | `mask` | MASK | Oui | - | Les données de masque à visualiser et convertir en format image |
-| `filename_prefix` | STRING | Non | - | Préfixe pour le nom de fichier de sortie (par défaut : "Hanzo Studio") |
+| `filename_prefix` | STRING | Non | - | Préfixe pour le nom de fichier de sortie (par défaut : "HanzoStudio") |
 | `prompt` | PROMPT | Non | - | Informations de prompt pour les métadonnées (fournies automatiquement) |
 | `extra_pnginfo` | EXTRA_PNGINFO | Non | - | Informations PNG supplémentaires pour les métadonnées (fournies automatiquement) |
 

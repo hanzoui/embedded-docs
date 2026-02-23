@@ -7,7 +7,7 @@ The MaskPreview node generates a visual preview of a mask by converting it into 
 | Parameter | Data Type | Required | Range | Description |
 |-----------|-----------|----------|-------|-------------|
 | `mask` | MASK | Yes | - | The mask data to be previewed and converted to image format |
-| `filename_prefix` | STRING | No | - | Prefix for the output filename (default: "Hanzo Studio") |
+| `filename_prefix` | STRING | No | - | Prefix for the output filename (default: "HanzoStudio") |
 | `prompt` | PROMPT | No | - | Prompt information for metadata (automatically provided) |
 | `extra_pnginfo` | EXTRA_PNGINFO | No | - | Additional PNG information for metadata (automatically provided) |
 

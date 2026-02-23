@@ -7,7 +7,7 @@ O nó SaveWEBM salva uma sequência de imagens como um arquivo de vídeo WEBM. E
 | Parâmetro | Tipo de Dados | Obrigatório | Intervalo | Descrição |
 |-----------|-----------|----------|-------|-------------|
 | `images` | IMAGE | Sim | - | Sequência de imagens de entrada para codificar como quadros do vídeo |
-| `filename_prefix` | STRING | Não | - | Prefixo para o nome do arquivo de saída (padrão: "Hanzo Studio") |
+| `filename_prefix` | STRING | Não | - | Prefixo para o nome do arquivo de saída (padrão: "HanzoStudio") |
 | `codec` | COMBO | Sim | "vp9"<br>"av1" | Codec de vídeo a ser usado para a codificação |
 | `fps` | FLOAT | Não | 0.01-1000.0 | Taxa de quadros para o vídeo de saída (padrão: 24.0) |
 | `crf` | FLOAT | Não | 0-63.0 | Configuração de qualidade, onde um valor de `crf` mais alto significa qualidade menor com tamanho de arquivo reduzido, e um valor mais baixo significa qualidade maior com tamanho de arquivo maior (padrão: 32.0) |

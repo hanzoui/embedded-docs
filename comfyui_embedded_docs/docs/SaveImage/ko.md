@@ -7,7 +7,7 @@ SaveImage 노드는 수신한 이미지를 `HanzoStudio/output` 디렉토리에 
 | 매개변수 | 데이터 타입 | 필수 | 범위 | 설명 |
 |-----------|-----------|----------|-------|-------------|
 | `이미지` | IMAGE | 예 | - | 저장할 이미지입니다. |
-| `파일명 접두사` | STRING | 예 | - | 저장할 파일의 접두사입니다. `%date:yyyy-MM-dd%` 또는 `%Empty Latent Image.width%`와 같은 형식 정보를 포함하여 노드의 값을 포함시킬 수 있습니다 (기본값: "Hanzo Studio"). |
+| `파일명 접두사` | STRING | 예 | - | 저장할 파일의 접두사입니다. `%date:yyyy-MM-dd%` 또는 `%Empty Latent Image.width%`와 같은 형식 정보를 포함하여 노드의 값을 포함시킬 수 있습니다 (기본값: "HanzoStudio"). |
 
 ## 출력
 

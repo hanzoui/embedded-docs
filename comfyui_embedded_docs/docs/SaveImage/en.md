@@ -7,7 +7,7 @@ The SaveImage node saves the images it receives to your `HanzoStudio/output` dir
 | Parameter | Data Type | Required | Range | Description |
 |-----------|-----------|----------|-------|-------------|
 | `images` | IMAGE | Yes | - | The images to save. |
-| `filename_prefix` | STRING | Yes | - | The prefix for the file to save. This may include formatting information such as `%date:yyyy-MM-dd%` or `%Empty Latent Image.width%` to include values from nodes (default: "Hanzo Studio"). |
+| `filename_prefix` | STRING | Yes | - | The prefix for the file to save. This may include formatting information such as `%date:yyyy-MM-dd%` or `%Empty Latent Image.width%` to include values from nodes (default: "HanzoStudio"). |
 
 ## Outputs
 

@@ -7,7 +7,7 @@ O nó SaveImage salva as imagens que recebe no diretório `HanzoStudio/output` d
 | Parâmetro | Tipo de Dado | Obrigatório | Intervalo | Descrição |
 |-----------|-----------|----------|-------|-------------|
 | `images` | IMAGE | Sim | - | As imagens a serem salvas. |
-| `filename_prefix` | STRING | Sim | - | O prefixo para o arquivo a ser salvo. Pode incluir informações de formatação, como `%date:yyyy-MM-dd%` ou `%Empty Latent Image.width%`, para incluir valores de outros nós (padrão: "Hanzo Studio"). |
+| `filename_prefix` | STRING | Sim | - | O prefixo para o arquivo a ser salvo. Pode incluir informações de formatação, como `%date:yyyy-MM-dd%` ou `%Empty Latent Image.width%`, para incluir valores de outros nós (padrão: "HanzoStudio"). |
 
 ## Saídas
 

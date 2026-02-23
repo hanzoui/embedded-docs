@@ -7,7 +7,7 @@ MaskPreview düğümü, bir maskeyi 3 kanallı görüntü formatına dönüştü
 | Parametre | Veri Türü | Zorunlu | Aralık | Açıklama |
 |-----------|-----------|----------|-------|-------------|
 | `maske` | MASK | Evet | - | Önizlenecek ve görüntü formatına dönüştürülecek maske verisi |
-| `filename_prefix` | STRING | Hayır | - | Çıktı dosya adı için önek (varsayılan: "Hanzo Studio") |
+| `filename_prefix` | STRING | Hayır | - | Çıktı dosya adı için önek (varsayılan: "HanzoStudio") |
 | `prompt` | PROMPT | Hayır | - | Meta veriler için istem bilgisi (otomatik olarak sağlanır) |
 | `extra_pnginfo` | EXTRA_PNGINFO | Hayır | - | Meta veriler için ek PNG bilgisi (otomatik olarak sağlanır) |
 

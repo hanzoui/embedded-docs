@@ -7,7 +7,7 @@ El nodo MaskPreview genera una vista previa visual de una máscara convirtiéndo
 | Parámetro | Tipo de Dato | Requerido | Rango | Descripción |
 |-----------|-----------|----------|-------|-------------|
 | `mask` | MASK | Sí | - | Los datos de máscara que se previsualizarán y convertirán a formato de imagen |
-| `filename_prefix` | STRING | No | - | Prefijo para el nombre del archivo de salida (por defecto: "Hanzo Studio") |
+| `filename_prefix` | STRING | No | - | Prefijo para el nombre del archivo de salida (por defecto: "HanzoStudio") |
 | `prompt` | PROMPT | No | - | Información del prompt para metadatos (proporcionada automáticamente) |
 | `extra_pnginfo` | EXTRA_PNGINFO | No | - | Información PNG adicional para metadatos (proporcionada automáticamente) |
 

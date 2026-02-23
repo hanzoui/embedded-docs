@@ -7,7 +7,7 @@ SaveImage düğümü aldığı görüntüleri `HanzoStudio/output` dizininize ka
 | Parametre | Veri Türü | Zorunlu | Aralık | Açıklama |
 |-----------|-----------|----------|-------|-------------|
 | `görüntüler` | IMAGE | Evet | - | Kaydedilecek görüntüler. |
-| `dosyaadı_öneki` | STRING | Evet | - | Kaydedilecek dosya için ön ek. Bu, düğümlerden gelen değerleri dahil etmek için `%date:yyyy-MM-dd%` veya `%Empty Latent Image.width%` gibi biçimlendirme bilgilerini içerebilir (varsayılan: "Hanzo Studio"). |
+| `dosyaadı_öneki` | STRING | Evet | - | Kaydedilecek dosya için ön ek. Bu, düğümlerden gelen değerleri dahil etmek için `%date:yyyy-MM-dd%` veya `%Empty Latent Image.width%` gibi biçimlendirme bilgilerini içerebilir (varsayılan: "HanzoStudio"). |
 
 ## Çıkışlar
 
