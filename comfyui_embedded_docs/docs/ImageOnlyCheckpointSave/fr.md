@@ -9,7 +9,7 @@ Le nœud ImageOnlyCheckpointSave enregistre un fichier de point de contrôle con
 | `modèle` | MODEL | Oui | - | Le modèle à sauvegarder dans le point de contrôle |
 | `clip_vision` | CLIP_VISION | Oui | - | L'encodeur de vision CLIP à sauvegarder dans le point de contrôle |
 | `vae` | VAE | Oui | - | Le VAE (Autoencodeur variationnel) à sauvegarder dans le point de contrôle |
-| `préfixe_de_nom_de_fichier` | STRING | Oui | - | Le préfixe pour le nom de fichier de sortie (par défaut : "checkpoints/Hanzo Studio") |
+| `préfixe_de_nom_de_fichier` | STRING | Oui | - | Le préfixe pour le nom de fichier de sortie (par défaut : "checkpoints/HanzoStudio") |
 | `prompt` | PROMPT | Non | - | Paramètre caché pour les données d'invite de workflow |
 | `extra_pnginfo` | EXTRA_PNGINFO | Non | - | Paramètre caché pour les métadonnées PNG supplémentaires |
 

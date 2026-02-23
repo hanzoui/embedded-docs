@@ -1,4 +1,4 @@
-El nodo Load3D es un nodo principal para cargar y procesar archivos de modelos 3D. Al cargar el nodo, obtiene automáticamente los recursos 3D disponibles en `Hanzo Studio/input/3d/`. También puedes subir archivos 3D compatibles para previsualizarlos usando la función de carga.
+El nodo Load3D es un nodo principal para cargar y procesar archivos de modelos 3D. Al cargar el nodo, obtiene automáticamente los recursos 3D disponibles en `HanzoStudio/input/3d/`. También puedes subir archivos 3D compatibles para previsualizarlos usando la función de carga.
 
 **Formatos soportados**
 Actualmente, este nodo soporta varios formatos de archivos 3D, incluyendo `.gltf`, `.glb`, `.obj`, `.fbx` y `.stl`.
@@ -14,7 +14,7 @@ Además de las salidas habituales del nodo, Load3D tiene muchas opciones relacio
 
 | Nombre del parámetro | Tipo           | Descripción                                                        | Predeterminado | Rango         |
 |---------------------|----------------|--------------------------------------------------------------------|----------------|---------------|
-| model_file          | File Selection | Ruta del archivo del modelo 3D, soporta carga, por defecto lee archivos de `Hanzo Studio/input/3d/` | -              | Formatos soportados |
+| model_file          | File Selection | Ruta del archivo del modelo 3D, soporta carga, por defecto lee archivos de `HanzoStudio/input/3d/` | -              | Formatos soportados |
 | width               | INT            | Ancho de renderizado del lienzo                                    | 1024           | 1-4096        |
 | height              | INT            | Alto de renderizado del lienzo                                     | 1024           | 1-4096        |
 
@@ -24,7 +24,7 @@ Además de las salidas habituales del nodo, Load3D tiene muchas opciones relacio
 |--------------------|----------------|--------------------------------------------------------------------|
 | image              | IMAGE          | Imagen renderizada en el lienzo                                    |
 | mask               | MASK           | Máscara que contiene la posición actual del modelo                 |
-| mesh_path          | STRING         | Ruta del archivo del modelo (dentro de la carpeta `Hanzo Studio/input`) |
+| mesh_path          | STRING         | Ruta del archivo del modelo (dentro de la carpeta `HanzoStudio/input`) |
 | normal             | IMAGE          | Mapa de normales                                                   |
 | lineart            | IMAGE          | Salida de imagen de dibujo lineal, el `edge_threshold` se puede ajustar en el menú de modelo del lienzo |
 | camera_info        | LOAD3D_CAMERA  | Información de la cámara                                           |

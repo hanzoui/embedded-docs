@@ -23,10 +23,10 @@
 
 埋め込みモデルを使用すると、特定の芸術的効果やスタイルを適用できます。対応フォーマットは `.safetensors`、`.pt`、`.bin` です。埋め込みモデルを使用するには：
 
-1. ファイルを `Hanzo Studio/models/embeddings` フォルダに配置します。
+1. ファイルを `HanzoStudio/models/embeddings` フォルダに配置します。
 2. テキスト内で `embedding:モデル名` として参照します。
 
-例：`Hanzo Studio/models/embeddings` フォルダに `EasyNegative.pt` というモデルがある場合、以下のように使用できます：
+例：`HanzoStudio/models/embeddings` フォルダに `EasyNegative.pt` というモデルがある場合、以下のように使用できます：
 
 ```
 worst quality, embedding:EasyNegative, bad quality

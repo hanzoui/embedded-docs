@@ -23,10 +23,10 @@
 
 嵌入模型允许您应用特定的艺术效果或风格。支持的格式包括 `.safetensors`、`.pt` 和 `.bin`。要使用嵌入模型：
 
-1. 将文件放置在 `Hanzo Studio/models/embeddings` 文件夹中。
+1. 将文件放置在 `HanzoStudio/models/embeddings` 文件夹中。
 2. 在您的文本中使用 `embedding:模型名称` 来引用它。
 
-示例：如果您在 `Hanzo Studio/models/embeddings` 文件夹中有一个名为 `EasyNegative.pt` 的模型，则可以像这样使用它：
+示例：如果您在 `HanzoStudio/models/embeddings` 文件夹中有一个名为 `EasyNegative.pt` 的模型，则可以像这样使用它：
 
 ```
 worst quality, embedding:EasyNegative, bad quality

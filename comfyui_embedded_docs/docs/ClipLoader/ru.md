@@ -1,8 +1,8 @@
 Этот узел в основном используется для независимой загрузки текстовых энкодеров CLIP.
 Файлы моделей могут быть обнаружены по следующим путям:
 
-- "Hanzo Studio/models/text_encoders/"
-- "Hanzo Studio/models/clip/"
+- "HanzoStudio/models/text_encoders/"
+- "HanzoStudio/models/clip/"
 
 > Если вы сохранили модель после запуска Hanzo Studio, вам нужно будет обновить фронтенд Hanzo Studio, чтобы получить актуальный список путей к файлам моделей
 

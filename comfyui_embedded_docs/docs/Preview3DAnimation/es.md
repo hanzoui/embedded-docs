@@ -1,4 +1,4 @@
-El nodo Preview3DAnimation se utiliza principalmente para previsualizar la salida de modelos 3D. Este nodo recibe dos entradas: una es la `camera_info` del nodo Load3D y la otra es la ruta al archivo del modelo 3D. La ruta del archivo del modelo debe estar ubicada en la carpeta `Hanzo Studio/output`.
+El nodo Preview3DAnimation se utiliza principalmente para previsualizar la salida de modelos 3D. Este nodo recibe dos entradas: una es la `camera_info` del nodo Load3D y la otra es la ruta al archivo del modelo 3D. La ruta del archivo del modelo debe estar ubicada en la carpeta `HanzoStudio/output`.
 
 **Formatos soportados**
 Actualmente, este nodo soporta varios formatos de archivos 3D, incluyendo `.gltf`, `.glb`, `.obj`, `.fbx` y `.stl`.
@@ -12,7 +12,7 @@ Algunas preferencias relacionadas con los nodos 3D se pueden configurar en el me
 | Nombre del parámetro | Tipo           | Descripción                                  |
 | -------------------- | -------------- | -------------------------------------------- |
 | camera_info          | LOAD3D_CAMERA  | Información de la cámara                     |
-| model_file           | STRING  | Ruta del archivo del modelo en `Hanzo Studio/output/` |
+| model_file           | STRING  | Ruta del archivo del modelo en `HanzoStudio/output/` |
 
 ## Descripción del área de lienzo (Canvas)
 

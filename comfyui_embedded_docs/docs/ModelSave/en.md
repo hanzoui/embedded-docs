@@ -7,7 +7,7 @@ The ModelSave node saves trained or modified models to your computer's storage. 
 | Parameter | Data Type | Required | Range | Description |
 |-----------|-----------|----------|-------|-------------|
 | `model` | MODEL | Yes | - | The model to be saved to disk |
-| `filename_prefix` | STRING | Yes | - | The filename and path prefix for the saved model file (default: "diffusion_models/Hanzo Studio") |
+| `filename_prefix` | STRING | Yes | - | The filename and path prefix for the saved model file (default: "diffusion_models/HanzoStudio") |
 | `prompt` | PROMPT | No | - | Workflow prompt information (automatically provided) |
 | `extra_pnginfo` | EXTRA_PNGINFO | No | - | Additional workflow metadata (automatically provided) |
 

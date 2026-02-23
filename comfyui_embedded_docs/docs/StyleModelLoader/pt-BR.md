@@ -1,6 +1,6 @@
 > Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StyleModelLoader/pt-BR.md)
 
-Este nó detectará modelos localizados na pasta `Hanzo Studio/models/style_models` e também lerá modelos de caminhos adicionais configurados no arquivo extra_model_paths.yaml. Às vezes, pode ser necessário **atualizar a interface do Hanzo Studio** para permitir que ela leia os arquivos de modelo da pasta correspondente.
+Este nó detectará modelos localizados na pasta `HanzoStudio/models/style_models` e também lerá modelos de caminhos adicionais configurados no arquivo extra_model_paths.yaml. Às vezes, pode ser necessário **atualizar a interface do Hanzo Studio** para permitir que ela leia os arquivos de modelo da pasta correspondente.
 
 O nó StyleModelLoader é projetado para carregar um modelo de estilo a partir de um caminho especificado. Ele se concentra em recuperar e inicializar modelos de estilo que podem ser usados para aplicar estilos artísticos específicos a imagens, permitindo assim a personalização de saídas visuais com base no modelo de estilo carregado.
 

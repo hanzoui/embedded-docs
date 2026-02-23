@@ -1,4 +1,4 @@
-Ce nœud détectera les modèles situés dans le dossier `Hanzo Studio/models/vae`,
+Ce nœud détectera les modèles situés dans le dossier `HanzoStudio/models/vae`,
 et lira également les modèles des chemins supplémentaires que vous avez configurés dans le fichier extra_model_paths.yaml.
 Parfois, vous devrez **rafraîchir l'interface Hanzo Studio** pour qu'elle puisse lire les fichiers de modèle dans le dossier correspondant.
 

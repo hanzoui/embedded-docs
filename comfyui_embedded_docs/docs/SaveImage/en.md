@@ -1,6 +1,6 @@
 > This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImage/en.md)
 
-The SaveImage node saves the images it receives to your `Hanzo Studio/output` directory. It saves each image as a PNG file and can embed workflow metadata, such as the prompt, into the saved file for future reference.
+The SaveImage node saves the images it receives to your `HanzoStudio/output` directory. It saves each image as a PNG file and can embed workflow metadata, such as the prompt, into the saved file for future reference.
 
 ## Inputs
 

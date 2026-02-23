@@ -1,6 +1,6 @@
 Le nœud DualCLIPLoader est conçu pour charger deux modèles CLIP simultanément, facilitant les opérations nécessitant l'intégration ou la comparaison des caractéristiques des deux modèles.
 
-Ce nœud détectera automatiquement les modèles situés dans le dossier `Hanzo Studio/models/text_encoders`.
+Ce nœud détectera automatiquement les modèles situés dans le dossier `HanzoStudio/models/text_encoders`.
 
 ## Entrées
 

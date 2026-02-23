@@ -2,7 +2,7 @@
 
 {heading_overview}
 
-此節點會偵測位於 `Hanzo Studio/models/checkpoints` 資料夾中的模型，同時也會從 extra_model_paths.yaml 檔案中設定的其他路徑讀取模型。有時您可能需要**重新整理 Hanzo Studio 介面**，才能讓它從相應的資料夾讀取模型檔案。
+此節點會偵測位於 `HanzoStudio/models/checkpoints` 資料夾中的模型，同時也會從 extra_model_paths.yaml 檔案中設定的其他路徑讀取模型。有時您可能需要**重新整理 Hanzo Studio 介面**，才能讓它從相應的資料夾讀取模型檔案。
 
 unCLIPCheckpointLoader 節點專為載入特別針對 unCLIP 模型設計的檢查點而開發。它能從指定的檢查點中便利地檢索並初始化模型、CLIP 視覺模組和 VAE，簡化後續操作或分析的設定流程。
 

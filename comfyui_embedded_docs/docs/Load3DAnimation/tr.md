@@ -1,6 +1,6 @@
 > Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Load3DAnimation/tr.md)
 
-Load3DAnimation düğümü, 3D model dosyalarını yüklemek ve işlemek için temel bir düğümdür. Düğüm yüklendiğinde, otomatik olarak `Hanzo Studio/input/3d/` dizininden mevcut 3D kaynaklarını getirir. Ayrıca, yükleme işlevini kullanarak desteklenen 3D dosyalarını önizleme için yükleyebilirsiniz.
+Load3DAnimation düğümü, 3D model dosyalarını yüklemek ve işlemek için temel bir düğümdür. Düğüm yüklendiğinde, otomatik olarak `HanzoStudio/input/3d/` dizininden mevcut 3D kaynaklarını getirir. Ayrıca, yükleme işlevini kullanarak desteklenen 3D dosyalarını önizleme için yükleyebilirsiniz.
 
 > - Bu düğümün işlevlerinin çoğu Load 3D düğümü ile aynıdır, ancak bu düğüm animasyonlu modelleri yüklemeyi destekler ve düğüm içinde ilgili animasyonları önizleyebilirsiniz.
 > - Bu belgenin içeriği Load3D düğümü ile aynıdır, çünkü animasyon önizleme ve oynatma dışında yetenekleri aynıdır.
@@ -19,7 +19,7 @@ Düzenli düğüm çıktılarının yanı sıra, Load3D'nin tuval menüsünde bi
 
 | Parametre Adı | Tür     | Açıklama                     | Varsayılan | Aralık        |
 |---------------|----------|---------------------------------|---------|--------------|
-| model_file    | Dosya Seçimi | 3D model dosya yolu, yüklemeyi destekler, varsayılan olarak model dosyalarını `Hanzo Studio/input/3d/` dizininden okur | - | Desteklenen biçimler |
+| model_file    | Dosya Seçimi | 3D model dosya yolu, yüklemeyi destekler, varsayılan olarak model dosyalarını `HanzoStudio/input/3d/` dizininden okur | - | Desteklenen biçimler |
 | width         | INT      | Tuval işleme genişliği          | 1024    | 1-4096      |
 | height        | INT      | Tuval işleme yüksekliği         | 1024    | 1-4096      |
 

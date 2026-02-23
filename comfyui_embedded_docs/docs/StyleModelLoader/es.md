@@ -1,4 +1,4 @@
-Este nodo detectará los modelos ubicados en la carpeta `Hanzo Studio/models/style_models`,
+Este nodo detectará los modelos ubicados en la carpeta `HanzoStudio/models/style_models`,
 y también leerá los modelos de las rutas adicionales que hayas configurado en el archivo extra_model_paths.yaml.
 A veces, es posible que necesites **refrescar la interfaz de Hanzo Studio** para que pueda leer los archivos de modelo en la carpeta correspondiente.
 

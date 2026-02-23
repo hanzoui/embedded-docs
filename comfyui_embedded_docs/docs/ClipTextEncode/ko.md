@@ -23,10 +23,10 @@
 
 임베딩 모델을 사용하면 특정 예술적 효과나 스타일을 적용할 수 있습니다. 지원되는 형식은 `.safetensors`, `.pt`, `.bin`입니다. 임베딩 모델을 사용하려면:
 
-1. 파일을 `Hanzo Studio/models/embeddings` 폴더에 넣습니다.
+1. 파일을 `HanzoStudio/models/embeddings` 폴더에 넣습니다.
 2. 텍스트에서 `embedding:모델_이름` 형식으로 참조합니다.
 
-예시: `Hanzo Studio/models/embeddings` 폴더에 `EasyNegative.pt`라는 모델이 있다면, 다음과 같이 사용할 수 있습니다:
+예시: `HanzoStudio/models/embeddings` 폴더에 `EasyNegative.pt`라는 모델이 있다면, 다음과 같이 사용할 수 있습니다:
 
 ```
 worst quality, embedding:EasyNegative, bad quality

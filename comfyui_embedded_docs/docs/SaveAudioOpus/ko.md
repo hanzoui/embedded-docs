@@ -7,7 +7,7 @@ SaveAudioOpus 노드는 오디오 데이터를 Opus 형식 파일로 저장합�
 | 매개변수 | 데이터 타입 | 필수 | 범위 | 설명 |
 |-----------|-----------|----------|-------|-------------|
 | `audio` | AUDIO | 예 | - | Opus 파일로 저장할 오디오 데이터 |
-| `filename_prefix` | STRING | 아니오 | - | 출력 파일 이름의 접두사 (기본값: "audio/Hanzo Studio") |
+| `filename_prefix` | STRING | 아니오 | - | 출력 파일 이름의 접두사 (기본값: "audio/HanzoStudio") |
 | `quality` | COMBO | 아니오 | "64k"<br>"96k"<br>"128k"<br>"192k"<br>"320k" | Opus 파일의 오디오 품질 설정 (기본값: "128k") |
 
 ## 출력

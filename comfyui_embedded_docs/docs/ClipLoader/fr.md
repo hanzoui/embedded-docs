@@ -1,8 +1,8 @@
 Ce nœud est principalement utilisé pour charger indépendamment les modèles d'encodeur de texte CLIP.
 Les fichiers de modèle peuvent être détectés dans les chemins suivants :
 
-- "Hanzo Studio/models/text_encoders/"
-- "Hanzo Studio/models/clip/"
+- "HanzoStudio/models/text_encoders/"
+- "HanzoStudio/models/clip/"
 
 > Si vous sauvegardez un modèle après le démarrage de Hanzo Studio, vous devrez actualiser l'interface frontend de Hanzo Studio pour obtenir la liste la plus récente des chemins de fichiers de modèle
 

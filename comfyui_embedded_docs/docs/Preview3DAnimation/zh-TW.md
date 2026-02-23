@@ -1,6 +1,6 @@
 > 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Preview3DAnimation/zh-TW.md)
 
-Preview3DAnimation 節點主要用於預覽 3D 模型輸出。此節點接收兩個輸入：一個是來自 Load3D 節點的 `camera_info`，另一個是 3D 模型檔案的路徑。模型檔案路徑必須位於 `Hanzo Studio/output` 資料夾內。
+Preview3DAnimation 節點主要用於預覽 3D 模型輸出。此節點接收兩個輸入：一個是來自 Load3D 節點的 `camera_info`，另一個是 3D 模型檔案的路徑。模型檔案路徑必須位於 `HanzoStudio/output` 資料夾內。
 
 **支援格式**
 目前此節點支援多種 3D 檔案格式，包括 `.gltf`、`.glb`、`.obj`、`.fbx` 和 `.stl`。
@@ -14,7 +14,7 @@ Preview3DAnimation 節點主要用於預覽 3D 模型輸出。此節點接收兩
 | 參數名稱    | 類型          | 描述                                  |
 | ----------- | ------------- | ------------------------------------- |
 | camera_info | LOAD3D_CAMERA | 攝影機資訊                            |
-| model_file  | STRING        | `Hanzo Studio/output/` 下的模型檔案路徑    |
+| model_file  | STRING        | `HanzoStudio/output/` 下的模型檔案路徑    |
 
 ## 畫布區域描述
 

@@ -1,8 +1,8 @@
 This node is primarily used for loading CLIP text encoder models independently.
 The model files can be detected in the following paths:
 
-- "Hanzo Studio/models/text_encoders/"
-- "Hanzo Studio/models/clip/"
+- "HanzoStudio/models/text_encoders/"
+- "HanzoStudio/models/clip/"
 
 > If you save a model after Hanzo Studio has started, you'll need to refresh the Hanzo Studio frontend to get the latest model file path list
 

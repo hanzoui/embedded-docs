@@ -1,6 +1,6 @@
 > Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImage/tr.md)
 
-SaveImage düğümü aldığı görüntüleri `Hanzo Studio/output` dizininize kaydeder. Her görüntüyü bir PNG dosyası olarak kaydeder ve gelecekte referans için istem (prompt) gibi iş akışı meta verilerini kaydedilen dosyaya gömebilir.
+SaveImage düğümü aldığı görüntüleri `HanzoStudio/output` dizininize kaydeder. Her görüntüyü bir PNG dosyası olarak kaydeder ve gelecekte referans için istem (prompt) gibi iş akışı meta verilerini kaydedilen dosyaya gömebilir.
 
 ## Girişler
 

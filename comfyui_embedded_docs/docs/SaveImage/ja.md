@@ -1,6 +1,6 @@
 > このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImage/ja.md)
 
-SaveImageノードは、受け取った画像を`Hanzo Studio/output`ディレクトリに保存します。各画像をPNGファイルとして保存し、プロンプトなどのワークフローメタデータを保存されたファイルに埋め込むことができ、将来の参照に役立ちます。
+SaveImageノードは、受け取った画像を`HanzoStudio/output`ディレクトリに保存します。各画像をPNGファイルとして保存し、プロンプトなどのワークフローメタデータを保存されたファイルに埋め込むことができ、将来の参照に役立ちます。
 
 ## 入力
 

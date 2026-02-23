@@ -23,10 +23,10 @@ Piensa en ello como comunicarte con un artista que habla un idioma diferente. El
 
 Los modelos de *embedding* te permiten aplicar efectos o estilos artísticos específicos. Los formatos soportados incluyen `.safetensors`, `.pt` y `.bin`. Para usar un modelo de *embedding*:
 
-1. Coloca el archivo en la carpeta `Hanzo Studio/models/embeddings`.
+1. Coloca el archivo en la carpeta `HanzoStudio/models/embeddings`.
 2. Referéncialo en tu texto usando `embedding:nombre_del_modelo`.
 
-Ejemplo: Si tienes un modelo llamado `EasyNegative.pt` en tu carpeta `Hanzo Studio/models/embeddings`, entonces puedes usarlo así:
+Ejemplo: Si tienes un modelo llamado `EasyNegative.pt` en tu carpeta `HanzoStudio/models/embeddings`, entonces puedes usarlo así:
 
 ```
 worst quality, embedding:EasyNegative, bad quality

@@ -5,13 +5,13 @@ Le nœud `CLIPSave` est conçu pour sauvegarder les modèles d'encodeur de texte
 | Paramètre | Type de Donnée | Requis | Valeur par Défaut | Description |
 |-----------|----------------|---------|------------------|-------------|
 | clip | CLIP | Oui | - | Le modèle CLIP à sauvegarder |
-| filename_prefix | STRING | Oui | "clip/Hanzo Studio" | Le chemin préfixe pour le fichier sauvegardé |
+| filename_prefix | STRING | Oui | "clip/HanzoStudio" | Le chemin préfixe pour le fichier sauvegardé |
 | prompt | PROMPT | Masqué | - | Informations du prompt du flux de travail (pour les métadonnées) |
 | extra_pnginfo | EXTRA_PNGINFO | Masqué | - | Informations PNG supplémentaires (pour les métadonnées) |
 
 ## Sorties
 
-Ce nœud n'a pas de types de sortie définis. Il sauvegarde les fichiers traités dans le dossier `Hanzo Studio/output/`.
+Ce nœud n'a pas de types de sortie définis. Il sauvegarde les fichiers traités dans le dossier `HanzoStudio/output/`.
 
 ### Stratégie de Sauvegarde Multiple
 
@@ -25,7 +25,7 @@ Le nœud sauvegarde différents composants selon le type de modèle CLIP :
 
 ## Notes d'Utilisation
 
-1. **Emplacement des Fichiers** : Tous les fichiers sont sauvegardés dans le répertoire `Hanzo Studio/output/`
+1. **Emplacement des Fichiers** : Tous les fichiers sont sauvegardés dans le répertoire `HanzoStudio/output/`
 2. **Format de Fichier** : Les modèles sont sauvegardés au format SafeTensors pour la sécurité
 3. **Métadonnées** : Inclut les informations du flux de travail et les métadonnées PNG si disponibles
 4. **Convention de Nommage** : Utilise le préfixe spécifié plus les suffixes appropriés selon le type de modèle

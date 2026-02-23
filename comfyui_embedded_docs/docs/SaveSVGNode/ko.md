@@ -7,7 +7,7 @@ SVG 파일을 디스크에 저장합니다. 이 노드는 SVG 데이터를 입�
 | 매개변수 | 데이터 타입 | 필수 | 범위 | 설명 |
 |-----------|-----------|----------|-------|-------------|
 | `svg` | SVG | 예 | - | 디스크에 저장할 SVG 데이터 |
-| `filename_prefix` | STRING | 예 | - | 저장할 파일의 접두사. %date:yyyy-MM-dd% 또는 %Empty Latent Image.width%와 같은 형식 정보를 포함하여 노드의 값을 포함할 수 있습니다. (기본값: "svg/Hanzo Studio") |
+| `filename_prefix` | STRING | 예 | - | 저장할 파일의 접두사. %date:yyyy-MM-dd% 또는 %Empty Latent Image.width%와 같은 형식 정보를 포함하여 노드의 값을 포함할 수 있습니다. (기본값: "svg/HanzoStudio") |
 
 ## 출력
 

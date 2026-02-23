@@ -7,7 +7,7 @@ Le nœud SaveLatent enregistre les tenseurs latents sur le disque sous forme de 
 | Paramètre | Type de données | Requis | Plage | Description |
 |-----------|-----------|----------|-------|-------------|
 | `échantillons` | LATENT | Oui | - | Les échantillons latents à enregistrer sur le disque |
-| `préfixe_du_nom_de_fichier` | STRING | Non | - | Le préfixe pour le nom de fichier de sortie (par défaut : "latents/Hanzo Studio") |
+| `préfixe_du_nom_de_fichier` | STRING | Non | - | Le préfixe pour le nom de fichier de sortie (par défaut : "latents/HanzoStudio") |
 | `prompt` | PROMPT | Non | - | Informations de prompt à inclure dans les métadonnées (paramètre caché) |
 | `extra_pnginfo` | EXTRA_PNGINFO | Non | - | Informations PNG supplémentaires à inclure dans les métadonnées (paramètre caché) |
 

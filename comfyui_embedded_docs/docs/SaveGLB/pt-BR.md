@@ -7,7 +7,7 @@ O nó SaveGLB salva dados de malha 3D como arquivos GLB, que é um formato comum
 | Parâmetro | Tipo de Dados | Obrigatório | Intervalo | Descrição |
 |-----------|-----------|----------|-------|-------------|
 | `mesh` | MESH | Sim | - | Os dados da malha 3D a serem salvos como um arquivo GLB |
-| `filename_prefix` | STRING | Não | - | O prefixo para o nome do arquivo de saída (padrão: "mesh/Hanzo Studio") |
+| `filename_prefix` | STRING | Não | - | O prefixo para o nome do arquivo de saída (padrão: "mesh/HanzoStudio") |
 
 ## Saídas
 

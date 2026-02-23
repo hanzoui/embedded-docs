@@ -1,4 +1,4 @@
-The Load3D node is a core node for loading and processing 3D model files. When loading the node, it automatically retrieves available 3D resources from `Hanzo Studio/input/3d/`. You can also upload supported 3D files for preview using the upload function.
+The Load3D node is a core node for loading and processing 3D model files. When loading the node, it automatically retrieves available 3D resources from `HanzoStudio/input/3d/`. You can also upload supported 3D files for preview using the upload function.
 
 **Supported Formats**
 Currently, this node supports multiple 3D file formats, including `.gltf`, `.glb`, `.obj`, `.fbx`, and `.stl`.
@@ -14,7 +14,7 @@ Besides regular node outputs, Load3D has lots of 3D view-related settings in the
 
 | Parameter Name | Type     | Description                     | Default | Range        |
 |---------------|----------|---------------------------------|---------|--------------|
-| model_file    | File Selection | 3D model file path, supports upload, defaults to reading model files from `Hanzo Studio/input/3d/` | - | Supported formats |
+| model_file    | File Selection | 3D model file path, supports upload, defaults to reading model files from `HanzoStudio/input/3d/` | - | Supported formats |
 | width         | INT      | Canvas rendering width          | 1024    | 1-4096      |
 | height        | INT      | Canvas rendering height         | 1024    | 1-4096      |
 

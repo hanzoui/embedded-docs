@@ -1,9 +1,9 @@
 这是一个模型加载器节点，用于从指定位置加载模型文件，并将其分解为三个核心组件：主模型、文本编码器和图像编解码器。
 
-这个节点会自动检测`Hanzo Studio/models/checkpoints`文件夹下的所有模型文件，以及你在extra_model_paths.yaml文件中配置的额外路径。
+这个节点会自动检测`HanzoStudio/models/checkpoints`文件夹下的所有模型文件，以及你在extra_model_paths.yaml文件中配置的额外路径。
 
 1. **模型兼容性**：确保所选模型与你的工作流程兼容，不同类型的模型（如SD1.5、SDXL、Flux等）需要配合相应的采样器和其他节点
-2. **文件管理**：将模型文件放在`Hanzo Studio/models/checkpoints`文件夹中，或通过extra_model_paths.yaml配置其他路径
+2. **文件管理**：将模型文件放在`HanzoStudio/models/checkpoints`文件夹中，或通过extra_model_paths.yaml配置其他路径
 3. **界面刷新**：如果在Hanzo Studio运行期间添加了新的模型文件，需要刷新浏览器（Ctrl+R）才能在下拉列表中看到新文件
 
 ## 输入

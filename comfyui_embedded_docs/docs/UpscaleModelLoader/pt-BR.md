@@ -1,6 +1,6 @@
 > Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UpscaleModelLoader/pt-BR.md)
 
-Este nó detectará modelos localizados na pasta `Hanzo Studio/models/upscale_models` e também lerá modelos de caminhos adicionais configurados no arquivo extra_model_paths.yaml. Às vezes, pode ser necessário **atualizar a interface do Hanzo Studio** para permitir que ela leia os arquivos de modelo da pasta correspondente.
+Este nó detectará modelos localizados na pasta `HanzoStudio/models/upscale_models` e também lerá modelos de caminhos adicionais configurados no arquivo extra_model_paths.yaml. Às vezes, pode ser necessário **atualizar a interface do Hanzo Studio** para permitir que ela leia os arquivos de modelo da pasta correspondente.
 
 O nó UpscaleModelLoader é projetado para carregar modelos de super-resolução (upscale) de um diretório especificado. Ele facilita a recuperação e preparação de modelos de upscale para tarefas de aumento de resolução de imagem, garantindo que os modelos sejam carregados e configurados corretamente para avaliação.
 

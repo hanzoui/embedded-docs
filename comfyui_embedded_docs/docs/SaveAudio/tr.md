@@ -7,7 +7,7 @@ SaveAudio düğümü, ses verilerini FLAC formatında bir dosyaya kaydeder. Ses 
 | Parametre | Veri Türü | Zorunlu | Aralık | Açıklama |
 |-----------|-----------|----------|-------|-------------|
 | `ses` | AUDIO | Evet | - | Kaydedilecek ses verisi |
-| `dosyaadı_öneki` | STRING | Hayır | - | Çıktı dosya adı için önek (varsayılan: "audio/Hanzo Studio") |
+| `dosyaadı_öneki` | STRING | Hayır | - | Çıktı dosya adı için önek (varsayılan: "audio/HanzoStudio") |
 
 *Not: `prompt` ve `extra_pnginfo` parametreleri gizlidir ve sistem tarafından otomatik olarak işlenir.*
 

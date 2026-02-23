@@ -1,6 +1,6 @@
 > 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImage/zh-TW.md)
 
-此節點將接收到的圖像儲存至您的 `Hanzo Studio/output` 目錄。它會將每個圖像儲存為 PNG 檔案，並可將工作流程元數據（例如提示詞）嵌入已儲存的檔案中，以供日後參考。
+此節點將接收到的圖像儲存至您的 `HanzoStudio/output` 目錄。它會將每個圖像儲存為 PNG 檔案，並可將工作流程元數據（例如提示詞）嵌入已儲存的檔案中，以供日後參考。
 
 ## 輸入參數
 

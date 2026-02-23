@@ -1,4 +1,4 @@
-Le nœud Load3D est un nœud principal pour charger et traiter des fichiers de modèles 3D. Lors du chargement du nœud, il récupère automatiquement les ressources 3D disponibles dans `Hanzo Studio/input/3d/`. Vous pouvez également téléverser des fichiers 3D pris en charge pour les prévisualiser à l'aide de la fonction de téléversement.
+Le nœud Load3D est un nœud principal pour charger et traiter des fichiers de modèles 3D. Lors du chargement du nœud, il récupère automatiquement les ressources 3D disponibles dans `HanzoStudio/input/3d/`. Vous pouvez également téléverser des fichiers 3D pris en charge pour les prévisualiser à l'aide de la fonction de téléversement.
 
 **Formats pris en charge**
 Actuellement, ce nœud prend en charge plusieurs formats de fichiers 3D, y compris `.gltf`, `.glb`, `.obj`, `.fbx` et `.stl`.
@@ -14,7 +14,7 @@ En plus des sorties habituelles du nœud, Load3D propose de nombreuses options l
 
 | Nom du paramètre | Type           | Description                                                        | Par défaut | Plage         |
 |------------------|----------------|--------------------------------------------------------------------|------------|---------------|
-| model_file       | File Selection | Chemin du fichier du modèle 3D, prise en charge du téléversement, lit par défaut les fichiers dans `Hanzo Studio/input/3d/` | -          | Formats pris en charge |
+| model_file       | File Selection | Chemin du fichier du modèle 3D, prise en charge du téléversement, lit par défaut les fichiers dans `HanzoStudio/input/3d/` | -          | Formats pris en charge |
 | width            | INT            | Largeur de rendu du canevas                                        | 1024       | 1-4096        |
 | height           | INT            | Hauteur de rendu du canevas                                        | 1024       | 1-4096        |
 
@@ -24,7 +24,7 @@ En plus des sorties habituelles du nœud, Load3D propose de nombreuses options l
 |------------------|----------------|--------------------------------------------------------------------|
 | image            | IMAGE          | Image rendue sur le canevas                                        |
 | mask             | MASK           | Masque contenant la position actuelle du modèle                    |
-| mesh_path        | STRING         | Chemin du fichier du modèle (dans le dossier `Hanzo Studio/input`)      |
+| mesh_path        | STRING         | Chemin du fichier du modèle (dans le dossier `HanzoStudio/input`)      |
 | normal           | IMAGE          | Carte des normales                                                 |
 | lineart          | IMAGE          | Sortie d’image de dessin au trait, le `edge_threshold` peut être ajusté dans le menu du modèle du canevas |
 | camera_info      | LOAD3D_CAMERA  | Informations de la caméra                                          |

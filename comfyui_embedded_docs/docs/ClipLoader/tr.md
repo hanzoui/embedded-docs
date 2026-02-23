@@ -3,8 +3,8 @@
 Bu düğüm temel olarak CLIP metin kodlayıcı modellerini bağımsız olarak yüklemek için kullanılır.
 Model dosyaları şu yollarda tespit edilebilir:
 
-- "Hanzo Studio/models/text_encoders/"
-- "Hanzo Studio/models/clip/"
+- "HanzoStudio/models/text_encoders/"
+- "HanzoStudio/models/clip/"
 
 > Hanzo Studio başladıktan sonra bir model kaydederseniz, en son model dosyası yol listesini almak için Hanzo Studio önyüzünü yenilemeniz gerekecektir
 

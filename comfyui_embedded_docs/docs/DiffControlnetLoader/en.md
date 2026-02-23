@@ -1,4 +1,4 @@
-This node will detect models located in the `Hanzo Studio/models/controlnet` folder, and it will also read models from additional paths configured in the extra_model_paths.yaml file. Sometimes, you may need to **refresh the Hanzo Studio interface** to allow it to read the model files from the corresponding folder.
+This node will detect models located in the `HanzoStudio/models/controlnet` folder, and it will also read models from additional paths configured in the extra_model_paths.yaml file. Sometimes, you may need to **refresh the Hanzo Studio interface** to allow it to read the model files from the corresponding folder.
 
 The DiffControlNetLoader node is designed for loading differential control networks, which are specialized models that can modify the behavior of another model based on control net specifications. This node allows for the dynamic adjustment of model behaviors by applying differential control nets, facilitating the creation of customized model outputs.
 

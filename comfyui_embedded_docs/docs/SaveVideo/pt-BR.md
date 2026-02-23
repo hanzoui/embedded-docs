@@ -7,7 +7,7 @@ O nó SaveVideo salva o conteúdo de vídeo de entrada no diretório de saída d
 | Parâmetro | Tipo de Dado | Obrigatório | Intervalo | Descrição |
 |-----------|-----------|----------|-------|-------------|
 | `video` | VIDEO | Sim | - | O vídeo a ser salvo. |
-| `filename_prefix` | STRING | Não | - | O prefixo para o arquivo a ser salvo. Pode incluir informações de formatação como `%date:yyyy-MM-dd%` ou `%Empty Latent Image.width%` para incluir valores de outros nós (padrão: "video/Hanzo Studio"). |
+| `filename_prefix` | STRING | Não | - | O prefixo para o arquivo a ser salvo. Pode incluir informações de formatação como `%date:yyyy-MM-dd%` ou `%Empty Latent Image.width%` para incluir valores de outros nós (padrão: "video/HanzoStudio"). |
 | `format` | COMBO | Não | Múltiplas opções disponíveis | O formato para salvar o vídeo (padrão: "auto"). |
 | `codec` | COMBO | Não | Múltiplas opções disponíveis | O codec a ser usado para o vídeo (padrão: "auto"). |
 

@@ -2,7 +2,7 @@
 
 UNETLoader 節點專為透過名稱載入 U-Net 模型而設計，便於在系統中使用預訓練的 U-Net 架構。
 
-此節點會偵測位於 `Hanzo Studio/models/diffusion_models` 資料夾中的模型。
+此節點會偵測位於 `HanzoStudio/models/diffusion_models` 資料夾中的模型。
 
 ## 輸入參數
 

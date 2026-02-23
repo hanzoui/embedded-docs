@@ -1,6 +1,6 @@
 > Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImage/pt-BR.md)
 
-O nó SaveImage salva as imagens que recebe no diretório `Hanzo Studio/output` do seu sistema. Ele salva cada imagem como um arquivo PNG e pode incorporar metadados do fluxo de trabalho, como o prompt, no arquivo salvo para referência futura.
+O nó SaveImage salva as imagens que recebe no diretório `HanzoStudio/output` do seu sistema. Ele salva cada imagem como um arquivo PNG e pode incorporar metadados do fluxo de trabalho, como o prompt, no arquivo salvo para referência futura.
 
 ## Entradas
 

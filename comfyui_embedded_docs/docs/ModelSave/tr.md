@@ -7,7 +7,7 @@ ModelSave düğümü, eğitilmiş veya değiştirilmiş modelleri bilgisayarın�
 | Parametre | Veri Türü | Zorunlu | Aralık | Açıklama |
 |-----------|-----------|----------|-------|-------------|
 | `model` | MODEL | Evet | - | Diske kaydedilecek model |
-| `dosyaadı_öneki` | STRING | Evet | - | Kaydedilen model dosyası için dosya adı ve yol öneki (varsayılan: "diffusion_models/Hanzo Studio") |
+| `dosyaadı_öneki` | STRING | Evet | - | Kaydedilen model dosyası için dosya adı ve yol öneki (varsayılan: "diffusion_models/HanzoStudio") |
 | `prompt` | PROMPT | Hayır | - | İş akışı istem bilgileri (otomatik olarak sağlanır) |
 | `extra_pnginfo` | EXTRA_PNGINFO | Hayır | - | Ek iş akışı üst verisi (otomatik olarak sağlanır) |
 

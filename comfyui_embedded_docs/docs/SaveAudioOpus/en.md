@@ -7,7 +7,7 @@ The SaveAudioOpus node saves audio data to an Opus format file. It takes audio i
 | Parameter | Data Type | Required | Range | Description |
 |-----------|-----------|----------|-------|-------------|
 | `audio` | AUDIO | Yes | - | The audio data to be saved as an Opus file |
-| `filename_prefix` | STRING | No | - | The prefix for the output filename (default: "audio/Hanzo Studio") |
+| `filename_prefix` | STRING | No | - | The prefix for the output filename (default: "audio/HanzoStudio") |
 | `quality` | COMBO | No | "64k"<br>"96k"<br>"128k"<br>"192k"<br>"320k" | The audio quality setting for the Opus file (default: "128k") |
 
 ## Outputs

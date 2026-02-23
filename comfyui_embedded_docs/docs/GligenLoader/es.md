@@ -1,4 +1,4 @@
-Este nodo detectará los modelos ubicados en la carpeta `Hanzo Studio/models/gligen`, y también leerá los modelos de las rutas adicionales que hayas configurado en el archivo extra_model_paths.yaml. A veces, es posible que necesites **refrescar la interfaz de Hanzo Studio** para que pueda leer los archivos de modelo en la carpeta correspondiente.
+Este nodo detectará los modelos ubicados en la carpeta `HanzoStudio/models/gligen`, y también leerá los modelos de las rutas adicionales que hayas configurado en el archivo extra_model_paths.yaml. A veces, es posible que necesites **refrescar la interfaz de Hanzo Studio** para que pueda leer los archivos de modelo en la carpeta correspondiente.
 
 El nodo `GLIGENLoader` está diseñado para cargar modelos GLIGEN, que son modelos generativos especializados. Facilita el proceso de recuperación e inicialización de estos modelos desde rutas especificadas, haciéndolos listos para tareas generativas adicionales.
 

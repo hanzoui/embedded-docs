@@ -1,6 +1,6 @@
 > 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StyleModelLoader/zh-TW.md)
 
-此節點會偵測位於 `Hanzo Studio/models/style_models` 資料夾中的模型，同時也會從 extra_model_paths.yaml 檔案中設定的其他路徑讀取模型。有時您可能需要**重新整理 Hanzo Studio 介面**，才能讓它從相應的資料夾讀取模型檔案。
+此節點會偵測位於 `HanzoStudio/models/style_models` 資料夾中的模型，同時也會從 extra_model_paths.yaml 檔案中設定的其他路徑讀取模型。有時您可能需要**重新整理 Hanzo Studio 介面**，才能讓它從相應的資料夾讀取模型檔案。
 
 StyleModelLoader 節點旨在從指定路徑載入風格模型。它專注於檢索和初始化可用於對影像應用特定藝術風格的風格模型，從而能夠根據載入的風格模型自訂視覺輸出。
 

@@ -2,7 +2,7 @@
 
 UNETLoader düğümü, U-Net modellerini isimle yüklemek için tasarlanmış olup, sistem içinde önceden eğitilmiş U-Net mimarilerinin kullanımını kolaylaştırır.
 
-Bu düğüm, `Hanzo Studio/models/diffusion_models` klasöründe bulunan modelleri tespit edecektir.
+Bu düğüm, `HanzoStudio/models/diffusion_models` klasöründe bulunan modelleri tespit edecektir.
 
 ## Girdiler
 

@@ -1,6 +1,6 @@
 > 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Load3D/zh-TW.md)
 
-Load3D 節點是用於載入和處理 3D 模型檔案的核心節點。載入節點時，它會自動從 `Hanzo Studio/input/3d/` 中取得可用的 3D 資源。您也可以使用上傳功能來上傳支援的 3D 檔案進行預覽。
+Load3D 節點是用於載入和處理 3D 模型檔案的核心節點。載入節點時，它會自動從 `HanzoStudio/input/3d/` 中取得可用的 3D 資源。您也可以使用上傳功能來上傳支援的 3D 檔案進行預覽。
 
 **支援的格式**
 目前，此節點支援多種 3D 檔案格式，包括 `.gltf`、`.glb`、`.obj`、`.fbx` 和 `.stl`。
@@ -16,7 +16,7 @@ Load3D 節點是用於載入和處理 3D 模型檔案的核心節點。載入節
 
 | 參數名稱      | 類型           | 描述                                                         | 預設值 | 範圍          |
 |--------------|----------------|--------------------------------------------------------------|--------|---------------|
-| model_file   | File Selection | 3D 模型檔案路徑，支援上傳，預設從 `Hanzo Studio/input/3d/` 讀取模型檔案 | -      | 支援的格式    |
+| model_file   | File Selection | 3D 模型檔案路徑，支援上傳，預設從 `HanzoStudio/input/3d/` 讀取模型檔案 | -      | 支援的格式    |
 | width        | INT            | 畫布渲染寬度                                                 | 1024   | 1-4096       |
 | height       | INT            | 畫布渲染高度                                                 | 1024   | 1-4096       |
 

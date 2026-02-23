@@ -1,6 +1,6 @@
 > Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraLoaderModelOnly/pt-BR.md)
 
-Este nó detectará modelos localizados na pasta `Hanzo Studio/models/loras` e também lerá modelos de caminhos adicionais configurados no arquivo extra_model_paths.yaml. Às vezes, pode ser necessário **atualizar a interface do Hanzo Studio** para permitir que ela leia os arquivos de modelo da pasta correspondente.
+Este nó detectará modelos localizados na pasta `HanzoStudio/models/loras` e também lerá modelos de caminhos adicionais configurados no arquivo extra_model_paths.yaml. Às vezes, pode ser necessário **atualizar a interface do Hanzo Studio** para permitir que ela leia os arquivos de modelo da pasta correspondente.
 
 Este nó é especializado em carregar um modelo LoRA sem exigir um modelo CLIP, focando em aprimorar ou modificar um determinado modelo com base em parâmetros LoRA. Ele permite o ajuste dinâmico da intensidade do modelo por meio dos parâmetros LoRA, facilitando o controle refinado sobre o comportamento do modelo.
 

@@ -2,6 +2,6 @@
 
 このノードは4つのCLIPモデルを必要とし、それぞれ`clip_name1`、`clip_name2`、`clip_name3`、`clip_name4`という4つのパラメータに対応し、後続のノードで使用するためのCLIPモデル出力を提供します。
 
-このノードは`Hanzo Studio/models/text_encoders`フォルダーにあるモデルを検出し、
+このノードは`HanzoStudio/models/text_encoders`フォルダーにあるモデルを検出し、
 また、extra_model_paths.yamlファイルで設定された追加パスのモデルも読み取ります。
 モデルを追加した後は、**Hanzo Studioインターフェースを再読み込み**する必要がある場合があります。

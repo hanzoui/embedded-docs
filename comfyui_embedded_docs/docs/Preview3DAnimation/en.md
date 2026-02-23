@@ -1,4 +1,4 @@
-Preview3DAnimation node is mainly used to preview 3D model outputs. This node takes two inputs: one is the `camera_info` from the Load3D node, and the other is the path to the 3D model file. The model file path must be located in the `Hanzo Studio/output` folder.
+Preview3DAnimation node is mainly used to preview 3D model outputs. This node takes two inputs: one is the `camera_info` from the Load3D node, and the other is the path to the 3D model file. The model file path must be located in the `HanzoStudio/output` folder.
 
 **Supported Formats**
 Currently, this node supports multiple 3D file formats, including `.gltf`, `.glb`, `.obj`, `.fbx`, and `.stl`.
@@ -12,7 +12,7 @@ Some related preferences for 3D nodes can be configured in Hanzo Studio's settin
 | Parameter Name | Type           | Description                                  |
 | -------------- | -------------- | -------------------------------------------- |
 | camera_info    | LOAD3D_CAMERA  | Camera information                           |
-| model_file     | STRING  | Model file path under `Hanzo Studio/output/`      |
+| model_file     | STRING  | Model file path under `HanzoStudio/output/`      |
 
 ## Canvas Area Description
 

@@ -2,7 +2,7 @@
 
 {heading_overview}
 
-此節點會偵測位於 `Hanzo Studio/models/gligen` 資料夾中的模型，同時也會從 extra_model_paths.yaml 檔案中設定的其他路徑讀取模型。有時您可能需要**重新整理 Hanzo Studio 介面**，讓它能夠從相應的資料夾讀取模型檔案。
+此節點會偵測位於 `HanzoStudio/models/gligen` 資料夾中的模型，同時也會從 extra_model_paths.yaml 檔案中設定的其他路徑讀取模型。有時您可能需要**重新整理 Hanzo Studio 介面**，讓它能夠從相應的資料夾讀取模型檔案。
 
 `GLIGENLoader` 節點專為載入 GLIGEN 模型而設計，這些是專門的生成模型。它簡化了從指定路徑檢索和初始化這些模型的過程，使它們準備好用於後續的生成任務。
 

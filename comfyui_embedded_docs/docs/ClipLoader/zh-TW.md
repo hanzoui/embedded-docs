@@ -3,8 +3,8 @@
 此節點主要用於獨立載入 CLIP 文字編碼器模型。
 模型檔案可以在以下路徑中偵測到：
 
-- "Hanzo Studio/models/text_encoders/"
-- "Hanzo Studio/models/clip/"
+- "HanzoStudio/models/text_encoders/"
+- "HanzoStudio/models/clip/"
 
 > 如果在 Hanzo Studio 啟動後儲存了模型，您需要重新整理 Hanzo Studio 前端以取得最新的模型檔案路徑清單
 

@@ -2,7 +2,7 @@
 
 O nó UNETLoader é projetado para carregar modelos U-Net pelo nome, facilitando o uso de arquiteturas U-Net pré-treinadas dentro do sistema.
 
-Este nó detectará modelos localizados na pasta `Hanzo Studio/models/diffusion_models`.
+Este nó detectará modelos localizados na pasta `HanzoStudio/models/diffusion_models`.
 
 ## Entradas
 

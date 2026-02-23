@@ -23,10 +23,10 @@
 
 تسمح لك نماذج التضمين بتطبيق تأثيرات أو أنماط فنية محددة. التنسيقات المدعومة تشمل `.safetensors` و `.pt` و `.bin`. لاستخدام نموذج تضمين:
 
-1. ضع الملف في مجلد `Hanzo Studio/models/embeddings`.
+1. ضع الملف في مجلد `HanzoStudio/models/embeddings`.
 2. أشر إليه في نصك باستخدام `embedding:اسم_النموذج`.
 
-مثال: إذا كان لديك نموذج باسم `EasyNegative.pt` في مجلد `Hanzo Studio/models/embeddings`، فيمكنك استخدامه هكذا:
+مثال: إذا كان لديك نموذج باسم `EasyNegative.pt` في مجلد `HanzoStudio/models/embeddings`، فيمكنك استخدامه هكذا:
 
 ```
 worst quality, embedding:EasyNegative, bad quality

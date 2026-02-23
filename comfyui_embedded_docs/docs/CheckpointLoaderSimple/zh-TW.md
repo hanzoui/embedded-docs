@@ -2,10 +2,10 @@
 
 這是一個模型載入節點，用於從指定位置載入模型檔案並將其分解為三個核心組件：主模型、文字編碼器和圖像編碼器/解碼器。
 
-此節點會自動偵測 `Hanzo Studio/models/checkpoints` 資料夾中的所有模型檔案，以及您在 `extra_model_paths.yaml` 檔案中配置的額外路徑。
+此節點會自動偵測 `HanzoStudio/models/checkpoints` 資料夾中的所有模型檔案，以及您在 `extra_model_paths.yaml` 檔案中配置的額外路徑。
 
 1. **模型相容性**：確保所選模型與您的工作流程相容。不同模型類型（如 SD1.5、SDXL、Flux 等）需要搭配相應的取樣器和其他節點
-2. **檔案管理**：將模型檔案放置在 `Hanzo Studio/models/checkpoints` 資料夾中，或透過 extra_model_paths.yaml 配置其他路徑
+2. **檔案管理**：將模型檔案放置在 `HanzoStudio/models/checkpoints` 資料夾中，或透過 extra_model_paths.yaml 配置其他路徑
 3. **介面重新整理**：如果在 Hanzo Studio 運行時新增了模型檔案，您需要重新整理瀏覽器（Ctrl+R）才能在下拉清單中看到新檔案
 
 ## 輸入參數

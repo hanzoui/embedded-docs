@@ -7,7 +7,7 @@ The SaveLatent node saves latent tensors to disk as files for later use or shari
 | Parameter | Data Type | Required | Range | Description |
 |-----------|-----------|----------|-------|-------------|
 | `samples` | LATENT | Yes | - | The latent samples to be saved to disk |
-| `filename_prefix` | STRING | No | - | The prefix for the output filename (default: "latents/Hanzo Studio") |
+| `filename_prefix` | STRING | No | - | The prefix for the output filename (default: "latents/HanzoStudio") |
 | `prompt` | PROMPT | No | - | Prompt information to include in metadata (hidden parameter) |
 | `extra_pnginfo` | EXTRA_PNGINFO | No | - | Additional PNG information to include in metadata (hidden parameter) |
 

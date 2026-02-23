@@ -1,6 +1,6 @@
 > Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GLIGENLoader/pt-BR.md)
 
-Este nó detectará modelos localizados na pasta `Hanzo Studio/models/gligen` e também lerá modelos de caminhos adicionais configurados no arquivo extra_model_paths.yaml. Às vezes, pode ser necessário **atualizar a interface do Hanzo Studio** para permitir que ela leia os arquivos de modelo da pasta correspondente.
+Este nó detectará modelos localizados na pasta `HanzoStudio/models/gligen` e também lerá modelos de caminhos adicionais configurados no arquivo extra_model_paths.yaml. Às vezes, pode ser necessário **atualizar a interface do Hanzo Studio** para permitir que ela leia os arquivos de modelo da pasta correspondente.
 
 O nó `GLIGENLoader` é projetado para carregar modelos GLIGEN, que são modelos generativos especializados. Ele facilita o processo de recuperação e inicialização desses modelos a partir de caminhos especificados, deixando-os prontos para tarefas generativas subsequentes.
 

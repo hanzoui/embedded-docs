@@ -7,7 +7,7 @@ SaveAudioMP3 düğümü, ses verilerini bir MP3 dosyası olarak kaydeder. Ses gi
 | Parametre | Veri Türü | Zorunlu | Aralık | Açıklama |
 |-----------|-----------|----------|-------|-------------|
 | `audio` | AUDIO | Evet | - | MP3 dosyası olarak kaydedilecek ses verisi |
-| `filename_prefix` | STRING | Hayır | - | Çıktı dosya adı için ön ek (varsayılan: "audio/Hanzo Studio") |
+| `filename_prefix` | STRING | Hayır | - | Çıktı dosya adı için ön ek (varsayılan: "audio/HanzoStudio") |
 | `quality` | STRING | Hayır | "V0"<br>"128k"<br>"320k" | MP3 dosyası için ses kalitesi ayarı (varsayılan: "V0") |
 | `prompt` | PROMPT | Hayır | - | Dahili prompt verileri (sistem tarafından otomatik olarak sağlanır) |
 | `extra_pnginfo` | EXTRA_PNGINFO | Hayır | - | Ek PNG bilgileri (sistem tarafından otomatik olarak sağlanır) |

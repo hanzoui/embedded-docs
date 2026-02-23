@@ -5,13 +5,13 @@ El nodo `Guardar CLIP` está diseñado para guardar modelos de codificador de te
 | Parámetro | Tipo de Dato | Requerido | Valor Predeterminado | Descripción |
 |-----------|--------------|-----------|---------------------|-------------|
 | clip | CLIP | Sí | - | El modelo CLIP que se va a guardar |
-| prefijo_nombre_archivo | STRING | Sí | "clip/Hanzo Studio" | La ruta del prefijo para el archivo guardado |
+| prefijo_nombre_archivo | STRING | Sí | "clip/HanzoStudio" | La ruta del prefijo para el archivo guardado |
 | prompt | PROMPT | Oculto | - | Información del prompt del flujo de trabajo (para metadatos) |
 | extra_pnginfo | EXTRA_PNGINFO | Oculto | - | Información adicional de PNG (para metadatos) |
 
 ## Salidas
 
-Este nodo no tiene tipos de salida definidos. Guarda los archivos procesados en la carpeta `Hanzo Studio/output/`.
+Este nodo no tiene tipos de salida definidos. Guarda los archivos procesados en la carpeta `HanzoStudio/output/`.
 
 ### Estrategia de Guardado Múltiple
 
@@ -25,7 +25,7 @@ El nodo guarda diferentes componentes según el tipo de modelo CLIP:
 
 ## Notas de Uso
 
-1. **Ubicación de Archivos**: Todos los archivos se guardan en el directorio `Hanzo Studio/output/`
+1. **Ubicación de Archivos**: Todos los archivos se guardan en el directorio `HanzoStudio/output/`
 2. **Formato de Archivo**: Los modelos se guardan en formato SafeTensors para seguridad
 3. **Metadatos**: Incluye información del flujo de trabajo y metadatos PNG si están disponibles
 4. **Convención de Nombres**: Utiliza el prefijo especificado más los sufijos apropiados según el tipo de modelo

@@ -2,7 +2,7 @@
 
 ## 節點概述
 
-Preview3D 節點主要用於預覽 3D 模型輸出。此節點接收兩個輸入：一個是來自 Load3D 節點的 `camera_info`，另一個是 3D 模型檔案的路徑。模型檔案路徑必須位於 `Hanzo Studio/output` 資料夾內。
+Preview3D 節點主要用於預覽 3D 模型輸出。此節點接收兩個輸入：一個是來自 Load3D 節點的 `camera_info`，另一個是 3D 模型檔案的路徑。模型檔案路徑必須位於 `HanzoStudio/output` 資料夾內。
 
 **支援格式**
 目前此節點支援多種 3D 檔案格式，包括 `.gltf`、`.glb`、`.obj`、`.fbx` 和 `.stl`。
@@ -16,7 +16,7 @@ Preview3D 節點主要用於預覽 3D 模型輸出。此節點接收兩個輸入
 | 參數名稱      | 類型           | 描述                                  |
 | ------------- | -------------- | ------------------------------------- |
 | camera_info   | LOAD3D_CAMERA  | 攝影機資訊                            |
-| model_file    | LOAD3D_CAMERA  | `Hanzo Studio/output/` 下的模型檔案路徑    |
+| model_file    | LOAD3D_CAMERA  | `HanzoStudio/output/` 下的模型檔案路徑    |
 
 ## 畫布區域說明
 

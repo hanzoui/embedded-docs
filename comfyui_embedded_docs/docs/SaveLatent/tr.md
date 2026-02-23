@@ -7,7 +7,7 @@ SaveLatent düğümü, gizli tensörleri daha sonra kullanılmak veya paylaşıl
 | Parametre | Veri Türü | Zorunlu | Aralık | Açıklama |
 |-----------|-----------|----------|-------|-------------|
 | `örnekler` | LATENT | Evet | - | Diske kaydedilecek gizli örnekler |
-| `dosyaadı_öneki` | STRING | Hayır | - | Çıktı dosya adı için önek (varsayılan: "latents/Hanzo Studio") |
+| `dosyaadı_öneki` | STRING | Hayır | - | Çıktı dosya adı için önek (varsayılan: "latents/HanzoStudio") |
 | `prompt` | PROMPT | Hayır | - | Meta verilere dahil edilecek prompt bilgisi (gizli parametre) |
 | `extra_pnginfo` | EXTRA_PNGINFO | Hayır | - | Meta verilere dahil edilecek ek PNG bilgisi (gizli parametre) |
 

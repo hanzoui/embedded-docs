@@ -7,7 +7,7 @@ The SaveAudioMP3 node saves audio data as an MP3 file. It takes audio input and 
 | Parameter | Data Type | Required | Range | Description |
 |-----------|-----------|----------|-------|-------------|
 | `audio` | AUDIO | Yes | - | The audio data to be saved as an MP3 file |
-| `filename_prefix` | STRING | No | - | The prefix for the output filename (default: "audio/Hanzo Studio") |
+| `filename_prefix` | STRING | No | - | The prefix for the output filename (default: "audio/HanzoStudio") |
 | `quality` | STRING | No | "V0"<br>"128k"<br>"320k" | The audio quality setting for the MP3 file (default: "V0") |
 | `prompt` | PROMPT | No | - | Internal prompt data (automatically provided by the system) |
 | `extra_pnginfo` | EXTRA_PNGINFO | No | - | Additional PNG information (automatically provided by the system) |

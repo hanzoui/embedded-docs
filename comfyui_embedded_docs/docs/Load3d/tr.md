@@ -1,6 +1,6 @@
 > Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Load3D/tr.md)
 
-Load3D düğümü, 3B model dosyalarını yüklemek ve işlemek için temel bir düğümdür. Düğüm yüklendiğinde, `Hanzo Studio/input/3d/` dizininden mevcut 3B kaynakları otomatik olarak alır. Ayrıca, yükleme işlevini kullanarak desteklenen 3B dosyalarını önizleme amacıyla yükleyebilirsiniz.
+Load3D düğümü, 3B model dosyalarını yüklemek ve işlemek için temel bir düğümdür. Düğüm yüklendiğinde, `HanzoStudio/input/3d/` dizininden mevcut 3B kaynakları otomatik olarak alır. Ayrıca, yükleme işlevini kullanarak desteklenen 3B dosyalarını önizleme amacıyla yükleyebilirsiniz.
 
 **Desteklenen Biçimler**
 Şu anda bu düğüm, `.gltf`, `.glb`, `.obj`, `.fbx` ve `.stl` dahil olmak üzere birden fazla 3B dosya biçimini desteklemektedir.
@@ -16,7 +16,7 @@ Normal düğüm çıktılarının yanı sıra, Load3D'nin tuval menüsünde bir�
 
 | Parametre Adı | Tür     | Açıklama                     | Varsayılan | Aralık        |
 |---------------|----------|---------------------------------|---------|--------------|
-| model_file    | Dosya Seçimi | 3B model dosya yolu, yüklemeyi destekler, varsayılan olarak model dosyalarını `Hanzo Studio/input/3d/` dizininden okur | - | Desteklenen biçimler |
+| model_file    | Dosya Seçimi | 3B model dosya yolu, yüklemeyi destekler, varsayılan olarak model dosyalarını `HanzoStudio/input/3d/` dizininden okur | - | Desteklenen biçimler |
 | width         | INT      | Tuval işleme genişliği          | 1024    | 1-4096      |
 | height        | INT      | Tuval işleme yüksekliği         | 1024    | 1-4096      |
 

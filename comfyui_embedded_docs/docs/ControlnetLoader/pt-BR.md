@@ -1,6 +1,6 @@
 > Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ControlNetLoader/pt-BR.md)
 
-Este nó detectará modelos localizados na pasta `Hanzo Studio/models/controlnet` e também lerá modelos de caminhos adicionais configurados no arquivo extra_model_paths.yaml. Às vezes, pode ser necessário **atualizar a interface do Hanzo Studio** para permitir que ela leia os arquivos de modelo da pasta correspondente.
+Este nó detectará modelos localizados na pasta `HanzoStudio/models/controlnet` e também lerá modelos de caminhos adicionais configurados no arquivo extra_model_paths.yaml. Às vezes, pode ser necessário **atualizar a interface do Hanzo Studio** para permitir que ela leia os arquivos de modelo da pasta correspondente.
 
 O nó ControlNetLoader é projetado para carregar um modelo ControlNet de um caminho especificado. Ele desempenha um papel crucial na inicialização de modelos ControlNet, que são essenciais para aplicar mecanismos de controle sobre o conteúdo gerado ou modificar o conteúdo existente com base em sinais de controle.
 

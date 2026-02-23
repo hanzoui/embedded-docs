@@ -23,10 +23,10 @@ Farklı bir dil konuşan bir sanatçıyla iletişim kurmak gibi düşünün. Gen
 
 Gömme modelleri, belirli sanatsal efektler veya stiller uygulamanıza olanak tanır. Desteklenen formatlar `.safetensors`, `.pt` ve `.bin`'i içerir. Bir gömme modeli kullanmak için:
 
-1. Dosyayı `Hanzo Studio/models/embeddings` klasörüne yerleştirin.
+1. Dosyayı `HanzoStudio/models/embeddings` klasörüne yerleştirin.
 2. Metninizde `embedding:model_adi` kullanarak ona referans verin.
 
-Örnek: `Hanzo Studio/models/embeddings` klasörünüzde `EasyNegative.pt` adlı bir modeliniz varsa, onu şu şekilde kullanabilirsiniz:
+Örnek: `HanzoStudio/models/embeddings` klasörünüzde `EasyNegative.pt` adlı bir modeliniz varsa, onu şu şekilde kullanabilirsiniz:
 
 ```
 worst quality, embedding:EasyNegative, bad quality

@@ -1,4 +1,4 @@
-Preview3D节点主要用来预览3D模型素材输出，这个节点接收两个输入，一个是 Load3D 节点的 `camera_info` 以及 `模型文件` 的路径信息，模型路径输入要求位于 `Hanzo Studio/output` 文件夹
+Preview3D节点主要用来预览3D模型素材输出，这个节点接收两个输入，一个是 Load3D 节点的 `camera_info` 以及 `模型文件` 的路径信息，模型路径输入要求位于 `HanzoStudio/output` 文件夹
 
 **支持格式**
 目前该节点支持多种 3D 文件格式，包括 `.gltf`、`.glb`、`.obj`、`.fbx` 和 `.stl`。
@@ -12,7 +12,7 @@ Preview3D节点主要用来预览3D模型素材输出，这个节点接收两个
 | 参数名称 | 数据类型        | 说明                                  |
 | ------- | ------------- | ------------------------------------- |
 | 相机信息 | LOAD3D_CAMERA | 相机信息                                |
-| 模型文件 | STRING | 位于`Hanzo Studio/output/` 路径下的模型文件路径 |
+| 模型文件 | STRING | 位于`HanzoStudio/output/` 路径下的模型文件路径 |
 
 ## 模型画布(Canvas)区说明
 

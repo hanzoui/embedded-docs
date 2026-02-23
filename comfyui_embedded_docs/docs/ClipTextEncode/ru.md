@@ -23,10 +23,10 @@
 
 Модели эмбеддингов позволяют применять определённые художественные эффекты или стили. Поддерживаемые форматы включают `.safetensors`, `.pt` и `.bin`. Чтобы использовать модель эмбеддинга:
 
-1. Поместите файл в папку `Hanzo Studio/models/embeddings`.
+1. Поместите файл в папку `HanzoStudio/models/embeddings`.
 2. Ссылайтесь на неё в вашем тексте, используя `embedding:имя_модели`.
 
-Пример: Если у вас есть модель с именем `EasyNegative.pt` в папке `Hanzo Studio/models/embeddings`, то вы можете использовать её так:
+Пример: Если у вас есть модель с именем `EasyNegative.pt` в папке `HanzoStudio/models/embeddings`, то вы можете использовать её так:
 
 ```
 worst quality, embedding:EasyNegative, bad quality

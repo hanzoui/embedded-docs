@@ -1,6 +1,6 @@
 > Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageOnlyCheckpointLoader/pt-BR.md)
 
-Este nó detectará modelos localizados na pasta `Hanzo Studio/models/checkpoints` e também lerá modelos de caminhos adicionais configurados no arquivo extra_model_paths.yaml. Às vezes, pode ser necessário **atualizar a interface do Hanzo Studio** para permitir que ela leia os arquivos de modelo da pasta correspondente.
+Este nó detectará modelos localizados na pasta `HanzoStudio/models/checkpoints` e também lerá modelos de caminhos adicionais configurados no arquivo extra_model_paths.yaml. Às vezes, pode ser necessário **atualizar a interface do Hanzo Studio** para permitir que ela leia os arquivos de modelo da pasta correspondente.
 
 Este nó é especializado em carregar checkpoints especificamente para modelos baseados em imagem dentro de fluxos de trabalho de geração de vídeo. Ele recupera e configura de forma eficiente os componentes necessários de um checkpoint fornecido, com foco nos aspectos relacionados a imagem do modelo.
 

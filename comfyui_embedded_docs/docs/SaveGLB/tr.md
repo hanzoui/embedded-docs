@@ -7,7 +7,7 @@ SaveGLB düğümü, 3B mesh verilerini GLB dosyaları olarak kaydeder; bu, 3B mo
 | Parametre | Veri Türü | Gerekli | Aralık | Açıklama |
 |-----------|-----------|----------|-------|-------------|
 | `ağ` | MESH | Evet | - | GLB dosyası olarak kaydedilecek 3B mesh verisi |
-| `dosyaadı_öneki` | STRING | Hayır | - | Çıktı dosya adı için önek (varsayılan: "mesh/Hanzo Studio") |
+| `dosyaadı_öneki` | STRING | Hayır | - | Çıktı dosya adı için önek (varsayılan: "mesh/HanzoStudio") |
 
 ## Çıktılar
 

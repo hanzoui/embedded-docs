@@ -1,8 +1,8 @@
 该节点主要用于单独加载 CLIP 文本编码器模型。
 支持检测以下路径的模型文件检测：
 
-- “Hanzo Studio/models/text_encoders/”
-- “Hanzo Studio/models/clip/”
+- “HanzoStudio/models/text_encoders/”
+- “HanzoStudio/models/clip/”
 
 > 如果你是在 Hanzo Studio 启动后才保存的模型则需要刷新 Hanzo Studio 前端来获取最新的模型文件路径列表
 

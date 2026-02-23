@@ -1,6 +1,6 @@
 > Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/unCLIPCheckpointLoader/tr.md)
 
-Bu düğüm, `Hanzo Studio/models/checkpoints` klasöründe bulunan modelleri algılayacak ve ayrıca extra_model_paths.yaml dosyasında yapılandırılan ek yollardan modelleri okuyacaktır. Bazen, ilgili klasörden model dosyalarını okuyabilmesi için **Hanzo Studio arayüzünü yenilemeniz** gerekebilir.
+Bu düğüm, `HanzoStudio/models/checkpoints` klasöründe bulunan modelleri algılayacak ve ayrıca extra_model_paths.yaml dosyasında yapılandırılan ek yollardan modelleri okuyacaktır. Bazen, ilgili klasörden model dosyalarını okuyabilmesi için **Hanzo Studio arayüzünü yenilemeniz** gerekebilir.
 
 unCLIPCheckpointLoader düğümü, özellikle unCLIP modelleri için uyarlanmış kontrol noktalarını yüklemek üzere tasarlanmıştır. Belirtilen bir kontrol noktasından modellerin, CLIP görü modüllerinin ve VAE'lerin alınmasını ve başlatılmasını kolaylaştırarak, ilerideki işlemler veya analizler için kurulum sürecini basitleştirir.
 

@@ -1,6 +1,6 @@
 > Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAELoader/tr.md)
 
-Bu düğüm, `Hanzo Studio/models/vae` klasöründe bulunan modelleri algılayacak ve ayrıca extra_model_paths.yaml dosyasında yapılandırılan ek yollardan modelleri okuyacaktır. Bazen, ilgili klasörden model dosyalarını okuyabilmesi için **Hanzo Studio arayüzünü yenilemeniz** gerekebilir.
+Bu düğüm, `HanzoStudio/models/vae` klasöründe bulunan modelleri algılayacak ve ayrıca extra_model_paths.yaml dosyasında yapılandırılan ek yollardan modelleri okuyacaktır. Bazen, ilgili klasörden model dosyalarını okuyabilmesi için **Hanzo Studio arayüzünü yenilemeniz** gerekebilir.
 
 VAELoader düğümü, Varyasyonel Otokodlayıcı (VAE) modellerini yüklemek için tasarlanmış olup, hem standart hem de yaklaşık VAE'leri işlemeye özel olarak uyarlanmıştır. VAE'leri isme göre yüklemeyi destekler, 'taesd' ve 'taesdxl' modelleri için özel işleme içerir ve VAE'nin spesifik konfigürasyonuna bağlı olarak dinamik olarak uyum sağlar.
 

@@ -7,7 +7,7 @@ SaveVideo düğümü, giriş video içeriğini Hanzo Studio çıktı dizininize 
 | Parametre | Veri Türü | Zorunlu | Aralık | Açıklama |
 |-----------|-----------|----------|-------|-------------|
 | `video` | VIDEO | Evet | - | Kaydedilecek video. |
-| `dosyaadı_öneki` | STRING | Hayır | - | Kaydedilecek dosya için önek. Bu, düğümlerden gelen değerleri dahil etmek için %date:yyyy-MM-dd% veya %Empty Latent Image.width% gibi biçimlendirme bilgileri içerebilir (varsayılan: "video/Hanzo Studio"). |
+| `dosyaadı_öneki` | STRING | Hayır | - | Kaydedilecek dosya için önek. Bu, düğümlerden gelen değerleri dahil etmek için %date:yyyy-MM-dd% veya %Empty Latent Image.width% gibi biçimlendirme bilgileri içerebilir (varsayılan: "video/HanzoStudio"). |
 | `format` | COMBO | Hayır | Birden fazla seçenek mevcut | Videoyu kaydetmek için kullanılacak format (varsayılan: "auto"). |
 | `codec` | COMBO | Hayır | Birden fazla seçenek mevcut | Video için kullanılacak codec (varsayılan: "auto"). |
 

@@ -4,7 +4,7 @@
 
 DualCLIPLoader 節點專為同時載入兩個 CLIP 模型而設計，便於需要整合或比較兩個模型特徵的操作。
 
-此節點會偵測位於 `Hanzo Studio/models/text_encoders` 資料夾中的模型。
+此節點會偵測位於 `HanzoStudio/models/text_encoders` 資料夾中的模型。
 
 ## 輸入參數
 

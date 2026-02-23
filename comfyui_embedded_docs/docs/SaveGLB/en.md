@@ -7,7 +7,7 @@ The SaveGLB node saves 3D mesh data as GLB files, which is a common format for 3
 | Parameter | Data Type | Required | Range | Description |
 |-----------|-----------|----------|-------|-------------|
 | `mesh` | MESH | Yes | - | The 3D mesh data to be saved as a GLB file |
-| `filename_prefix` | STRING | No | - | The prefix for the output filename (default: "mesh/Hanzo Studio") |
+| `filename_prefix` | STRING | No | - | The prefix for the output filename (default: "mesh/HanzoStudio") |
 
 ## Outputs
 

@@ -7,13 +7,13 @@
 | Parametre | Veri Türü | Zorunlu | Varsayılan Değer | Açıklama |
 |-----------|-----------|----------|---------------|-------------|
 | clip | CLIP | Evet | - | Kaydedilecek CLIP modeli |
-| filename_prefix | STRING | Evet | "clip/Hanzo Studio" | Kaydedilen dosya için ön ek yolu |
+| filename_prefix | STRING | Evet | "clip/HanzoStudio" | Kaydedilen dosya için ön ek yolu |
 | prompt | PROMPT | Gizli | - | İş akışı istem bilgileri (üst veri için) |
 | extra_pnginfo | EXTRA_PNGINFO | Gizli | - | Ek PNG bilgileri (üst veri için) |
 
 ## Çıktılar
 
-Bu düğümün tanımlanmış çıktı türü yoktur. İşlenmiş dosyaları `Hanzo Studio/output/` klasörüne kaydeder.
+Bu düğümün tanımlanmış çıktı türü yoktur. İşlenmiş dosyaları `HanzoStudio/output/` klasörüne kaydeder.
 
 ### Çoklu Dosya Kaydetme Stratejisi
 
@@ -27,7 +27,7 @@ Düğüm, CLIP model türüne göre farklı bileşenleri kaydeder:
 
 ## Kullanım Notları
 
-1. **Dosya Konumu**: Tüm dosyalar `Hanzo Studio/output/` dizininde kaydedilir
+1. **Dosya Konumu**: Tüm dosyalar `HanzoStudio/output/` dizininde kaydedilir
 2. **Dosya Formatı**: Modeller güvenlik için SafeTensors formatında kaydedilir
 3. **Üst Veri**: Mevcutsa iş akışı bilgilerini ve PNG üst verilerini içerir
 4. **İsimlendirme Kuralı**: Belirtilen ön ek artı model türüne göre uygun son ekler kullanır

@@ -1,4 +1,4 @@
-Le nœud Preview3D est principalement utilisé pour prévisualiser la sortie des modèles 3D. Ce nœud prend deux entrées : l'une est le `camera_info` du nœud Load3D, l'autre est le chemin du fichier du modèle 3D. Le chemin du fichier du modèle doit se trouver dans le dossier `Hanzo Studio/output`.
+Le nœud Preview3D est principalement utilisé pour prévisualiser la sortie des modèles 3D. Ce nœud prend deux entrées : l'une est le `camera_info` du nœud Load3D, l'autre est le chemin du fichier du modèle 3D. Le chemin du fichier du modèle doit se trouver dans le dossier `HanzoStudio/output`.
 
 **Formats pris en charge**
 Actuellement, ce nœud prend en charge plusieurs formats de fichiers 3D, y compris `.gltf`, `.glb`, `.obj`, `.fbx` et `.stl`.
@@ -12,7 +12,7 @@ Certaines préférences liées aux nœuds 3D peuvent être configurées dans le 
 | Nom du paramètre | Type           | Description                                                        |
 |------------------|----------------|--------------------------------------------------------------------|
 | camera_info      | LOAD3D_CAMERA  | Informations de la caméra                                          |
-| model_file       | LOAD3D_CAMERA  | Chemin du fichier du modèle dans `Hanzo Studio/output/`                 |
+| model_file       | LOAD3D_CAMERA  | Chemin du fichier du modèle dans `HanzoStudio/output/`                 |
 
 ## Description de la zone Canevas (Canvas)
 

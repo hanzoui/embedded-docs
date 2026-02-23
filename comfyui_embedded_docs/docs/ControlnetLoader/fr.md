@@ -1,4 +1,4 @@
-Ce nœud détecte les modèles situés dans le dossier `Hanzo Studio/models/controlnet` et lit également les modèles des chemins supplémentaires que vous avez configurés dans le fichier extra_model_paths.yaml. Parfois, vous devrez **rafraîchir l'interface Hanzo Studio** pour qu'elle puisse lire les fichiers de modèle dans le dossier correspondant.
+Ce nœud détecte les modèles situés dans le dossier `HanzoStudio/models/controlnet` et lit également les modèles des chemins supplémentaires que vous avez configurés dans le fichier extra_model_paths.yaml. Parfois, vous devrez **rafraîchir l'interface Hanzo Studio** pour qu'elle puisse lire les fichiers de modèle dans le dossier correspondant.
 
 Le nœud ControlNetLoader est conçu pour charger un modèle ControlNet à partir d'un chemin spécifié. Il joue un rôle crucial dans l'initialisation des modèles ControlNet, qui sont essentiels pour appliquer des mécanismes de contrôle sur le contenu généré ou modifier le contenu existant en fonction des signaux de contrôle.
 

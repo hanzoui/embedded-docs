@@ -7,7 +7,7 @@ Le nœud SaveVideo enregistre le contenu vidéo d'entrée dans votre répertoire
 | Paramètre | Type de données | Requis | Plage | Description |
 |-----------|-----------|----------|-------|-------------|
 | `vidéo` | VIDEO | Oui | - | La vidéo à enregistrer. |
-| `préfixe_nom_fichier` | STRING | Non | - | Le préfixe pour le fichier à enregistrer. Peut inclure des informations de formatage telles que %date:yyyy-MM-dd% ou %Empty Latent Image.width% pour inclure des valeurs provenant d'autres nœuds (par défaut : "video/Hanzo Studio"). |
+| `préfixe_nom_fichier` | STRING | Non | - | Le préfixe pour le fichier à enregistrer. Peut inclure des informations de formatage telles que %date:yyyy-MM-dd% ou %Empty Latent Image.width% pour inclure des valeurs provenant d'autres nœuds (par défaut : "video/HanzoStudio"). |
 | `format` | COMBO | Non | Plusieurs options disponibles | Le format d'enregistrement de la vidéo (par défaut : "auto"). |
 | `codec` | COMBO | Non | Plusieurs options disponibles | Le codec à utiliser pour la vidéo (par défaut : "auto"). |
 

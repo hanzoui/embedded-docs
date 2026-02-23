@@ -9,7 +9,7 @@ SaveAudioOpus 节点将音频数据保存为 Opus 格式文件。它接收音频
 | 参数 | 数据类型 | 必需 | 取值范围 | 描述 |
 |------|-----------|------|----------|------|
 | `audio` | AUDIO | 是 | - | 要保存为 Opus 文件的音频数据 |
-| `filename_prefix` | STRING | 否 | - | 输出文件名的前缀（默认："audio/Hanzo Studio"） |
+| `filename_prefix` | STRING | 否 | - | 输出文件名的前缀（默认："audio/HanzoStudio"） |
 | `quality` | COMBO | 否 | "64k"<br>"96k"<br>"128k"<br>"192k"<br>"320k" | Opus 文件的音频质量设置（默认："128k"） |
 
 ## 输出结果

@@ -9,7 +9,7 @@ O nó ImageOnlyCheckpointSave salva um arquivo de checkpoint contendo um modelo,
 | `model` | MODEL | Sim | - | O modelo a ser salvo no checkpoint |
 | `clip_vision` | CLIP_VISION | Sim | - | O codificador de visão CLIP a ser salvo no checkpoint |
 | `vae` | VAE | Sim | - | O VAE (Autoencoder Variacional) a ser salvo no checkpoint |
-| `filename_prefix` | STRING | Sim | - | O prefixo para o nome do arquivo de saída (padrão: "checkpoints/Hanzo Studio") |
+| `filename_prefix` | STRING | Sim | - | O prefixo para o nome do arquivo de saída (padrão: "checkpoints/HanzoStudio") |
 | `prompt` | PROMPT | Não | - | Parâmetro oculto para dados do prompt do fluxo de trabalho |
 | `extra_pnginfo` | EXTRA_PNGINFO | Não | - | Parâmetro oculto para metadados PNG adicionais |
 

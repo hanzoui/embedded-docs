@@ -7,7 +7,7 @@ Le nœud SaveAudioMP3 enregistre les données audio au format MP3. Il prend une 
 | Paramètre | Type de données | Requis | Plage | Description |
 |-----------|-----------|----------|-------|-------------|
 | `audio` | AUDIO | Oui | - | Les données audio à enregistrer au format MP3 |
-| `filename_prefix` | STRING | Non | - | Le préfixe pour le nom du fichier de sortie (par défaut : "audio/Hanzo Studio") |
+| `filename_prefix` | STRING | Non | - | Le préfixe pour le nom du fichier de sortie (par défaut : "audio/HanzoStudio") |
 | `quality` | STRING | Non | "V0"<br>"128k"<br>"320k" | Le paramètre de qualité audio pour le fichier MP3 (par défaut : "V0") |
 | `prompt` | PROMPT | Non | - | Données de prompt internes (fournies automatiquement par le système) |
 | `extra_pnginfo` | EXTRA_PNGINFO | Non | - | Informations PNG supplémentaires (fournies automatiquement par le système) |

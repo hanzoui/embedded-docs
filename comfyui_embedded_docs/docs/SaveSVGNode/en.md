@@ -7,7 +7,7 @@ Save SVG files on disk. This node takes SVG data as input and saves it to your o
 | Parameter | Data Type | Required | Range | Description |
 |-----------|-----------|----------|-------|-------------|
 | `svg` | SVG | Yes | - | The SVG data to be saved to disk |
-| `filename_prefix` | STRING | Yes | - | The prefix for the file to save. This may include formatting information such as %date:yyyy-MM-dd% or %Empty Latent Image.width% to include values from nodes. (default: "svg/Hanzo Studio") |
+| `filename_prefix` | STRING | Yes | - | The prefix for the file to save. This may include formatting information such as %date:yyyy-MM-dd% or %Empty Latent Image.width% to include values from nodes. (default: "svg/HanzoStudio") |
 
 ## Outputs
 

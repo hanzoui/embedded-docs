@@ -1,4 +1,4 @@
-This node will detect models located in the `Hanzo Studio/models/vae` folder, and it will also read models from additional paths configured in the extra_model_paths.yaml file. Sometimes, you may need to **refresh the Hanzo Studio interface** to allow it to read the model files from the corresponding folder.
+This node will detect models located in the `HanzoStudio/models/vae` folder, and it will also read models from additional paths configured in the extra_model_paths.yaml file. Sometimes, you may need to **refresh the Hanzo Studio interface** to allow it to read the model files from the corresponding folder.
 
 The VAELoader node is designed for loading Variational Autoencoder (VAE) models, specifically tailored to handle both standard and approximate VAEs. It supports loading VAEs by name, including specialized handling for 'taesd' and 'taesdxl' models, and dynamically adjusts based on the VAE's specific configuration.
 

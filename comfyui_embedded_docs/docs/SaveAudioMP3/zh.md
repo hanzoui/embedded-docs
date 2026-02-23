@@ -9,7 +9,7 @@ SaveAudioMP3 节点将音频数据保存为 MP3 文件。它接收音频输入�
 | 参数 | 数据类型 | 必需 | 取值范围 | 描述 |
 |------|-----------|------|----------|-------------|
 | `audio` | AUDIO | 是 | - | 要保存为 MP3 文件的音频数据 |
-| `filename_prefix` | STRING | 否 | - | 输出文件名的前缀（默认："audio/Hanzo Studio"） |
+| `filename_prefix` | STRING | 否 | - | 输出文件名的前缀（默认："audio/HanzoStudio"） |
 | `quality` | STRING | 否 | "V0"<br>"128k"<br>"320k" | MP3 文件的音频质量设置（默认："V0"） |
 | `prompt` | PROMPT | 否 | - | 内部提示数据（由系统自动提供） |
 | `extra_pnginfo` | EXTRA_PNGINFO | 否 | - | 额外的 PNG 信息（由系统自动提供） |

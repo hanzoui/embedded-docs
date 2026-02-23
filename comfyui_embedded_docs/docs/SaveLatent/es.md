@@ -7,7 +7,7 @@ El nodo SaveLatent guarda tensores latentes en el disco como archivos para su us
 | Parámetro | Tipo de Dato | Requerido | Rango | Descripción |
 |-----------|-----------|----------|-------|-------------|
 | `muestras` | LATENT | Sí | - | Las muestras latentes que se guardarán en el disco |
-| `prefijo_nombre_archivo` | STRING | No | - | El prefijo para el nombre del archivo de salida (por defecto: "latents/Hanzo Studio") |
+| `prefijo_nombre_archivo` | STRING | No | - | El prefijo para el nombre del archivo de salida (por defecto: "latents/HanzoStudio") |
 | `prompt` | PROMPT | No | - | Información del prompt para incluir en los metadatos (parámetro oculto) |
 | `extra_pnginfo` | EXTRA_PNGINFO | No | - | Información PNG adicional para incluir en los metadatos (parámetro oculto) |
 

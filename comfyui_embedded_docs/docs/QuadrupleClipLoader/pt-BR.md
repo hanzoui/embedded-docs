@@ -4,4 +4,4 @@ O Quadruple CLIP Loader, QuadrupleCLIPLoader, é um dos nós principais do Hanzo
 
 Ele requer 4 modelos CLIP, correspondentes aos parâmetros `clip_name1`, `clip_name2`, `clip_name3` e `clip_name4`, e fornecerá uma saída do modelo CLIP para os nós subsequentes.
 
-Este nó detecta modelos localizados na pasta `Hanzo Studio/models/text_encoders` e também lê modelos de caminhos adicionais configurados no arquivo extra_model_paths.yaml. Às vezes, após adicionar modelos, pode ser necessário **recarregar a interface do Hanzo Studio** para permitir que ela leia os arquivos de modelo na pasta correspondente.
+Este nó detecta modelos localizados na pasta `HanzoStudio/models/text_encoders` e também lê modelos de caminhos adicionais configurados no arquivo extra_model_paths.yaml. Às vezes, após adicionar modelos, pode ser necessário **recarregar a interface do Hanzo Studio** para permitir que ela leia os arquivos de modelo na pasta correspondente.

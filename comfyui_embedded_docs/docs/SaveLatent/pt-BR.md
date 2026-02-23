@@ -7,7 +7,7 @@ O nó SaveLatent salva tensores latentes no disco como arquivos para uso posteri
 | Parâmetro | Tipo de Dados | Obrigatório | Intervalo | Descrição |
 |-----------|-----------|----------|-------|-------------|
 | `samples` | LATENT | Sim | - | As amostras latentes a serem salvas no disco |
-| `filename_prefix` | STRING | Não | - | O prefixo para o nome do arquivo de saída (padrão: "latents/Hanzo Studio") |
+| `filename_prefix` | STRING | Não | - | O prefixo para o nome do arquivo de saída (padrão: "latents/HanzoStudio") |
 | `prompt` | PROMPT | Não | - | Informações do prompt para incluir nos metadados (parâmetro oculto) |
 | `extra_pnginfo` | EXTRA_PNGINFO | Não | - | Informações PNG adicionais para incluir nos metadados (parâmetro oculto) |
 

@@ -1,6 +1,6 @@
 > Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImage/es.md)
 
-El nodo SaveImage guarda las imágenes que recibe en el directorio `Hanzo Studio/output`. Guarda cada imagen como un archivo PNG y puede incrustar metadatos del flujo de trabajo, como el prompt, en el archivo guardado para referencia futura.
+El nodo SaveImage guarda las imágenes que recibe en el directorio `HanzoStudio/output`. Guarda cada imagen como un archivo PNG y puede incrustar metadatos del flujo de trabajo, como el prompt, en el archivo guardado para referencia futura.
 
 ## Entradas
 

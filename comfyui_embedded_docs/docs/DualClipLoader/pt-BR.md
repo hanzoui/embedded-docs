@@ -2,7 +2,7 @@
 
 O nó DualCLIPLoader foi projetado para carregar dois modelos CLIP simultaneamente, facilitando operações que exigem a integração ou comparação de características de ambos os modelos.
 
-Este nó detectará modelos localizados na pasta `Hanzo Studio/models/text_encoders`.
+Este nó detectará modelos localizados na pasta `HanzoStudio/models/text_encoders`.
 
 ## Entradas
 

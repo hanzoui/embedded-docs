@@ -1,6 +1,6 @@
 > Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Preview3D/tr.md)
 
-Preview3D düğümü, 3B model çıktılarını önizlemek için kullanılır. Bu düğüm iki girdi alır: biri Load3D düğümünden gelen `camera_info` bilgisi, diğeri ise 3B model dosyasının yolu. Model dosya yolu, `Hanzo Studio/output` klasörü altında bulunmalıdır.
+Preview3D düğümü, 3B model çıktılarını önizlemek için kullanılır. Bu düğüm iki girdi alır: biri Load3D düğümünden gelen `camera_info` bilgisi, diğeri ise 3B model dosyasının yolu. Model dosya yolu, `HanzoStudio/output` klasörü altında bulunmalıdır.
 
 **Desteklenen Formatlar**
 Şu anda bu düğüm, `.gltf`, `.glb`, `.obj`, `.fbx` ve `.stl` gibi birden fazla 3B dosya formatını desteklemektedir.
@@ -14,7 +14,7 @@ Preview3D düğümü, 3B model çıktılarını önizlemek için kullanılır. B
 | Parametre Adı | Tür            | Açıklama                                      |
 | ------------- | -------------- | --------------------------------------------- |
 | camera_info   | LOAD3D_CAMERA  | Kamera bilgisi                                |
-| model_file    | LOAD3D_CAMERA  | `Hanzo Studio/output/` altındaki model dosya yolu  |
+| model_file    | LOAD3D_CAMERA  | `HanzoStudio/output/` altındaki model dosya yolu  |
 
 ## Tuval Alanı Açıklaması
 

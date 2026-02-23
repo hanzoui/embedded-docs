@@ -1,6 +1,6 @@
 > Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Preview3DAnimation/tr.md)
 
-Preview3DAnimation düğümü öncelikle 3D model çıktılarını önizlemek için kullanılır. Bu düğüm iki girdi alır: biri Load3D düğümünden gelen `camera_info`, diğeri ise 3D model dosyasının yoludur. Model dosya yolu `Hanzo Studio/output` klasörü altında bulunmalıdır.
+Preview3DAnimation düğümü öncelikle 3D model çıktılarını önizlemek için kullanılır. Bu düğüm iki girdi alır: biri Load3D düğümünden gelen `camera_info`, diğeri ise 3D model dosyasının yoludur. Model dosya yolu `HanzoStudio/output` klasörü altında bulunmalıdır.
 
 **Desteklenen Formatlar**
 Şu anda bu düğüm, `.gltf`, `.glb`, `.obj`, `.fbx` ve `.stl` dahil olmak üzere birden fazla 3D dosya formatını desteklemektedir.
@@ -14,7 +14,7 @@ Preview3DAnimation düğümü öncelikle 3D model çıktılarını önizlemek i�
 | Parametre Adı | Tür           | Açıklama                                  |
 | -------------- | -------------- | -------------------------------------------- |
 | camera_info    | LOAD3D_CAMERA  | Kamera bilgisi                           |
-| model_file     | STRING  | `Hanzo Studio/output/` altındaki model dosya yolu      |
+| model_file     | STRING  | `HanzoStudio/output/` altındaki model dosya yolu      |
 
 ## Tuval Alanı Açıklaması
 

@@ -6,6 +6,6 @@ Quadruple CLIP Loader（QuadrupleCLIPLoader）是 Hanzo Studio 的核心節點�
 
 它需要 4 個 CLIP 模型，分別對應參數 `clip_name1`、`clip_name2`、`clip_name3` 和 `clip_name4`，並將提供 CLIP 模型輸出供後續節點使用。
 
-此節點會偵測位於 `Hanzo Studio/models/text_encoders` 資料夾中的模型，
+此節點會偵測位於 `HanzoStudio/models/text_encoders` 資料夾中的模型，
 同時也會從 extra_model_paths.yaml 檔案中配置的額外路徑讀取模型。
 有時在添加模型後，您可能需要**重新載入 Hanzo Studio 介面**，以便讓它讀取相應資料夾中的模型檔案。

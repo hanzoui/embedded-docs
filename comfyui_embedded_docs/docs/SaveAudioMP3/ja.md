@@ -7,7 +7,7 @@ SaveAudioMP3ノードは、オーディオデータをMP3ファイルとして�
 | パラメータ | データ型 | 必須 | 範囲 | 説明 |
 |-----------|-----------|----------|-------|-------------|
 | `audio` | AUDIO | はい | - | MP3ファイルとして保存するオーディオデータ |
-| `filename_prefix` | STRING | いいえ | - | 出力ファイル名のプレフィックス（デフォルト: "audio/Hanzo Studio"） |
+| `filename_prefix` | STRING | いいえ | - | 出力ファイル名のプレフィックス（デフォルト: "audio/HanzoStudio"） |
 | `quality` | STRING | いいえ | "V0"<br>"128k"<br>"320k" | MP3ファイルのオーディオ品質設定（デフォルト: "V0"） |
 | `prompt` | PROMPT | いいえ | - | 内部プロンプトデータ（システムによって自動的に提供されます） |
 | `extra_pnginfo` | EXTRA_PNGINFO | いいえ | - | 追加のPNG情報（システムによって自動的に提供されます） |

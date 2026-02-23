@@ -1,4 +1,4 @@
-This node will detect models located in the `Hanzo Studio/models/checkpoints` folder, and it will also read models from additional paths configured in the extra_model_paths.yaml file. Sometimes, you may need to **refresh the Hanzo Studio interface** to allow it to read the model files from the corresponding folder.
+This node will detect models located in the `HanzoStudio/models/checkpoints` folder, and it will also read models from additional paths configured in the extra_model_paths.yaml file. Sometimes, you may need to **refresh the Hanzo Studio interface** to allow it to read the model files from the corresponding folder.
 
 This node specializes in loading checkpoints specifically for image-based models within video generation workflows. It efficiently retrieves and configures the necessary components from a given checkpoint, focusing on image-related aspects of the model.
 

@@ -7,7 +7,7 @@ SaveAudioMP3 노드는 오디오 데이터를 MP3 파일로 저장합니다. 오
 | 매개변수 | 데이터 타입 | 필수 | 범위 | 설명 |
 |-----------|-----------|----------|-------|-------------|
 | `audio` | AUDIO | 예 | - | MP3 파일로 저장할 오디오 데이터 |
-| `filename_prefix` | STRING | 아니오 | - | 출력 파일명의 접두사 (기본값: "audio/Hanzo Studio") |
+| `filename_prefix` | STRING | 아니오 | - | 출력 파일명의 접두사 (기본값: "audio/HanzoStudio") |
 | `quality` | STRING | 아니오 | "V0"<br>"128k"<br>"320k" | MP3 파일의 오디오 품질 설정 (기본값: "V0") |
 | `prompt` | PROMPT | 아니오 | - | 내부 프롬프트 데이터 (시스템에 의해 자동 제공됨) |
 | `extra_pnginfo` | EXTRA_PNGINFO | 아니오 | - | 추가 PNG 정보 (시스템에 의해 자동 제공됨) |

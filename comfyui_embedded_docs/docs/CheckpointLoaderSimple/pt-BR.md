@@ -2,10 +2,10 @@
 
 Este é um nó carregador de modelos que carrega arquivos de modelo de locais especificados e os decompõe em três componentes principais: o modelo principal, o codificador de texto e o codificador/decodificador de imagem.
 
-Este nó detecta automaticamente todos os arquivos de modelo na pasta `Hanzo Studio/models/checkpoints`, bem como caminhos adicionais configurados no seu arquivo `extra_model_paths.yaml`.
+Este nó detecta automaticamente todos os arquivos de modelo na pasta `HanzoStudio/models/checkpoints`, bem como caminhos adicionais configurados no seu arquivo `extra_model_paths.yaml`.
 
 1. **Compatibilidade do Modelo**: Certifique-se de que o modelo selecionado é compatível com seu fluxo de trabalho. Diferentes tipos de modelo (como SD1.5, SDXL, Flux, etc.) precisam ser emparelhados com amostradores e outros nós correspondentes.
-2. **Gerenciamento de Arquivos**: Coloque os arquivos de modelo na pasta `Hanzo Studio/models/checkpoints`, ou configure outros caminhos através do arquivo `extra_model_paths.yaml`.
+2. **Gerenciamento de Arquivos**: Coloque os arquivos de modelo na pasta `HanzoStudio/models/checkpoints`, ou configure outros caminhos através do arquivo `extra_model_paths.yaml`.
 3. **Atualização da Interface**: Se novos arquivos de modelo forem adicionados enquanto o Hanzo Studio está em execução, você precisa atualizar o navegador (Ctrl+R) para ver os novos arquivos na lista suspensa.
 
 ## Entradas

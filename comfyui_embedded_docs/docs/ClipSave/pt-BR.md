@@ -7,13 +7,13 @@ O nó `CLIPSave` é projetado para salvar modelos de codificador de texto CLIP n
 | Parâmetro | Tipo de Dados | Obrigatório | Valor Padrão | Descrição |
 |-----------|-----------|----------|---------------|-------------|
 | `clip` | CLIP | Sim | - | O modelo CLIP a ser salvo |
-| `filename_prefix` | STRING | Sim | "clip/Hanzo Studio" | O caminho prefixo para o arquivo salvo |
+| `filename_prefix` | STRING | Sim | "clip/HanzoStudio" | O caminho prefixo para o arquivo salvo |
 | `prompt` | PROMPT | Oculto | - | Informações do prompt do fluxo de trabalho (para metadados) |
 | `extra_pnginfo` | EXTRA_PNGINFO | Oculto | - | Informações PNG adicionais (para metadados) |
 
 ## Saídas
 
-Este nó não possui tipos de saída definidos. Ele salva os arquivos processados na pasta `Hanzo Studio/output/`.
+Este nó não possui tipos de saída definidos. Ele salva os arquivos processados na pasta `HanzoStudio/output/`.
 
 ### Estratégia de Salvamento Multi-arquivo
 
@@ -27,7 +27,7 @@ O nó salva diferentes componentes com base no tipo de modelo CLIP:
 
 ## Notas de Uso
 
-1. **Localização do Arquivo**: Todos os arquivos são salvos no diretório `Hanzo Studio/output/`
+1. **Localização do Arquivo**: Todos os arquivos são salvos no diretório `HanzoStudio/output/`
 2. **Formato do Arquivo**: Os modelos são salvos no formato SafeTensors por segurança
 3. **Metadados**: Inclui informações do fluxo de trabalho e metadados PNG, se disponíveis
 4. **Convenção de Nomenclatura**: Utiliza o prefixo especificado mais os sufixos apropriados com base no tipo de modelo

@@ -3,8 +3,8 @@
 يُستخدم هذا العقد بشكل أساسي لتحميل نماذج تشفير النصوص CLIP بشكل مستقل.
 يمكن اكتشاف ملفات النماذج في المسارات التالية:
 
-- "Hanzo Studio/models/text_encoders/"
-- "Hanzo Studio/models/clip/"
+- "HanzoStudio/models/text_encoders/"
+- "HanzoStudio/models/clip/"
 
 > إذا قمت بحفظ نموذج بعد بدء تشغيل Hanzo Studio، فستحتاج إلى تحديث واجهة Hanzo Studio الأمامية للحصول على أحدث قائمة بمسارات ملفات النماذج.
 

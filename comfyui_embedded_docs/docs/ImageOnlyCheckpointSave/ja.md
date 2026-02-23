@@ -9,7 +9,7 @@ ImageOnlyCheckpointSaveノードは、モデル、CLIPビジョンエンコー�
 | `モデル` | MODEL | はい | - | チェックポイントに保存するモデル |
 | `clip_vision` | CLIP_VISION | はい | - | チェックポイントに保存するCLIPビジョンエンコーダー |
 | `vae` | VAE | はい | - | チェックポイントに保存するVAE（変分オートエンコーダー） |
-| `ファイル名プレフィックス` | STRING | はい | - | 出力ファイル名のプレフィックス（デフォルト: "checkpoints/Hanzo Studio"） |
+| `ファイル名プレフィックス` | STRING | はい | - | 出力ファイル名のプレフィックス（デフォルト: "checkpoints/HanzoStudio"） |
 | `prompt` | PROMPT | いいえ | - | ワークフロープロンプトデータ用の非表示パラメータ |
 | `extra_pnginfo` | EXTRA_PNGINFO | いいえ | - | 追加のPNGメタデータ用の非表示パラメータ |
 

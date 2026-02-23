@@ -1,10 +1,10 @@
-このノードは、`Hanzo Studio/models/clip_vision` フォルダーにあるモデルを自動的に検出し、`extra_model_paths.yaml` ファイルで設定された追加パスからのモデルも読み取ります。Hanzo Studioの起動後にモデルを追加した場合は、**Hanzo Studioのインターフェースを更新**して、最新のモデルファイルリストを取得してください。
+このノードは、`HanzoStudio/models/clip_vision` フォルダーにあるモデルを自動的に検出し、`extra_model_paths.yaml` ファイルで設定された追加パスからのモデルも読み取ります。Hanzo Studioの起動後にモデルを追加した場合は、**Hanzo Studioのインターフェースを更新**して、最新のモデルファイルリストを取得してください。
 
 ## 入力
 
 | フィールド       | Data Type      | 説明 |
 |------------------|---------------|------|
-| クリップ名       | COMBO[STRING]  | `Hanzo Studio/models/clip_vision` フォルダー内のすべての対応モデルファイルを一覧表示します。 |
+| クリップ名       | COMBO[STRING]  | `HanzoStudio/models/clip_vision` フォルダー内のすべての対応モデルファイルを一覧表示します。 |
 
 ## 出力
 

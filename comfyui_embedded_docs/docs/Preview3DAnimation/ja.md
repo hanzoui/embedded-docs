@@ -1,4 +1,4 @@
-Preview3DAnimationノードは、3Dモデルの出力をプレビューするためのノードです。このノードは2つの入力を受け取ります。1つはLoad3Dノードの`camera_info`、もう1つは3Dモデルファイルのパスです。モデルファイルのパスは`Hanzo Studio/output`フォルダ内である必要があります。
+Preview3DAnimationノードは、3Dモデルの出力をプレビューするためのノードです。このノードは2つの入力を受け取ります。1つはLoad3Dノードの`camera_info`、もう1つは3Dモデルファイルのパスです。モデルファイルのパスは`HanzoStudio/output`フォルダ内である必要があります。
 
 **対応フォーマット**
 現在、このノードは複数の3Dファイル形式（.gltf、.glb、.obj、.fbx、.stl）に対応しています。
@@ -12,7 +12,7 @@ Preview3DAnimationノードは、3Dモデルの出力をプレビューするた
 | パラメータ名        | データ型        | 説明                     |
 |--------------|------------|--------------------------|
 | camera_info  | LOAD3D_CAMERA | カメラ情報               |
-| model_file   | STRING | `Hanzo Studio/output/`内のモデルファイルパス |
+| model_file   | STRING | `HanzoStudio/output/`内のモデルファイルパス |
 
 ## モデルキャンバス(Canvas)エリアの説明
 

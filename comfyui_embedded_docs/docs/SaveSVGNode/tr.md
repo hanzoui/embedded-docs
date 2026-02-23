@@ -7,7 +7,7 @@ SVG dosyalarını diskte kaydeder. Bu düğüm, SVG verilerini girdi olarak alı
 | Parametre | Veri Türü | Zorunlu | Aralık | Açıklama |
 |-----------|-----------|----------|-------|-------------|
 | `svg` | SVG | Evet | - | Diske kaydedilecek SVG verisi |
-| `filename_prefix` | STRING | Evet | - | Kaydedilecek dosya için ön ek. Bu, düğümlerden gelen değerleri dahil etmek için %date:yyyy-MM-dd% veya %Empty Latent Image.width% gibi biçimlendirme bilgileri içerebilir. (varsayılan: "svg/Hanzo Studio") |
+| `filename_prefix` | STRING | Evet | - | Kaydedilecek dosya için ön ek. Bu, düğümlerden gelen değerleri dahil etmek için %date:yyyy-MM-dd% veya %Empty Latent Image.width% gibi biçimlendirme bilgileri içerebilir. (varsayılan: "svg/HanzoStudio") |
 
 ## Çıktılar
 

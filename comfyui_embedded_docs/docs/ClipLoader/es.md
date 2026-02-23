@@ -1,8 +1,8 @@
 Este nodo se utiliza principalmente para cargar modelos de codificador de texto CLIP de forma independiente.
 Los archivos de modelo se pueden detectar en las siguientes rutas:
 
-- "Hanzo Studio/models/text_encoders/"
-- "Hanzo Studio/models/clip/"
+- "HanzoStudio/models/text_encoders/"
+- "HanzoStudio/models/clip/"
 
 > Si guardas un modelo después de haber iniciado Hanzo Studio, necesitarás actualizar el frontend de Hanzo Studio para obtener la lista más reciente de rutas de archivos de modelo
 

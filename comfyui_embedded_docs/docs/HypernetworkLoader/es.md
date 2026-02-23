@@ -1,4 +1,4 @@
-Este nodo detectará los modelos ubicados en la carpeta `Hanzo Studio/models/hypernetworks`, y también leerá los modelos de las rutas adicionales que hayas configurado en el archivo extra_model_paths.yaml. A veces, es posible que necesites **refrescar la interfaz de Hanzo Studio** para que pueda leer los archivos de modelo en la carpeta correspondiente.
+Este nodo detectará los modelos ubicados en la carpeta `HanzoStudio/models/hypernetworks`, y también leerá los modelos de las rutas adicionales que hayas configurado en el archivo extra_model_paths.yaml. A veces, es posible que necesites **refrescar la interfaz de Hanzo Studio** para que pueda leer los archivos de modelo en la carpeta correspondiente.
 
 El nodo HypernetworkLoader está diseñado para mejorar o modificar las capacidades de un modelo dado aplicando un hypernetwork. Carga un hypernetwork especificado y lo aplica al modelo, alterando potencialmente su comportamiento o rendimiento basado en el parámetro de fuerza. Este proceso permite ajustes dinámicos a la arquitectura o parámetros del modelo, habilitando sistemas de IA más flexibles y adaptativos.
 

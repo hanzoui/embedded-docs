@@ -7,7 +7,7 @@ Le nœud ModelSave permet de sauvegarder des modèles entraînés ou modifiés d
 | Paramètre | Type de données | Requis | Plage | Description |
 |-----------|-----------|----------|-------|-------------|
 | `modèle` | MODEL | Oui | - | Le modèle à sauvegarder sur le disque |
-| `préfixe_fichier` | STRING | Oui | - | Le préfixe du nom de fichier et du chemin pour le fichier de modèle sauvegardé (par défaut : "diffusion_models/Hanzo Studio") |
+| `préfixe_fichier` | STRING | Oui | - | Le préfixe du nom de fichier et du chemin pour le fichier de modèle sauvegardé (par défaut : "diffusion_models/HanzoStudio") |
 | `prompt` | PROMPT | Non | - | Informations du prompt du workflow (fournies automatiquement) |
 | `extra_pnginfo` | EXTRA_PNGINFO | Non | - | Métadonnées supplémentaires du workflow (fournies automatiquement) |
 

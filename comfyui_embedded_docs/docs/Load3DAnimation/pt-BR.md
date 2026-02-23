@@ -1,6 +1,6 @@
 > Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Load3DAnimation/pt-BR.md)
 
-O nó Load3DAnimation é um nó central para carregar e processar arquivos de modelos 3D. Ao carregar o nó, ele recupera automaticamente os recursos 3D disponíveis em `Hanzo Studio/input/3d/`. Você também pode fazer upload de arquivos 3D suportados para visualização usando a função de upload.
+O nó Load3DAnimation é um nó central para carregar e processar arquivos de modelos 3D. Ao carregar o nó, ele recupera automaticamente os recursos 3D disponíveis em `HanzoStudio/input/3d/`. Você também pode fazer upload de arquivos 3D suportados para visualização usando a função de upload.
 
 > - A maioria das funções deste nó é a mesma do nó Load 3D, mas este nó suporta o carregamento de modelos com animações, e você pode visualizar as animações correspondentes no nó.
 > - O conteúdo desta documentação é o mesmo do nó Load3D, porque, exceto pela visualização e reprodução de animações, suas capacidades são idênticas.
@@ -19,7 +19,7 @@ Além das saídas regulares do nó, o Load3D possui muitas configurações relac
 
 | Nome do Parâmetro | Tipo     | Descrição                     | Padrão | Intervalo        |
 |-------------------|----------|---------------------------------|---------|------------------|
-| `model_file`      | Seleção de Arquivo | Caminho do arquivo do modelo 3D, suporta upload, por padrão lê arquivos de modelo de `Hanzo Studio/input/3d/` | - | Formatos suportados |
+| `model_file`      | Seleção de Arquivo | Caminho do arquivo do modelo 3D, suporta upload, por padrão lê arquivos de modelo de `HanzoStudio/input/3d/` | - | Formatos suportados |
 | `width`           | INT      | Largura da renderização da tela | 1024    | 1-4096           |
 | `height`          | INT      | Altura da renderização da tela  | 1024    | 1-4096           |
 

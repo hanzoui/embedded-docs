@@ -1,4 +1,4 @@
-このノードは、`Hanzo Studio/models/style_models` フォルダーにあるモデルを検出し、
+このノードは、`HanzoStudio/models/style_models` フォルダーにあるモデルを検出し、
 また、extra_model_paths.yaml ファイルで設定された追加パスのモデルも読み込みます。
 場合によっては、**Hanzo Studioのインターフェースを更新する**必要があるかもしれませんので、対応するフォルダー内のモデルファイルを読み込むことができます。
 

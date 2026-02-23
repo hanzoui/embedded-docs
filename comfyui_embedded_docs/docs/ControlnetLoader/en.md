@@ -1,4 +1,4 @@
-This node will detect models located in the `Hanzo Studio/models/controlnet` folder, and it will also read models from additional paths configured in the extra_model_paths.yaml file. Sometimes, you may need to **refresh the Hanzo Studio interface** to allow it to read the model files from the corresponding folder.
+This node will detect models located in the `HanzoStudio/models/controlnet` folder, and it will also read models from additional paths configured in the extra_model_paths.yaml file. Sometimes, you may need to **refresh the Hanzo Studio interface** to allow it to read the model files from the corresponding folder.
 
 The ControlNetLoader node is designed to load a ControlNet model from a specified path. It plays a crucial role in initializing ControlNet models, which are essential for applying control mechanisms over generated content or modifying existing content based on control signals.
 

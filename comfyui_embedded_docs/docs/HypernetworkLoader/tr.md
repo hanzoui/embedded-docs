@@ -1,6 +1,6 @@
 > Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HypernetworkLoader/tr.md)
 
-Bu düğüm, `Hanzo Studio/models/hypernetworks` klasöründe bulunan modelleri algılayacak ve ayrıca extra_model_paths.yaml dosyasında yapılandırılan ek yol(lar)dan da modelleri okuyacaktır. Bazen, ilgili klasörden model dosyalarını okuyabilmesi için **Hanzo Studio arayüzünü yenilemeniz** gerekebilir.
+Bu düğüm, `HanzoStudio/models/hypernetworks` klasöründe bulunan modelleri algılayacak ve ayrıca extra_model_paths.yaml dosyasında yapılandırılan ek yol(lar)dan da modelleri okuyacaktır. Bazen, ilgili klasörden model dosyalarını okuyabilmesi için **Hanzo Studio arayüzünü yenilemeniz** gerekebilir.
 
 HypernetworkLoader düğümü, bir hiper ağ uygulayarak belirli bir modelin yeteneklerini geliştirmek veya değiştirmek için tasarlanmıştır. Belirtilen bir hiper ağı yükler ve model üzerinde, güç parametresine bağlı olarak modelin davranışını veya performansını potansiyel olarak değiştirecek şekilde uygular. Bu süreç, modelin mimarisi veya parametreleri üzerinde dinamik ayarlamalara izin vererek daha esnek ve uyarlanabilir yapay zeka sistemlerinin önünü açar.
 

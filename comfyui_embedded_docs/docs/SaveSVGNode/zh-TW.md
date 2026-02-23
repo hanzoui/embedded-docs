@@ -7,7 +7,7 @@
 | 參數名稱 | 資料類型 | 必填 | 數值範圍 | 描述 |
 |-----------|-----------|----------|-------|-------------|
 | `svg` | SVG | 是 | - | 要儲存至磁碟的 SVG 資料 |
-| `filename_prefix` | STRING | 是 | - | 儲存檔案的前綴名稱。可包含格式化資訊，例如 `%date:yyyy-MM-dd%` 或 `%Empty Latent Image.width%` 以包含來自其他節點的數值。（預設值："svg/Hanzo Studio"） |
+| `filename_prefix` | STRING | 是 | - | 儲存檔案的前綴名稱。可包含格式化資訊，例如 `%date:yyyy-MM-dd%` 或 `%Empty Latent Image.width%` 以包含來自其他節點的數值。（預設值："svg/HanzoStudio"） |
 
 ## 輸出結果
 

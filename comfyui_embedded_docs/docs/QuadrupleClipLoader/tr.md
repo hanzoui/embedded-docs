@@ -4,4 +4,4 @@
 
 4 adet CLIP modeli gerektirir; bunlar `clip_name1`, `clip_name2`, `clip_name3` ve `clip_name4` parametrelerine karşılık gelir ve sonraki düğümler için bir CLIP model çıktısı sağlayacaktır.
 
-Bu düğüm, `Hanzo Studio/models/text_encoders` klasöründe bulunan modelleri algılayacak ve ayrıca extra_model_paths.yaml dosyasında yapılandırılan ek yollardan modelleri okuyacaktır. Bazen modelleri ekledikten sonra, ilgili klasördeki model dosyalarını okuyabilmesi için **Hanzo Studio arayüzünü yeniden yüklemeniz** gerekebilir.
+Bu düğüm, `HanzoStudio/models/text_encoders` klasöründe bulunan modelleri algılayacak ve ayrıca extra_model_paths.yaml dosyasında yapılandırılan ek yollardan modelleri okuyacaktır. Bazen modelleri ekledikten sonra, ilgili klasördeki model dosyalarını okuyabilmesi için **Hanzo Studio arayüzünü yeniden yüklemeniz** gerekebilir.

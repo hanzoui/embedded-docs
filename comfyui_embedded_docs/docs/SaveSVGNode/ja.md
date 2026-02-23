@@ -7,7 +7,7 @@ SVGファイルをディスクに保存します。このノードはSVGデー�
 | パラメータ | データ型 | 必須 | 範囲 | 説明 |
 |-----------|-----------|----------|-------|-------------|
 | `svg` | SVG | はい | - | ディスクに保存するSVGデータ |
-| `filename_prefix` | STRING | はい | - | 保存するファイルのプレフィックス。%date:yyyy-MM-dd% や %Empty Latent Image.width% などのフォーマット情報を含めることができ、ノードからの値を含めることができます。（デフォルト: "svg/Hanzo Studio"） |
+| `filename_prefix` | STRING | はい | - | 保存するファイルのプレフィックス。%date:yyyy-MM-dd% や %Empty Latent Image.width% などのフォーマット情報を含めることができ、ノードからの値を含めることができます。（デフォルト: "svg/HanzoStudio"） |
 
 ## 出力
 

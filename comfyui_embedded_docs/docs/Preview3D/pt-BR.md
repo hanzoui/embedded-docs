@@ -1,6 +1,6 @@
 > Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Preview3D/pt-BR.md)
 
-O nó Preview3D é utilizado principalmente para visualizar saídas de modelos 3D. Este nó recebe duas entradas: uma é a `camera_info` do nó Load3D, e a outra é o caminho para o arquivo do modelo 3D. O caminho do arquivo do modelo deve estar localizado na pasta `Hanzo Studio/output`.
+O nó Preview3D é utilizado principalmente para visualizar saídas de modelos 3D. Este nó recebe duas entradas: uma é a `camera_info` do nó Load3D, e a outra é o caminho para o arquivo do modelo 3D. O caminho do arquivo do modelo deve estar localizado na pasta `HanzoStudio/output`.
 
 **Formatos Suportados**
 Atualmente, este nó suporta múltiplos formatos de arquivo 3D, incluindo `.gltf`, `.glb`, `.obj`, `.fbx` e `.stl`.
@@ -14,7 +14,7 @@ Algumas preferências relacionadas aos nós 3D podem ser configuradas no menu de
 | Nome do Parâmetro | Tipo           | Descrição                                  |
 | ----------------- | -------------- | ------------------------------------------ |
 | camera_info       | LOAD3D_CAMERA  | Informações da câmera                      |
-| model_file        | LOAD3D_CAMERA  | Caminho do arquivo do modelo em `Hanzo Studio/output/` |
+| model_file        | LOAD3D_CAMERA  | Caminho do arquivo do modelo em `HanzoStudio/output/` |
 
 ## Descrição da Área da Tela
 

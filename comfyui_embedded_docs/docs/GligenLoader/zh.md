@@ -1,4 +1,4 @@
-该节点会检测位于 `Hanzo Studio/models/gligen` 文件夹下的模型，
+该节点会检测位于 `HanzoStudio/models/gligen` 文件夹下的模型，
 同时也会读取你在 extra_model_paths.yaml 文件中配置的额外路径的模型，
 有时你可能需要 **刷新 Hanzo Studio 界面** 才能让它读取到对应文件夹下的模型文件
 GLIGEN模型加载节点旨在加载GLIGEN模型，这些是专门的生成模型。它简化了从指定路径检索和初始化这些模型的过程，使它们准备好用于进一步的生成任务。

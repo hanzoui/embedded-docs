@@ -3,7 +3,7 @@
 ```markdown
 عُقدة UNETLoader مصممة لتحميل نماذج U-Net بالاسم، مما يسهل استخدام بنى U-Net المدربة مسبقًا داخل النظام.
 
-ستكتشف هذه العقدة النماذج الموجودة في مجلد `Hanzo Studio/models/diffusion_models`.
+ستكتشف هذه العقدة النماذج الموجودة في مجلد `HanzoStudio/models/diffusion_models`.
 
 ## المدخلات
 

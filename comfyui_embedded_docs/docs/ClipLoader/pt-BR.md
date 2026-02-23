@@ -3,8 +3,8 @@
 Este nó é usado principalmente para carregar modelos de codificador de texto CLIP de forma independente.
 Os arquivos de modelo podem ser detectados nos seguintes caminhos:
 
-- "Hanzo Studio/models/text_encoders/"
-- "Hanzo Studio/models/clip/"
+- "HanzoStudio/models/text_encoders/"
+- "HanzoStudio/models/clip/"
 
 > Se você salvar um modelo após o Hanzo Studio ter iniciado, será necessário atualizar a interface do Hanzo Studio para obter a lista mais recente de caminhos de arquivos de modelo.
 

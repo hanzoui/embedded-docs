@@ -1,9 +1,9 @@
 Ceci est un nœud chargeur de modèles qui charge des fichiers de modèles à partir d'emplacements spécifiés et les décompose en trois composants principaux : le modèle principal, l'encodeur de texte et l'encodeur/décodeur d'images.
 
-Ce nœud détecte automatiquement tous les fichiers de modèles dans le dossier `Hanzo Studio/models/checkpoints`, ainsi que les chemins supplémentaires configurés dans votre fichier `extra_model_paths.yaml`.
+Ce nœud détecte automatiquement tous les fichiers de modèles dans le dossier `HanzoStudio/models/checkpoints`, ainsi que les chemins supplémentaires configurés dans votre fichier `extra_model_paths.yaml`.
 
 1. **Compatibilité du modèle** : Assurez-vous que le modèle sélectionné est compatible avec votre flux de travail. Différents types de modèles (comme SD1.5, SDXL, Flux, etc.) doivent être associés aux échantillonneurs correspondants et autres nœuds
-2. **Gestion des fichiers** : Placez les fichiers de modèles dans le dossier `Hanzo Studio/models/checkpoints`, ou configurez d'autres chemins via extra_model_paths.yaml
+2. **Gestion des fichiers** : Placez les fichiers de modèles dans le dossier `HanzoStudio/models/checkpoints`, ou configurez d'autres chemins via extra_model_paths.yaml
 3. **Actualisation de l'interface** : Si de nouveaux fichiers de modèles sont ajoutés pendant que Hanzo Studio fonctionne, vous devez actualiser le navigateur (Ctrl+R) pour voir les nouveaux fichiers dans la liste déroulante
 
 ## Entrées

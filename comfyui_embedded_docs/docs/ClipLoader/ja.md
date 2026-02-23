@@ -1,8 +1,8 @@
 このノードは、主にCLIPテキストエンコーダーモデルを単独でロードするために使用されます。
 モデルファイルは以下のパスで検出できます：
 
-- "Hanzo Studio/models/text_encoders/"
-- "Hanzo Studio/models/clip/"
+- "HanzoStudio/models/text_encoders/"
+- "HanzoStudio/models/clip/"
 
 > Hanzo Studio起動後にモデルを保存した場合、最新のモデルファイルパスリストを取得するためにHanzo Studioフロントエンドを更新する必要があります
 

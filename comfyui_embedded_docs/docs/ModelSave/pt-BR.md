@@ -7,7 +7,7 @@ O nó ModelSave salva modelos treinados ou modificados no armazenamento do seu c
 | Parâmetro | Tipo de Dados | Obrigatório | Intervalo | Descrição |
 |-----------|-----------|----------|-------|-------------|
 | `model` | MODEL | Sim | - | O modelo a ser salvo no disco |
-| `filename_prefix` | STRING | Sim | - | O prefixo do nome do arquivo e do caminho para o arquivo do modelo salvo (padrão: "diffusion_models/Hanzo Studio") |
+| `filename_prefix` | STRING | Sim | - | O prefixo do nome do arquivo e do caminho para o arquivo do modelo salvo (padrão: "diffusion_models/HanzoStudio") |
 | `prompt` | PROMPT | Não | - | Informações do prompt do fluxo de trabalho (fornecido automaticamente) |
 | `extra_pnginfo` | EXTRA_PNGINFO | Não | - | Metadados adicionais do fluxo de trabalho (fornecido automaticamente) |
 

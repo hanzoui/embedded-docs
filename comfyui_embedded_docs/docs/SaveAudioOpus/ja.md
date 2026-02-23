@@ -7,7 +7,7 @@ SaveAudioOpusノードは、音声データをOpus形式のファイルとして
 | パラメータ | データ型 | 必須 | 範囲 | 説明 |
 |-----------|-----------|----------|-------|-------------|
 | `audio` | AUDIO | はい | - | Opusファイルとして保存する音声データ |
-| `filename_prefix` | STRING | いいえ | - | 出力ファイル名のプレフィックス（デフォルト: "audio/Hanzo Studio"） |
+| `filename_prefix` | STRING | いいえ | - | 出力ファイル名のプレフィックス（デフォルト: "audio/HanzoStudio"） |
 | `quality` | COMBO | いいえ | "64k"<br>"96k"<br>"128k"<br>"192k"<br>"320k" | Opusファイルの音声品質設定（デフォルト: "128k"） |
 
 ## 出力

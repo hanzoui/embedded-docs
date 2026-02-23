@@ -9,7 +9,7 @@ ImageOnlyCheckpointSave düğümü, bir model, CLIP görüntü kodlayıcı ve VA
 | `model` | MODEL | Evet | - | Kontrol noktasına kaydedilecek model |
 | `clip_görü` | CLIP_VISION | Evet | - | Kontrol noktasına kaydedilecek CLIP görüntü kodlayıcı |
 | `vae` | VAE | Evet | - | Kontrol noktasına kaydedilecek VAE (Değişimli Otokodlayıcı) |
-| `dosyaadı_öneki` | STRING | Evet | - | Çıktı dosya adı için önek (varsayılan: "checkpoints/Hanzo Studio") |
+| `dosyaadı_öneki` | STRING | Evet | - | Çıktı dosya adı için önek (varsayılan: "checkpoints/HanzoStudio") |
 | `prompt` | PROMPT | Hayır | - | İş akışı istem verileri için gizli parametre |
 | `extra_pnginfo` | EXTRA_PNGINFO | Hayır | - | Ek PNG üst verileri için gizli parametre |
 

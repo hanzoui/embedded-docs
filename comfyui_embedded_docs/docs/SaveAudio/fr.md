@@ -7,7 +7,7 @@ Le nœud SaveAudio enregistre les données audio dans un fichier au format FLAC.
 | Paramètre | Type de données | Requis | Plage | Description |
 |-----------|-----------|----------|-------|-------------|
 | `audio` | AUDIO | Oui | - | Les données audio à enregistrer |
-| `préfixe_du_nom_de_fichier` | STRING | Non | - | Le préfixe pour le nom de fichier de sortie (par défaut : "audio/Hanzo Studio") |
+| `préfixe_du_nom_de_fichier` | STRING | Non | - | Le préfixe pour le nom de fichier de sortie (par défaut : "audio/HanzoStudio") |
 
 *Note : Les paramètres `prompt` et `extra_pnginfo` sont cachés et gérés automatiquement par le système.*
 

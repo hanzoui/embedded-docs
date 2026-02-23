@@ -9,7 +9,7 @@ SaveVideo 節點將輸入的影片內容儲存到您的 Hanzo Studio 輸出目�
 | 參數名稱 | 資料類型 | 必填 | 範圍 | 描述 |
 |-----------|-----------|----------|-------|-------------|
 | `video` | VIDEO | 是 | - | 要儲存的影片。 |
-| `檔名前綴` | STRING | 否 | - | 儲存檔案的檔案名稱前綴。可以包含格式化資訊，例如 `%date:yyyy-MM-dd%` 或 `%Empty Latent Image.width%` 以包含來自節點的值（預設值："video/Hanzo Studio"）。 |
+| `檔名前綴` | STRING | 否 | - | 儲存檔案的檔案名稱前綴。可以包含格式化資訊，例如 `%date:yyyy-MM-dd%` 或 `%Empty Latent Image.width%` 以包含來自節點的值（預設值："video/HanzoStudio"）。 |
 | `格式` | COMBO | 否 | 多個選項可用 | 儲存影片的格式（預設值："auto"）。 |
 | `編碼器` | COMBO | 否 | 多個選項可用 | 用於影片的編解碼器（預設值："auto"）。 |
 

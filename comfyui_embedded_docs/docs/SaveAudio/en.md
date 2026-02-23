@@ -7,7 +7,7 @@ The SaveAudio node saves audio data to a file in FLAC format. It takes audio inp
 | Parameter | Data Type | Required | Range | Description |
 |-----------|-----------|----------|-------|-------------|
 | `audio` | AUDIO | Yes | - | The audio data to be saved |
-| `filename_prefix` | STRING | No | - | The prefix for the output filename (default: "audio/Hanzo Studio") |
+| `filename_prefix` | STRING | No | - | The prefix for the output filename (default: "audio/HanzoStudio") |
 
 *Note: The `prompt` and `extra_pnginfo` parameters are hidden and automatically handled by the system.*
 

@@ -2,7 +2,7 @@
 
 DualCLIPLoader düğümü, iki CLIP modelini aynı anda yüklemek için tasarlanmıştır ve her iki modelin özelliklerinin entegrasyonunu veya karşılaştırılmasını gerektiren işlemleri kolaylaştırır.
 
-Bu düğüm, `Hanzo Studio/models/text_encoders` klasöründe bulunan modelleri tespit edecektir.
+Bu düğüm, `HanzoStudio/models/text_encoders` klasöründe bulunan modelleri tespit edecektir.
 
 ## Girdiler
 

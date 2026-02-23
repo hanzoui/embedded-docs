@@ -7,7 +7,7 @@ O nó SaveAudio salva dados de áudio em um arquivo no formato FLAC. Ele recebe 
 | Parâmetro | Tipo de Dados | Obrigatório | Intervalo | Descrição |
 |-----------|-----------|----------|-------|-------------|
 | `audio` | AUDIO | Sim | - | Os dados de áudio a serem salvos |
-| `filename_prefix` | STRING | Não | - | O prefixo para o nome do arquivo de saída (padrão: "audio/Hanzo Studio") |
+| `filename_prefix` | STRING | Não | - | O prefixo para o nome do arquivo de saída (padrão: "audio/HanzoStudio") |
 
 *Observação: Os parâmetros `prompt` e `extra_pnginfo` estão ocultos e são gerenciados automaticamente pelo sistema.*
 
