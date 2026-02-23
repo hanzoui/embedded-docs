@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadLatent/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadLatent/zh-TW.md)
 
 此節點從輸入目錄中的 .latent 檔案載入先前儲存的潛在表示。它從檔案中讀取潛在張量資料，並在返回潛在資料供其他節點使用之前應用任何必要的縮放調整。
 

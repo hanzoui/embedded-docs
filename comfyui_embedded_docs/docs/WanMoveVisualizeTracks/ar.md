@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveVisualizeTracks/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveVisualizeTracks/ar.md)
 
 يعمل عقد WanMoveVisualizeTracks على تراكب بيانات تتبع الحركة فوق سلسلة من الصور أو إطارات الفيديو. حيث يرسم تمثيلات مرئية للنقاط المتتبعة، بما في ذلك مسارات حركتها ومواضعها الحالية، مما يجعل بيانات الحركة مرئية وأسهل للتحليل.
 

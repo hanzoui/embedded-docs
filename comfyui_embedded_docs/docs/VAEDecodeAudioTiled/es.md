@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeAudioTiled/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeAudioTiled/es.md)
 
 Este nodo convierte una representación de audio comprimida (muestras latentes) de vuelta a una forma de onda de audio utilizando un Autoencoder Variacional (VAE). Procesa los datos en secciones más pequeñas y superpuestas (baldosas o *tiles*) para gestionar el uso de memoria, lo que lo hace adecuado para manejar secuencias de audio más largas.
 

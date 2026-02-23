@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProImageToVideoNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProImageToVideoNode/ja.md)
 
 このノードはKling AIモデルを使用して、テキストプロンプトと最大7枚の参照画像に基づいて動画を生成します。動画のアスペクト比、長さ、解像度を制御することができます。ノードは外部APIにリクエストを送信し、生成された動画を返します。
 

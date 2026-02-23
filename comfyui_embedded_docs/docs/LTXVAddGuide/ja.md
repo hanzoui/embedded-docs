@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVAddGuide/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVAddGuide/ja.md)
 
 LTXVAddGuideノードは、入力画像や動画をエンコードし、それらをキーフレームとして条件付けデータに組み込むことで、潜在シーケンスに動画条件付けガイダンスを追加します。このノードは、VAEエンコーダーを通して入力を処理し、結果の潜在表現を指定されたフレーム位置に戦略的に配置しながら、ポジティブとネガティブの両方の条件付けをキーフレーム情報で更新します。フレームアラインメントの制約を処理し、条件付けの影響の強度を制御することができます。
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageRotate/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageRotate/zh.md)
 
 ImageRotate 节点可将输入图像按指定角度进行旋转。它支持四种旋转选项：不旋转、顺时针90度、180度以及顺时针270度。该节点采用高效的张量运算来执行旋转操作，能够完整保持图像数据完整性。
 

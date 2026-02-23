@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerLMS/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerLMS/ar.md)
 
 عقدة SamplerLMS تنشئ عيِّنًا (sampler) باستخدام طريقة المربعات الصغرى المتوسطة (LMS) لاستخدامه في نماذج الانتشار (diffusion models). تقوم هذه العقدة بتوليد كائن عيِّن يمكن استخدامه في عملية أخذ العينات، مما يسمح لك بالتحكم في رتبة (order) خوارزمية LMS لضمان الاستقرار العددي والدقة.
 

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanHuMoImageToVideo/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanHuMoImageToVideo/fr.md)
 
 Le nœud WanHuMoImageToVideo convertit des images en séquences vidéo en générant des représentations latentes pour les images vidéo. Il traite les entrées de conditionnement et peut incorporer des images de référence et des plongements audio pour influencer la génération vidéo. Le nœud produit en sortie des données de conditionnement modifiées et des représentations latentes adaptées à la synthèse vidéo.
 

@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VeoVideoGenerationNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VeoVideoGenerationNode/es.md)
 
 Genera videos a partir de prompts de texto utilizando la API Veo de Google. Este nodo puede crear videos a partir de descripciones de texto y entradas de imagen opcionales, con control sobre parámetros como la relación de aspecto, duración y más.
 

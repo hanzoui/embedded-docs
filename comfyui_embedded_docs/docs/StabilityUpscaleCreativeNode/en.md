@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityUpscaleCreativeNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityUpscaleCreativeNode/en.md)
 
 Upscale image with minimal alterations to 4K resolution. This node uses Stability AI's creative upscaling technology to enhance image resolution while preserving the original content and adding subtle creative details.
 

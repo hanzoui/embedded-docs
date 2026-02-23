@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPMergeSubtract/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPMergeSubtract/fr.md)
 
 Le nœud CLIPMergeSubtract effectue une fusion de modèles en soustrayant les poids d'un modèle CLIP d'un autre. Il crée un nouveau modèle CLIP en clonant le premier modèle puis en soustrayant les patches clés du second modèle, avec un multiplicateur ajustable pour contrôler l'intensité de la soustraction. Cela permet un mélange de modèles finement ajusté en supprimant des caractéristiques spécifiques du modèle de base.
 

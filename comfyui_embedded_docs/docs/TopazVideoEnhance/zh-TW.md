@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TopazVideoEnhance/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TopazVideoEnhance/zh-TW.md)
 
 Topaz Video Enhance 節點使用外部 API 來提升影片品質。它可以放大影片解析度、透過插幀提高幀率，並應用壓縮。此節點會處理輸入的 MP4 影片，並根據所選設定返回增強後的版本。
 

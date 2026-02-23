@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VideoTriangleCFGGuidance/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VideoTriangleCFGGuidance/tr.md)
 
 VideoTriangleCFGGuidance düğümü, video modellerine üçgen şeklinde bir sınıflandırıcısız kılavuzlama ölçeklendirme deseni uygular. Koşullandırma ölçeğini, minimum CFG değeri ile orijinal koşullandırma ölçeği arasında salınan bir üçgen dalga fonksiyonu kullanarak zaman içinde değiştirir. Bu, video oluşturma tutarlılığını ve kalitesini artırmaya yardımcı olabilecek dinamik bir kılavuzlama deseni oluşturur.
 

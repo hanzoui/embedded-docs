@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CFGGuider/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CFGGuider/tr.md)
 
 CFGGuider düğümü, görüntü oluşturma sürecindeki örnekleme işlemini kontrol etmek için bir kılavuzluk sistemi oluşturur. Bir modeli, olumlu ve olumsuz koşullandırma girdileriyle alır ve ardından, istenmeyen öğelerden kaçınırken oluşturma işlemini istenen içeriğe yönlendirmek için sınıflandırıcısız bir kılavuzluk ölçeği uygular. Bu düğüm, görüntü oluşturma yönünü kontrol etmek için örnekleme düğümleri tarafından kullanılabilecek bir kılavuz nesnesi çıktılar.
 

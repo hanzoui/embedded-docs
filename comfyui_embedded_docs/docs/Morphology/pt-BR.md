@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Morphology/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Morphology/pt-BR.md)
 
 O nó Morphology aplica várias operações morfológicas a imagens, que são operações matemáticas usadas para processar e analisar formas em imagens. Ele pode executar operações como erosão, dilatação, abertura, fechamento e mais, usando um tamanho de kernel personalizável para controlar a intensidade do efeito.
 

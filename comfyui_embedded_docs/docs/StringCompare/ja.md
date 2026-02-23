@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringCompare/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringCompare/ja.md)
 
 StringCompareノードは、2つのテキスト文字列を様々な比較方法で比較します。一方の文字列がもう一方で始まるか、終わるか、または両方の文字列が完全に等しいかをチェックできます。比較は、大文字と小文字の違いを考慮するかどうかを選択して実行できます。
 

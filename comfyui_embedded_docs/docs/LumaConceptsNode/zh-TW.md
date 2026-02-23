@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LumaConceptsNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LumaConceptsNode/zh-TW.md)
 
 儲存一個或多個攝影機概念，供 Luma 文字轉影片和 Luma 圖片轉影片節點使用。此節點允許您選擇最多四個攝影機概念，並可選擇將它們與現有的概念鏈結合。
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanVaceToVideo/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanVaceToVideo/ja.md)
 
 WanVaceToVideoノードは、ビデオ生成モデルのためのビデオ条件付けデータを処理します。ポジティブおよびネガティブな条件付け入力とビデオ制御データを受け取り、ビデオ生成のための潜在表現を準備します。このノードは、ビデオのアップスケーリング、マスキング、およびVAEエンコーディングを処理し、ビデオモデルに適した条件付け構造を作成します。
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MakeTrainingDataset/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MakeTrainingDataset/en.md)
 
 This node prepares data for training by encoding images and text. It takes a list of images and a corresponding list of text captions, then uses a VAE model to convert the images into latent representations and a CLIP model to convert the text into conditioning data. The resulting paired latents and conditioning are output as lists, ready for use in training workflows.
 

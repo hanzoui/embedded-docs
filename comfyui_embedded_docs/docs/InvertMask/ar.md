@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/InvertMask/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/InvertMask/ar.md)
 
 تم تصميم عقدة InvertMask لعكس قيم القناع المُعطى، مما يؤدي إلى قلب المناطق المُقنعة وغير المُقنعة بشكل فعّال. تُعد هذه العملية أساسية في مهام معالجة الصور حيث تحتاج نقطة الاهتمام الرئيسية إلى التبديل بين المقدمة والخلفية.
 

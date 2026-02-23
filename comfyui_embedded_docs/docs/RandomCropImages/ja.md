@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RandomCropImages/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RandomCropImages/ja.md)
 
 Random Crop Images ノードは、各入力画像からランダムに矩形領域を選択し、指定された幅と高さにクロップします。これは主にデータ拡張のために使用され、トレーニング画像のバリエーションを作成します。クロップのランダムな位置はシード値によって決定され、同じクロップを再現できるようになっています。
 

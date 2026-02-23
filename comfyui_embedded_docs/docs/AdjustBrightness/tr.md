@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AdjustBrightness/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AdjustBrightness/tr.md)
 
 Adjust Brightness düğümü, bir giriş görüntüsünün parlaklığını değiştirir. Her pikselin değerini belirtilen bir faktörle çarparak çalışır ve ardından ortaya çıkan değerlerin geçerli bir aralıkta kalmasını sağlar. 1.0 faktörü görüntüyü değiştirmeden bırakır, 1.0'ın altındaki değerler görüntüyü koyulaştırır ve 1.0'ın üzerindeki değerler görüntüyü aydınlatır.
 

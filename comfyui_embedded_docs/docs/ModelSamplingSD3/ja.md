@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingSD3/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingSD3/ja.md)
 
 ModelSamplingSD3ノードは、Stable Diffusion 3のサンプリングパラメータをモデルに適用します。このノードはシフトパラメータを調整することでサンプリング分布の特性を制御し、モデルのサンプリング動作を変更します。入力モデルの修正されたコピーを作成し、指定されたサンプリング設定を適用します。
 

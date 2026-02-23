@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/IdeogramV3/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/IdeogramV3/tr.md)
 
 Ideogram V3 düğümü, Ideogram V3 modelini kullanarak görüntüler oluşturur. Hem metin istemlerinden düzenli görüntü oluşturmayı hem de bir görüntü ve maske sağlandığında görüntü düzenlemeyi destekler. Düğüm, en-boy oranı, çözünürlük, oluşturma hızı ve isteğe bağlı karakter referans görüntüleri için çeşitli kontroller sunar.
 

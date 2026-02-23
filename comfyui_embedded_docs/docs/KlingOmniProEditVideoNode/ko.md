@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProEditVideoNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProEditVideoNode/ko.md)
 
 Kling Omni Edit Video (Pro) 노드는 AI 모델을 사용하여 기존 비디오를 텍스트 설명을 기반으로 편집합니다. 소스 비디오와 프롬프트를 제공하면, 노드는 요청된 변경 사항이 적용된 동일한 길이의 새 비디오를 생성합니다. 선택적으로 참조 이미지를 사용하여 스타일을 안내하고 소스 비디오의 원본 오디오를 유지할 수 있습니다.
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftStyleV3DigitalIllustration/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftStyleV3DigitalIllustration/en.md)
 
 This node configures a style for use with the Recraft API, specifically selecting the "digital_illustration" style. It allows you to choose an optional substyle to further refine the artistic direction of the generated image.
 

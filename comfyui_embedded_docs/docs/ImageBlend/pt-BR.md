@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageBlend/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageBlend/pt-BR.md)
 
 O nó `ImageBlend` é projetado para mesclar duas imagens com base em um modo de mesclagem e um fator de mesclagem especificados. Ele suporta vários modos de mesclagem, como normal, multiplicar, tela, sobreposição, luz suave e diferença, permitindo técnicas versáteis de manipulação e composição de imagens. Este nó é essencial para criar imagens compostas ajustando a interação visual entre duas camadas de imagem.
 

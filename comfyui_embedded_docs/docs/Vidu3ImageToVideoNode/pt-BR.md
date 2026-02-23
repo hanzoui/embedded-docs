@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu3ImageToVideoNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu3ImageToVideoNode/pt-BR.md)
 
 O nó Geração de Vídeo a partir de Imagem Vidu Q3 cria uma sequência de vídeo a partir de uma imagem de entrada. Ele utiliza o modelo Vidu Q3 Pro para animar a imagem, opcionalmente guiado por um prompt de texto, e gera um arquivo de vídeo.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/JoinImageWithAlpha/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/JoinImageWithAlpha/tr.md)
 
 Bu düğüm, kompozitleme işlemleri için tasarlanmıştır ve özellikle bir görüntüyü karşılık gelen alfa maskesiyle birleştirerek tek bir çıktı görüntüsü oluşturur. Görsel içeriği şeffaflık bilgisiyle etkili bir şekilde birleştirerek, belirli alanların şeffaf veya yarı şeffaf olduğu görüntülerin oluşturulmasını sağlar.
 

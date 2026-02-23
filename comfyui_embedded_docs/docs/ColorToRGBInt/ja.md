@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ColorToRGBInt/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ColorToRGBInt/ja.md)
 
 ColorToRGBIntノードは、16進数形式で指定された色を単一の整数値に変換します。`#FF5733`のような色文字列を受け取り、赤、緑、青の成分を組み合わせて対応するRGB整数を計算します。
 

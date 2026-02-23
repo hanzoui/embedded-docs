@@ -1,13 +1,13 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveImage/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImage/zh.md)
 
-此节点将接收到的图像保存到您的 `ComfyUI/output` 目录中。它将每张图像保存为 PNG 文件，并可以将工作流元数据（例如提示词）嵌入到保存的文件中，以供将来参考。
+此节点将接收到的图像保存到您的 `Hanzo Studio/output` 目录中。它将每张图像保存为 PNG 文件，并可以将工作流元数据（例如提示词）嵌入到保存的文件中，以供将来参考。
 
 ## 输入参数
 
 | 参数名 | 数据类型 | 必填 | 取值范围 | 描述 |
 |-----------|-----------|----------|-------|-------------|
 | `图片` | IMAGE | 是 | - | 要保存的图像。 |
-| `文件名前缀` | STRING | 是 | - | 保存文件的名称前缀。可以包含格式化信息，例如 `%date:yyyy-MM-dd%` 或 `%Empty Latent Image.width%`，以包含来自节点的值（默认值："ComfyUI"）。 |
+| `文件名前缀` | STRING | 是 | - | 保存文件的名称前缀。可以包含格式化信息，例如 `%date:yyyy-MM-dd%` 或 `%Empty Latent Image.width%`，以包含来自节点的值（默认值："Hanzo Studio"）。 |
 
 ## 输出
 

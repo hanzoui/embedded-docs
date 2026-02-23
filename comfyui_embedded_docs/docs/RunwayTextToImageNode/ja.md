@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RunwayTextToImageNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RunwayTextToImageNode/ja.md)
 
 Runway Text to Imageノードは、RunwayのGen 4モデルを使用してテキストプロンプトから画像を生成します。テキストによる説明を提供し、オプションで参照画像を含めて画像生成プロセスをガイドすることができます。このノードはAPI通信を処理し、生成された画像を返します。
 

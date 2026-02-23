@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PrimitiveBoolean/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PrimitiveBoolean/ja.md)
 
 Booleanノードは、ワークフロー内でブール値（true/false）を渡すためのシンプルな方法を提供します。ブール値の入力を受け取り、同じ値を変更せずに出力するため、他のノードのブールパラメータを制御することができます。
 

@@ -1,4 +1,4 @@
-3Dを読み込むノードは、3Dモデルファイルを読み込み・処理するためのコアノードです。ノードを読み込むと、自動的に`ComfyUI/input/3d/`から利用可能な3Dリソースを取得します。また、「upload 3d model」機能を使って、対応する3Dファイルをアップロードし、プレビューすることもできます。
+3Dを読み込むノードは、3Dモデルファイルを読み込み・処理するためのコアノードです。ノードを読み込むと、自動的に`Hanzo Studio/input/3d/`から利用可能な3Dリソースを取得します。また、「upload 3d model」機能を使って、対応する3Dファイルをアップロードし、プレビューすることもできます。
 
 > - このノードのほとんどの機能は「Load 3D」ノードと同じですが、本ノードはアニメーション付きモデルの読み込みに対応しており、ノード内で対応するアニメーションのプレビューも可能です。
 > - 本ドキュメントの内容は「Load3D」ノードと同じですが、アニメーションのプレビューや再生機能を除けば、両者の機能は同一です。
@@ -7,9 +7,9 @@
 現在、このノードは複数の3Dファイル形式（.gltf、.glb、.obj、.fbx、.stl）に対応しています。
 
 **3Dノードの設定**
-3Dノードに関するいくつかの設定は、ComfyUIの設定メニューで調整できます。詳細は以下のドキュメントをご参照ください：
+3Dノードに関するいくつかの設定は、Hanzo Studioの設定メニューで調整できます。詳細は以下のドキュメントをご参照ください：
 
-[設定メニュー](https://docs.comfy.org/interface/settings/3d)
+[設定メニュー](https://docs.hanzo.ai/interface/settings/3d)
 
 通常のノード出力に加え、Load3Dノードはキャンバスメニュー内に多くの3Dビュー関連設定があります。
 
@@ -17,7 +17,7 @@
 
 | パラメータ名        | データ型        | 説明                     | デフォルト | 範囲         |
 |--------------|------------|--------------------------|--------|--------------|
-| モデルファイル   | File Selection    | 3Dモデルファイルのパス、アップロード対応、デフォルトは`ComfyUI/input/3d/`から読み込み | -      | 対応フォーマット |
+| モデルファイル   | File Selection    | 3Dモデルファイルのパス、アップロード対応、デフォルトは`Hanzo Studio/input/3d/`から読み込み | -      | 対応フォーマット |
 | 幅        | INT        | キャンバスのレンダリング幅                 | 1024   | 1-4096       |
 | 高さ       | INT        | キャンバスのレンダリング高さ                 | 1024   | 1-4096       |
 
@@ -27,7 +27,7 @@
 | --------------- | ------------- | -------------------------------- |
 | image           | IMAGE         | キャンバスでレンダリングされた画像                    |
 | mask            | MASK          | 現在のモデル位置を含むマスク               |
-| mesh_path       | STRING        | モデルファイルのパス（`ComfyUI/input` フォルダ内のパス）               |
+| mesh_path       | STRING        | モデルファイルのパス（`Hanzo Studio/input` フォルダ内のパス）               |
 | normal          | IMAGE         | ノーマルマップ                          |
 | lineart         | IMAGE         | 線画画像出力、対応する `edge_threshold` はキャンバスのモデルメニューで調整可能                      |
 | camera_info     | LOAD3D_CAMERA | カメラ情報                         |
@@ -59,7 +59,7 @@ Load3DノードのCanvasエリアには、多くのビュー操作が含まれ�
 ### 1. ビュー操作
 
 <video controls width="640" height="360">
-  <source src="https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
   お使いのブラウザは動画再生に対応していません。
 </video>
 
@@ -72,7 +72,7 @@ Load3DノードのCanvasエリアには、多くのビュー操作が含まれ�
 
 ### 2. 左側メニュー機能
 
-![Menu](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu.webp)
+![Menu](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu.webp)
 
 プレビューエリアでは、一部のビュー操作関連メニューがメニュー内に隠れています。メニューボタンをクリックすると各種メニューが展開されます。
 
@@ -84,7 +84,7 @@ Load3DノードのCanvasエリアには、多くのビュー操作が含まれ�
 
 #### シーン（Scene）
 
-![scene menu](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_scene.webp)
+![scene menu](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_scene.webp)
 
 シーンメニューは、シーンの基本設定機能を提供します
 
@@ -95,7 +95,7 @@ Load3DノードのCanvasエリアには、多くのビュー操作が含まれ�
 
 #### モデル（Model）
 
-![Menu_Scene](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_model.webp)
+![Menu_Scene](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_model.webp)
 
 モデルメニューは、モデル関連の機能を提供します
 
@@ -104,7 +104,7 @@ Load3DノードのCanvasエリアには、多くのビュー操作が含まれ�
 
 #### カメラ（Camera）
 
-![menu_modelmenu_camera](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_camera.webp)
+![menu_modelmenu_camera](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_camera.webp)
 
 このメニューは、オーソグラフィックビューとパースビューの切り替え、視野角設定を提供します
 
@@ -113,13 +113,13 @@ Load3DノードのCanvasエリアには、多くのビュー操作が含まれ�
 
 #### ライト（Light）
 
-![menu_modelmenu_camera](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_light.webp)
+![menu_modelmenu_camera](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_light.webp)
 
 このメニューでシーン全体のグローバル照明強度を調整できます
 
 #### エクスポート（Export）
 
-![menu_export](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_export.webp)
+![menu_export](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_export.webp)
 
 このメニューは、モデルを他の形式（GLB、OBJ、STL）に変換・エクスポートできます
 

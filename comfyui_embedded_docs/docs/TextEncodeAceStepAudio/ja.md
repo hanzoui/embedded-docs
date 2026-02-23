@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeAceStepAudio/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeAceStepAudio/ja.md)
 
 TextEncodeAceStepAudioノードは、タグと歌詞をトークンに結合し、調整可能な歌詞強度でエンコードすることで、オーディオコンディショニング用のテキスト入力を処理します。CLIPモデルとテキスト記述、歌詞を受け取り、それらを一緒にトークン化し、オーディオ生成タスクに適したコンディショニングデータを生成します。このノードは、最終出力への影響を制御する強度パラメータを通じて、歌詞の影響を微調整することができます。
 

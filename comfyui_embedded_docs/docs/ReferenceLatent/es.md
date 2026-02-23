@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ReferenceLatent/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ReferenceLatent/es.md)
 
 Este nodo establece el latente de referencia para un modelo de edición. Toma datos de condicionamiento y una entrada latente opcional, luego modifica el condicionamiento para incluir información latente de referencia. Si el modelo lo admite, puedes encadenar múltiples nodos ReferenceLatent para establecer múltiples imágenes de referencia.
 

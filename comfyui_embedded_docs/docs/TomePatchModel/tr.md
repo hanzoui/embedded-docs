@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TomePatchModel/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TomePatchModel/tr.md)
 
 TomePatchModel düğümü, çıkarım sırasında hesaplama gereksinimlerini azaltmak için bir difüzyon modeline Token Birleştirme (ToMe) uygular. Dikkat mekanizmasında benzer token'ları seçici bir şekilde birleştirerek çalışır ve modelin görsel kaliteyi korurken daha az token işlemesine olanak tanır. Bu teknik, önemli kalite kaybı olmadan üretim hızını artırmaya yardımcı olur.
 

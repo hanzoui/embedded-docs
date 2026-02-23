@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookKeyframesInterpolated/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookKeyframesInterpolated/ko.md)
 
 시작점과 끝점 사이에 보간된 강도 값을 가진 훅 키프레임 시퀀스를 생성합니다. 이 노드는 생성 과정의 지정된 백분율 범위에서 강도 매개변수를 부드럽게 전환하는 여러 키프레임을 생성하며, 다양한 보간 방법을 사용하여 전환 곡선을 제어합니다.
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeHunyuan3D/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeHunyuan3D/ja.md)
 
 VAEDecodeHunyuan3Dノードは、潜在表現をVAEデコーダーを使用して3Dボクセルデータに変換します。このノードは、設定可能なチャンク分割と解像度設定を用いてVAEモデルを通じて潜在サンプルを処理し、3Dアプリケーションに適した体積データを生成します。
 

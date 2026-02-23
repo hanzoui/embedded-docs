@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ThresholdMask/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ThresholdMask/fr.md)
 
 Le nœud ThresholdMask convertit un masque en masque binaire en appliquant une valeur de seuil. Il compare chaque pixel du masque d'entrée avec la valeur de seuil spécifiée et crée un nouveau masque où les pixels au-dessus du seuil deviennent 1 (blanc) et les pixels en dessous ou égaux au seuil deviennent 0 (noir).
 

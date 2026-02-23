@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetPropertiesAndCombine/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetPropertiesAndCombine/pt-BR.md)
 
 O nó ConditioningSetPropertiesAndCombine modifica dados de condicionamento aplicando propriedades de uma nova entrada de condicionamento a uma entrada de condicionamento existente. Ele combina os dois conjuntos de condicionamento enquanto controla a força do novo condicionamento e especifica como a área de condicionamento deve ser aplicada.
 

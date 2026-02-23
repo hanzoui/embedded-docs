@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResizeImageMaskNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResizeImageMaskNode/ko.md)
 
 Resize Image/Mask 노드는 입력 이미지나 마스크의 크기를 변경하는 여러 방법을 제공합니다. 배율에 따른 스케일링, 특정 크기 설정, 다른 입력의 크기에 맞추기, 픽셀 수를 기준으로 조정 등 다양한 방법을 사용하며, 품질을 위해 여러 보간 방법을 활용합니다.
 

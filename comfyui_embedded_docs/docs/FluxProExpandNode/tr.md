@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxProExpandNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxProExpandNode/tr.md)
 
 Görüntüyü prompt'a dayalı olarak dış boyama yapar. Bu düğüm, bir görüntüyü üst, alt, sol ve sağ taraflarına pikseller ekleyerek genişletirken, sağlanan metin açıklamasıyla eşleşen yeni içerik oluşturur.
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduMultiFrameVideoNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduMultiFrameVideoNode/zh.md)
 
 此节点通过在多个关键帧之间创建过渡来生成视频。它从初始图像开始，通过一系列用户定义的结束图像和提示词进行动画处理，最终输出单个视频文件。
 

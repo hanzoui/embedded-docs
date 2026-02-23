@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyHunyuanVideo15Latent/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyHunyuanVideo15Latent/ko.md)
 
 이 노드는 HunyuanVideo 1.5 모델 사용을 위해 특별히 포맷된 빈 잠재 텐서를 생성합니다. 모델의 잠재 공간에 맞는 올바른 채널 수와 공간 차원을 가진 0으로 구성된 텐서를 할당하여 비디오 생성을 위한 빈 시작점을 만들어냅니다.
 

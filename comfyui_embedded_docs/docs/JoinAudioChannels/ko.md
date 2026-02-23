@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/JoinAudioChannels/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/JoinAudioChannels/ko.md)
 
 Join Audio Channels 노드는 두 개의 별도 모노 오디오 입력을 하나의 스테레오 오디오 출력으로 결합합니다. 왼쪽 채널과 오른쪽 채널을 받아 호환 가능한 샘플링 레이트와 길이를 보장한 후, 두 채널 오디오 파형으로 병합합니다.
 

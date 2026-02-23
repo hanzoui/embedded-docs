@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftCreativeUpscaleNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftCreativeUpscaleNode/ko.md)
 
 Recraft Creative Upscale Image 노드는 래스터 이미지의 해상도를 높여 향상시킵니다. 이미지 내 작은 세부 사항과 얼굴을 개선하는 데 중점을 둔 "창의적 업스케일" 과정을 사용합니다. 이 작업은 외부 API를 통해 동기적으로 수행됩니다.
 

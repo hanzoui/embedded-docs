@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingVideoExtendNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingVideoExtendNode/ko.md)
 
 Kling Video Extend 노드는 다른 Kling 노드에서 생성된 비디오를 확장할 수 있게 해줍니다. 이 노드는 비디오 ID로 식별된 기존 비디오를 가져와서 사용자의 텍스트 프롬프트를 기반으로 추가 콘텐츠를 생성합니다. 이 노드는 확장 요청을 Kling API로 전송하고 확장된 비디오와 새로운 ID 및 지속 시간을 반환하는 방식으로 작동합니다.
 

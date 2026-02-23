@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AdjustBrightness/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AdjustBrightness/en.md)
 
 The Adjust Brightness node modifies the brightness of an input image. It works by multiplying each pixel's value by a specified factor, then ensuring the resulting values stay within a valid range. A factor of 1.0 leaves the image unchanged, values below 1.0 make it darker, and values above 1.0 make it brighter.
 

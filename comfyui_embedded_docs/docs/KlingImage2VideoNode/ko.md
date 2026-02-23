@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingImage2VideoNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingImage2VideoNode/ko.md)
 
 Kling Image to Video Node는 시작 이미지와 텍스트 프롬프트를 사용하여 비디오 콘텐츠를 생성합니다. 참조 이미지를 입력받아 제공된 긍정 및 부정 텍스트 설명을 기반으로 비디오 시퀀스를 생성하며, 모델 선택, 지속 시간, 화면 비율 등 다양한 구성 옵션을 제공합니다.
 

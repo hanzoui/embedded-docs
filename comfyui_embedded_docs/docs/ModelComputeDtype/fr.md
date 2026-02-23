@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelComputeDtype/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelComputeDtype/fr.md)
 
 Le nœud ModelComputeDtype permet de modifier le type de données de calcul utilisé par un modèle lors de l'inférence. Il crée une copie du modèle d'entrée et applique le paramètre de type de données spécifié, ce qui peut aider à optimiser l'utilisation de la mémoire et les performances en fonction des capacités de votre matériel. Cela est particulièrement utile pour le débogage et les tests de différents paramètres de précision.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LaplaceScheduler/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LaplaceScheduler/zh-TW.md)
 
 LaplaceScheduler 節點根據拉普拉斯分佈生成一系列 sigma 值，用於擴散採樣過程。它創建一個從最大值逐漸遞減到最小值的噪聲級別排程，並使用拉普拉斯分佈參數來控制遞減進程。此排程器常用於自定義採樣工作流程中，為擴散模型定義噪聲排程。
 

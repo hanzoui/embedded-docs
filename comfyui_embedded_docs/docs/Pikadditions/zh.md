@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Pikadditions/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Pikadditions/zh.md)
 
 Pikadditions 节点允许您将任意对象或图像添加到视频中。您只需上传视频并指定要添加的内容，即可创建无缝集成的效果。该节点利用 Pika API 将图像插入视频，实现自然逼真的融合效果。
 

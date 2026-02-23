@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BriaImageEditNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BriaImageEditNode/ko.md)
 
 Bria FIBO 이미지 편집 노드를 사용하면 텍스트 지시문을 통해 기존 이미지를 수정할 수 있습니다. 이 노드는 이미지와 프롬프트를 Bria API로 전송하며, API는 FIBO 모델을 사용하여 요청에 따라 새로운 편집 버전의 이미지를 생성합니다. 또한 마스크를 제공하여 특정 영역에만 편집을 제한할 수도 있습니다.
 

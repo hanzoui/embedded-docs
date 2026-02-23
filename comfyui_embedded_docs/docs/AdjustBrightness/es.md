@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AdjustBrightness/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AdjustBrightness/es.md)
 
 El nodo Ajustar Brillo modifica el brillo de una imagen de entrada. Funciona multiplicando el valor de cada píxel por un factor especificado, asegurando luego que los valores resultantes se mantengan dentro de un rango válido. Un factor de 1.0 deja la imagen sin cambios, valores por debajo de 1.0 la oscurecen y valores por encima de 1.0 la aclaran.
 

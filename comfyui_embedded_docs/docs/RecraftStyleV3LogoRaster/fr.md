@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftStyleV3LogoRaster/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftStyleV3LogoRaster/fr.md)
 
 Ce nœud vous permet de sélectionner le style de rasterisation du logo et de choisir parmi les sous-styles disponibles. Il est spécialisé dans la génération de conceptions de logo avec des options de style basées sur la rasterisation, offrant divers traitements visuels pour la création de logos.
 

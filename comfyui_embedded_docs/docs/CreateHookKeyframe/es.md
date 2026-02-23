@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookKeyframe/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookKeyframe/es.md)
 
 El nodo Create Hook Keyframe permite definir puntos específicos en un proceso de generación donde el comportamiento de los hooks cambia. Crea keyframes que modifican la intensidad de los hooks en porcentajes particulares del progreso de generación, y estos keyframes pueden encadenarse para crear patrones de programación complejos.
 

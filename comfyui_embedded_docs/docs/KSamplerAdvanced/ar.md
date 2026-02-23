@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KSamplerAdvanced/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KSamplerAdvanced/ar.md)
 
 تم تصميم العقدة KSamplerAdvanced لتعزيز عملية أخذ العينات من خلال توفير تكوينات وتقنيات متقدمة. تهدف إلى تقديم خيارات أكثر تطورًا لتوليد عينات من النموذج، مما يحسن من وظائف العقدة الأساسية KSampler.
 

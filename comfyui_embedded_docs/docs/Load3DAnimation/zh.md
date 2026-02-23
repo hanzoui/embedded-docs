@@ -1,4 +1,4 @@
-Load3DAnimation 节点用于加载和处理 3D 模型文件的核心节点，在加载节点时会自动获取  `ComfyUI/input/3d/`  可用的 3D 资源，你也可以通过上传功能将受支持的 3D 文件上传然后进行预览。
+Load3DAnimation 节点用于加载和处理 3D 模型文件的核心节点，在加载节点时会自动获取  `Hanzo Studio/input/3d/`  可用的 3D 资源，你也可以通过上传功能将受支持的 3D 文件上传然后进行预览。
 
 > - 该节点功能大部分与 Load 3D 节点相同，但这个节点支持加载带有动画的模型加载，可以在节点中预览对应的动画
 > - 本篇文档内容与 Load3D 节点相同，因为除了动画预览播放外他们的能力都是相同的。
@@ -7,8 +7,8 @@ Load3DAnimation 节点用于加载和处理 3D 模型文件的核心节点，在
 目前该节点支持多种 3D 文件格式，包括 `.gltf`、`.glb`、`.obj`、`.fbx` 和 `.stl`。
 
 **3D 节点预设**
-3D 节点的一些相关偏好设置可以在 ComfyUI 的设置菜单中进行设置，请参考下面的文档了解对应的设置
-[设置菜单](https://docs.comfy.org/zh-CN/interface/settings/3d)
+3D 节点的一些相关偏好设置可以在 Hanzo Studio 的设置菜单中进行设置，请参考下面的文档了解对应的设置
+[设置菜单](https://docs.hanzo.ai/zh-CN/interface/settings/3d)
 
 除了常规的节点输出之外， Load3D 有许多相关的 3D 视图相关操作是位于预览区域菜单, 3D 节点
 
@@ -16,7 +16,7 @@ Load3DAnimation 节点用于加载和处理 3D 模型文件的核心节点，在
 
 | 参数名        | 类型        | 描述                     | 默认值 | 范围         |
 |--------------|------------|--------------------------|--------|--------------|
-| 模型文件   | 文件选择    | 3D 模型文件路径，支持上传，默认读取 `ComfyUI/input/3d/` 下的模型文件 | -      | 受支持格式文件 |
+| 模型文件   | 文件选择    | 3D 模型文件路径，支持上传，默认读取 `Hanzo Studio/input/3d/` 下的模型文件 | -      | 受支持格式文件 |
 | 宽度        | INT        | 画布渲染宽度                 | 1024   | 1-4096       |
 | 高度       | INT        | 画布渲染高度                 | 1024   | 1-4096       |
 
@@ -26,7 +26,7 @@ Load3DAnimation 节点用于加载和处理 3D 模型文件的核心节点，在
 | --------------- | ------------- | -------------------------------- |
 | image           | IMAGE         | 画布渲染渲染图像                    |
 | mask            | MASK          | 包含当前模型位置的遮罩               |
-| mesh_path       | STRING        | 模型文件路径在`ComfyUI/input` 文件夹下的路径               |
+| mesh_path       | STRING        | 模型文件路径在`Hanzo Studio/input` 文件夹下的路径               |
 | normal          | IMAGE         | 法线贴图                          |
 | lineart         | IMAGE         | 线稿图像输出，对应的 `edge_threshold` 可在画布的模型菜单中进行调节                      |
 | camera_info     | LOAD3D_CAMERA | 相机信息                         |
@@ -57,7 +57,7 @@ Load 3D 节点的 Canvas 区域包含了诸多的视图操作，包括：
 ### 1. 视图操作
 
 <video controls width="640" height="360">
-  <source src="https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
   您的浏览器不支持视频播放。
 </video>
 
@@ -70,7 +70,7 @@ Load 3D 节点的 Canvas 区域包含了诸多的视图操作，包括：
 
 ### 2. 左侧菜单功能
 
-![Menu](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu.webp)
+![Menu](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu.webp)
 
 在预览区域，有些视图操作相关的菜单被隐藏在了菜单里，点击菜单按钮可以展开对应不同的菜单
 
@@ -82,7 +82,7 @@ Load 3D 节点的 Canvas 区域包含了诸多的视图操作，包括：
 
 #### 场景（Scene）
 
-![scene menu](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_scene.webp)
+![scene menu](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_scene.webp)
 
 场景菜单提供了对场景的一些基础设置功能
 
@@ -93,7 +93,7 @@ Load 3D 节点的 Canvas 区域包含了诸多的视图操作，包括：
 
 #### 模型(Model)
 
-![Menu_Scene](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_model.webp)
+![Menu_Scene](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_model.webp)
 
 模型菜单提供了一些模型的相关功能
 
@@ -102,7 +102,7 @@ Load 3D 节点的 Canvas 区域包含了诸多的视图操作，包括：
 
 #### 摄像机（Camera）
 
-![menu_modelmenu_camera](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_camera.webp)
+![menu_modelmenu_camera](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_camera.webp)
 
 该菜单提供了轴测视图和透视视图切换、透视视角大小设置
 
@@ -111,13 +111,13 @@ Load 3D 节点的 Canvas 区域包含了诸多的视图操作，包括：
 
 #### 灯光（Light）
 
-![menu_modelmenu_camera](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_light.webp)
+![menu_modelmenu_camera](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_light.webp)
 
 通过该菜单可以快速调节模型场景的全局光照强度
 
 #### 导出（Export）
 
-![menu_export](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_export.webp)
+![menu_export](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_export.webp)
 
 该菜单提供了一个快速转换模型格式并导出的能力
 

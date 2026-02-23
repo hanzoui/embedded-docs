@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanTrackToVideo/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanTrackToVideo/ja.md)
 
 WanTrackToVideoノードは、モーション追跡データを処理してトラックポイントから対応するビデオフレームを生成し、ビデオシーケンスに変換します。追跡座標を入力として受け取り、ビデオ生成に使用できるビデオコンディショニングと潜在表現を出力します。トラックが提供されない場合は、標準的な画像からビデオへの変換にフォールバックします。
 

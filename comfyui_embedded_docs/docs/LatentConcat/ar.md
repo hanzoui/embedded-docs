@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentConcat/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentConcat/ar.md)
 
 يجمع عقد LatentConcat بين عينتين كامنتين على بعد محدد. يأخذ العقد مدخلين كامنين ويربطهما معًا على طول المحور المختار (المحور السيني x، أو المحور الصادي y، أو البعد الزمني t). يقوم العقد تلقائيًا بضبط حجم الدُفعة للعينة الثانية لمطابقة العينة الأولى قبل تنفيذ عملية الربط.
 

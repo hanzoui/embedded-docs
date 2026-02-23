@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeQwenImageEdit/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeQwenImageEdit/ko.md)
 
 TextEncodeQwenImageEdit 노드는 텍스트 프롬프트와 선택적 이미지를 처리하여 이미지 생성 또는 편집을 위한 조건화 데이터를 생성합니다. CLIP 모델을 사용하여 입력을 토큰화하며, 선택적으로 VAE를 사용하여 참조 이미지를 인코딩하여 참조 잠재 공간을 생성할 수 있습니다. 이미지가 제공되면 일관된 처리 차원을 유지하기 위해 이미지를 자동으로 크기 조정합니다.
 

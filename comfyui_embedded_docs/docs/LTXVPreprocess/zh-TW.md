@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVPreprocess/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVPreprocess/zh-TW.md)
 
 LTXVPreprocess 節點對影像進行壓縮預處理。它接收輸入影像並以指定的壓縮等級進行處理，輸出經過壓縮設定處理後的影像。
 

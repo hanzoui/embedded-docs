@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FreSca/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FreSca/zh-TW.md)
 
 FreSca 節點在取樣過程中對引導信號施加頻率相關的縮放。它使用傅立葉濾波將引導信號分離為低頻和高頻分量，然後在重新組合之前對每個頻率範圍應用不同的縮放因子。這樣可以更細緻地控制引導如何影響生成輸出的不同方面。
 

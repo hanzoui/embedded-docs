@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VideoTriangleCFGGuidance/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VideoTriangleCFGGuidance/es.md)
 
 El nodo VideoTriangleCFGGuidance aplica un patrón triangular de escalado de guía libre de clasificador a modelos de video. Modifica la escala de condicionamiento a lo largo del tiempo utilizando una función de onda triangular que oscila entre el valor mínimo de CFG y la escala de condicionamiento original. Esto crea un patrón de guía dinámico que puede ayudar a mejorar la consistencia y calidad de la generación de video.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageScaleToMaxDimension/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageScaleToMaxDimension/zh-TW.md)
 
 ImageScaleToMaxDimension 節點可將圖像調整尺寸以符合指定的最大維度，同時保持原始長寬比。它會計算圖像是縱向還是橫向取向，然後將較大的維度縮放至目標尺寸，並按比例調整較小的維度。此節點支援多種放大方法，以滿足不同的品質和效能需求。
 

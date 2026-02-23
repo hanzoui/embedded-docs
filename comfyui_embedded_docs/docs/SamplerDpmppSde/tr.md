@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDpmppSde/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDpmppSde/tr.md)
 
 Bu düğüm, DPM++ SDE (Stokastik Diferansiyel Denklem) modeli için bir örnekleyici oluşturmak üzere tasarlanmıştır. Hem CPU hem de GPU yürütme ortamlarına uyum sağlar ve mevcut donanıma bağlı olarak örnekleyici uygulamasını optimize eder.
 

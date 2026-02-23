@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageCompare/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageCompare/fr.md)
 
 Le nœud Image Compare offre une interface visuelle pour comparer deux images côte à côte à l'aide d'un curseur déplaçable. Il est conçu comme un nœud de sortie, ce qui signifie qu'il ne transmet pas de données à d'autres nœuds mais affiche directement les images dans l'interface utilisateur pour inspection.
 
@@ -14,4 +14,4 @@ Le nœud Image Compare offre une interface visuelle pour comparer deux images c�
 
 ## Sorties
 
-Ce nœud est un nœud de sortie et ne produit aucune donnée de sortie pour être utilisée dans d'autres nœuds. Sa fonction est d'afficher les images fournies dans l'interface de ComfyUI.
+Ce nœud est un nœud de sortie et ne produit aucune donnée de sortie pour être utilisée dans d'autres nœuds. Sa fonction est d'afficher les images fournies dans l'interface de Hanzo Studio.

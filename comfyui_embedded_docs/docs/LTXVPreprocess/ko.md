@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVPreprocess/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVPreprocess/ko.md)
 
 LTXVPreprocess 노드는 이미지에 압축 전처리를 적용합니다. 입력 이미지를 가져와 지정된 압축 수준으로 처리하고, 적용된 압축 설정이 포함된 처리된 이미지를 출력합니다.
 

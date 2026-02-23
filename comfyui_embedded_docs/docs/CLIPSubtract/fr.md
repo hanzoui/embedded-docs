@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPSubtract/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPSubtract/fr.md)
 
 Le nœud CLIPSubtract effectue une opération de soustraction entre deux modèles CLIP. Il prend le premier modèle CLIP comme base et soustrait les patches clés du second modèle CLIP, avec un multiplicateur optionnel pour contrôler l'intensité de la soustraction. Cela permet un mélange de modèles finement ajusté en supprimant des caractéristiques spécifiques d'un modèle à l'aide d'un autre.
 

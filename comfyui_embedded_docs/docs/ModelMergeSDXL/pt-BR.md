@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSDXL/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSDXL/pt-BR.md)
 
 O nó ModelMergeSDXL permite combinar dois modelos SDXL ajustando a influência de cada modelo em diferentes partes da arquitetura. Você pode controlar quanto cada modelo contribui para os embeddings de tempo, embeddings de rótulo e vários blocos dentro da estrutura do modelo. Isso cria um modelo híbrido que combina características de ambos os modelos de entrada.
 

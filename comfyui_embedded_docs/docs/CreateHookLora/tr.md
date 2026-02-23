@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookLora/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookLora/tr.md)
 
 Create Hook LoRA düğümü, modellere LoRA (Düşük Ranklı Adaptasyon) değişiklikleri uygulamak için kanca nesneleri oluşturur. Belirtilen bir LoRA dosyasını yükler ve model ile CLIP güçlerini ayarlayabilen kancalar oluşturur, ardından bu kancaları kendisine iletilen mevcut kancalarla birleştirir. Düğüm, gereksiz işlemleri önlemek için önceden yüklenmiş LoRA dosyalarını önbelleğe alarak LoRA yüklemesini verimli bir şekilde yönetir.
 

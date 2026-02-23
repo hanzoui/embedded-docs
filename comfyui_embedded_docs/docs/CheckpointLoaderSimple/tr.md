@@ -1,12 +1,12 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CheckpointLoaderSimple/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CheckpointLoaderSimple/tr.md)
 
 Bu, model dosyalarını belirtilen konumlardan yükleyen ve bunları üç temel bileşene ayıran bir model yükleyici düğümüdür: ana model, metin kodlayıcı ve görüntü kodlayıcı/kod çözücü.
 
-Bu düğüm, `ComfyUI/models/checkpoints` klasöründeki tüm model dosyalarını ve `extra_model_paths.yaml` dosyanızda yapılandırılan ek yolları otomatik olarak algılar.
+Bu düğüm, `Hanzo Studio/models/checkpoints` klasöründeki tüm model dosyalarını ve `extra_model_paths.yaml` dosyanızda yapılandırılan ek yolları otomatik olarak algılar.
 
 1.  **Model Uyumluluğu**: Seçilen modelin iş akışınızla uyumlu olduğundan emin olun. Farklı model türleri (SD1.5, SDXL, Flux vb.), karşılık gelen örnekleyiciler ve diğer düğümlerle eşleştirilmelidir.
-2.  **Dosya Yönetimi**: Model dosyalarını `ComfyUI/models/checkpoints` klasörüne yerleştirin veya `extra_model_paths.yaml` aracılığıyla diğer yolları yapılandırın.
-3.  **Arayüz Yenileme**: ComfyUI çalışırken yeni model dosyaları eklendiyse, açılır listede yeni dosyaları görmek için tarayıcıyı yenilemeniz (Ctrl+R) gerekir.
+2.  **Dosya Yönetimi**: Model dosyalarını `Hanzo Studio/models/checkpoints` klasörüne yerleştirin veya `extra_model_paths.yaml` aracılığıyla diğer yolları yapılandırın.
+3.  **Arayüz Yenileme**: Hanzo Studio çalışırken yeni model dosyaları eklendiyse, açılır listede yeni dosyaları görmek için tarayıcıyı yenilemeniz (Ctrl+R) gerekir.
 
 ## Girdiler
 

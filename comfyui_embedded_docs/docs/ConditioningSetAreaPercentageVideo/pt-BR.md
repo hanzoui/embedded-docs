@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetAreaPercentageVideo/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetAreaPercentageVideo/pt-BR.md)
 
 O nó ConditioningSetAreaPercentageVideo modifica dados de condicionamento definindo uma área específica e uma região temporal para geração de vídeo. Ele permite configurar a posição, o tamanho e a duração da área onde o condicionamento será aplicado usando valores percentuais em relação às dimensões totais. Isso é útil para focar a geração em partes específicas de uma sequência de vídeo.
 

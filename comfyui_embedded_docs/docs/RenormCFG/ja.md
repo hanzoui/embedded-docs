@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RenormCFG/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RenormCFG/ja.md)
 
 RenormCFGノードは、拡散モデルにおけるClassifier-Free Guidance（CFG）プロセスを変更し、条件付きスケーリングと正規化を適用します。指定されたタイムステップの閾値と再正規化係数に基づいてノイズ除去プロセスを調整し、画像生成時の条件付き予測と無条件予測の影響度を制御します。
 

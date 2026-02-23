@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSD3_2B/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSD3_2B/ar.md)
 
 يتيح عُقدة ModelMergeSD3_2B دمج نموذجين من Stable Diffusion 3 2B عن طريق مزج مكوناتهما بأوزان قابلة للتعديل. توفر هذه العُقدة تحكمًا فرديًا في طبقات التضمين وكتل المحولات، مما يمكّن من إنشاء توليفات نماذج دقيقة لمهام توليف متخصصة.
 

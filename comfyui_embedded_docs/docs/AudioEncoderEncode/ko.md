@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioEncoderEncode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioEncoderEncode/ko.md)
 
 AudioEncoderEncode 노드는 오디오 데이터를 오디오 인코더 모델을 사용하여 인코딩하여 처리합니다. 오디오 입력을 받아 conditioning 파이프라인에서 추가 처리가 가능한 인코딩된 표현으로 변환합니다. 이 노드는 원시 오디오 웨이브폼을 오디오 기반 머신러닝 애플리케이션에 적합한 형식으로 변환합니다.
 

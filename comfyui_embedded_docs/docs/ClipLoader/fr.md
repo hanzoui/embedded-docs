@@ -1,10 +1,10 @@
 Ce nœud est principalement utilisé pour charger indépendamment les modèles d'encodeur de texte CLIP.
 Les fichiers de modèle peuvent être détectés dans les chemins suivants :
 
-- "ComfyUI/models/text_encoders/"
-- "ComfyUI/models/clip/"
+- "Hanzo Studio/models/text_encoders/"
+- "Hanzo Studio/models/clip/"
 
-> Si vous sauvegardez un modèle après le démarrage de ComfyUI, vous devrez actualiser l'interface frontend de ComfyUI pour obtenir la liste la plus récente des chemins de fichiers de modèle
+> Si vous sauvegardez un modèle après le démarrage de Hanzo Studio, vous devrez actualiser l'interface frontend de Hanzo Studio pour obtenir la liste la plus récente des chemins de fichiers de modèle
 
 Formats de modèle pris en charge :
 
@@ -17,14 +17,14 @@ Formats de modèle pris en charge :
 - `.pkl`
 - `.sft`
 
-Pour plus de détails sur le chargement des fichiers de modèle les plus récents, consultez [folder_paths](https://github.com/comfyanonymous/ComfyUI/blob/master/folder_paths.py)
+Pour plus de détails sur le chargement des fichiers de modèle les plus récents, consultez [folder_paths](https://github.com/hanzoai/studio/blob/master/folder_paths.py)
 
 ## Entrées
 
 | Paramètre     | Type de Donnée | Description |
 |---------------|----------------|-------------|
 | `nom_clip`    | COMBO[STRING]  | Spécifie le nom du modèle CLIP à charger. Ce nom est utilisé pour localiser le fichier du modèle dans une structure de répertoire prédéfinie. |
-| `type`        | COMBO[STRING]  | Détermine le type de modèle CLIP à charger. À mesure que ComfyUI prend en charge plus de modèles, de nouveaux types seront ajoutés ici. Consultez la définition de la classe `CLIPLoader` dans [node.py](https://github.com/comfyanonymous/ComfyUI/blob/master/nodes.py) pour plus de détails. |
+| `type`        | COMBO[STRING]  | Détermine le type de modèle CLIP à charger. À mesure que Hanzo Studio prend en charge plus de modèles, de nouveaux types seront ajoutés ici. Consultez la définition de la classe `CLIPLoader` dans [node.py](https://github.com/hanzoai/studio/blob/master/nodes.py) pour plus de détails. |
 | `appareil`    | COMBO[STRING]  | Choisit l'appareil pour charger le modèle CLIP. `default` exécutera le modèle sur GPU, tandis que la sélection de `CPU` forcera le chargement sur CPU. |
 
 ### Options d'Appareil Expliquées
@@ -59,7 +59,7 @@ L'exécution sur CPU sera beaucoup plus lente que sur GPU, mais peut économiser
 | lumina2 | gemma 2 2B |
 | wan | umt5 xxl |
 
-À mesure que ComfyUI se met à jour, ces combinaisons peuvent s'étendre. Pour plus de détails, consultez la définition de la classe `CLIPLoader` dans [node.py](https://github.com/comfyanonymous/ComfyUI/blob/master/nodes.py)
+À mesure que Hanzo Studio se met à jour, ces combinaisons peuvent s'étendre. Pour plus de détails, consultez la définition de la classe `CLIPLoader` dans [node.py](https://github.com/hanzoai/studio/blob/master/nodes.py)
 
 ## Sorties
 
@@ -69,4 +69,4 @@ L'exécution sur CPU sera beaucoup plus lente que sur GPU, mais peut économiser
 
 ## Notes Supplémentaires
 
-Les modèles CLIP jouent un rôle fondamental en tant qu'encodeurs de texte dans ComfyUI, responsables de la conversion des prompts textuels en représentations numériques que les modèles de diffusion peuvent comprendre. Vous pouvez les considérer comme des traducteurs, chargés de traduire votre texte dans un langage que les grands modèles peuvent comprendre. Bien sûr, différents modèles ont leurs propres "dialectes", donc différents encodeurs CLIP sont nécessaires entre différentes architectures pour compléter le processus d'encodage de texte.
+Les modèles CLIP jouent un rôle fondamental en tant qu'encodeurs de texte dans Hanzo Studio, responsables de la conversion des prompts textuels en représentations numériques que les modèles de diffusion peuvent comprendre. Vous pouvez les considérer comme des traducteurs, chargés de traduire votre texte dans un langage que les grands modèles peuvent comprendre. Bien sûr, différents modèles ont leurs propres "dialectes", donc différents encodeurs CLIP sont nécessaires entre différentes architectures pour compléter le processus d'encodage de texte.

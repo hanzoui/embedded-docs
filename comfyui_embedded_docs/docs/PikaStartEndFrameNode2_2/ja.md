@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaStartEndFrameNode2_2/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaStartEndFrameNode2_2/ja.md)
 
 PikaFrames v2.2ノードは、最初と最後のフレームを組み合わせて動画を生成します。開始点と終了点を定義する2枚の画像をアップロードすると、AIがそれらの間を滑らかに遷移させ、完全な動画を作成します。
 

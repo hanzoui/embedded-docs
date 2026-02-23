@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeAudioTiled/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeAudioTiled/zh.md)
 
 此节点使用变分自编码器（VAE）将压缩的音频表示（潜在样本）转换回音频波形。它通过处理较小且重叠的片段（图块）来管理内存使用，使其适合处理较长的音频序列。
 

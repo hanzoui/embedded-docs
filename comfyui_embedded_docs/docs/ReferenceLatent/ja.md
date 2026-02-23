@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ReferenceLatent/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ReferenceLatent/ja.md)
 
 このノードは、編集モデルのためのガイドとなる潜在変数を設定します。コンディショニングデータとオプションの潜在入力を取り、参照潜在情報を含むようにコンディショニングを修正します。モデルが対応している場合、複数のReferenceLatentノードをチェーン接続して複数の参照画像を設定できます。
 

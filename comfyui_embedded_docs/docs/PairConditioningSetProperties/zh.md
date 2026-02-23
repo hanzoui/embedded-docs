@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningSetProperties/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningSetProperties/zh.md)
 
 PairConditioningSetProperties 节点允许您同时修改正向和负向条件对属性。该节点会对两个条件输入同时应用强度调整、条件区域设置以及可选的遮罩或时序控制，并返回修改后的正向和负向条件数据。
 

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptySD3LatentImage/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptySD3LatentImage/fr.md)
 
 Le nœud EmptySD3LatentImage crée un tenseur d'image latente vide spécifiquement formaté pour les modèles Stable Diffusion 3. Il génère un tenseur rempli de zéros qui possède les dimensions et la structure correctes attendues par les pipelines SD3. Ceci est couramment utilisé comme point de départ pour les flux de travail de génération d'images.
 

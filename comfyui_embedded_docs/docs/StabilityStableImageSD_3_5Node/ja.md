@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityStableImageSD_3_5Node/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityStableImageSD_3_5Node/ja.md)
 
 このノードは、Stability AIのStable Diffusion 3.5モデルを使用して画像を同期的に生成します。テキストプロンプトに基づいて画像を作成し、入力として提供された場合は既存の画像を修正することもできます。出力をカスタマイズするための様々なアスペクト比とスタイルプリセットをサポートしています。
 

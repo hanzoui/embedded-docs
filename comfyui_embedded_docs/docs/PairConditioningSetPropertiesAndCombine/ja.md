@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningSetPropertiesAndCombine/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningSetPropertiesAndCombine/ja.md)
 
 PairConditioningSetPropertiesAndCombineノードは、既存のポジティブおよびネガティブなコンディショニング入力に対して新しいコンディショニングデータを適用することで、コンディショニングペアを修正および結合します。適用するコンディショニングの強度を調整したり、コンディショニング領域の設定方法を制御したりすることができます。このノードは、複数のコンディショニングソースをブレンドする必要がある高度なコンディショニング操作ワークフローで特に有用です。
 

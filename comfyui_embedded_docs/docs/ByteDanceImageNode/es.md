@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageNode/es.md)
 
 El nodo ByteDance Image genera imágenes utilizando modelos de ByteDance a través de una API basada en indicaciones de texto. Permite seleccionar diferentes modelos, especificar dimensiones de imagen y controlar varios parámetros de generación como semilla y escala de guía. El nodo se conecta al servicio de generación de imágenes de ByteDance y devuelve la imagen creada.
 

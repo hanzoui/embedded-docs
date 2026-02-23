@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxProExpandNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxProExpandNode/ar.md)
 
 يقوم بتوسيع الصورة بناءً على النص الموجه. تُوسِّع هذه العقدة صورةً عن طريق إضافة وحدات بكسل إلى الجوانب العلوية والسفلية واليسرى واليمنى مع إنشاء محتوى جديد يتطابق مع الوصف النصي المقدم.
 

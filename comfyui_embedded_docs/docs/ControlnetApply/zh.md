@@ -2,7 +2,7 @@
 
 此节点将 ControlNet 应用于给定的图像和条件，根据控制网络的参数和指定的强度调整图像的属性，比如 Depth、OpenPose、Canny、HED等等。
 
-使用 controlNet 要求对输入图像进行预处理，由于ComfyUI 初始节点不带处理器和 controlNet 模型，所以请先安装ContrlNet预处理器[这里下载与处理器](https://github.com/Fannovel16/comfy_controlnet_preprocessors)和contrlNet 对应的模型。
+使用 controlNet 要求对输入图像进行预处理，由于Hanzo Studio 初始节点不带处理器和 controlNet 模型，所以请先安装ContrlNet预处理器[这里下载与处理器](https://github.com/Fannovel16/comfy_controlnet_preprocessors)和contrlNet 对应的模型。
 
 ## Apply ControlNet 输入类型
 

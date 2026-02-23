@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GenerateTracks/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GenerateTracks/zh-TW.md)
 
 `GenerateTracks` 節點為影片生成創建多條平行的運動軌跡。它定義了一條從起點到終點的主要路徑，然後生成一組與此路徑平行、均勻間隔的軌跡。您可以控制路徑的形狀（直線或貝茲曲線）、沿路徑移動的速度，以及軌跡在哪些影格中可見。
 

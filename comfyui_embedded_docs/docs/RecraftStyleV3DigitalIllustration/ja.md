@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftStyleV3DigitalIllustration/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftStyleV3DigitalIllustration/ja.md)
 
 このノードは、Recraft APIで使用するスタイルを設定し、特に「digital_illustration」（デジタルイラストレーション）スタイルを選択します。オプションのサブスタイルを選択することで、生成される画像の芸術的な方向性をさらに細かく調整することができます。
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LumaImageToVideoNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LumaImageToVideoNode/ja.md)
 
 プロンプト、入力画像、および出力サイズに基づいて同期方式で動画を生成します。このノードは、Luma APIを使用してテキストプロンプトとオプションの開始画像/終了画像を提供し、動画の内容と構造を定義します。
 

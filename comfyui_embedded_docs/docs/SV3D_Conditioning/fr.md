@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SV3D_Conditioning/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SV3D_Conditioning/fr.md)
 
 Le nœud SV3D_Conditioning prépare les données de conditionnement pour la génération de vidéos 3D en utilisant le modèle SV3D. Il prend une image initiale et la traite via des encodeurs CLIP vision et VAE pour créer un conditionnement positif et négatif, ainsi qu'une représentation latente. Le nœud génère des séquences d'élévation et d'azimut de caméra pour la génération vidéo multi-images en fonction du nombre spécifié d'images vidéo.
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmos14B/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmos14B/ko.md)
 
 ModelMergeCosmos14B 노드는 Cosmos 14B 모델 아키텍처에 특화된 블록 기반 접근 방식을 사용하여 두 개의 AI 모델을 병합합니다. 각 모델 블록과 임베딩 레이어에 대해 0.0에서 1.0 사이의 가중치 값을 조정하여 모델의 다양한 구성 요소를 혼합할 수 있습니다.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentFromBatch/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentFromBatch/tr.md)
 
 Bu düğüm, belirli bir toplu işlemden, belirtilen toplu işlem indeksi ve uzunluğuna dayanarak belirli bir gizli örnek alt kümesini çıkarmak için tasarlanmıştır. Gizli örnekler üzerinde seçici işleme imkanı tanıyarak, verimlilik veya hedeflenen manipülasyon için toplu işlemin daha küçük bölümleri üzerinde işlem yapılmasını kolaylaştırır.
 

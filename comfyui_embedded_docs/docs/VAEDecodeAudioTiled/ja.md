@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeAudioTiled/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeAudioTiled/ja.md)
 
 このノードは、変分オートエンコーダー（VAE）を使用して、圧縮された音声表現（潜在サンプル）を音声波形に変換します。メモリ使用量を管理するために、データを小さな重複するセクション（タイル）で処理するため、より長い音声シーケンスの処理に適しています。
 

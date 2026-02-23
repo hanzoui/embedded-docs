@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageUpscalerCreativeNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageUpscalerCreativeNode/zh.md)
 
 此节点使用 Magnific AI 服务对图像进行放大和创意增强。它允许您通过文本提示来引导增强过程，选择特定的优化风格，并控制创意过程的各个方面，如细节、与原图的相似度以及风格化强度。该节点会输出按您选择的倍数（2倍、4倍、8倍或16倍）放大的图像，最大输出尺寸为2530万像素。
 

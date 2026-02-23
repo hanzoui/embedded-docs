@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VoxelToMesh/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VoxelToMesh/ja.md)
 
 VoxelToMeshノードは、3Dボクセルデータをさまざまなアルゴリズムを使用してメッシュジオメトリに変換します。ボクセルグリッドを処理し、3Dメッシュ表現を形成する頂点と面を生成します。このノードは複数の変換アルゴリズムをサポートし、表面抽出を制御するためのしきい値の調整が可能です。
 

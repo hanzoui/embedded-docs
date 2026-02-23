@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PhotoMakerLoader/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PhotoMakerLoader/es.md)
 
 El nodo PhotoMakerLoader carga un modelo PhotoMaker a partir de los archivos de modelo disponibles. Lee el archivo de modelo especificado y prepara el codificador de ID de PhotoMaker para su uso en tareas de generación de imágenes basadas en identidad. Este nodo está marcado como experimental y está destinado a fines de prueba.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetAreaPercentage/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetAreaPercentage/tr.md)
 
 ConditioningSetAreaPercentage düğümü, koşullandırma elemanlarının etki alanını yüzde değerlerine göre ayarlamada uzmanlaşmıştır. Koşullandırma etkisinin yoğunluğunu modüle eden bir güç parametresinin yanı sıra, alanın boyutlarını ve konumunu toplam görüntü boyutunun yüzdeleri olarak belirlemeye olanak tanır.
 

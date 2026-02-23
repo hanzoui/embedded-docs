@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PixverseTemplateNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PixverseTemplateNode/tr.md)
 
 PixVerse Template düğümü, PixVerse video oluşturma için mevcut şablonlardan seçim yapmanıza olanak tanır. Seçtiğiniz şablon adını, PixVerse API'sinin video oluşturma için gerektirdiği karşılık gelen şablon kimliğine dönüştürür.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaStartEndFrameNode2_2/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaStartEndFrameNode2_2/tr.md)
 
 PikaFrames v2.2 Düğümü, ilk ve son karelerinizi birleştirerek videolar oluşturur. Başlangıç ve bitiş noktalarını tanımlamak için iki resim yüklersiniz ve AI, tam bir video oluşturmak için bunlar arasında sorunsuz bir geçiş oluşturur.
 

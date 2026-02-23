@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoMultiviewToModelNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoMultiviewToModelNode/ja.md)
 
 このノードは、オブジェクトの異なる視点を示す最大4枚の画像を処理し、TripoのAPIを使用して3Dモデルを同期的に生成します。前面画像と少なくとも1つの追加視点（左、背面、または右）が必要で、テクスチャとマテリアルのオプションを備えた完全な3Dモデルを作成します。
 

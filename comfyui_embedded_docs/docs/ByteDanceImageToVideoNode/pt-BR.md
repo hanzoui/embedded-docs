@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageToVideoNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageToVideoNode/pt-BR.md)
 
 O nó ByteDance Image to Video gera vídeos usando modelos da ByteDance por meio de uma API, com base em uma imagem de entrada e um prompt de texto. Ele utiliza um quadro inicial de imagem e cria uma sequência de vídeo que segue a descrição fornecida. O nó oferece várias opções de personalização para resolução, proporção de tela, duração e outros parâmetros de geração do vídeo.
 

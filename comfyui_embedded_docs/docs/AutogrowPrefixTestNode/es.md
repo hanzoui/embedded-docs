@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AutogrowPrefixTestNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AutogrowPrefixTestNode/es.md)
 
 El AutogrowPrefixTestNode es un nodo lógico diseñado para probar la función de entrada de crecimiento automático. Acepta un número dinámico de entradas de tipo float, combina sus valores en una cadena separada por comas y emite esa cadena.
 

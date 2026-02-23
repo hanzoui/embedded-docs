@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceSD3/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceSD3/fr.md)
 
 Le nœud SkipLayerGuidanceSD3 améliore le guidage vers une structure détaillée en appliquant un ensemble supplémentaire de guidage sans classifieur avec des couches ignorées. Cette implémentation expérimentale s'inspire du guidage par attention perturbée et fonctionne en contournant sélectivement certaines couches pendant le processus de conditionnement négatif pour améliorer les détails structurels dans le résultat généré.
 

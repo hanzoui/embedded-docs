@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResolutionBucket/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResolutionBucket/tr.md)
 
 Bu düğüm, bir liste gizli görüntüyü ve bunlara karşılık gelen koşullandırma verilerini çözünürlüklerine göre düzenler. Aynı yükseklik ve genişliğe sahip öğeleri gruplandırarak, her bir benzersiz çözünürlük için ayrı toplu işlemler oluşturur. Bu işlem, modellerin aynı boyuttaki birden fazla öğeyi birlikte işlemesine olanak tanıdığı için, verimli eğitim için veri hazırlamada kullanışlıdır.
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ComboOptionTestNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ComboOptionTestNode/zh.md)
 
 ComboOptionTestNode 是一个逻辑节点，用于测试并透传下拉框选择。它接收两个下拉框输入，每个输入都包含一组预定义的选项，并直接输出所选值而不进行修改。
 

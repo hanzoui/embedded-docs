@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingContinuousV/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingContinuousV/zh-TW.md)
 
 ModelSamplingContinuousV 節點透過應用連續 V-prediction 採樣參數來修改模型的採樣行為。它會創建輸入模型的副本，並使用自定義的 sigma 範圍設定進行配置，以實現進階的採樣控制。這讓使用者能夠透過特定的最小和最大 sigma 值來微調採樣過程。
 

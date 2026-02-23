@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingImageGenerationNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingImageGenerationNode/zh-TW.md)
 
 Kling 圖像生成節點能根據文字提示生成圖像，並可選擇使用參考圖像作為引導。它會根據您的文字描述和參考設定創建一張或多張圖像，然後將生成的圖像作為輸出返回。
 

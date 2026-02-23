@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PrimitiveStringMultiline/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PrimitiveStringMultiline/en.md)
 
 The PrimitiveStringMultiline node provides a multiline text input field for entering and passing string values through your workflow. It accepts text input with multiple lines and outputs the same string value unchanged. This node is useful when you need to input longer text content or formatted text that spans multiple lines.
 

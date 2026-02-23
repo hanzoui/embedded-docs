@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageStyleTransferNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageStyleTransferNode/tr.md)
 
 Bu düğüm, bir referans görselden alınan görsel stili giriş görselinize uygular. Görselleri işlemek için harici bir AI servisi kullanır ve stil transferinin gücünü ile orijinal görselin yapısının korunmasını kontrol etmenize olanak tanır.
 

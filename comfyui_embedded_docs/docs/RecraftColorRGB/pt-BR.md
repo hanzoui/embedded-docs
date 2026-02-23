@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftColorRGB/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftColorRGB/pt-BR.md)
 
 Crie uma Cor Recraft escolhendo valores RGB específicos. Este nó permite definir uma cor especificando valores individuais de vermelho, verde e azul, que são então convertidos em um formato de cor Recraft que pode ser usado em outras operações Recraft.
 

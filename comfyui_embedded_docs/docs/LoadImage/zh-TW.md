@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImage/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImage/zh-TW.md)
 
 LoadImage 節點旨在從指定路徑載入並預處理影像。它能夠處理含有多幀的影像格式，根據 EXIF 資料套用旋轉等必要轉換，正規化像素值，並可選擇性地為具有 alpha 通道的影像生成遮罩。此節點在管線中對於準備影像進行後續處理或分析至關重要。
 

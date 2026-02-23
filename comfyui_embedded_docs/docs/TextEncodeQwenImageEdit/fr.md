@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeQwenImageEdit/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeQwenImageEdit/fr.md)
 
 Le nœud TextEncodeQwenImageEdit traite les invites textuelles et les images optionnelles pour générer des données de conditionnement pour la génération ou l'édition d'images. Il utilise un modèle CLIP pour tokeniser l'entrée et peut optionnellement encoder des images de référence à l'aide d'un VAE pour créer des latents de référence. Lorsqu'une image est fournie, il redimensionne automatiquement l'image pour maintenir des dimensions de traitement cohérentes.
 

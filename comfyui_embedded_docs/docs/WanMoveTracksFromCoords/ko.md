@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveTracksFromCoords/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveTracksFromCoords/ko.md)
 
 WanMoveTracksFromCoords 노드는 좌표점 목록으로부터 모션 트랙 세트를 생성합니다. JSON 형식의 좌표 문자열을 다른 비디오 처리 노드에서 사용할 수 있는 텐서 형식으로 변환하며, 필요에 따라 마스크를 적용하여 시간에 따른 트랙의 가시성을 제어할 수 있습니다.
 

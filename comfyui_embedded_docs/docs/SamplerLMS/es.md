@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerLMS/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerLMS/es.md)
 
 El nodo SamplerLMS crea un muestreador de Mínimos Cuadrados Medios (LMS) para usar en modelos de difusión. Genera un objeto muestreador que puede utilizarse en el proceso de muestreo, permitiéndote controlar el orden del algoritmo LMS para la estabilidad y precisión numérica.
 

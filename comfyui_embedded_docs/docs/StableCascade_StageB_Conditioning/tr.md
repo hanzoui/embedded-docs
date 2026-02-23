@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableCascade_StageB_Conditioning/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableCascade_StageB_Conditioning/tr.md)
 
 StableCascade_StageB_Conditioning düğümü, mevcut koşullandırma bilgilerini Stage C'den gelen önceki gizli temsillerle birleştirerek Stable Cascade Stage B üretimi için koşullandırma verilerini hazırlar. Stage C'den gelen gizli örnekleri içerecek şekilde koşullandırma verilerini değiştirerek, üretim sürecinin daha tutarlı çıktılar için önceki bilgilerden yararlanmasını sağlar.
 

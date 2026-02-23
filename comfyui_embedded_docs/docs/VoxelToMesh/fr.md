@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VoxelToMesh/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VoxelToMesh/fr.md)
 
 Le nœud VoxelToMesh convertit des données voxel 3D en géométrie maillée en utilisant différents algorithmes. Il traite les grilles de voxels et génère des sommets et des faces qui forment une représentation de maillage 3D. Le nœud prend en charge plusieurs algorithmes de conversion et permet d'ajuster la valeur de seuil pour contrôler l'extraction de surface.
 

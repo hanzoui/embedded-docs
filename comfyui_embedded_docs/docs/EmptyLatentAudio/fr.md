@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyLatentAudio/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyLatentAudio/fr.md)
 
 Le nœud EmptyLatentAudio crée des tenseurs latents vides pour le traitement audio. Il génère une représentation latente audio vierge avec une durée et une taille de lot spécifiées, qui peut être utilisée comme entrée pour des workflows de génération ou de traitement audio. Le nœud calcule les dimensions latentes appropriées en fonction de la durée audio et du taux d'échantillonnage.
 

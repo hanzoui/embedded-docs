@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TopazImageEnhance/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TopazImageEnhance/zh.md)
 
 Topaz Image Enhance 节点提供行业标准的图像放大和增强功能。它通过基于云的 AI 模型处理单个输入图像，以提升画质、细节和分辨率。该节点提供对增强过程的精细控制，包括创意引导、主体聚焦和面部保留等选项。
 

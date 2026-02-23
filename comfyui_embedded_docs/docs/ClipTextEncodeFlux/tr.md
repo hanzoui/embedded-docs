@@ -1,6 +1,6 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeFlux/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeFlux/tr.md)
 
-`CLIPTextEncodeFlux`, ComfyUI'da Flux mimarisi için özel olarak tasarlanmış gelişmiş bir metin kodlama düğümüdür. Hem yapılandırılmış anahtar kelimeleri hem de ayrıntılı doğal dil açıklamalarını işlemek için çift kodlayıcı mekanizması (CLIP-L ve T5XXL) kullanır ve Flux modeline daha doğru ve kapsamlı metin anlama yeteneği sağlayarak metinden görüntü oluşturma kalitesini artırır.
+`CLIPTextEncodeFlux`, Hanzo Studio'da Flux mimarisi için özel olarak tasarlanmış gelişmiş bir metin kodlama düğümüdür. Hem yapılandırılmış anahtar kelimeleri hem de ayrıntılı doğal dil açıklamalarını işlemek için çift kodlayıcı mekanizması (CLIP-L ve T5XXL) kullanır ve Flux modeline daha doğru ve kapsamlı metin anlama yeteneği sağlayarak metinden görüntü oluşturma kalitesini artırır.
 
 Bu düğüm, bir çift kodlayıcı işbirliği mekanizmasına dayanır:
 

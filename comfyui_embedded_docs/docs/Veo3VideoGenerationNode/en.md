@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Veo3VideoGenerationNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Veo3VideoGenerationNode/en.md)
 
 Generates videos from text prompts using Google's Veo 3 API. This node supports two Veo 3 models: veo-3.0-generate-001 and veo-3.0-fast-generate-001. It extends the base Veo node with Veo 3 specific features including audio generation and a fixed 8-second duration.
 

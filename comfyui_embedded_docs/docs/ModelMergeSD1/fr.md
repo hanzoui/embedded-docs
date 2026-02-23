@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSD1/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSD1/fr.md)
 
 Le nœud ModelMergeSD1 vous permet de fusionner deux modèles Stable Diffusion 1.x en ajustant l'influence des différents composants du modèle. Il offre un contrôle individuel sur l'embedding temporel, l'embedding de label et tous les blocs d'entrée, intermédiaires et de sortie, permettant une fusion de modèles affinée pour des cas d'utilisation spécifiques.
 

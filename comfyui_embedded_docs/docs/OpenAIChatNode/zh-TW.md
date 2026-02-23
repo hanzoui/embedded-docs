@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIChatNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIChatNode/zh-TW.md)
 
 此節點從 OpenAI 模型生成文字回應。它允許您透過發送文字提示並接收生成的回應來與 AI 模型進行對話。該節點支援多輪對話，能夠記住先前的上下文，並且還能處理影像和檔案作為模型的額外上下文。
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceDiT/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceDiT/ar.md)
 
 يعزز التوجيه نحو البنية التفصيلية باستخدام مجموعة أخرى من CFG السلبي مع طبقات مُتخطَّاة. هذه النسخة العامة من SkipLayerGuidance يمكن استخدامها على كل نموذج DiT وهي مستوحاة من Perturbed Attention Guidance. التطبيق التجريبي الأصلي تم إنشاؤه لـ SD3.
 

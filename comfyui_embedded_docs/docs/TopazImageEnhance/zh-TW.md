@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TopazImageEnhance/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TopazImageEnhance/zh-TW.md)
 
 Topaz Image Enhance 節點提供業界標準的影像放大與增強功能。它使用基於雲端的 AI 模型處理單一輸入影像，以提升品質、細節和解析度。該節點提供對增強過程的細粒度控制，包括創意引導、主體聚焦和臉部保留等選項。
 

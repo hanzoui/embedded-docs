@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityUpscaleFastNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityUpscaleFastNode/ar.md)
 
 يقوم برفع دقة الصورة بسرعة عبر استدعاء واجهة برمجة تطبيقات (API) من Stability لزيادة حجم الصورة إلى 4 أضعاف حجمها الأصلي. تم تصميم هذه العقدة خصيصًا لتحسين جودة الصور منخفضة الدقة أو المضغوطة عن طريق إرسالها إلى خدمة رفع الدقة السريعة من Stability AI.
 

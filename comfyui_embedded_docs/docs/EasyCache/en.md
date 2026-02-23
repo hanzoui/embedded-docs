@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EasyCache/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EasyCache/en.md)
 
 The EasyCache node implements a native caching system for models to improve performance by reusing previously computed steps during the sampling process. It adds EasyCache functionality to a model with configurable thresholds for when to start and stop using the cache during the sampling timeline.
 

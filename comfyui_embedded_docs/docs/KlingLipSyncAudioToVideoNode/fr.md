@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingLipSyncAudioToVideoNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingLipSyncAudioToVideoNode/fr.md)
 
 Le nœud Kling Lip Sync Audio to Video synchronise les mouvements de la bouche dans un fichier vidéo pour qu'ils correspondent au contenu audio d'un fichier sonore. Ce nœud analyse les modèles vocaux dans l'audio et ajuste les mouvements faciaux dans la vidéo pour créer un lip-sync réaliste. Le processus nécessite à la fois une vidéo contenant un visage distinct et un fichier audio avec des vocaux clairement discernables.
 

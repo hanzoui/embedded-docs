@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CheckpointLoader/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CheckpointLoader/ar.md)
 
 يقوم عُقدة CheckpointLoader بتحميل نقطة فحص لنموذج مُدرَّب مسبقًا مع ملف التهيئة الخاص به. يأخذ العُقدة ملف تهيئة وملف نقطة فحص كمدخلات ويعيد مكونات النموذج المحملة بما في ذلك النموذج الرئيسي، ونموذج CLIP، ونموذج VAE لاستخدامها في سير العمل.
 

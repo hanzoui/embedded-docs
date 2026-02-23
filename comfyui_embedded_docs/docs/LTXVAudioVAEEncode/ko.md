@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVAudioVAEEncode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVAudioVAEEncode/ko.md)
 
 LTXV Audio VAE Encode 노드는 오디오 입력을 받아 지정된 Audio VAE 모델을 사용하여 더 작은 잠재 표현으로 압축합니다. 이 과정은 원시 오디오 데이터를 파이프라인의 다른 노드가 이해하고 처리할 수 있는 형식으로 변환하므로, 잠재 공간 워크플로우 내에서 오디오를 생성하거나 조작하는 데 필수적입니다.
 

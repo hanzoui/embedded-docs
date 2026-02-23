@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KSampler/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KSampler/pt-BR.md)
 
 O KSampler funciona da seguinte forma: ele modifica as informações latentes da imagem original fornecida com base em um modelo específico e em condições positivas e negativas.
 Primeiro, ele adiciona ruído aos dados da imagem original de acordo com a **seed** e a **força de denoise** definidas, em seguida, insere o **Modelo** predefinido combinado com as condições de orientação **positivas** e **negativas** para gerar a imagem.

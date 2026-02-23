@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SV3D_Conditioning/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SV3D_Conditioning/ja.md)
 
 SV3D_Conditioningノードは、SV3Dモデルを使用した3D動画生成のためのコンディショニングデータを準備します。初期画像を受け取り、CLIPビジョンとVAEエンコーダーを通して処理し、ポジティブおよびネガティブなコンディショニングと、潜在表現を生成します。このノードは、指定された動画フレーム数に基づいて、マルチフレーム動画生成のためのカメラ仰角と方位角のシーケンスを生成します。
 

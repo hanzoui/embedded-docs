@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentBlend/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentBlend/en.md)
 
 The LatentBlend node combines two latent samples by blending them together using a specified blend factor. It takes two latent inputs and creates a new output where the first sample is weighted by the blend factor and the second sample is weighted by the inverse. If the input samples have different shapes, the second sample is automatically resized to match the first sample's dimensions.
 

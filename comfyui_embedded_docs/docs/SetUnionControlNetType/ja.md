@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SetUnionControlNetType/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SetUnionControlNetType/ja.md)
 
 SetUnionControlNetTypeノードは、コンディショニングに使用するコントロールネットワークのタイプを指定することができます。既存のコントロールネットワークを受け取り、選択に基づいてそのコントロールタイプを設定し、指定されたタイプ設定で変更されたコントロールネットワークのコピーを作成します。
 

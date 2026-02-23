@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceDiTSimple/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceDiTSimple/ko.md)
 
 디노이징 과정에서 무조건적 패스만 수정하는 SkipLayerGuidanceDiT 노드의 간소화된 버전입니다. 이 노드는 지정된 타이밍 및 레이어 매개변수를 기반으로 무조건적 패스 중 특정 레이어를 선택적으로 건너뛰어 DiT(Diffusion Transformer) 모델의 특정 트랜스포머 레이어에 스킵 레이어 가이던스를 적용합니다.
 

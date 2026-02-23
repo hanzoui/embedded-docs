@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SetClipHooks/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SetClipHooks/es.md)
 
 El nodo SetClipHooks permite aplicar hooks personalizados a un modelo CLIP, permitiendo modificaciones avanzadas a su comportamiento. Puede aplicar hooks a las salidas de acondicionamiento y opcionalmente habilitar la funcionalidad de programación de clip. Este nodo crea una copia clonada del modelo CLIP de entrada con las configuraciones de hook especificadas aplicadas.
 

@@ -1,8 +1,8 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ControlNetApply/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ControlNetApply/zh-TW.md)
 
 ## ## 概述
 
-使用 ControlNet 需要對輸入圖像進行預處理。由於 ComfyUI 初始節點不包含預處理器和 ControlNet 模型，請先安裝 ControlNet 預處理器[在此下載預處理器](https://github.com/Fannovel16/comfy_controlnet_preprocessors)以及相應的 ControlNet 模型。
+使用 ControlNet 需要對輸入圖像進行預處理。由於 Hanzo Studio 初始節點不包含預處理器和 ControlNet 模型，請先安裝 ControlNet 預處理器[在此下載預處理器](https://github.com/Fannovel16/comfy_controlnet_preprocessors)以及相應的 ControlNet 模型。
 
 ## ## 輸入
 

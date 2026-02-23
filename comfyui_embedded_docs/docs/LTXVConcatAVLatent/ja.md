@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVConcatAVLatent/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVConcatAVLatent/ja.md)
 
 LTXVConcatAVLatentノードは、映像の潜在表現と音声の潜在表現を結合し、単一の連結された潜在出力を生成します。両方の入力から `samples` テンソルを結合し、存在する場合はそれらの `noise_mask` テンソルも結合します。これにより、映像生成パイプラインでのさらなる処理に備えます。
 

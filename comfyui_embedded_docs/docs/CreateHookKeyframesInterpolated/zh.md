@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookKeyframesInterpolated/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookKeyframesInterpolated/zh.md)
 
 创建一个包含起始点和结束点之间插值强度值的钩子关键帧序列。该节点生成多个关键帧，在生成过程的指定百分比范围内平滑过渡强度参数，使用各种插值方法来控制过渡曲线。
 

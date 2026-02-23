@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftReplaceBackgroundNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftReplaceBackgroundNode/ja.md)
 
 提供されたプロンプトに基づいて画像の背景を置き換えます。このノードはRecraft APIを使用して、テキストの説明に従って画像の新しい背景を生成し、主要な被写体をそのままに背景を完全に変換することができます。
 

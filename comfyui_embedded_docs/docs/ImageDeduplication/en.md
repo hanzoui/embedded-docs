@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageDeduplication/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageDeduplication/en.md)
 
 This node removes duplicate or very similar images from a batch. It works by creating a perceptual hash for each image—a simple numerical fingerprint based on its visual content—and then comparing them. Images whose hashes are more similar than a set threshold are considered duplicates and filtered out.
 

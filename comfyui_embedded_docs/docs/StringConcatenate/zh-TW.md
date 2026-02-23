@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringConcatenate/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringConcatenate/zh-TW.md)
 
 StringConcatenate 節點透過指定的分隔符將兩個文字字串組合成一個。它接收兩個輸入字串和一個分隔字符或字串，然後輸出單一字串，其中兩個輸入字串以分隔符連接。
 

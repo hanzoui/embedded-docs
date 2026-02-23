@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VoxelToMeshBasic/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VoxelToMeshBasic/ar.md)
 
 يقوم عُقدة VoxelToMeshBasic بتحويل بيانات الفوكسل ثلاثية الأبعاد إلى هندسة شبكية. تعالج هذه العُقدة أحجام الفوكسل من خلال تطبيق قيمة عتبة لتحديد الأجزاء من الحجم التي تصبح أسطحاً صلبة في الشبكة الناتجة. تخرج العُقدة هيكلاً شبكياً كاملاً يحتوي على رؤوس وأوجه يمكن استخدامها في التصيير والنمذجة ثلاثية الأبعاد.
 

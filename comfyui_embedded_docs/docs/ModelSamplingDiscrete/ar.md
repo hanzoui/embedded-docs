@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingDiscrete/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingDiscrete/ar.md)
 
 تم تصميم هذه العقدة لتعديل سلوك أخذ العينات للنموذج من خلال تطبيق استراتيجية أخذ عينات منفصلة. تتيح اختيار طرق أخذ عينات مختلفة، مثل epsilon أو v_prediction أو lcm أو x0، وتقوم بشكل اختياري بضبط استراتيجية تقليل الضوضاء للنموذج بناءً على إعداد نسبة الضوضاء فورية الاستخدام (zsnr).
 

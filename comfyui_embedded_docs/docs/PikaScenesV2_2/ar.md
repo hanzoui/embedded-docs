@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaScenesV2_2/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaScenesV2_2/ar.md)
 
 تُجمِع عُقدة PikaScenes الإصدار 2.2 صورًا متعددة لإنشاء فيديو يدمج عناصر من جميع الصور المدخلة. يمكنك رفع ما يصل إلى خمس صور مختلفة كمكونات وإنشاء فيديو عالي الجودة يمزجها معًا بسلاسة.
 

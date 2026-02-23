@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProVideoToVideoNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProVideoToVideoNode/es.md)
 
 Este nodo utiliza el modelo Kling AI para generar un nuevo video basado en un video de entrada e imágenes de referencia opcionales. Proporcionas un texto descriptivo (prompt) que describe el contenido deseado, y el nodo transforma el video de referencia en consecuencia. También puede incorporar hasta cuatro imágenes de referencia adicionales para guiar el estilo y el contenido de la salida.
 

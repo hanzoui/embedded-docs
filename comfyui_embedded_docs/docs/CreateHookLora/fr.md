@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookLora/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookLora/fr.md)
 
 Le nœud Create Hook LoRA génère des objets hook pour appliquer des modifications LoRA (Low-Rank Adaptation) aux modèles. Il charge un fichier LoRA spécifié et crée des hooks qui peuvent ajuster les forces du modèle et du CLIP, puis combine ces hooks avec tous les hooks existants qui lui sont transmis. Le nœud gère efficacement le chargement des LoRA en mettant en cache les fichiers LoRA précédemment chargés pour éviter les opérations redondantes.
 

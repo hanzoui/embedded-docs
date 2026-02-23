@@ -1,8 +1,8 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CombineHooksFour/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CombineHooksFour/zh.md)
 
 ## 概述
 
-Combine Hooks [4] 节点可将最多四个独立的钩子组合并为一个统一的钩子组。该节点接收四个可用钩子输入中的任意组合，并使用 ComfyUI 的钩子组合系统进行合并。通过此功能，您可以在高级工作流中整合多个钩子配置，实现简化的处理流程。
+Combine Hooks [4] 节点可将最多四个独立的钩子组合并为一个统一的钩子组。该节点接收四个可用钩子输入中的任意组合，并使用 Hanzo Studio 的钩子组合系统进行合并。通过此功能，您可以在高级工作流中整合多个钩子配置，实现简化的处理流程。
 
 ## 输入
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MakeTrainingDataset/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MakeTrainingDataset/ko.md)
 
 이 노드는 이미지와 텍스트를 인코딩하여 학습 데이터를 준비합니다. 이미지 목록과 해당 텍스트 캡션 목록을 받아 VAE 모델을 사용하여 이미지를 잠재 표현으로 변환하고, CLIP 모델을 사용하여 텍스트를 조건화 데이터로 변환합니다. 결과로 생성된 쌍을 이루는 잠재 표현과 조건화 데이터는 목록 형태로 출력되어 학습 워크플로우에서 바로 사용할 수 있습니다.
 

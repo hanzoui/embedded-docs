@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ExtendIntermediateSigmas/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ExtendIntermediateSigmas/en.md)
 
 The ExtendIntermediateSigmas node takes an existing sequence of sigma values and inserts additional intermediate sigma values between them. It allows you to specify how many extra steps to add, the spacing method for interpolation, and optional start and end sigma boundaries to control where the extension occurs within the sigma sequence.
 

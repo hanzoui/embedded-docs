@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LaplaceScheduler/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LaplaceScheduler/ko.md)
 
 LaplaceScheduler 노드는 확산 샘플링에 사용하기 위해 라플라스 분포를 따르는 시그마 값 시퀀스를 생성합니다. 이 스케줄러는 최대값에서 최소값으로 점차 감소하는 노이즈 수준의 스케줄을 생성하며, 진행 속도를 제어하기 위해 라플라스 분포 매개변수를 사용합니다. 이 스케줄러는 주로 사용자 정의 샘플링 워크플로에서 확산 모델의 노이즈 스케줄을 정의하는 데 사용됩니다.
 

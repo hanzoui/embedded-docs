@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RunwayImageToVideoNodeGen3a/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RunwayImageToVideoNodeGen3a/ar.md)
 
 يُنشئ عقد Runway Image to Video (Gen3a Turbo) فيديو من إطار بدائي وحيد باستخدام نموذج Gen3a Turbo من Runway. يأخذ العقد نصًا توجيهيًا (prompt) وإطارًا صوريًا بدائيًا، ثم يُنشئ تسلسل فيديو استنادًا إلى المدة ونسبة الأبعاد المحددة. يتصل هذا العقد بواجهة برمجة التطبيقات (API) الخاصة بـ Runway لمعالجة عملية التوليد عن بُعد.
 

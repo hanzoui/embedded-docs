@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVSeparateAVLatent/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVSeparateAVLatent/ja.md)
 
 LTXVSeparateAVLatentノードは、結合された視聴覚潜在表現を受け取り、ビデオ用とオーディオ用の2つの異なる部分に分割します。入力潜在表現からサンプルと、存在する場合はノイズマスクを分離し、2つの新しい潜在オブジェクトを生成します。
 

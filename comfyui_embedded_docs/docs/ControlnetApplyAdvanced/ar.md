@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ControlNetApplyAdvanced/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ControlNetApplyAdvanced/ar.md)
 
 تطبق هذه العقدة تحويلات متقدمة لشبكة التحكم على بيانات التكييف استنادًا إلى صورة ونموذج شبكة تحكم. تتيح إجراء تعديلات دقيقة لتأثير شبكة التحكم على المحتوى المُنتَج، مما يمكّن من إجراء تعديلات أكثر دقة وتنوعًا على عملية التكييف.
 

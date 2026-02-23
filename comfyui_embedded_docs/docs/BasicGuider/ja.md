@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BasicGuider/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BasicGuider/ja.md)
 
 BasicGuiderノードは、サンプリングプロセス用のシンプルなガイダンスメカニズムを作成します。モデルとコンディショニングデータを入力として受け取り、サンプリング中に生成プロセスをガイドするために使用できるガイダーオブジェクトを生成します。このノードは、制御された生成に必要な基本的なガイダンス機能を提供します。
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoConversionNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoConversionNode/ko.md)
 
 TripoConversionNode는 Tripo API를 사용하여 3D 모델을 다양한 파일 형식 간에 변환합니다. 이전 Tripo 작업에서 얻은 작업 ID를 사용하여 결과 모델을 원하는 형식으로 다양한 내보내기 옵션과 함께 변환합니다.
 

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ManualSigmas/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ManualSigmas/fr.md)
 
 Le nœud ManualSigmas vous permet de définir manuellement une séquence personnalisée de niveaux de bruit (sigmas) pour le processus d'échantillonnage. Vous saisissez une liste de nombres sous forme de chaîne de caractères, et le nœud les convertit en un tenseur utilisable par d'autres nœuds d'échantillonnage. Cela est utile pour des tests ou pour créer des planifications de bruit spécifiques.
 

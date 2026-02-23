@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentBlend/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentBlend/ja.md)
 
 LatentBlendノードは、2つの潜在サンプルを指定されたブレンド係数を使用して混合することで結合します。2つの潜在入力を受け取り、最初のサンプルにブレンド係数を乗算し、2番目のサンプルにその逆数を乗算した新しい出力を生成します。入力サンプルの形状が異なる場合、2番目のサンプルは自動的に最初のサンプルの寸法に合わせてリサイズされます。
 

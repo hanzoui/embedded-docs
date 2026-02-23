@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerCustomAdvanced/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerCustomAdvanced/fr.md)
 
 Le nœud SamplerCustomAdvanced effectue un échantillonnage avancé de l'espace latent en utilisant du bruit personnalisé, des configurations de guidage et d'échantillonnage. Il traite une image latente à travers un processus d'échantillonnage guidé avec une génération de bruit personnalisable et des plannings de sigma, produisant à la fois la sortie échantillonnée finale et une version débruitée lorsqu'elle est disponible.
 

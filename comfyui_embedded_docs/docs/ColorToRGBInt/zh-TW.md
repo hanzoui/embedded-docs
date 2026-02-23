@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ColorToRGBInt/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ColorToRGBInt/zh-TW.md)
 
 此節點將十六進制格式指定的顏色轉換為單一整數值。它接收如 `#FF5733` 的顏色字串，並透過組合紅、綠、藍分量來計算對應的 RGB 整數。
 

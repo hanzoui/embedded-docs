@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LumaReferenceNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LumaReferenceNode/zh.md)
 
 此节点保存图像和权重值，用于 Luma 生成图像节点。它创建一个参考链，可传递给其他 Luma 节点以影响图像生成。该节点可以启动新的参考链，也可以添加到现有参考链中。
 

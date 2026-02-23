@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SetFirstSigma/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SetFirstSigma/zh.md)
 
 SetFirstSigma 节点通过将序列中的第一个 sigma 值替换为自定义值来修改 sigma 值序列。它接收现有的 sigma 序列和新的 sigma 值作为输入，然后返回一个新的 sigma 序列，其中仅第一个元素被更改，而其他所有 sigma 值保持不变。
 

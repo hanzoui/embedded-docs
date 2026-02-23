@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripleCLIPLoader/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripleCLIPLoader/zh-TW.md)
 
 此節點同時載入三個不同的文字編碼器模型，並將它們組合成單一的 CLIP 模型。這在需要多個文字編碼器的高級文字編碼場景中非常有用，例如在需要 clip-l、clip-g 和 t5 模型協同工作的 SD3 工作流程中。
 

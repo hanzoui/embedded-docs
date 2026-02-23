@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyAceStepLatentAudio/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyAceStepLatentAudio/ar.md)
 
 يقوم عُقدة `EmptyAceStepLatentAudio` بإنشاء عينات كامنة فارغة للصوت لمدة زمنية محددة. تقوم هذه العُقدة بتوليد مجموعة من العينات الكامنة للصوت الصامت بقيم صفرية، حيث يتم حساب الطول بناءً على الثواني المدخلة ومعاملات معالجة الصوت. تُعد هذه العُقدة مفيدة لتهيئة سير عمل معالجة الصوت التي تتطلب تمثيلات كامنة.
 

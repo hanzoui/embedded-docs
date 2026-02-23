@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConvertStringToComboNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConvertStringToComboNode/es.md)
 
 El nodo Convertir Cadena a Combo toma una cadena de texto como entrada y la convierte en un tipo de datos Combo. Esto permite utilizar un valor de texto como selección para otros nodos que requieren una entrada de tipo Combo. Simplemente pasa el valor de la cadena sin cambios, pero altera su tipo de datos.
 

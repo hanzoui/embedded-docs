@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeMochiPreview/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeMochiPreview/tr.md)
 
 Bu düğüm, iki yapay zeka modelini blok tabanlı bir yaklaşımla birleştirir ve farklı model bileşenleri üzerinde ayrıntılı kontrol sağlar. Modelleri, konumsal frekanslar, gömme katmanları ve bireysel dönüştürücü bloklar dahil olmak üzere belirli bölümler için enterpolasyon ağırlıklarını ayarlayarak harmanlamanıza olanak tanır. Birleştirme işlemi, her iki giriş modelinin mimarilerini ve parametrelerini belirtilen ağırlık değerlerine göre birleştirir.
 

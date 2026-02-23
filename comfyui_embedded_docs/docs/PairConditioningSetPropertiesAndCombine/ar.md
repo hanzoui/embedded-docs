@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningSetPropertiesAndCombine/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningSetPropertiesAndCombine/ar.md)
 
 ```markdown
 يقوم عقد PairConditioningSetPropertiesAndCombine بتعديل ودمج أزواج التكييف من خلال تطبيق بيانات تكييف جديدة على مدخلات التكييف الموجبة والسالبة الموجودة. يسمح لك هذا العقد بضبط قوة التكييف المطبق والتحكم في كيفية تعيين منطقة التكييف. يُعد هذا العقد مفيدًا بشكل خاص لسير العمل المتقدمة لمعالجة التكييف حيث تحتاج إلى مزج مصادر تكييف متعددة معًا.

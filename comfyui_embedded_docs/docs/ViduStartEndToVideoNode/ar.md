@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduStartEndToVideoNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduStartEndToVideoNode/ar.md)
 
 ```markdown
 يقوم عقد توليد الفيديو من الإطار الأول إلى الأخير بإنشاء فيديو من خلال توليد إطارات بين إطار البداية وإطار النهاية. يستخدم العقد وصفًا نصيًا لتوجيه عملية توليد الفيديو ويدعم نماذج فيديو متنوعة بإعدادات دقة وحركة مختلفة. يقوم العقد بالتحقق من توافق نسب أبعاد إطاري البداية والنهاية قبل المعالجة.

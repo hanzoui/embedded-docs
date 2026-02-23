@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RegexExtract/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RegexExtract/pt-BR.md)
 
 O nó RegexExtract busca por padrões em texto usando expressões regulares. Ele pode encontrar a primeira correspondência, todas as correspondências, grupos específicos das correspondências ou todos os grupos entre múltiplas correspondências. O nó suporta várias flags de regex para sensibilidade a maiúsculas/minúsculas, correspondência em múltiplas linhas e comportamento dotall.
 

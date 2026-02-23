@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BetaSamplingScheduler/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BetaSamplingScheduler/pt-BR.md)
 
 O nó BetaSamplingScheduler gera uma sequência de níveis de ruído (sigmas) para o processo de amostragem usando um algoritmo de agendamento beta. Ele recebe um modelo e parâmetros de configuração para criar um cronograma de ruído personalizado que controla o processo de remoção de ruído durante a geração de imagem. Este agendador permite o ajuste fino da trajetória de redução de ruído através dos parâmetros alfa e beta.
 

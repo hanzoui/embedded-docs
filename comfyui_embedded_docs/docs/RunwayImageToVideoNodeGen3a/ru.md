@@ -1,4 +1,4 @@
-> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RunwayImageToVideoNodeGen3a/ru.md)
+> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RunwayImageToVideoNodeGen3a/ru.md)
 
 Узел Runway Image to Video (Gen3a Turbo) создает видео из одного начального кадра с использованием модели Runway Gen3a Turbo. Он принимает текстовый запрос и начальное изображение, а затем создает видеопоследовательность на основе указанной длительности и соотношения сторон. Этот узел подключается к API Runway для удаленной обработки генерации.
 

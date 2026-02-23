@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerLCMUpscale/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerLCMUpscale/tr.md)
 
 SamplerLCMUpscale düğümü, Gizli Tutarlılık Modeli (LCM) örneklemesini görüntü büyütme yetenekleriyle birleştiren özelleştirilmiş bir örnekleme yöntemi sağlar. Görüntü kalitesini korurken daha yüksek çözünürlüklü çıktılar oluşturmak için kullanışlı olan, çeşitli enterpolasyon yöntemleri kullanarak örnekleme işlemi sırasında görüntüleri büyütmenize olanak tanır.
 

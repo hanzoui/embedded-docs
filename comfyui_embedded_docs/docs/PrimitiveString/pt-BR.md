@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PrimitiveString/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PrimitiveString/pt-BR.md)
 
 O nó String fornece uma maneira simples de inserir e transmitir dados de texto em seu fluxo de trabalho. Ele recebe uma string de texto como entrada e a emite inalterada, sendo útil para fornecer entradas de texto a outros nós que requerem parâmetros do tipo string.
 

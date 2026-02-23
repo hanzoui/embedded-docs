@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyMultiImageToModelNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyMultiImageToModelNode/ko.md)
 
 이 노드는 Meshy API를 사용하여 여러 입력 이미지로부터 3D 모델을 생성합니다. 제공된 이미지를 업로드하고 처리 작업을 제출한 후, 결과로 생성된 3D 모델 파일(GLB 및 FBX)과 참조용 작업 ID를 반환합니다.
 

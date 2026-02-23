@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ReferenceTimbreAudio/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ReferenceTimbreAudio/pt-BR.md)
 
 Este nó define um timbre de áudio de referência para uso no processo "ace step 1.5". Ele funciona recebendo uma entrada de condicionamento e, opcionalmente, uma representação latente de áudio, e então anexa esses dados latentes ao condicionamento para uso por nós subsequentes no fluxo de trabalho.
 

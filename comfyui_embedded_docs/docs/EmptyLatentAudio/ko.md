@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyLatentAudio/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyLatentAudio/ko.md)
 
 EmptyLatentAudio 노드는 오디오 처리를 위한 빈 잠재 텐서를 생성합니다. 지정된 지속 시간과 배치 크기로 빈 오디오 잠재 표현을 생성하며, 이는 오디오 생성 또는 처리 워크플로우의 입력으로 사용될 수 있습니다. 이 노드는 오디오 지속 시간과 샘플링 속도를 기반으로 적절한 잠재 차원을 계산합니다.
 

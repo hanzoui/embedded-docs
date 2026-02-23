@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LtxvApiImageToVideo/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LtxvApiImageToVideo/tr.md)
 
 LTXV Image To Video düğümü, tek bir başlangıç görselinden profesyonel kalitede bir video oluşturur. Metin isteminize dayalı bir video dizisi oluşturmak için harici bir API kullanır ve süre, çözünürlük ve kare hızını özelleştirmenize olanak tanır.
 

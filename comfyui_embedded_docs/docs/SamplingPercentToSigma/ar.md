@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplingPercentToSigma/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplingPercentToSigma/ar.md)
 
 تُحوِّل عقدة SamplingPercentToSigma قيمة النسبة المئوية لأخذ العينات إلى قيمة سيغما المقابلة باستخدام معاملات أخذ العينات الخاصة بالنموذج. تأخذ العقدة قيمة نسبة مئوية بين 0.0 و1.0 وتُحوّلها إلى قيمة سيغما المناسبة في جدول الضوضاء الخاص بالنموذج، مع خيارات لإرجاع إما قيمة سيغما المحسوبة أو قيم سيغما القصوى/الدنيا الفعلية عند الحدود.
 

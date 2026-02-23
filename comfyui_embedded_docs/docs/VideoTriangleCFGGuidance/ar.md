@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VideoTriangleCFGGuidance/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VideoTriangleCFGGuidance/ar.md)
 
 تُطبق عقدة VideoTriangleCFGGuidance نمطًا مثلثيًا لتحجيم التوجيه الخالي من المصنف على نماذج الفيديو. تقوم بتعديل مقياس التكييف بمرور الوقت باستخدام دالة موجة مثلثية تتأرجح بين الحد الأدنى لقيمة CFG ومقياس التكييف الأصلي. يؤدي هذا إلى إنشاء نمط توجيه ديناميكي يمكن أن يساعد في تحسين اتساق وجودة إنشاء الفيديو.
 

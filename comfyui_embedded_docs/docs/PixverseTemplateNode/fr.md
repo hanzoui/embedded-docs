@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PixverseTemplateNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PixverseTemplateNode/fr.md)
 
 Le nœud PixVerse Template vous permet de sélectionner parmi les modèles disponibles pour la génération de vidéos PixVerse. Il convertit le nom de modèle sélectionné en l'identifiant de modèle correspondant que l'API PixVerse requiert pour la création vidéo.
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingVideoExtendNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingVideoExtendNode/en.md)
 
 The Kling Video Extend Node allows you to extend videos created by other Kling nodes. It takes an existing video identified by its video ID and generates additional content based on your text prompts. The node works by sending your extension request to the Kling API and returning the extended video along with its new ID and duration.
 

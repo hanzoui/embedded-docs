@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SVD_img2vid_Conditioning/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SVD_img2vid_Conditioning/es.md)
 
 El nodo SVD_img2vid_Conditioning prepara los datos de condicionamiento para la generación de videos utilizando Stable Video Diffusion. Toma una imagen inicial y la procesa a través de codificadores CLIP vision y VAE para crear pares de condicionamiento positivo y negativo, junto con un espacio latente vacío para la generación de video. Este nodo configura los parámetros necesarios para controlar el movimiento, la tasa de cuadros y los niveles de aumento en el video generado.
 

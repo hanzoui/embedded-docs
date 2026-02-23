@@ -5,7 +5,7 @@
 script_folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 # Set the base path
-base_path="$script_folder/comfyui_embedded_docs/docs"
+base_path="$script_folder/hanzo_studio_embedded_docs/docs"
 
 # Check if base path exists
 if [ ! -d "$base_path" ]; then

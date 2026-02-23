@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanContextWindowsManual/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanContextWindowsManual/zh-TW.md)
 
 WAN 上下文窗口（手動）節點允許您為具有二維處理功能的類 WAN 模型手動配置上下文窗口。該節點在採樣期間透過指定窗口長度、重疊區域、排程方法和融合技術來應用自定義上下文窗口設置，讓您能精確控制模型在不同上下文區域處理資訊的方式。
 

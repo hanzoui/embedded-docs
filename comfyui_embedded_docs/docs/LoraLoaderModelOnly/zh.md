@@ -1,6 +1,6 @@
-该节点会检测位于 `ComfyUI/models/loras` 文件夹下的模型，
+该节点会检测位于 `Hanzo Studio/models/loras` 文件夹下的模型，
 同时也会读取你在 extra_model_paths.yaml 文件中配置的额外路径的模型，
-有时你可能需要 **刷新 ComfyUI 界面** 才能让它读取到对应文件夹下的模型文件
+有时你可能需要 **刷新 Hanzo Studio 界面** 才能让它读取到对应文件夹下的模型文件
 
 此节点专门用于加载LoRA模型，而无需CLIP模型，专注于根据LoRA参数增强或修改给定模型。它允许通过LoRA参数动态调整模型的强度，从而对模型的行为进行微调控制。
 

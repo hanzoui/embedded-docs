@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaImageToVideoNode2_2/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaImageToVideoNode2_2/ja.md)
 
 Pika Image to Videoノードは、画像とテキストプロンプトをPika APIバージョン2.2に送信して動画を生成します。このノードは、提供された説明と設定に基づいて入力画像を動画形式に変換します。API通信を処理し、生成された動画を出力として返します。
 

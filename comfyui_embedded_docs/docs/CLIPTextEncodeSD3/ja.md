@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeSD3/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeSD3/ja.md)
 
 CLIPTextEncodeSD3ノードは、Stable Diffusion 3モデル向けにテキスト入力を処理し、異なるCLIPモデルを使用して複数のテキストプロンプトをエンコードします。3つの独立したテキスト入力（clip_g、clip_l、t5xxl）を扱い、空のテキストのパディングを管理するオプションを提供します。このノードは異なるテキスト入力間での適切なトークン配置を保証し、SD3生成パイプラインで使用できる条件付けデータを返します。
 

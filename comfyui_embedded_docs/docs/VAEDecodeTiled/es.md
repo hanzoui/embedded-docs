@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeTiled/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeTiled/es.md)
 
 El nodo VAEDecodeTiled decodifica representaciones latentes en imágenes utilizando un enfoque en mosaicos para manejar imágenes grandes de manera eficiente. Procesa la entrada en mosaicos más pequeños para gestionar el uso de memoria manteniendo la calidad de la imagen. El nodo también admite VAEs de video procesando fotogramas temporales en fragmentos con superposición para transiciones suaves.
 

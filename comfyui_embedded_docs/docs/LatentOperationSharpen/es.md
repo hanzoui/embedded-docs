@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentOperationSharpen/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentOperationSharpen/es.md)
 
 El nodo LatentOperationSharpen aplica un efecto de realce a las representaciones latentes utilizando un kernel gaussiano. Funciona normalizando los datos latentes, aplicando una convolución con un kernel de realce personalizado y luego restaurando la luminancia original. Esto mejora los detalles y los bordes en la representación del espacio latente.
 

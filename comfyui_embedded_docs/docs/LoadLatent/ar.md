@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadLatent/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadLatent/ar.md)
 
 تُحمّل عقدة LoadLatent التمثيلات الكامنة المحفوظة مسبقاً من ملفات .latent الموجودة في دليل الإدخال. تقوم بقراءة بيانات موتر latent من الملف وتطبق أي تعديلات قياسية ضرورية قبل إرجاع بيانات latent لاستخدامها في العقد الأخرى.
 

@@ -1,24 +1,24 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Preview3DAnimation/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Preview3DAnimation/tr.md)
 
-Preview3DAnimation düğümü öncelikle 3D model çıktılarını önizlemek için kullanılır. Bu düğüm iki girdi alır: biri Load3D düğümünden gelen `camera_info`, diğeri ise 3D model dosyasının yoludur. Model dosya yolu `ComfyUI/output` klasörü altında bulunmalıdır.
+Preview3DAnimation düğümü öncelikle 3D model çıktılarını önizlemek için kullanılır. Bu düğüm iki girdi alır: biri Load3D düğümünden gelen `camera_info`, diğeri ise 3D model dosyasının yoludur. Model dosya yolu `Hanzo Studio/output` klasörü altında bulunmalıdır.
 
 **Desteklenen Formatlar**
 Şu anda bu düğüm, `.gltf`, `.glb`, `.obj`, `.fbx` ve `.stl` dahil olmak üzere birden fazla 3D dosya formatını desteklemektedir.
 
 **3D Düğüm Tercihleri**
-3D düğümlerle ilgili bazı tercihler ComfyUI'nin ayarlar menüsünde yapılandırılabilir. Lütfen ilgili ayarlar için aşağıdaki belgelere başvurun:
-[Ayarlar Menüsü](https://docs.comfy.org/interface/settings/3d)
+3D düğümlerle ilgili bazı tercihler Hanzo Studio'nin ayarlar menüsünde yapılandırılabilir. Lütfen ilgili ayarlar için aşağıdaki belgelere başvurun:
+[Ayarlar Menüsü](https://docs.hanzo.ai/interface/settings/3d)
 
 ## Girdiler
 
 | Parametre Adı | Tür           | Açıklama                                  |
 | -------------- | -------------- | -------------------------------------------- |
 | camera_info    | LOAD3D_CAMERA  | Kamera bilgisi                           |
-| model_file     | STRING  | `ComfyUI/output/` altındaki model dosya yolu      |
+| model_file     | STRING  | `Hanzo Studio/output/` altındaki model dosya yolu      |
 
 ## Tuval Alanı Açıklaması
 
-Şu anda, ComfyUI ön yüzündeki 3D ile ilgili düğümler aynı tuval bileşenini paylaşır, bu nedenle bazı işlevsel farklılıklar dışında temel işlemleri büyük ölçüde tutarlıdır.
+Şu anda, Hanzo Studio ön yüzündeki 3D ile ilgili düğümler aynı tuval bileşenini paylaşır, bu nedenle bazı işlevsel farklılıklar dışında temel işlemleri büyük ölçüde tutarlıdır.
 
 > Aşağıdaki içerik ve arayüz esas olarak Load3D düğümüne dayanmaktadır. Lütfen belirli özellikler için gerçek düğüm arayüzüne başvurun.
 
@@ -38,7 +38,7 @@ Tuval alanı çeşitli görünüm işlemlerini içerir, örneğin:
 ### 1. Görünüm İşlemleri
 
 <video controls width="640" height="360">
-  <source src="https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
   Tarayıcınız video oynatmayı desteklemiyor.
 </video>
 
@@ -51,7 +51,7 @@ Görünüm kontrol işlemleri:
 
 ### 2. Sol Menü İşlevleri
 
-![Menu](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu.webp)
+![Menu](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu.webp)
 
 Önizleme alanında, bazı görünüm işlem menüleri menü içinde gizlidir. Menü düğmesine tıklayarak farklı menüleri genişletebilirsiniz.
 
@@ -63,7 +63,7 @@ Görünüm kontrol işlemleri:
 
 #### Sahne
 
-![scene menu](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_scene.webp)
+![scene menu](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_scene.webp)
 
 Sahne menüsü bazı temel sahne ayar işlevleri sağlar:
 
@@ -74,7 +74,7 @@ Sahne menüsü bazı temel sahne ayar işlevleri sağlar:
 
 #### Model
 
-![Menu_Scene](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_model.webp)
+![Menu_Scene](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_model.webp)
 
 Model menüsü bazı modelle ilgili işlevler sağlar:
 
@@ -83,7 +83,7 @@ Model menüsü bazı modelle ilgili işlevler sağlar:
 
 #### Kamera
 
-![menu_modelmenu_camera](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_camera.webp)
+![menu_modelmenu_camera](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_camera.webp)
 
 Bu menü, ortografik ve perspektif görünümler arasında geçiş yapma ve perspektif açısı boyutu ayarları sağlar:
 
@@ -92,12 +92,12 @@ Bu menü, ortografik ve perspektif görünümler arasında geçiş yapma ve pers
 
 #### Işık
 
-![menu_modelmenu_camera](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_light.webp)
+![menu_modelmenu_camera](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_light.webp)
 
 Bu menü aracılığıyla, sahnenin genel aydınlatma yoğunluğunu hızlıca ayarlayabilirsiniz
 
 #### Dışa Aktar
 
-![menu_export](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_export.webp)
+![menu_export](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_export.webp)
 
 Bu menü, model formatlarını hızlıca dönüştürme ve dışa aktarma yeteneği sağlar

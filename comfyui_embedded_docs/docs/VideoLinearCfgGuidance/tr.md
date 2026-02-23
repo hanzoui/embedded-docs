@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VideoLinearCFGGuidance/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VideoLinearCFGGuidance/tr.md)
 
 VideoLinearCFGGuidance düğümü, bir video modeline doğrusal koşullandırma kılavuz ölçeği uygulayarak, koşullandırılmış ve koşullandırılmamış bileşenlerin etkisini belirli bir aralıkta ayarlar. Bu, üretim süreci üzerinde dinamik kontrol sağlayarak modelin çıktısını istenen koşullandırma seviyesine göre hassas bir şekilde ayarlamaya olanak tanır.
 

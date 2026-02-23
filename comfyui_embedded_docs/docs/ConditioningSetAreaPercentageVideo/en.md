@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetAreaPercentageVideo/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetAreaPercentageVideo/en.md)
 
 The ConditioningSetAreaPercentageVideo node modifies conditioning data by defining a specific area and temporal region for video generation. It allows you to set the position, size, and duration of the area where the conditioning will be applied using percentage values relative to the overall dimensions. This is useful for focusing the generation on specific parts of a video sequence.
 

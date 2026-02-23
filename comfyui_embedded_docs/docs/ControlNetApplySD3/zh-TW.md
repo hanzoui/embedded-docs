@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ControlNetApplySD3/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ControlNetApplySD3/zh-TW.md)
 
 此節點將 ControlNet 引導應用於 Stable Diffusion 3 的條件設定。它接收正向與負向條件輸入，以及 ControlNet 模型和圖像，然後透過可調整的強度和時機參數來施加控制引導，以影響生成過程。
 

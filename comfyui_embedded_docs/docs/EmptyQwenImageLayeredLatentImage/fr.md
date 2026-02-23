@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyQwenImageLayeredLatentImage/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyQwenImageLayeredLatentImage/fr.md)
 
 Le nœud Empty Qwen Image Layered Latent crée une représentation latente vierge et multicouche destinée à être utilisée avec les modèles d'image Qwen. Il génère un tenseur rempli de zéros, structuré avec un nombre spécifié de couches, une taille de lot et des dimensions spatiales. Ce latent vide sert de point de départ pour des workflows ultérieurs de génération ou de manipulation d'image.
 

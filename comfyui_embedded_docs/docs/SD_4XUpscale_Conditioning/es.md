@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SD_4XUpscale_Conditioning/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SD_4XUpscale_Conditioning/es.md)
 
 El nodo SD_4XUpscale_Conditioning prepara datos de condicionamiento para el escalado de imágenes utilizando modelos de difusión. Toma imágenes de entrada y datos de condicionamiento, luego aplica escalado y aumento de ruido para crear un condicionamiento modificado que guía el proceso de escalado. El nodo genera tanto condicionamiento positivo como negativo junto con representaciones latentes para las dimensiones escaladas.
 

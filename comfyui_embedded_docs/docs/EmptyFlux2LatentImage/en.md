@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyFlux2LatentImage/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyFlux2LatentImage/en.md)
 
 The EmptyFlux2LatentImage node creates a blank, empty latent representation. It generates a tensor filled with zeros, which serves as a starting point for the Flux model's denoising process. The dimensions of the latent are determined by the input width and height, scaled down by a factor of 16.
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/IdeogramV2/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/IdeogramV2/ja.md)
 
 Ideogram V2ノードは、Ideogram V2 AIモデルを使用して画像を生成します。テキストプロンプトと様々な生成設定を受け取り、APIサービスを通じて画像を作成します。このノードは、異なるアスペクト比、解像度、スタイルオプションをサポートし、出力画像をカスタマイズできます。
 

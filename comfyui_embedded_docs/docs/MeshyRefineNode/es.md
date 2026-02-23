@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyRefineNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyRefineNode/es.md)
 
 El nodo Meshy: Refine Draft Model toma un modelo 3D borrador generado previamente y mejora su calidad, añadiendo opcionalmente texturas. Envía una tarea de refinamiento a la API de Meshy y devuelve los archivos del modelo 3D final una vez completado el procesamiento.
 

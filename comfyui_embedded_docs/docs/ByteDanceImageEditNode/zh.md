@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageEditNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageEditNode/zh.md)
 
 字节跳动图像编辑节点允许您通过 API 使用字节跳动的 AI 模型来修改图像。您提供输入图像和描述所需更改的文本提示，节点会根据您的指令处理图像。该节点会自动处理 API 通信并返回编辑后的图像。
 

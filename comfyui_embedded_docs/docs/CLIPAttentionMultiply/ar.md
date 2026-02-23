@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPAttentionMultiply/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPAttentionMultiply/ar.md)
 
 ```markdown
 تتيح عقدة CLIPAttentionMultiply ضبط آلية الانتباه في نماذج CLIP من خلال تطبيق عوامل ضرب على المكونات المختلفة لطبقات الانتباه الذاتي. تعمل هذه العقدة عن طريق تعديل أوزان وتحيزات إسقاط الاستعلام والمفتاح والقيمة وإسقاط المخرجات في آلية الانتباه لنموذج CLIP. تنشئ هذه العقدة التجريبية نسخة معدلة من نموذج CLIP المدخل مع تطبيق عوامل القياس المحددة.

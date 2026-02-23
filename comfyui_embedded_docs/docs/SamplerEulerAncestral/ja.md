@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerEulerAncestral/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerEulerAncestral/ja.md)
 
 SamplerEulerAncestralノードは、画像生成用のEuler Ancestralサンプラーを作成します。このサンプラーは、オイラー積分とアンセストラルサンプリング技術を組み合わせた特定の数学的アプローチを使用して、画像のバリエーションを生成します。このノードでは、生成プロセス中のランダム性とステップサイズを制御するパラメータを調整することで、サンプリングの動作を設定できます。
 

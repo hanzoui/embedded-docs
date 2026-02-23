@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyMochiLatentVideo/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyMochiLatentVideo/ja.md)
 
 EmptyMochiLatentVideoノードは、指定された次元で空の潜在動画テンソルを作成します。このノードは、動画生成ワークフローの開始点として使用できるゼロ埋めされた潜在表現を生成します。潜在動画テンソルの幅、高さ、長さ、バッチサイズを定義することができます。
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ScaleROPE/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ScaleROPE/pt-BR.md)
 
 O nó ScaleROPE permite modificar o Embedding de Posição Rotacional (ROPE) de um modelo aplicando fatores de escala e deslocamento separados aos seus componentes X, Y e T (tempo). Este é um nó experimental avançado usado para ajustar o comportamento de codificação posicional do modelo.
 

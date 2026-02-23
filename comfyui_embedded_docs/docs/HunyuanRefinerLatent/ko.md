@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanRefinerLatent/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanRefinerLatent/ko.md)
 
 HunyuanRefinerLatent 노드는 정제 작업을 위한 조건화와 잠재 입력을 처리합니다. 잠재 이미지 데이터를 통합하면서 양수 및 음수 조건화에 노이즈 증강을 적용하고, 추가 처리를 위한 특정 차원의 새로운 잠재 출력을 생성합니다.
 

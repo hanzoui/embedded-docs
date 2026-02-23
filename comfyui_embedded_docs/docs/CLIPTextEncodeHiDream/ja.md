@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeHiDream/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeHiDream/ja.md)
 
 CLIPTextEncodeHiDreamノードは、複数のテキスト入力を異なる言語モデルを使用して処理し、それらを単一のコンディショニング出力に結合します。このノードは4つの異なるソース（CLIP-L、CLIP-G、T5-XXL、LLaMA）からのテキストをトークン化し、スケジュールされたエンコーディングアプローチを使用してエンコードします。これにより、複数の言語モデルを同時に活用することで、より高度なテキストコンディショニングが可能になります。
 

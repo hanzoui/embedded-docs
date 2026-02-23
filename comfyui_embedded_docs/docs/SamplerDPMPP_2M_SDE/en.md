@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMPP_2M_SDE/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMPP_2M_SDE/en.md)
 
 The SamplerDPMPP_2M_SDE node creates a DPM++ 2M SDE sampler for diffusion models. This sampler uses second-order differential equation solvers with stochastic differential equations to generate samples. It provides different solver types and noise handling options to control the sampling process.
 

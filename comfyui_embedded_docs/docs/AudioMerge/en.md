@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioMerge/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioMerge/en.md)
 
 The AudioMerge node combines two audio tracks by overlaying their waveforms. It automatically matches the sample rates of both audio inputs and adjusts their lengths to be equal before merging. The node provides several mathematical methods for combining the audio signals and ensures the output remains within acceptable volume levels.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PolyexponentialScheduler/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PolyexponentialScheduler/pt-BR.md)
 
 O nó PolyexponentialScheduler é projetado para gerar uma sequência de níveis de ruído (sigmas) com base em um cronograma de ruído poli-exponencial. Este cronograma é uma função polinomial no logaritmo do sigma, permitindo uma progressão flexível e personalizável dos níveis de ruído ao longo do processo de difusão.
 

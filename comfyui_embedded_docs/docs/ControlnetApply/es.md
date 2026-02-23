@@ -2,7 +2,7 @@ Esta documentación es para el nodo original `Apply ControlNet(Advanced)`. El no
 
 Este nodo aplica un ControlNet a una imagen y acondicionamiento dados, ajustando los atributos de la imagen según los parámetros de la red de control y una fuerza especificada, como Depth, OpenPose, Canny, HED, etc.
 
-El uso de controlNet requiere preprocesamiento de imágenes de entrada. Como los nodos iniciales de ComfyUI no vienen con preprocesadores y modelos controlNet, primero instale los preprocesadores ContrlNet [descargue los preprocesadores aquí](https://github.com/Fannovel16/comfy_controlnet_preprocessors) y los modelos controlNet correspondientes.
+El uso de controlNet requiere preprocesamiento de imágenes de entrada. Como los nodos iniciales de Hanzo Studio no vienen con preprocesadores y modelos controlNet, primero instale los preprocesadores ContrlNet [descargue los preprocesadores aquí](https://github.com/Fannovel16/comfy_controlnet_preprocessors) y los modelos controlNet correspondientes.
 
 ## Entradas
 

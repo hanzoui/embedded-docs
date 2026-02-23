@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyChromaRadianceLatentImage/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyChromaRadianceLatentImage/ar.md)
 
 ينشئ عقدة `EmptyChromaRadianceLatentImage` صورة كامنة فارغة بأبعاد محددة لاستخدامها في سير عمل الإشعاع اللوني. تقوم العقدة بإنشاء موتر مملوء بقيم الصفر ليكون نقطة بدء لعمليات الفضاء الكامن. تتيح لك العقدة تحديد عرض وارتفاع وحجم الدُفعة للصورة الكامنة الفارغة.
 

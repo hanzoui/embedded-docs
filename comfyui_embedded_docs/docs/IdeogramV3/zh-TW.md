@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/IdeogramV3/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/IdeogramV3/zh-TW.md)
 
 Ideogram V3 節點使用 Ideogram V3 模型生成影像。它支援基於文字提示的常規影像生成，以及在提供影像和遮罩時的影像編輯功能。該節點提供多種控制選項，包括長寬比、解析度、生成速度以及可選的角色參考影像。
 

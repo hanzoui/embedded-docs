@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeLTXV/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeLTXV/zh-TW.md)
 
 ModelMergeLTXV 節點執行專為 LTXV 模型架構設計的進階模型合併操作。它允許您透過調整各種模型組件的插值權重來融合兩個不同的模型，這些組件包括轉換器區塊、投影層和其他專門模組。
 

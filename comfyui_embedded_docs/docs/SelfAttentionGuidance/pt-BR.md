@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SelfAttentionGuidance/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SelfAttentionGuidance/pt-BR.md)
 
 O nó Self-Attention Guidance aplica uma orientação a modelos de difusão modificando o mecanismo de atenção durante o processo de amostragem. Ele captura os escores de atenção das etapas de remoção de ruído incondicionais e os utiliza para criar mapas de orientação borrados que influenciam a saída final. Esta técnica ajuda a orientar o processo de geração aproveitando os próprios padrões de atenção do modelo.
 

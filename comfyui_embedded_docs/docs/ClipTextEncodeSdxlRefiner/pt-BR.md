@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeSDXLRefiner/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeSDXLRefiner/pt-BR.md)
 
 Este nó foi projetado especificamente para o modelo SDXL Refiner para converter prompts de texto em informações de condicionamento, incorporando pontuações estéticas e informações dimensionais para aprimorar as condições das tarefas de geração, melhorando assim o efeito final de refinamento. Ele atua como um diretor de arte profissional, não apenas transmitindo sua intenção criativa, mas também injetando padrões estéticos precisos e requisitos de especificação no trabalho.
 

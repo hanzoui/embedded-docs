@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Rodin3D_Sketch/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Rodin3D_Sketch/zh-TW.md)
 
 此節點使用 Rodin API 來生成 3D 資產。它接收輸入圖像並透過外部服務將其轉換為 3D 模型。該節點處理從任務創建到下載最終 3D 模型檔案的整個流程。
 

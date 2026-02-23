@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmos14B/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmos14B/zh.md)
 
 ModelMergeCosmos14B 节点采用基于模块的融合方式，专门针对 Cosmos 14B 模型架构设计，用于合并两个AI模型。通过调整每个模型块和嵌入层的权重值（范围0.0至1.0），您可以混合两个模型的不同组件。
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanVideo15LatentUpscaleWithModel/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanVideo15LatentUpscaleWithModel/ko.md)
 
 Hunyuan Video 15 Latent Upscale With Model 노드는 잠재 이미지 표현의 해상도를 높입니다. 먼저 선택한 보간 방법을 사용하여 잠재 샘플을 지정된 크기로 업스케일한 다음, 특수한 Hunyuan Video 1.5 업스케일 모델을 사용하여 업스케일된 결과를 개선하여 품질을 향상시킵니다.
 

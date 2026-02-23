@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CustomCombo/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CustomCombo/tr.md)
 
 Custom Combo düğümü, kendi metin seçeneklerinizden oluşan özel bir açılır menü oluşturmanıza olanak tanır. İş akışınız içinde uyumluluğu sağlamak için bir arka plan temsili sunan, ön yüze odaklanmış bir düğümdür. Açılır menüden bir seçenek belirlediğinizde, düğüm bu metni bir dize olarak çıktı verir.
 

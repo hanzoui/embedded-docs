@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateVideo/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateVideo/fr.md)
 
 Le nœud Create Video génère un fichier vidéo à partir d'une séquence d'images. Vous pouvez spécifier la vitesse de lecture en utilisant les images par seconde et optionnellement ajouter un audio à la vidéo. Le nœud combine vos images dans un format vidéo qui peut être lu avec la fréquence d'images spécifiée.
 

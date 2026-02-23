@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RunwayTextToImageNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RunwayTextToImageNode/ar.md)
 
 يُولِّد عُقدة النص إلى صورة من Runway الصور من نصوص الإدخال باستخدام نموذج Gen 4 من Runway. يمكنك تقديم وصف نصي واختياريًا تضمين صورة مرجعية لتوجيه عملية توليد الصورة. تتولى العُقدة إدارة الاتصال بواجهة برمجة التطبيقات (API) وتعيد الصورة المُولَّدة.
 

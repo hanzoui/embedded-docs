@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSDXL/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSDXL/ja.md)
 
 ModelMergeSDXLノードは、2つのSDXLモデルを統合し、アーキテクチャの異なる部分に対する各モデルの影響度を調整することでブレンドすることができます。時間埋め込み、ラベル埋め込み、およびモデル構造内の様々なブロックに対して各モデルがどの程度寄与するかを制御できます。これにより、両入力モデルの特徴を組み合わせたハイブリッドモデルが作成されます。
 

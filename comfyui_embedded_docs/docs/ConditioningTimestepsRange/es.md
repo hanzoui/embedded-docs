@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningTimestepsRange/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningTimestepsRange/es.md)
 
 El nodo ConditioningTimestepsRange crea tres rangos de pasos temporales distintos para controlar cuándo se aplican los efectos de condicionamiento durante el proceso de generación. Toma valores de porcentaje de inicio y fin y divide el rango completo de pasos temporales (0.0 a 1.0) en tres segmentos: el rango principal entre los porcentajes especificados, el rango anterior al porcentaje de inicio y el rango posterior al porcentaje de fin.
 

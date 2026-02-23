@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MinimaxTextToVideoNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MinimaxTextToVideoNode/zh-TW.md)
 
 此節點使用 MiniMax 的 API，根據提示文字和可選參數同步生成影片。該節點透過連接 MiniMax 的文字轉影片服務，從文字描述建立影片內容。
 

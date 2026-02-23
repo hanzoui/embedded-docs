@@ -1,4 +1,4 @@
-> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextToLowercase/ru.md)
+> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextToLowercase/ru.md)
 
 Узел Text to Lowercase принимает текстовую строку на вход и преобразует все её символы в нижний регистр. Это простой инструмент для стандартизации регистра текста.
 

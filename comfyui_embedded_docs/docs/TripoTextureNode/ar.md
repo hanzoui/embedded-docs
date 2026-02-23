@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoTextureNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoTextureNode/ar.md)
 
 يولد TripoTextureNode نماذج ثلاثية الأبعاد ذات قوام باستخدام Tripo API. يأخذ معرف مهمة النموذج ويطبق توليد القوام مع خيارات متنوعة تشمل مواد PBR، وإعدادات جودة القوام، وطرق المحاذاة. يتواصل العقدة مع Tripo API لمعالجة طلب توليد القوام ويعيد ملف النموذج الناتج ومعرف المهمة.
 

@@ -1,10 +1,10 @@
 This is a model loader node that loads model files from specified locations and decomposes them into three core components: the main model, text encoder, and image encoder/decoder.
 
-This node automatically detects all model files in the `ComfyUI/models/checkpoints` folder, as well as additional paths configured in your `extra_model_paths.yaml` file.
+This node automatically detects all model files in the `Hanzo Studio/models/checkpoints` folder, as well as additional paths configured in your `extra_model_paths.yaml` file.
 
 1. **Model Compatibility**: Ensure the selected model is compatible with your workflow. Different model types (such as SD1.5, SDXL, Flux, etc.) need to be paired with corresponding samplers and other nodes
-2. **File Management**: Place model files in the `ComfyUI/models/checkpoints` folder, or configure other paths through extra_model_paths.yaml
-3. **Interface Refresh**: If new model files are added while ComfyUI is running, you need to refresh the browser (Ctrl+R) to see the new files in the dropdown list
+2. **File Management**: Place model files in the `Hanzo Studio/models/checkpoints` folder, or configure other paths through extra_model_paths.yaml
+3. **Interface Refresh**: If new model files are added while Hanzo Studio is running, you need to refresh the browser (Ctrl+R) to see the new files in the dropdown list
 
 ## Inputs
 

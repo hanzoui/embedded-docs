@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RunwayFirstLastFrameNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RunwayFirstLastFrameNode/pt-BR.md)
 
 O nó Runway First-Last-Frame to Video gera vídeos fazendo upload de quadros-chave inicial e final junto com um prompt de texto. Ele cria transições suaves entre os quadros de início e fim fornecidos usando o modelo Gen-3 da Runway. Isso é particularmente útil para transições complexas onde o quadro final difere significativamente do quadro inicial.
 

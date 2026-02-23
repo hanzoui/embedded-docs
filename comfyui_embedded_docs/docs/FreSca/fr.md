@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FreSca/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FreSca/fr.md)
 
 Le nœud FreSca applique une mise à l'échelle dépendante de la fréquence au guidage pendant le processus d'échantillonnage. Il sépare le signal de guidage en composantes basse fréquence et haute fréquence en utilisant un filtrage de Fourier, puis applique différents facteurs d'échelle à chaque plage de fréquence avant de les recombiner. Cela permet un contrôle plus nuancé sur la façon dont le guidage affecte différents aspects de la sortie générée.
 

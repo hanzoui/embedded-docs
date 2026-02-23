@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PatchModelAddDownscale/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PatchModelAddDownscale/tr.md)
 
 PatchModelAddDownscale düğümü, Kohya Deep Shrink işlevselliğini bir modeldeki belirli bloklara küçültme ve büyütme işlemleri uygulayarak gerçekleştirir. İşlem sırasında ara özelliklerin çözünürlüğünü düşürür ve ardından bunları orijinal boyutuna geri getirir, bu da kaliteyi korurken performansı iyileştirebilir. Düğüm, modelin yürütülmesi sırasında bu ölçeklendirme işlemlerinin ne zaman ve nasıl gerçekleşeceği üzerinde hassas kontrol sağlar.
 

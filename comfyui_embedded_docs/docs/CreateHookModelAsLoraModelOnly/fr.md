@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookModelAsLoraModelOnly/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookModelAsLoraModelOnly/fr.md)
 
 Ce nœud crée un crochet qui applique un modèle LoRA (Low-Rank Adaptation) pour modifier uniquement le composant modèle d'un réseau neuronal. Il charge un fichier de point de contrôle et l'applique avec une intensité spécifiée au modèle, tout en laissant le composant CLIP inchangé. Il s'agit d'un nœud expérimental qui étend les fonctionnalités de la classe de base CreateHookModelAsLora.
 

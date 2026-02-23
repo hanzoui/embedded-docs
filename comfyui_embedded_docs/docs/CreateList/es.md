@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateList/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateList/es.md)
 
 El nodo Create List combina múltiples entradas en una sola lista secuencial. Toma cualquier número de entradas del mismo tipo de datos y las concatena en el orden en que están conectadas. Este nodo es útil para preparar lotes de datos, como imágenes o texto, para ser procesados por otros nodos en un flujo de trabajo.
 

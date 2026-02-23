@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Hunyuan3Dv2Conditioning/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Hunyuan3Dv2Conditioning/ja.md)
 
 Hunyuan3Dv2Conditioningノードは、CLIPビジョン出力を処理してビデオモデル向けのコンディショニングデータを生成します。ビジョン出力から最後の隠れ状態の埋め込みを抽出し、ポジティブとネガティブのコンディショニングペアを作成します。ポジティブコンディショニングは実際の埋め込みを使用し、ネガティブコンディショニングは同じ形状のゼロ値埋め込みを使用します。
 

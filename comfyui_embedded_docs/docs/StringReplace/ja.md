@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringReplace/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringReplace/ja.md)
 
 StringReplaceノードは、入力文字列に対してテキスト置換操作を実行します。入力テキスト内で指定された部分文字列を検索し、すべての出現箇所を別の部分文字列に置き換えます。このノードは、すべての置換が適用された修正後の文字列を返します。
 

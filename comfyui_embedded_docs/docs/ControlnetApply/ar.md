@@ -1,6 +1,6 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ControlNetApply/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ControlNetApply/ar.md)
 
-يتطلب استخدام ControlNet معالجة مسبقة للصور المدخلة. نظرًا لأن العُقد الأولية في ComfyUI لا تأتي مزودة بمعالجات مسبقة ونماذج ControlNet، يرجى أولاً تثبيت معالجات ControlNet المسبقة [تحميل المعالجات المسبقة من هنا](https://github.com/Fannovel16/comfy_controlnet_preprocessors) ونماذج ControlNet المقابلة.
+يتطلب استخدام ControlNet معالجة مسبقة للصور المدخلة. نظرًا لأن العُقد الأولية في Hanzo Studio لا تأتي مزودة بمعالجات مسبقة ونماذج ControlNet، يرجى أولاً تثبيت معالجات ControlNet المسبقة [تحميل المعالجات المسبقة من هنا](https://github.com/Fannovel16/comfy_controlnet_preprocessors) ونماذج ControlNet المقابلة.
 
 ## المدخلات
 

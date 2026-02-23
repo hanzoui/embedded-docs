@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookModelAsLora/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookModelAsLora/zh-TW.md)
 
 此節點透過載入檢查點權重並對模型和 CLIP 元件套用強度調整，建立一個作為 LoRA（低秩適應）的掛鉤模型。它允許您透過基於掛鉤的方法對現有模型套用 LoRA 風格的修改，實現無需永久更改模型的微調與適應。此節點可與先前的掛鉤結合，並快取已載入的權重以提升效率。
 

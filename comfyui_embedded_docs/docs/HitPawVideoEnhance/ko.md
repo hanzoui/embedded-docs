@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HitPawVideoEnhance/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HitPawVideoEnhance/ko.md)
 
 HitPaw Video Enhance 노드는 외부 API를 사용하여 비디오의 품질을 향상시킵니다. 저해상도 비디오를 더 높은 해상도로 업스케일하고, 시각적 아티팩트를 제거하며, 노이즈를 감소시킵니다. 처리 비용은 입력 비디오의 초당 단위로 계산됩니다.
 

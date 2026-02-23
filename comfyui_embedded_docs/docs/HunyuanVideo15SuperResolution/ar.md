@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanVideo15SuperResolution/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanVideo15SuperResolution/ar.md)
 
 يُعِد عقد HunyuanVideo15SuperResolution بيانات التكييف لعملية تحسين دقة الفيديو. يأخذ تمثيلًا كامنًا للفيديو، واختياريًا صورة بداية، ويُحزمها مع بيانات زيادة الضوضاء وبيانات رؤية CLIP في تنسيق يمكن استخدامه من قبل نموذج لإنتاج مخرجات بدقة أعلى.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BriaImageEditNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BriaImageEditNode/ar.md)
 
 تتيح عقدة Bria FIBO Image Edit تعديل صورة موجودة باستخدام تعليمات نصية. حيث ترسل الصورة والطلب النصي إلى واجهة برمجة تطبيقات Bria، التي تستخدم نموذج FIBO لإنشاء نسخة معدلة جديدة من الصورة بناءً على طلبك. يمكنك أيضًا تقديم قناع لتقييد التعديلات على منطقة محددة.
 

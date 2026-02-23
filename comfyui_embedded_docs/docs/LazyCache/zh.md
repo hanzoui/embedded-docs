@@ -1,6 +1,6 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LazyCache/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LazyCache/zh.md)
 
-LazyCache 是 EasyCache 的自制版本，提供了更简易的实现方式。它兼容 ComfyUI 中的任何模型，并通过添加缓存功能来减少采样过程中的计算量。虽然其性能通常不如 EasyCache，但在某些罕见情况下可能更有效，且具有通用兼容性。
+LazyCache 是 EasyCache 的自制版本，提供了更简易的实现方式。它兼容 Hanzo Studio 中的任何模型，并通过添加缓存功能来减少采样过程中的计算量。虽然其性能通常不如 EasyCache，但在某些罕见情况下可能更有效，且具有通用兼容性。
 
 ## 输入参数
 

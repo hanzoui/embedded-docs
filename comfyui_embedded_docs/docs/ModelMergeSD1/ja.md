@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSD1/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSD1/ja.md)
 
 ModelMergeSD1ノードは、2つのStable Diffusion 1.xモデルを組み合わせてブレンドすることができます。時間埋め込み、ラベル埋め込み、およびすべての入力ブロック、中間ブロック、出力ブロックに対して個別に制御が可能で、特定のユースケースに合わせた細かいモデルマージを実現します。
 

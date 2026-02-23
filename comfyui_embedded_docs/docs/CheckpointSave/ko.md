@@ -22,9 +22,9 @@
 
 ## 아키텍처 호환성
 
-- 현재 완전 지원: SDXL, SD3, SVD 및 기타 주요 아키텍처, [소스 코드](https://github.com/comfyanonymous/ComfyUI/blob/master/comfy_extras/nodes_model_merging.py#L176-L189) 참조
+- 현재 완전 지원: SDXL, SD3, SVD 및 기타 주요 아키텍처, [소스 코드](https://github.com/hanzoai/studio/blob/master/comfy_extras/nodes_model_merging.py#L176-L189) 참조
 - 기본 지원: 다른 아키텍처도 저장 가능하나 표준화된 메타데이터 정보 없음
 
 ## 관련 링크
 
-관련 소스 코드: [nodes_model_merging.py#L227](https://github.com/comfyanonymous/ComfyUI/blob/master/comfy_extras/nodes_model_merging.py#L227)
+관련 소스 코드: [nodes_model_merging.py#L227](https://github.com/hanzoai/studio/blob/master/comfy_extras/nodes_model_merging.py#L227)

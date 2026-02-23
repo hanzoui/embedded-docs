@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LumaReferenceNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LumaReferenceNode/ja.md)
 
 このノードは、Luma Generate Imageノードで使用するための画像と重み値を保持します。参照チェーンを作成し、他のLumaノードに渡して画像生成に影響を与えることができます。新しい参照チェーンを開始するか、既存のチェーンに追加することができます。
 

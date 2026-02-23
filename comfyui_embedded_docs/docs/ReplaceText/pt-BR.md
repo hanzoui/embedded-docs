@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ReplaceText/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ReplaceText/pt-BR.md)
 
 O nó Replace Text realiza uma substituição simples de texto. Ele procura por um trecho de texto especificado na entrada e substitui cada ocorrência por um novo trecho de texto. A operação é aplicada a todos os textos de entrada fornecidos ao nó.
 

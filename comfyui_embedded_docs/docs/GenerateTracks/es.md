@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GenerateTracks/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GenerateTracks/es.md)
 
 El nodo `GenerateTracks` crea múltiples trayectorias de movimiento paralelas para la generación de video. Define una ruta principal desde un punto de inicio hasta un punto final, luego genera un conjunto de pistas que corren paralelas a esta ruta, espaciadas uniformemente. Puedes controlar la forma de la ruta (línea recta o curva de Bézier), la velocidad del movimiento a lo largo de ella y en qué fotogramas son visibles las pistas.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingAuraFlow/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingAuraFlow/tr.md)
 
 ModelSamplingAuraFlow düğümü, difüzyon modellerine özel olarak AuraFlow model mimarileri için tasarlanmış özelleştirilmiş bir örnekleme yapılandırması uygular. Modelin örnekleme davranışını, örnekleme dağılımını ayarlayan bir kaydırma parametresi uygulayarak değiştirir. Bu düğüm, SD3 model örnekleme çerçevesinden türetilmiştir ve örnekleme süreci üzerinde hassas kontrol sağlar.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageRelightNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageRelightNode/ar.md)
 
 يُعدِّل عُقدة Magnific Image Relight إضاءة الصورة المدخلة. يمكنها تطبيق إضاءة أسلوبية بناءً على نص توجيهي أو نقل خصائص الإضاءة من صورة مرجعية اختيارية. تقدم العُقدة ضوابط متنوعة لضبط السطوع والتباين والمزاج العام للنتيجة النهائية بدقة.
 

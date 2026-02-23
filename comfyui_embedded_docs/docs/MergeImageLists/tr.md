@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MergeImageLists/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MergeImageLists/tr.md)
 
 **Merge Image Lists** düğümü, birden fazla ayrı görüntü listesini tek ve sürekli bir listede birleştirir. Bağlı her girdiden tüm görüntüleri alarak ve bunları alındıkları sırayla birbirine ekleyerek çalışır. Bu, farklı kaynaklardan gelen görüntüleri daha fazla işlem için düzenlemek veya gruplamak için kullanışlıdır.
 

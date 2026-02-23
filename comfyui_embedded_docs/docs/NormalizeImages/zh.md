@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/NormalizeImages/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/NormalizeImages/zh.md)
 
 此节点通过数学归一化过程调整输入图像的像素值。它会从每个像素中减去指定的均值，然后将结果除以指定的标准差。这是为其他机器学习模型准备图像数据时常见的预处理步骤。
 

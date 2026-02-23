@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TrimAudioDuration/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TrimAudioDuration/ar.md)
 
 يسمح لك عقد TrimAudioDuration بقص مقطع زمني محدد من ملف صوتي. يمكنك تحديد وقت بدء القص وطول المقطع الصوتي الناتج. يعمل العقد عن طريق تحويل القيم الزمنية إلى مواضع إطارات صوتية واستخراج الجزء المقابل من الموجة الصوتية.
 

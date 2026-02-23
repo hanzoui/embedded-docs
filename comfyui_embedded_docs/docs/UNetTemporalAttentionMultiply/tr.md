@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/UNetTemporalAttentionMultiply/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UNetTemporalAttentionMultiply/tr.md)
 
 UNetTemporalAttentionMultiply düğümü, zamansal bir UNet modelindeki farklı dikkat mekanizmalarına çarpım faktörleri uygular. Modeli, öz-dikkat ve çapraz dikkat katmanlarının ağırlıklarını ayarlayarak değiştirir ve yapısal ve zamansal bileşenler arasında ayrım yapar. Bu, her bir dikkat türünün model çıktısı üzerinde ne kadar etkiye sahip olduğunun ince ayarını yapmayı sağlar.
 

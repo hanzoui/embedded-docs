@@ -1,4 +1,4 @@
-> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxKontextMultiReferenceLatentMethod/ru.md)
+> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxKontextMultiReferenceLatentMethod/ru.md)
 
 Узел FluxKontextMultiReferenceLatentMethod изменяет данные кондиционирования, устанавливая определённый метод обработки референсных латентов. Он добавляет выбранный метод к входным данным кондиционирования, что влияет на обработку референсных латентов на последующих этапах генерации. Этот узел помечен как экспериментальный и является частью системы кондиционирования Flux.
 

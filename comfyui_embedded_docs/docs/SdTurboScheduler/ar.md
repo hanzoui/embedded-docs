@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SDTurboScheduler/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SDTurboScheduler/ar.md)
 
 تم تصميم SDTurboScheduler لتوليد سلسلة من قيم سيجما لأخذ عينات الصور، مع ضبط التسلسل بناءً على مستوى إزالة التشويش وعدد الخطوات المحددة. فهو يستفيد من قدرات أخذ العينات لنموذج معين لإنتاج قيم سيجما هذه، والتي تعتبر بالغة الأهمية للتحكم في عملية إزالة التشويش أثناء إنشاء الصور.
 

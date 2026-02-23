@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GrokImageNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GrokImageNode/es.md)
 
 El nodo Grok Image genera una o más imágenes basadas en una descripción de texto utilizando el modelo de IA Grok. Envía su *prompt* a un servicio externo y devuelve las imágenes generadas como tensores que pueden usarse en su flujo de trabajo.
 

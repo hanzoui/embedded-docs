@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerCustomAdvanced/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerCustomAdvanced/ko.md)
 
 SamplerCustomAdvanced 노드는 사용자 정의 노이즈, 가이던스 및 샘플링 구성을 사용하여 고급 잠재 공간 샘플링을 수행합니다. 이 노드는 사용자 정의 가능한 노이즈 생성 및 시그마 스케줄을 통해 가이드된 샘플링 프로세스를 통해 잠재 이미지를 처리하며, 최종 샘플링된 출력과 사용 가능한 경우 제노이즈된 버전을 모두 생성합니다.
 

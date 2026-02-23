@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageReferenceNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageReferenceNode/fr.md)
 
 Le nœud ByteDance Image Reference génère des vidéos en utilisant une invite textuelle et une à quatre images de référence. Il envoie les images et l'invite à un service API externe qui crée une vidéo correspondant à votre description tout en incorporant le style visuel et le contenu de vos images de référence. Le nœud fournit divers contrôles pour la résolution vidéo, le format d'image, la durée et d'autres paramètres de génération.
 

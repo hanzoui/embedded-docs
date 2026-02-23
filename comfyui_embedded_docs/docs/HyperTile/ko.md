@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HyperTile/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HyperTile/ko.md)
 
 HyperTile 노드는 확산 모델의 어텐션 메커니즘에 타일링 기법을 적용하여 이미지 생성 중 메모리 사용을 최적화합니다. 잠재 공간을 더 작은 타일로 분할하여 개별적으로 처리한 후 결과를 재조립합니다. 이를 통해 메모리 부족 없이 더 큰 이미지 크기로 작업할 수 있습니다.
 

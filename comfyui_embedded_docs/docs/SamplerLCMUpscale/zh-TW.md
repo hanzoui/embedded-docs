@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerLCMUpscale/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerLCMUpscale/zh-TW.md)
 
 SamplerLCMUpscale 節點提供了一種專門的取樣方法，結合了潛在一致性模型（LCM）取樣與圖像放大功能。它允許您在取樣過程中使用各種插值方法來放大圖像，這對於生成更高解析度的輸出同時保持圖像品質非常有用。
 

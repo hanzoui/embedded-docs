@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu2ReferenceVideoNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu2ReferenceVideoNode/es.md)
 
 El nodo Vidu2 Reference-to-Video Generation crea un vídeo a partir de un texto descriptivo (prompt) y múltiples imágenes de referencia. Puedes definir hasta siete sujetos, cada uno con su propio conjunto de imágenes de referencia, y referenciarlos en el prompt usando `@subject{subject_id}`. El nodo genera un vídeo con duración, relación de aspecto y movimiento configurables.
 

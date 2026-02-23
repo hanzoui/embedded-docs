@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LtxvApiTextToVideo/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LtxvApiTextToVideo/es.md)
 
 El nodo LTXV Text To Video genera videos de calidad profesional a partir de una descripción de texto. Se conecta a una API externa para crear videos con duración, resolución y tasa de cuadros personalizables. También puedes optar por añadir audio generado por IA al video.
 

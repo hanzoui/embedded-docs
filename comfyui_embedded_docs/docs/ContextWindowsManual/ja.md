@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ContextWindowsManual/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ContextWindowsManual/ja.md)
 
 Context Windows (Manual)ノードを使用すると、サンプリング中のモデルに対してコンテキストウィンドウを手動で設定できます。このノードは、指定された長さ、オーバーラップ、スケジューリングパターンで重複するコンテキストセグメントを作成し、セグメント間の連続性を維持しながらデータを管理可能なチャンクで処理します。
 

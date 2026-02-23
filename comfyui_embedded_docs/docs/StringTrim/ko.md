@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringTrim/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringTrim/ko.md)
 
 StringTrim 노드는 텍스트 문자열의 시작, 끝 또는 양쪽에서 공백 문자를 제거합니다. 문자열의 왼쪽, 오른쪽 또는 양쪽에서 공백을 제거하도록 선택할 수 있습니다. 이는 원치 않는 공백, 탭 또는 줄바꿈 문자를 제거하여 텍스트 입력을 정리하는 데 유용합니다.
 

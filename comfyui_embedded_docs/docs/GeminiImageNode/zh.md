@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GeminiImageNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GeminiImageNode/zh.md)
 
 GeminiImage 节点通过谷歌的 Gemini AI 模型生成文本和图像响应。它允许您提供包括文本提示、图像和文件在内的多模态输入，以创建连贯的文本和图像输出。该节点负责与最新 Gemini 模型的所有 API 通信和响应解析。
 

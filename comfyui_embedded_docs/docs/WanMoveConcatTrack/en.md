@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveConcatTrack/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveConcatTrack/en.md)
 
 The WanMoveConcatTrack node combines two sets of motion tracking data into a single, longer sequence. It works by joining the track paths and visibility masks from the input tracks along their respective dimensions. If only one track input is provided, it simply passes that data through unchanged.
 

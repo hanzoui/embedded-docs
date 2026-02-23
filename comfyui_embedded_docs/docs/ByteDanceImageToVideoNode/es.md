@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageToVideoNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageToVideoNode/es.md)
 
 El nodo ByteDance Image to Video genera videos utilizando modelos de ByteDance a través de una API basándose en una imagen de entrada y un texto descriptivo. Toma una imagen de marco inicial y crea una secuencia de video que sigue la descripción proporcionada. El nodo ofrece varias opciones de personalización para la resolución de video, relación de aspecto, duración y otros parámetros de generación.
 

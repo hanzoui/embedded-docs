@@ -1,4 +1,4 @@
-> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu2TextToVideoNode/ru.md)
+> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu2TextToVideoNode/ru.md)
 
 Узел Vidu2 Text-to-Video Generation создает видео на основе текстового описания. Он подключается к внешнему API для генерации видеоконтента по вашему запросу, позволяя контролировать длительность, визуальный стиль и формат видео.
 

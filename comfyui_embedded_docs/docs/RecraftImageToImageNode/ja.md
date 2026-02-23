@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftImageToImageNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftImageToImageNode/ja.md)
 
 このノードは、テキストプロンプトと強度パラメータに基づいて既存の画像を変更します。Recraft APIを使用して入力画像を指定された説明に従って変換し、強度設定に基づいて元の画像との類似性をある程度維持します。
 

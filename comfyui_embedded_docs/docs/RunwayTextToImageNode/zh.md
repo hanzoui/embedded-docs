@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RunwayTextToImageNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RunwayTextToImageNode/zh.md)
 
 Runway 文生图节点使用 Runway 的 Gen 4 模型，根据文本提示生成图像。您可以提供文本描述，并可选择包含参考图像来指导图像生成过程。该节点负责处理 API 通信并返回生成的图像。
 

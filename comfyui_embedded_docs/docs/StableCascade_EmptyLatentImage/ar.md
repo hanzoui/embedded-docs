@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableCascade_EmptyLatentImage/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableCascade_EmptyLatentImage/ar.md)
 
 تُنشئ عُقدة StableCascade_EmptyLatentImage موترات كامنة فارغة لنماذج Stable Cascade. تقوم بتوليد تمثيلين كامنين منفصلين - أحدهما للمرحلة C والآخر للمرحلة B - بأبعاد مناسبة بناءً على دقة الإدخال وإعدادات الضغط. توفر هذه العُقدة نقطة البداية لمسار توليد Stable Cascade.
 

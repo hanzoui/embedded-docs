@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageBatch/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageBatch/tr.md)
 
 `ImageBatch` düğümü, iki görüntüyü tek bir toplu işlemde birleştirmek için tasarlanmıştır. Görüntülerin boyutları eşleşmiyorsa, bunları birleştirmeden önce ikinci görüntüyü otomatik olarak ilkinin boyutlarına yeniden ölçeklendirir.
 

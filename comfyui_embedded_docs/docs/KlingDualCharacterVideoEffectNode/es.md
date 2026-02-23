@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingDualCharacterVideoEffectNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingDualCharacterVideoEffectNode/es.md)
 
 El nodo Kling Dual Character Video Effect crea videos con efectos especiales basados en la escena seleccionada. Toma dos imágenes y posiciona la primera imagen en el lado izquierdo y la segunda imagen en el lado derecho del video compuesto. Se aplican diferentes efectos visuales dependiendo de la escena de efecto elegida.
 

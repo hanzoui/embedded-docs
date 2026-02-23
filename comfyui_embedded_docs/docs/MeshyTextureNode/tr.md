@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyTextureNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyTextureNode/tr.md)
 
 Meshy: Texture Düğümü, bir 3B modele yapay zeka ile oluşturulmuş dokular uygular. Önceki bir Meshy 3B oluşturma veya dönüştürme düğümünden bir görev kimliği alır ve modele yeni dokular oluşturmak için bir metin açıklaması veya referans görseli kullanır. Düğüm, dokulu modeli GLB ve FBX dosya formatlarında çıktı olarak verir.
 

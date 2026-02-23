@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeAdd/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeAdd/zh-TW.md)
 
 ModelMergeAdd 節點專為合併兩個模型而設計，透過將一個模型的關鍵修補程式添加到另一個模型來實現。此過程涉及複製第一個模型，然後應用第二個模型的修補程式，從而實現兩個模型功能或行為的組合。
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanImageToVideoApi/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanImageToVideoApi/pt-BR.md)
 
 O nó Wan Image to Video gera conteúdo de vídeo a partir de uma única imagem de entrada e um prompt de texto. Ele cria sequências de vídeo estendendo o quadro inicial de acordo com a descrição fornecida, com opções para controlar a qualidade do vídeo, duração e integração de áudio.
 

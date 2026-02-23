@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/NormalizeImages/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/NormalizeImages/ja.md)
 
 このノードは、数学的な正規化処理を使用して入力画像のピクセル値を調整します。各ピクセルから指定された平均値を引き、その結果を指定された標準偏差で割ります。これは、他の機械学習モデル用に画像データを準備するための一般的な前処理ステップです。
 

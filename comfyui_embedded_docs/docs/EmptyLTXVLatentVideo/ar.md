@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyLTXVLatentVideo/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyLTXVLatentVideo/ar.md)
 
 تُنشئ عقدة EmptyLTXVLatentVideo موترًا كامنًا فارغًا لمعالجة الفيديو. تقوم بتوليد نقطة بداية فارغة بأبعاد محددة يمكن استخدامها كمدخل لسير عمل توليد الفيديو. تنتج العقدة تمثيلًا كامنًا مملوءًا بقيم صفرية بالأبعاد المُكونة للعرض، والارتفاع، والطول، وحجم الدُفعة.
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPSubtract/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPSubtract/zh.md)
 
 CLIPSubtract 节点在两个 CLIP 模型之间执行减法操作。它以第一个 CLIP 模型为基础，从第二个 CLIP 模型中减去关键补丁，并通过可选乘数控制减法强度。这允许通过从一个模型中移除另一个模型的特定特征来实现精细调整的模型混合。
 

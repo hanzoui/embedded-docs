@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeAuraflow/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeAuraflow/zh-TW.md)
 
 ModelMergeAuraflow 節點允許您透過調整不同模型元件的特定混合權重，將兩個不同的模型融合在一起。它提供了對模型從初始層到最終輸出的不同部分如何合併的細粒度控制。此節點特別適用於創建自定義模型組合，並對合併過程進行精確控制。
 

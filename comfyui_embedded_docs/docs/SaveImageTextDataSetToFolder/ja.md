@@ -1,6 +1,6 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveImageTextDataSetToFolder/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImageTextDataSetToFolder/ja.md)
 
-Save Image and Text Dataset to Folder ノードは、画像のリストとそれに対応するテキストキャプションを、ComfyUIの出力ディレクトリ内の指定されたフォルダに保存します。PNGファイルとして保存される各画像に対して、同じベース名を持つ対応するテキストファイルが作成され、そのキャプションが保存されます。これは、生成された画像とその説明文を整理されたデータセットとして作成するのに便利です。
+Save Image and Text Dataset to Folder ノードは、画像のリストとそれに対応するテキストキャプションを、Hanzo Studioの出力ディレクトリ内の指定されたフォルダに保存します。PNGファイルとして保存される各画像に対して、同じベース名を持つ対応するテキストファイルが作成され、そのキャプションが保存されます。これは、生成された画像とその説明文を整理されたデータセットとして作成するのに便利です。
 
 ## 入力
 

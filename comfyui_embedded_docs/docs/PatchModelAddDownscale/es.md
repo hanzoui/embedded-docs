@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PatchModelAddDownscale/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PatchModelAddDownscale/es.md)
 
 El nodo PatchModelAddDownscale implementa la funcionalidad Kohya Deep Shrink aplicando operaciones de reducción y aumento de escala a bloques específicos en un modelo. Reduce la resolución de las características intermedias durante el procesamiento y luego las restaura a su tamaño original, lo que puede mejorar el rendimiento manteniendo la calidad. El nodo permite un control preciso sobre cuándo y cómo ocurren estas operaciones de escalado durante la ejecución del modelo.
 

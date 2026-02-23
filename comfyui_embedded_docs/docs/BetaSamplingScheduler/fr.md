@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BetaSamplingScheduler/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BetaSamplingScheduler/fr.md)
 
 Le nœud BetaSamplingScheduler génère une séquence de niveaux de bruit (sigmas) pour le processus d'échantillonnage en utilisant un algorithme de planification bêta. Il prend un modèle et des paramètres de configuration pour créer une planification de bruit personnalisée qui contrôle le processus de débruitage pendant la génération d'image. Ce planificateur permet un réglage fin de la trajectoire de réduction du bruit grâce aux paramètres alpha et bêta.
 

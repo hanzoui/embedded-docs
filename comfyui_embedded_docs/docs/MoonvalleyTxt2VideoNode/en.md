@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MoonvalleyTxt2VideoNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MoonvalleyTxt2VideoNode/en.md)
 
 The Moonvalley Marey Text to Video node generates video content from text descriptions using the Moonvalley API. It takes a text prompt and converts it into a video with customizable settings for resolution, quality, and style. The node handles the entire process from sending the generation request to downloading the final video output.
 

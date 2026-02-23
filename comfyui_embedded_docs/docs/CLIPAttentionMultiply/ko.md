@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPAttentionMultiply/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPAttentionMultiply/ko.md)
 
 CLIPAttentionMultiply 노드를 사용하면 CLIP 모델의 어텐션 메커니즘에서 셀프-어텐션 레이어의 다양한 구성 요소에 곱셈 계수를 적용하여 조정할 수 있습니다. 이 노드는 CLIP 모델의 어텐션 메커니즘 내에서 쿼리(query), 키(key), 값(value), 그리고 출력 프로젝션(output projection)의 가중치와 편향을 수정하는 방식으로 동작합니다. 이 실험적 노드는 지정된 스케일링 계수가 적용된 입력 CLIP 모델의 수정된 복사본을 생성합니다.
 

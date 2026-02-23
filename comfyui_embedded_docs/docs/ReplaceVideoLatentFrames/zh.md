@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ReplaceVideoLatentFrames/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ReplaceVideoLatentFrames/zh.md)
 
 ReplaceVideoLatentFrames 节点将源潜在视频中的帧插入到目标潜在视频中，从指定的帧索引开始。如果未提供源潜在视频，则目标潜在视频将原样返回。该节点支持负索引，并且如果源帧无法完全放入目标视频中，会发出警告。
 

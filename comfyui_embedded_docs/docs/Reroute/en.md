@@ -1,5 +1,5 @@
 Node Name: Reroute Node
-Node Purpose: Mainly used to organize the logic of overly long connection lines in the ComfyUI workflow.
+Node Purpose: Mainly used to organize the logic of overly long connection lines in the Hanzo Studio workflow.
 
 ## How to Use Reroute Nodes
 

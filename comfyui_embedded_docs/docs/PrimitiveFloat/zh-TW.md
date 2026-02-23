@@ -1,6 +1,6 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PrimitiveFloat/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PrimitiveFloat/zh-TW.md)
 
-PrimitiveFloat 節點會建立一個浮點數值，可在您的工作流程中使用。它接收單一數值輸入並輸出相同的值，讓您能在 ComfyUI 管道中的不同節點之間定義和傳遞浮點數值。
+PrimitiveFloat 節點會建立一個浮點數值，可在您的工作流程中使用。它接收單一數值輸入並輸出相同的值，讓您能在 Hanzo Studio 管道中的不同節點之間定義和傳遞浮點數值。
 
 ## 輸入參數
 

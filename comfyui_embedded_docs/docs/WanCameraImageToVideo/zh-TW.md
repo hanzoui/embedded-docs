@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanCameraImageToVideo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanCameraImageToVideo/zh-TW.md)
 
 WanCameraImageToVideo 節點透過生成用於影片生成的潛在表徵，將圖像轉換為影片序列。它處理條件輸入和可選的起始圖像，以創建可用於影片模型的影片潛在表徵。該節點支援相機條件和 CLIP 視覺輸出，以增強影片生成的控制。
 

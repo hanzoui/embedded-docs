@@ -1,6 +1,6 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CombineHooks/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CombineHooks/fr.md)
 
-Le nœud Combine Hooks [2] fusionne deux groupes de hooks en un seul groupe combiné. Il prend deux entrées de hooks optionnelles et les combine en utilisant la fonctionnalité de combinaison de hooks de ComfyUI. Cela vous permet de consolider plusieurs configurations de hooks pour un traitement rationalisé.
+Le nœud Combine Hooks [2] fusionne deux groupes de hooks en un seul groupe combiné. Il prend deux entrées de hooks optionnelles et les combine en utilisant la fonctionnalité de combinaison de hooks de Hanzo Studio. Cela vous permet de consolider plusieurs configurations de hooks pour un traitement rationalisé.
 
 ## Entrées
 

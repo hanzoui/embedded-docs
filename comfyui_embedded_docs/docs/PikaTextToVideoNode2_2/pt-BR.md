@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaTextToVideoNode2_2/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaTextToVideoNode2_2/pt-BR.md)
 
 O nó Pika Text2Video v2.2 envia um prompt de texto para a API Pika versão 2.2 para gerar um vídeo. Ele converte sua descrição textual em um vídeo usando o serviço de geração de vídeo por IA da Pika. O nó permite personalizar vários aspectos do processo de geração de vídeo, incluindo proporção, duração e resolução.
 

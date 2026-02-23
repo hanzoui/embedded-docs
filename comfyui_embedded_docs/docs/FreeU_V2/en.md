@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FreeU_V2/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FreeU_V2/en.md)
 
 The FreeU_V2 node applies a frequency-based enhancement to diffusion models by modifying the U-Net architecture. It scales different feature channels using configurable parameters to improve image generation quality without requiring additional training. The node works by patching the model's output blocks to apply scaling factors to specific channel dimensions.
 

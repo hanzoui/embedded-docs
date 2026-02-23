@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PhotoMakerEncode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PhotoMakerEncode/pt-BR.md)
 
 O nó PhotoMakerEncode processa imagens e texto para gerar dados de condicionamento para geração de imagens por IA. Ele recebe uma imagem de referência e um prompt de texto, criando embeddings que podem ser usados para orientar a geração de imagens com base nas características visuais da imagem de referência. O nó procura especificamente pelo token "photomaker" no texto para determinar onde aplicar o condicionamento baseado em imagem.
 

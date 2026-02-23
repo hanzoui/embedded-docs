@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentApplyOperation/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentApplyOperation/ar.md)
 
 تُطبق عقدة LatentApplyOperation عملية محددة على العينات الكامنة. تأخذ العقدة البيانات الكامنة وعملية كمدخلات، وتعالج العينات الكامنة باستخدام العملية المقدمة، وتُرجع البيانات الكامنة المعدلة. تتيح لك هذه العقدة تحويل أو معالجة التمثيلات الكامنة في سير العمل الخاص بك.
 

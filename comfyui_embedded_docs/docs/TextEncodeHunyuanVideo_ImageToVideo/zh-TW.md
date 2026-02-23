@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeHunyuanVideo_ImageToVideo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeHunyuanVideo_ImageToVideo/zh-TW.md)
 
 此節點透過結合文字提示與圖像嵌入來為影片生成創建條件化資料。它使用 CLIP 模型來處理文字輸入和來自 CLIP 視覺輸出的視覺資訊，然後根據指定的圖像交錯設定生成融合這兩種來源的標記。
 

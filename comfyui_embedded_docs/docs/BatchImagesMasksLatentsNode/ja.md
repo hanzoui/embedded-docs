@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BatchImagesMasksLatentsNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BatchImagesMasksLatentsNode/ja.md)
 
 Batch Images/Masks/Latents ノードは、同じタイプの複数の入力を単一のバッチに結合します。入力が画像、マスク、または潜在表現のいずれであるかを自動的に検出し、適切なバッチ処理方法を使用します。これは、バッチ入力を受け入れるノードで処理するために複数のアイテムを準備する際に便利です。
 

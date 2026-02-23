@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PreviewAudio/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PreviewAudio/ko.md)
 
 PreviewAudio 노드는 인터페이스에 표시할 수 있는 임시 오디오 미리보기 파일을 생성합니다. 이 노드는 SaveAudio를 상속하지만, 임시 디렉터리에 무작위 파일 이름 접두사를 사용하여 파일을 저장합니다. 이를 통해 사용자는 영구적인 파일을 생성하지 않고도 오디오 출력을 빠르게 미리볼 수 있습니다.
 

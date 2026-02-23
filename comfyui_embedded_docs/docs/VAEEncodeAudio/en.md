@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEEncodeAudio/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEEncodeAudio/en.md)
 
 The VAEEncodeAudio node converts audio data into a latent representation using a Variational Autoencoder (VAE). It takes audio input and processes it through the VAE to generate compressed latent samples that can be used for further audio generation or manipulation tasks. The node automatically resamples audio to 44100 Hz if needed before encoding.
 

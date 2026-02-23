@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingAuraFlow/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingAuraFlow/zh-TW.md)
 
 ModelSamplingAuraFlow 節點對擴散模型應用專用的採樣配置，特別針對 AuraFlow 模型架構設計。它透過應用調整採樣分佈的偏移參數來修改模型的採樣行為。此節點繼承自 SD3 模型採樣框架，並提供對採樣過程的細緻控制。
 

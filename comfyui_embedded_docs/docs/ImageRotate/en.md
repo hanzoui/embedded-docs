@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageRotate/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageRotate/en.md)
 
 The ImageRotate node rotates an input image by specified angles. It supports four rotation options: no rotation, 90 degrees clockwise, 180 degrees, and 270 degrees clockwise. The rotation is performed using efficient tensor operations that maintain the image data integrity.
 

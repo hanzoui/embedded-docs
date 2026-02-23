@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduReferenceVideoNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduReferenceVideoNode/ar.md)
 
 تُنشئ عقدة Vidu Reference Video مقاطع فيديو من صور مرجعية متعددة وموجه نصي. تستخدم العقدة نماذج الذكاء الاصطناعي لإنشاء محتوى فيديو متناسق بناءً على الصور المقدمة والوصف. تدعم العقدة إعدادات فيديو متنوعة تشمل المدة، ونسبة الأبعاد، والدقة، والتحكم في الحركة.
 

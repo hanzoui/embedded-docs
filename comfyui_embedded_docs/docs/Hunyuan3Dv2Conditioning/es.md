@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Hunyuan3Dv2Conditioning/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Hunyuan3Dv2Conditioning/es.md)
 
 El nodo Hunyuan3Dv2Conditioning procesa la salida de visión CLIP para generar datos de condicionamiento para modelos de video. Extrae las incrustaciones del último estado oculto de la salida de visión y crea pares de condicionamiento tanto positivos como negativos. El condicionamiento positivo utiliza las incrustaciones reales mientras que el condicionamiento negativo utiliza incrustaciones de valor cero con la misma forma.
 

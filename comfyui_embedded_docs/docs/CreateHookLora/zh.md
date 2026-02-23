@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookLora/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookLora/zh.md)
 
 Create Hook LoRA 节点用于生成钩子对象，以便对模型应用 LoRA（低秩自适应）修改。它会加载指定的 LoRA 文件并创建可调整模型和 CLIP 强度的钩子，然后将这些钩子与传入的任何现有钩子进行组合。该节点通过缓存先前加载的 LoRA 文件来避免重复操作，从而高效管理 LoRA 加载流程。
 

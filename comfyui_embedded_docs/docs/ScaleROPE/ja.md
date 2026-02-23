@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ScaleROPE/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ScaleROPE/ja.md)
 
 ScaleROPEノードは、モデルのRotary Position Embedding（ROPE）を変更するためのノードです。X、Y、T（時間）の各成分に対して、個別のスケーリング係数とシフト係数を適用します。これは、モデルの位置エンコーディングの挙動を調整するための高度で実験的なノードです。
 

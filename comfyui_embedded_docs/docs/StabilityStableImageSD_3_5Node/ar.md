@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityStableImageSD_3_5Node/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityStableImageSD_3_5Node/ar.md)
 
 يُنتج هذا العقد الصور بشكل متزامن باستخدام نموذج Stable Diffusion 3.5 من Stability AI. فهو يُنشئ الصور بناءً على المطالبات النصية ويمكنه أيضًا تعديل الصور الموجودة عند توفيرها كمدخلات. يدعم العقد نسب أبعاد مختلفة وضوابط نمط مسبقة الإعداد لتخصيص المخرجات.
 

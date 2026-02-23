@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResizeImageMaskNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResizeImageMaskNode/pt-BR.md)
 
 O nó Redimensionar Imagem/Máscara fornece múltiplos métodos para alterar as dimensões de uma imagem ou máscara de entrada. Ele pode dimensionar por um multiplicador, definir dimensões específicas, corresponder ao tamanho de outra entrada ou ajustar com base na contagem de pixels, utilizando vários métodos de interpolação para qualidade.
 

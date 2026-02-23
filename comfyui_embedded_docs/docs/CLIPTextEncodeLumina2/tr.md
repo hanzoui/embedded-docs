@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeLumina2/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeLumina2/tr.md)
 
 CLIP Text Encode for Lumina2 düğümü, bir sistem istemi ve kullanıcı istemini bir CLIP modeli kullanarak, difüzyon modelini belirli görüntüler oluşturmaya yönlendirmek için kullanılabilecek bir gömme verisine dönüştürür. Önceden tanımlanmış bir sistem istemini özel metin isteminizle birleştirir ve bunları CLIP modeli aracılığıyla işleyerek görüntü oluşturma için koşullandırma verisi yaratır.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Veo3VideoGenerationNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Veo3VideoGenerationNode/zh-TW.md)
 
 使用 Google 的 Veo 3 API 從文字提示生成影片。此節點支援兩種 Veo 3 模型：veo-3.0-generate-001 和 veo-3.0-fast-generate-001。它擴展了基礎 Veo 節點的功能，加入了 Veo 3 特有的功能，包括音訊生成和固定的 8 秒時長。
 

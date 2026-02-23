@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentFromBatch/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentFromBatch/pt-BR.md)
 
 Este nó foi projetado para extrair um subconjunto específico de amostras latentes de um lote fornecido, com base no índice e no comprimento do lote especificados. Ele permite o processamento seletivo de amostras latentes, facilitando operações em segmentos menores do lote para maior eficiência ou manipulação direcionada.
 

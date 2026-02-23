@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningAverage/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningAverage/zh-TW.md)
 
 `ConditioningAverage` 節點用於根據指定的權重混合兩組不同的條件資料（例如文字提示），生成一個介於兩者之間的新條件向量。透過調整權重參數，您可以靈活控制每個條件資料對最終結果的影響。這特別適用於提示插值、風格融合和其他進階使用情境。
 

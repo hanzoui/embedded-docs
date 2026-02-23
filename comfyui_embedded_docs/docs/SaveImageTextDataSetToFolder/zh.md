@@ -1,6 +1,6 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveImageTextDataSetToFolder/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImageTextDataSetToFolder/zh.md)
 
-Save Image and Text Dataset to Folder 节点将一系列图像及其对应的文本描述保存到 ComfyUI 输出目录内的指定文件夹中。对于每个保存为 PNG 文件的图像，都会创建一个具有相同基础名称的匹配文本文件来存储其描述。这对于创建包含生成图像及其描述的有序数据集非常有用。
+Save Image and Text Dataset to Folder 节点将一系列图像及其对应的文本描述保存到 Hanzo Studio 输出目录内的指定文件夹中。对于每个保存为 PNG 文件的图像，都会创建一个具有相同基础名称的匹配文本文件来存储其描述。这对于创建包含生成图像及其描述的有序数据集非常有用。
 
 ## 输入参数
 

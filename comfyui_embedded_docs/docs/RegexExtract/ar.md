@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RegexExtract/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RegexExtract/ar.md)
 
 يبحث عقد RegexExtract عن الأنماط في النص باستخدام التعبيرات النمطية. يمكنه العثور على أول تطابق، أو جميع التطابقات، أو مجموعات محددة من التطابقات، أو جميع المجموعات عبر تطابقات متعددة. يدعم العقد أعلام تعبيرات نمطية متنوعة للحساسية لحالة الأحرف، والمطابقة متعددة الأسطر، وسلوك dotall.
 

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DualCFGGuider/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DualCFGGuider/fr.md)
 
 Le nœud DualCFGGuider crée un système de guidage pour l'échantillonnage à double guidance sans classifieur. Il combine deux entrées de conditionnement positif avec une entrée de conditionnement négatif, appliquant différentes échelles de guidance à chaque paire de conditionnement pour contrôler l'influence de chaque prompt sur la sortie générée.
 

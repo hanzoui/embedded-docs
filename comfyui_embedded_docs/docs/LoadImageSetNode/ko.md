@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageSetNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageSetNode/ko.md)
 
 LoadImageSetNode는 배치 처리 및 학습 목적으로 입력 디렉터리에서 여러 이미지를 불러옵니다. 다양한 이미지 형식을 지원하며, 선택적으로 다른 방법을 사용하여 이미지 크기를 조정할 수 있습니다. 이 노드는 선택된 모든 이미지를 배치로 처리하고 단일 텐서로 반환합니다.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StripWhitespace/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StripWhitespace/zh-TW.md)
 
 此節點會移除文字字串開頭和結尾的所有額外空格、製表符或換行符。它接收一個文字輸入，並返回經過清理的版本，其中開頭和結尾的空白字元已被修剪。
 

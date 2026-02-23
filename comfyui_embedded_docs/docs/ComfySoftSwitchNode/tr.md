@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ComfySoftSwitchNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ComfySoftSwitchNode/tr.md)
 
 Soft Switch düğümü, bir boolean koşuluna dayanarak iki olası giriş değeri arasında seçim yapar. `switch` true olduğunda `on_true` girişindeki değeri, false olduğunda ise `on_false` girişindeki değeri çıktı olarak verir. Bu düğüm, yalnızca switch durumuna bağlı olarak ihtiyaç duyulan girişi değerlendiren "tembel" (lazy) bir tasarıma sahiptir.
 

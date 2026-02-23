@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyMochiLatentVideo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyMochiLatentVideo/zh-TW.md)
 
 EmptyMochiLatentVideo 節點會建立具有指定尺寸的空潛在影片張量。它會生成一個填滿零的潛在表示，可作為影片生成工作流程的起點。此節點允許您定義潛在影片張量的寬度、高度、長度和批次大小。
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu3TextToVideoNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu3TextToVideoNode/tr.md)
 
 Vidu Q3 Metinden Videoya Üretim düğümü, bir metin açıklamasından video oluşturur. Vidu Q3 Pro modelini kullanarak, videonun uzunluğu, çözünürlüğü ve en-boy oranını kontrol etmenize olanak tanıyan, verdiğiniz isteme dayalı video içeriği üretir.
 

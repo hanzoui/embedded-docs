@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeQwenImageEdit/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeQwenImageEdit/zh-TW.md)
 
 TextEncodeQwenImageEdit 節點處理文字提示和可選的圖像，以生成用於圖像生成或編輯的調節資料。它使用 CLIP 模型對輸入進行標記化，並可選擇性地使用 VAE 對參考圖像進行編碼以創建參考潛在變數。當提供圖像時，它會自動調整圖像大小以保持一致的處理尺寸。
 

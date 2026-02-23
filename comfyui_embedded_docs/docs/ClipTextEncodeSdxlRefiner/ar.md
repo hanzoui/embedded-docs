@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeSDXLRefiner/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeSDXLRefiner/ar.md)
 
 تم تصميم هذه العقدة خصيصًا لنموذج SDXL Refiner لتحويل نصوص الإرشاد النصي إلى معلومات توجيهية من خلال دمج درجات الجمالية ومعلومات الأبعاد لتعزيز الشروط لمهام التوليد، مما يحسن بذلك تأثير التنقيح النهائي. تعمل هذه العقدة كمخرج فني محترف، لا تنقل فقط نيتك الإبداعية بل تحقن أيضًا معايير الجمالية الدقيقة ومتطلبات المواصفات في العمل.
 

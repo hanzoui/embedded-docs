@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeZImageOmni/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeZImageOmni/ko.md)
 
 TextEncodeZImageOmni 노드는 텍스트 프롬프트와 선택적 참조 이미지를 이미지 생성 모델에 적합한 컨디셔닝 형식으로 인코딩하는 고급 컨디셔닝 노드입니다. 최대 세 개의 이미지를 처리할 수 있으며, 선택적으로 비전 인코더 및/또는 VAE를 사용하여 참조 잠재 공간을 생성하도록 이미지를 인코딩하고, 특정 템플릿 구조를 사용하여 이러한 시각적 참조를 텍스트 프롬프트와 통합합니다.
 

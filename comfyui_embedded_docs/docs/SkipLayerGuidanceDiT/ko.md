@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceDiT/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceDiT/ko.md)
 
 건너뛰기 레이어를 사용한 다른 CFG 네거티브 세트를 활용하여 세부 구조에 대한 안내를 향상시킵니다. 이 일반화된 버전의 SkipLayerGuidance는 모든 DiT 모델에서 사용할 수 있으며 Perturbed Attention Guidance에서 영감을 받았습니다. 원래 실험적 구현은 SD3용으로 만들어졌습니다.
 

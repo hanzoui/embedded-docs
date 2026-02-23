@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDpmppSde/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDpmppSde/pt-BR.md)
 
 Este nó é projetado para gerar um amostrador para o modelo DPM++ SDE (Equação Diferencial Estocástica). Ele se adapta a ambientes de execução tanto em CPU quanto em GPU, otimizando a implementação do amostrador com base no hardware disponível.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeZImageOmni/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeZImageOmni/ar.md)
 
 عُقدة TextEncodeZImageOmni هي عُقدة تكييف متقدمة تقوم بتشفير نص موجه (برومبت) مع صور مرجعية اختيارية إلى تنسيق تكييف مناسب لنماذج توليد الصور. يمكنها معالجة ما يصل إلى ثلاث صور، وتشفيرها اختياريًا باستخدام مُشفر رؤية و/أو VAE لإنتاج متجهات كامنة (latents) مرجعية، ودمج هذه المراجع البصرية مع النص الموجه باستخدام بنية قالب محددة.
 

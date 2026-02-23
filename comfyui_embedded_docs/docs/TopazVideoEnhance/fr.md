@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TopazVideoEnhance/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TopazVideoEnhance/fr.md)
 
 Le nœud Topaz Video Enhance utilise une API externe pour améliorer la qualité vidéo. Il peut augmenter la résolution vidéo, augmenter la fréquence d'images par interpolation et appliquer une compression. Le nœud traite une vidéo MP4 d'entrée et renvoie une version améliorée basée sur les paramètres sélectionnés.
 

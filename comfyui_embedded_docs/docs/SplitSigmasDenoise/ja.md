@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SplitSigmasDenoise/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SplitSigmasDenoise/ja.md)
 
 SplitSigmasDenoiseノードは、デノイズ強度パラメータに基づいてシグマ値のシーケンスを2つの部分に分割します。入力シグマを高シグマシーケンスと低シグマシーケンスに分割し、分割ポイントは総ステップ数にデノイズ係数を乗算することで決定されます。これにより、ノイズスケジュールを異なる強度範囲に分離して、専門的な処理を行うことができます。
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EpsilonScaling/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EpsilonScaling/pt-BR.md)
 
 Implementa o método Epsilon Scaling do artigo de pesquisa "Elucidating the Exposure Bias in Diffusion Models". Este método melhora a qualidade da amostra ao escalar o ruído previsto durante o processo de amostragem. Ele usa um cronograma uniforme para mitigar o viés de exposição em modelos de difusão.
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Hunyuan3Dv2ConditioningMultiView/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Hunyuan3Dv2ConditioningMultiView/en.md)
 
 The Hunyuan3Dv2ConditioningMultiView node processes multi-view CLIP vision embeddings for 3D video generation. It takes optional front, left, back, and right view embeddings and combines them with positional encoding to create conditioning data for video models. The node outputs both positive conditioning from the combined embeddings and negative conditioning with zero values.
 

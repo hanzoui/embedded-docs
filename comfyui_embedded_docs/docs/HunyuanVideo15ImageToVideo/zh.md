@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanVideo15ImageToVideo/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanVideo15ImageToVideo/zh.md)
 
 HunyuanVideo15ImageToVideo 节点基于混元视频 1.5 模型，为视频生成准备条件输入和潜在空间数据。它创建视频序列的初始潜在表示，并可选择性地集成起始图像或 CLIP 视觉输出来引导生成过程。
 

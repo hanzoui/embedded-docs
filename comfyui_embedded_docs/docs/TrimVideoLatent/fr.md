@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TrimVideoLatent/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TrimVideoLatent/fr.md)
 
 Le nœud TrimVideoLatent supprime des images au début d'une représentation latente vidéo. Il prend un échantillon vidéo latent et supprime un nombre spécifié d'images depuis le début, renvoyant la portion restante de la vidéo. Cela vous permet de raccourcir les séquences vidéo en supprimant les images initiales.
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduReferenceVideoNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduReferenceVideoNode/ko.md)
 
 Vidu Reference Video 노드는 여러 참조 이미지와 텍스트 프롬프트에서 비디오를 생성합니다. AI 모델을 사용하여 제공된 이미지와 설명을 기반으로 일관된 비디오 콘텐츠를 만듭니다. 이 노드는 지속 시간, 화면 비율, 해상도 및 움직임 제어를 포함한 다양한 비디오 설정을 지원합니다.
 

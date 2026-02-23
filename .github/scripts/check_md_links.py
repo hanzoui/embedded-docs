@@ -5,8 +5,8 @@ from pathlib import Path
 
 # Try to find the docs directory relative to the script location first
 # If that fails, try relative to current working directory
-script_based_docs = Path(__file__).parent.parent.parent / 'comfyui_embedded_docs' / 'docs'
-cwd_based_docs = Path.cwd() / 'comfyui_embedded_docs' / 'docs'
+script_based_docs = Path(__file__).parent.parent.parent / 'hanzo_studio_embedded_docs' / 'docs'
+cwd_based_docs = Path.cwd() / 'hanzo_studio_embedded_docs' / 'docs'
 
 if script_based_docs.exists():
     DOCS_ROOT = script_based_docs
@@ -16,7 +16,7 @@ else:
     # Fallback: search for the docs directory
     current = Path.cwd()
     while current != current.parent:  # Stop at filesystem root
-        potential_docs = current / 'comfyui_embedded_docs' / 'docs'
+        potential_docs = current / 'hanzo_studio_embedded_docs' / 'docs'
         if potential_docs.exists():
             DOCS_ROOT = potential_docs
             break

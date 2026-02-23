@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RegexReplace/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RegexReplace/tr.md)
 
 RegexReplace düğümü, metin dizilerinde düzenli ifade desenleri kullanarak metin bulma ve değiştirme işlemleri yapar. Metin desenlerini aramanıza ve bunları yeni metinle değiştirmenize olanak tanır; büyük/küçük harf duyarlılığı, çok satırlı eşleştirme ve değiştirme sayısını sınırlama gibi desen eşleştirme işlemlerinin nasıl çalışacağını kontrol etme seçenekleri sunar.
 

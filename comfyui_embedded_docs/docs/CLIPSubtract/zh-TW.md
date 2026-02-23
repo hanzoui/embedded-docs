@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPSubtract/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPSubtract/zh-TW.md)
 
 此節點在兩個 CLIP 模型之間執行減法運算。它以第一個 CLIP 模型為基礎，並從中減去第二個 CLIP 模型的關鍵補丁，同時提供可選的乘數來控制減法強度。這允許透過使用一個模型移除另一個模型的特定特徵，來實現精細調整的模型混合。
 

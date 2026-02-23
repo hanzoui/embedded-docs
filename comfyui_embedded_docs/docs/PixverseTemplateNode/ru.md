@@ -1,4 +1,4 @@
-> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PixverseTemplateNode/ru.md)
+> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PixverseTemplateNode/ru.md)
 
 Узел PixVerse Template позволяет выбрать из доступных шаблонов для генерации видео в PixVerse. Он преобразует выбранное название шаблона в соответствующий идентификатор шаблона, который требуется API PixVerse для создания видео.
 

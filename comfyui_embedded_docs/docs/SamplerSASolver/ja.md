@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerSASolver/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerSASolver/ja.md)
 
 SamplerSASolverノードは、拡散モデル用のカスタムサンプリングアルゴリズムを実装します。予測子-修正子アプローチを使用し、設定可能な次数設定と確率微分方程式（SDE）パラメータにより、入力モデルからサンプルを生成します。
 

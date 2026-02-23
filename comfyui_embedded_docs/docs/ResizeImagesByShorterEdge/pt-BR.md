@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResizeImagesByShorterEdge/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResizeImagesByShorterEdge/pt-BR.md)
 
 Este nó redimensiona imagens ajustando suas dimensões para que o comprimento do lado mais curto corresponda a um valor alvo especificado. Ele calcula novas dimensões para manter a proporção original da imagem. A imagem redimensionada é retornada.
 

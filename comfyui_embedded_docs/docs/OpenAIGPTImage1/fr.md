@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIGPTImage1/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIGPTImage1/fr.md)
 
 Génère des images de manière synchrone via le point de terminaison GPT Image 1 d'OpenAI. Ce nœud peut créer de nouvelles images à partir d'invitations textuelles ou modifier des images existantes lorsqu'une image d'entrée et un masque optionnel sont fournis.
 

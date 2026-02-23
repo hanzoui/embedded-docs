@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageSetNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageSetNode/en.md)
 
 The LoadImageSetNode loads multiple images from the input directory for batch processing and training purposes. It supports various image formats and can optionally resize the images using different methods. This node processes all selected images as a batch and returns them as a single tensor.
 

@@ -1,6 +1,6 @@
-이 노드는 `ComfyUI/models/vae` 폴더에 있는 모델을 감지하며,
+이 노드는 `Hanzo Studio/models/vae` 폴더에 있는 모델을 감지하며,
 또한 extra_model_paths.yaml 파일에서 설정한 추가 경로의 모델도 읽어옵니다.
-때때로 **ComfyUI 인터페이스를 새로 고침**해야 해당 폴더의 모델 파일을 읽을 수 있습니다.
+때때로 **Hanzo Studio 인터페이스를 새로 고침**해야 해당 폴더의 모델 파일을 읽을 수 있습니다.
 
 VAELoader 노드는 Variational Autoencoder (VAE) 모델을 로드하기 위해 설계되었습니다. 이 노드는 표준 VAE와 근사 VAE 모두를 처리할 수 있도록 특별히 조정되었으며, 'taesd' 및 'taesdxl' 모델에 대한 특수 처리를 포함하여 VAE의 특정 구성에 따라 동적으로 조정됩니다.
 

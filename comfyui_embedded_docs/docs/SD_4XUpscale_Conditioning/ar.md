@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SD_4XUpscale_Conditioning/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SD_4XUpscale_Conditioning/ar.md)
 
 تُعد عُقدة SD_4XUpscale_Conditioning بيانات التكييف اللازمة لتحسين دقة الصور باستخدام نماذج الانتشار. تأخذ العُقدة صور الإدخال وبيانات التكييف، ثم تُطبق تحجيمًا وزيادة ضوضاء لإنشاء تكييف معدل يوجه عملية تحسين الدقة. تُخرج العُقدة كلًا من التكييف الإيجابي والسلبي مع التمثيلات الكامنة لأبعاد الصورة مُحسَّنة الدقة.
 

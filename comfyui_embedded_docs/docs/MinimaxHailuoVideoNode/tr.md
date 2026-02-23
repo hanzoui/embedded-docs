@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MinimaxHailuoVideoNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MinimaxHailuoVideoNode/tr.md)
 
 MiniMax Hailuo-02 modelini kullanarak metin istemlerinden video oluşturur. İsteğe bağlı olarak, videonun bu görüntüden devam etmesini sağlamak için ilk kare olarak kullanılmak üzere bir başlangıç görüntüsü sağlayabilirsiniz.
 

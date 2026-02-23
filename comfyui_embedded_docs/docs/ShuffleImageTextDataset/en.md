@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ShuffleImageTextDataset/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ShuffleImageTextDataset/en.md)
 
 This node shuffles a list of images and a list of texts together, keeping their pairings intact. It uses a random seed to determine the shuffle order, ensuring the same input lists will be shuffled in the same way each time the seed is reused.
 

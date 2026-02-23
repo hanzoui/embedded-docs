@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Rodin3D_Gen2/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Rodin3D_Gen2/tr.md)
 
 Rodin3D_Gen2 düğümü, Rodin API'sini kullanarak 3B varlıklar oluşturur. Girdi görüntülerini alır ve bunları çeşitli malzeme türleri ve çokgen sayılarına sahip 3B modellere dönüştürür. Düğüm, görev oluşturma, durum sorgulama ve dosya indirme dahil olmak üzere tüm oluşturma sürecini otomatik olarak yönetir.
 

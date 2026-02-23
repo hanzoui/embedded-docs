@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeFlux1/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeFlux1/zh.md)
 
 ModelMergeFlux1 节点通过加权插值的方式融合两个扩散模型的组件，实现模型合并功能。该节点支持对模型不同部分进行细粒度控制，包括图像处理块、时间嵌入层、引导机制、向量输入、文本编码器以及各种变换器块。这使得用户能够基于两个源模型创建具有定制化特征的混合模型。
 

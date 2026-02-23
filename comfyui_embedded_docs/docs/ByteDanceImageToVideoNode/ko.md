@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageToVideoNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageToVideoNode/ko.md)
 
 ByteDance Image to Video 노드는 입력 이미지와 텍스트 프롬프트를 기반으로 API를 통해 ByteDance 모델을 사용하여 비디오를 생성합니다. 시작 이미지 프레임을 가져와 제공된 설명을 따르는 비디오 시퀀스를 생성합니다. 이 노드는 비디오 해상도, 화면비, 지속 시간 및 기타 생성 매개변수에 대한 다양한 사용자 지정 옵션을 제공합니다.
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyAudio/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyAudio/en.md)
 
 The EmptyAudio node generates a silent audio clip with specified duration, sample rate, and channel configuration. It creates a waveform containing all zeros, producing complete silence for the given duration. This node is useful for creating placeholder audio or generating silent segments in audio workflows.
 

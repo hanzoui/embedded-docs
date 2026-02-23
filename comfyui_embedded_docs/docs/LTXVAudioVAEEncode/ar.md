@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVAudioVAEEncode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVAudioVAEEncode/ar.md)
 
 يأخذ عقد LTXV Audio VAE Encode مدخلاً صوتياً ويضغطه إلى تمثيل كامن أصغر باستخدام نموذج Audio VAE محدد. تُعد هذه العملية أساسية لتوليد الصوت أو التلاعب به ضمن سير عمل الفضاء الكامن، حيث تحول بيانات الصوت الخام إلى تنسيق يمكن للعُقد الأخرى في خط المعالجة فهمه ومعالجته.
 

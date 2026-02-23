@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeTiled/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeTiled/tr.md)
 
 VAEDecodeTiled düğümü, büyük görüntüleri verimli bir şekilde işlemek için karo yaklaşımını kullanarak gizli temsilleri görüntülere dönüştürür. Girdiyi, görüntü kalitesini korurken bellek kullanımını yönetmek için daha küçük karolar halinde işler. Düğüm ayrıca, akıcı geçişler için örtüşmeli parçalar halinde zamansal kareleri işleyerek video VAE'lerini destekler.
 

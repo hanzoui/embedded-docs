@@ -21,10 +21,10 @@ Think of it as communicating with an artist who speaks a different language. The
 
 Embedding models allow you to apply specific artistic effects or styles. Supported formats include `.safetensors`, `.pt`, and `.bin`. To use an embedding model:
 
-1. Place the file in the `ComfyUI/models/embeddings` folder.
+1. Place the file in the `Hanzo Studio/models/embeddings` folder.
 2. Reference it in your text using `embedding:model_name`.
 
-Example: If you have a model named `EasyNegative.pt` in your `ComfyUI/models/embeddings` folder, then you can use it like this:
+Example: If you have a model named `EasyNegative.pt` in your `Hanzo Studio/models/embeddings` folder, then you can use it like this:
 
 ```
 worst quality, embedding:EasyNegative, bad quality

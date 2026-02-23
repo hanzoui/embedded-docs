@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeBlocks/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeBlocks/tr.md)
 
 ModelMergeBlocks, iki modelin farklı bölümleri için özelleştirilebilir karıştırma oranlarıyla entegrasyonuna olanak tanıyarak gelişmiş model birleştirme işlemleri için tasarlanmıştır. Bu düğüm, belirtilen parametrelere dayanarak iki kaynak modelden bileşenleri seçerek birleştirerek melez modellerin oluşturulmasını kolaylaştırır.
 

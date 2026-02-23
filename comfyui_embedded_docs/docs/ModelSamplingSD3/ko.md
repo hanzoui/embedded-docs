@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingSD3/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingSD3/ko.md)
 
 ModelSamplingSD3 노드는 Stable Diffusion 3 샘플링 매개변수를 모델에 적용합니다. 샘플링 분포 특성을 제어하는 shift 매개변수를 조정하여 모델의 샘플링 동작을 수정합니다. 이 노드는 지정된 샘플링 구성이 적용된 입력 모델의 수정된 복사본을 생성합니다.
 

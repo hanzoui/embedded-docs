@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ContextWindowsManual/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ContextWindowsManual/ar.md)
 
 تتيح عقدة "نوافذ السياق (يدوي)" لك تكوين نوافذ السياق يدويًا للنماذج أثناء أخذ العينات. تقوم بإنشاء أجزاء سياق متداخلة بطول وتداخل وأنماط جدولة محددة لمعالجة البيانات في أجزاء يمكن إدارتها مع الحفاظ على الاستمرارية بين الأجزاء.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentMultiply/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentMultiply/ar.md)
 
 تُعد عقدة LatentMultiply مصممة لقياس التمثيل الكامن للعينات بواسطة مضاعف محدد. تتيح هذه العملية ضبط شدة أو حجم الميزات داخل الفضاء الكامن، مما يمكّن من الضبط الدقيق للمحتوى المُنتج أو استكشاف الاختلافات ضمن اتجاه كامن معين.
 

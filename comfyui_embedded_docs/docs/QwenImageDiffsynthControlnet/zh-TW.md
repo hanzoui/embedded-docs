@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/QwenImageDiffsynthControlnet/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/QwenImageDiffsynthControlnet/zh-TW.md)
 
 QwenImageDiffsynthControlnet 節點應用擴散合成控制網路修補程式來修改基礎模型的行為。它使用影像輸入和可選遮罩，透過可調節的強度來引導模型的生成過程，創建一個融合了控制網路影響的修補模型，以實現更受控的影像合成。
 

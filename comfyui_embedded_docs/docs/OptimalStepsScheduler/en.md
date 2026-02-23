@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OptimalStepsScheduler/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OptimalStepsScheduler/en.md)
 
 The OptimalStepsScheduler node calculates noise schedule sigmas for diffusion models based on the selected model type and step configuration. It adjusts the total number of steps according to the denoise parameter and interpolates the noise levels to match the requested step count. The node returns a sequence of sigma values that determine the noise levels used during the diffusion sampling process.
 

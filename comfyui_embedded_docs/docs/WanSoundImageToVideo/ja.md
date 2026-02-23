@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanSoundImageToVideo/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanSoundImageToVideo/ja.md)
 
 WanSoundImageToVideoノードは、画像から動画コンテンツを生成し、オプションでオーディオ条件付けも行います。ポジティブおよびネガティブな条件付けプロンプトとVAEモデルを使用して動画の潜在表現を作成し、参照画像、オーディオエンコーディング、制御動画、モーションリファレンスを組み込んで動画生成プロセスをガイドすることができます。
 

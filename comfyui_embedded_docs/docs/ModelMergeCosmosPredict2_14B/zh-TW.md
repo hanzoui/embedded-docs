@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmosPredict2_14B/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmosPredict2_14B/zh-TW.md)
 
 ModelMergeCosmosPredict2_14B 節點允許您透過調整不同模型元件的影響力來合併兩個 AI 模型。它提供了細粒度控制，使用特定模型層和元件的混合權重來決定第二個模型的每個部分對最終合併模型的貢獻程度。
 

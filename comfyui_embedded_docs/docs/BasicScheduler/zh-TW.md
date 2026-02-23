@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BasicScheduler/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BasicScheduler/zh-TW.md)
 
 `BasicScheduler` 節點旨在根據提供的調度器、模型和去噪參數，為擴散模型計算一系列 sigma 值。它會根據去噪因子動態調整總步數，以微調擴散過程，為需要精細控制的高級採樣過程（例如多階段採樣）中的不同階段提供精確的「配方」。
 

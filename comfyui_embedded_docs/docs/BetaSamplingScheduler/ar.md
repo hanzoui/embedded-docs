@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BetaSamplingScheduler/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BetaSamplingScheduler/ar.md)
 
 يقوم عقد BetaSamplingScheduler بتوليد تسلسل لمستويات الضوضاء (سيغما) لعملية أخذ العينات باستخدام خوارزمية جدولة بيتا. يأخذ العقد نموذجًا ومعاملات ضبط لينشئ جدول ضوضاء مخصصًا يتحكم في عملية إزالة الضوضاء أثناء توليد الصور. تتيح هذه الجدولة الضبط الدقيق لمسار تقليل الضوضاء من خلال معاملات ألفا وبيتا.
 

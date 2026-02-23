@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveTrainingDataset/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveTrainingDataset/tr.md)
 
 Bu düğüm, hazırlanmış bir eğitim veri kümesini bilgisayarınızın sabit diskine kaydeder. Görüntü gizli temsillerini (latents) ve bunlara karşılık gelen metin koşullandırmalarını içeren kodlanmış verileri alır ve daha kolay yönetim için bunları parça (shard) adı verilen birden fazla küçük dosyaya düzenler. Düğüm, çıktı dizininizde otomatik olarak bir klasör oluşturur ve hem veri dosyalarını hem de veri kümesini tanımlayan bir meta veri dosyasını kaydeder.
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Rodin3D_Gen2/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Rodin3D_Gen2/ja.md)
 
 Rodin3D_Gen2ノードは、Rodin APIを使用して3Dアセットを生成します。入力画像を受け取り、様々なマテリアルタイプとポリゴン数で3Dモデルに変換します。このノードは、タスクの作成、ステータスのポーリング、ファイルのダウンロードを含む生成プロセス全体を自動的に処理します。
 

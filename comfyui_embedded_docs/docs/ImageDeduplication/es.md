@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageDeduplication/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageDeduplication/es.md)
 
 Este nodo elimina imágenes duplicadas o muy similares de un lote. Funciona creando un hash perceptual para cada imagen —una huella digital numérica simple basada en su contenido visual— y luego comparándolos. Las imágenes cuyos hashes sean más similares que un umbral establecido se consideran duplicadas y se filtran.
 

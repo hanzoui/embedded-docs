@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LossGraphNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LossGraphNode/ko.md)
 
 LossGraphNode는 훈련 손실 값의 시간에 따른 변화를 시각적인 그래프로 생성하고 이미지 파일로 저장합니다. 이 노드는 훈련 과정에서 손실 데이터를 가져와 선 차트를 생성하여 훈련 단계에 따라 손실이 어떻게 변화하는지 보여줍니다. 결과 그래프에는 축 레이블, 최소/최대 손실 값이 포함되며, 타임스탬프와 함께 임시 출력 디렉토리에 자동으로 저장됩니다.
 

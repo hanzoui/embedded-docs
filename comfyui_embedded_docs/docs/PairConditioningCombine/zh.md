@@ -1,6 +1,6 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningCombine/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningCombine/zh.md)
 
-PairConditioningCombine 节点将两对条件数据（正面和负面）合并为单个条件对。该节点接收两个独立的条件对作为输入，并使用 ComfyUI 的内部条件组合逻辑进行合并。此节点为实验性功能，主要用于高级条件处理工作流。
+PairConditioningCombine 节点将两对条件数据（正面和负面）合并为单个条件对。该节点接收两个独立的条件对作为输入，并使用 Hanzo Studio 的内部条件组合逻辑进行合并。此节点为实验性功能，主要用于高级条件处理工作流。
 
 ## 输入参数
 

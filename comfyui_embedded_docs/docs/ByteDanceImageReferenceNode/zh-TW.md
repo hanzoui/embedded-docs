@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageReferenceNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageReferenceNode/zh-TW.md)
 
 ByteDance Image Reference 節點使用文字提示和一至四張參考圖片來生成影片。它會將圖片和提示發送到外部 API 服務，該服務會建立符合您描述的影片，同時融入參考圖片的視覺風格和內容。該節點提供多種控制項，用於調整影片解析度、長寬比、持續時間和其他生成參數。
 

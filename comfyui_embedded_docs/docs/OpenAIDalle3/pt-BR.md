@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIDalle3/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIDalle3/pt-BR.md)
 
 Gera imagens de forma síncrona através do endpoint DALL·E 3 da OpenAI. Este nó recebe um prompt de texto e cria imagens correspondentes usando o modelo DALL·E 3 da OpenAI, permitindo que você especifique a qualidade, o estilo e as dimensões da imagem.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookModelAsLora/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookModelAsLora/pt-BR.md)
 
 Este nó cria um modelo de hook como um LoRA (Adaptação de Baixa Classificação) carregando pesos de checkpoint e aplicando ajustes de força aos componentes do modelo e do CLIP. Ele permite que você aplique modificações no estilo LoRA a modelos existentes por meio de uma abordagem baseada em hooks, possibilitando ajustes finos e adaptações sem alterações permanentes no modelo. O nó pode combinar com hooks anteriores e armazena em cache os pesos carregados para eficiência.
 

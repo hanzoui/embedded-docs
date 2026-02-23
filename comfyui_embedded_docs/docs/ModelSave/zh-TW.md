@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSave/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSave/zh-TW.md)
 
 ModelSave 節點可將訓練完成或修改後的模型儲存至您的電腦儲存裝置。它接收一個模型作為輸入，並將其寫入具有您指定檔案名稱的檔案中。這讓您能夠保存工作成果，並在未來的專案中重複使用模型。
 
@@ -7,7 +7,7 @@ ModelSave 節點可將訓練完成或修改後的模型儲存至您的電腦儲�
 | 參數名稱 | 資料類型 | 必填 | 數值範圍 | 說明 |
 |-----------|-----------|----------|-------|-------------|
 | `model` | MODEL | 是 | - | 要儲存至硬碟的模型 |
-| `檔名前綴` | STRING | 是 | - | 已儲存模型檔案的檔案名稱與路徑前綴（預設值："diffusion_models/ComfyUI"） |
+| `檔名前綴` | STRING | 是 | - | 已儲存模型檔案的檔案名稱與路徑前綴（預設值："diffusion_models/Hanzo Studio"） |
 | `prompt` | PROMPT | 否 | - | 工作流程提示資訊（自動提供） |
 | `extra_pnginfo` | EXTRA_PNGINFO | 否 | - | 額外的工作流程元資料（自動提供） |
 

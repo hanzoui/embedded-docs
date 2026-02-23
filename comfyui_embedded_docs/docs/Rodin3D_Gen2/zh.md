@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Rodin3D_Gen2/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Rodin3D_Gen2/zh.md)
 
 Rodin3D_Gen2 节点使用 Rodin API 生成 3D 资源。它接收输入图像并将其转换为具有不同材质类型和多边形数量的 3D 模型。该节点自动处理整个生成过程，包括任务创建、状态轮询和文件下载。
 

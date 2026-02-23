@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingSD3/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingSD3/ar.md)
 
 يقوم عُقدة ModelSamplingSD3 بتطبيق معاملات أخذ العينات الخاصة بـ Stable Diffusion 3 على النموذج. حيث تقوم بتعديل سلوك أخذ العينات للنموذج من خلال ضبط معلمة الانزياح، التي تتحكم في خصائص توزيع أخذ العينات. تنشئ العُقدة نسخة معدلة من النموذج المدخل مع تطبيق تكوين أخذ العينات المحدد.
 

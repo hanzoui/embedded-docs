@@ -1,6 +1,6 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CombineHooksEight/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CombineHooksEight/es.md)
 
-El nodo Combine Hooks [8] combina hasta ocho grupos de hooks diferentes en un único grupo de hooks combinado. Toma múltiples entradas de hooks y las combina utilizando la funcionalidad de combinación de hooks de ComfyUI. Esto permite consolidar múltiples configuraciones de hooks para un procesamiento optimizado en flujos de trabajo avanzados.
+El nodo Combine Hooks [8] combina hasta ocho grupos de hooks diferentes en un único grupo de hooks combinado. Toma múltiples entradas de hooks y las combina utilizando la funcionalidad de combinación de hooks de Hanzo Studio. Esto permite consolidar múltiples configuraciones de hooks para un procesamiento optimizado en flujos de trabajo avanzados.
 
 ## Entradas
 

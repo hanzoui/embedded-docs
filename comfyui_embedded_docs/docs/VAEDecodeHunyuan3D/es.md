@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeHunyuan3D/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeHunyuan3D/es.md)
 
 El nodo VAEDecodeHunyuan3D convierte representaciones latentes en datos de vóxeles 3D utilizando un decodificador VAE. Procesa las muestras latentes a través del modelo VAE con configuraciones de fragmentación y resolución ajustables para generar datos volumétricos adecuados para aplicaciones 3D.
 

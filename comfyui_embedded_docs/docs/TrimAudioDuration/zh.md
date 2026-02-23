@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TrimAudioDuration/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TrimAudioDuration/zh.md)
 
 TrimAudioDuration 节点允许您从音频文件中截取特定时间段。您可以指定开始裁剪的时间点以及生成音频片段的时长。该节点通过将时间值转换为音频帧位置并提取相应的音频波形部分来实现此功能。
 

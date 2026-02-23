@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringConcatenate/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringConcatenate/ja.md)
 
 StringConcatenateノードは、2つのテキスト文字列を指定された区切り文字で結合して1つの文字列にします。2つの入力文字列と区切り文字（または文字列）を受け取り、2つの入力が区切り文字を挟んで接続された単一の文字列を出力します。
 

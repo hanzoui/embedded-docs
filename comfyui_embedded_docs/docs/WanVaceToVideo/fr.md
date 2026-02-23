@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanVaceToVideo/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanVaceToVideo/fr.md)
 
 Le nœud WanVaceToVideo traite les données de conditionnement vidéo pour les modèles de génération vidéo. Il prend des entrées de conditionnement positives et négatives ainsi que des données de contrôle vidéo et prépare les représentations latentes pour la génération vidéo. Le nœud gère le suréchantillonnage vidéo, le masquage et l'encodage VAE pour créer la structure de conditionnement appropriée pour les modèles vidéo.
 

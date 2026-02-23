@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeQwenImageEditPlus/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeQwenImageEditPlus/fr.md)
 
 Le nœud TextEncodeQwenImageEditPlus traite des invites textuelles et des images optionnelles pour générer des données de conditionnement destinées à des tâches de génération ou de modification d'image. Il utilise un modèle spécialisé pour analyser les images d'entrée et comprendre comment les instructions textuelles doivent les modifier, puis encode ces informations pour une utilisation dans les étapes de génération ultérieures. Le nœud peut gérer jusqu'à trois images d'entrée et générer optionnellement des latents de référence lorsqu'un VAE est fourni.
 

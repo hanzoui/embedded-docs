@@ -1,24 +1,24 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Preview3D/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Preview3D/ar.md)
 
-تُستخدم عُقدة Preview3D بشكل أساسي لمعاينة مخرجات النماذج ثلاثية الأبعاد. تأخذ هذه العُقدة مدخلين: أحدهما هو `camera_info` من عُقدة Load3D، والآخر هو مسار ملف النموذج ثلاثي الأبعاد. يجب أن يكون مسار ملف النموذج موجودًا في مجلد `ComfyUI/output`.
+تُستخدم عُقدة Preview3D بشكل أساسي لمعاينة مخرجات النماذج ثلاثية الأبعاد. تأخذ هذه العُقدة مدخلين: أحدهما هو `camera_info` من عُقدة Load3D، والآخر هو مسار ملف النموذج ثلاثي الأبعاد. يجب أن يكون مسار ملف النموذج موجودًا في مجلد `Hanzo Studio/output`.
 
 **الصيغ المدعومة**
 تدعم هذه العُقدة حاليًا تنسيقات ملفات متعددة للأبعاد الثلاثة، بما في ذلك `.gltf` و `.glb` و `.obj` و `.fbx` و `.stl`.
 
 **تفضيلات العُقد ثلاثية الأبعاد**
-يمكن تكوين بعض التفضيلات المرتبطة بالعُقد ثلاثية الأبعاد في قائمة إعدادات ComfyUI. يُرجى الرجوع إلى الوثائق التالية للإعدادات المقابلة:
-[قائمة الإعدادات](https://docs.comfy.org/interface/settings/3d)
+يمكن تكوين بعض التفضيلات المرتبطة بالعُقد ثلاثية الأبعاد في قائمة إعدادات Hanzo Studio. يُرجى الرجوع إلى الوثائق التالية للإعدادات المقابلة:
+[قائمة الإعدادات](https://docs.hanzo.ai/interface/settings/3d)
 
 ## المدخلات
 
 | اسم المعامل      | النوع          | الوصف                                       |
 | -------------- | -------------- | -------------------------------------------- |
 | camera_info    | LOAD3D_CAMERA  | معلومات الكاميرا                             |
-| model_file     | LOAD3D_CAMERA  | مسار ملف النموذج تحت `ComfyUI/output/`       |
+| model_file     | LOAD3D_CAMERA  | مسار ملف النموذج تحت `Hanzo Studio/output/`       |
 
 ## وصف منطقة الرسم
 
-تشارك العُقد ذات الصلة بالأبعاد الثلاثة في واجهة ComfyUI الأمامية نفس مكون الرسم حاليًا، لذا فإن عملياتها الأساسية متسقة إلى حد كبير باستثناء بعض الاختلافات الوظيفية.
+تشارك العُقد ذات الصلة بالأبعاد الثلاثة في واجهة Hanzo Studio الأمامية نفس مكون الرسم حاليًا، لذا فإن عملياتها الأساسية متسقة إلى حد كبير باستثناء بعض الاختلافات الوظيفية.
 
 > المحتوى التالي والواجهة يعتمدان بشكل أساسي على عُقدة Load3D. يُرجى الرجوع إلى واجهة العُقدة الفعلية للحصول على الميزات المحددة.
 
@@ -38,7 +38,7 @@
 ### 1. عمليات العرض
 
 <video controls width="640" height="360">
-  <source src="https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
   المتصفح الخاص بك لا يدعم تشغيل الفيديو.
 </video>
 
@@ -51,7 +51,7 @@
 
 ### 2. وظائف القائمة اليسرى
 
-![القائمة](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu.webp)
+![القائمة](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu.webp)
 
 في منطقة المعاينة، يتم إخفاء بعض قوائم عمليات العرض في القائمة. انقر على زر القائمة لتوسيع القوائم المختلفة.
 
@@ -63,7 +63,7 @@
 
 #### المشهد
 
-![قائمة المشهد](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_scene.webp)
+![قائمة المشهد](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_scene.webp)
 
 توفر قائمة المشهد بعض وظائف إعدادات المشهد الأساسية:
 
@@ -74,7 +74,7 @@
 
 #### النموذج
 
-![قائمة النموذج](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_model.webp)
+![قائمة النموذج](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_model.webp)
 
 توفر قائمة النموذج بعض الوظائف المتعلقة بالنموذج:
 
@@ -83,7 +83,7 @@
 
 #### الكاميرا
 
-![قائمة الكاميرا](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_camera.webp)
+![قائمة الكاميرا](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_camera.webp)
 
 توفر هذه القائمة التبديل بين وضعي العرض المتوازي والمنظوري، وإعدادات حجم زاوية المنظور:
 
@@ -92,12 +92,12 @@
 
 #### الضوء
 
-![قائمة الضوء](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_light.webp)
+![قائمة الضوء](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_light.webp)
 
 من خلال هذه القائمة، يمكنك ضبط شدة الإضاءة العامة للمشهد بسرعة
 
 #### التصدير
 
-![قائمة التصدير](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_export.webp)
+![قائمة التصدير](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_export.webp)
 
 توفر هذه القائمة القدرة على تحويل تنسيقات النماذج وتصديرها بسرعة

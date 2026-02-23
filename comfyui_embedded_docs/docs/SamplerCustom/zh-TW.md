@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerCustom/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerCustom/zh-TW.md)
 
 SamplerCustom 節點旨在為各種應用提供靈活且可自訂的取樣機制。它讓使用者能夠根據特定需求選擇和配置不同的取樣策略，從而提升取樣過程的適應性和效率。
 

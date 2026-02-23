@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentCut/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentCut/ja.md)
 
 LatentCutノードは、潜在サンプルから特定の次元に沿って一部を抽出します。このノードを使用すると、次元（x、y、またはt）、開始位置、抽出量を指定して、潜在表現の一部を切り取ることができます。正のインデックスと負のインデックスの両方を扱い、利用可能な範囲内に収まるように抽出量を自動調整します。
 

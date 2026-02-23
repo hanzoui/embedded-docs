@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PerpNegGuider/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PerpNegGuider/pt-BR.md)
 
 O nó PerpNegGuider cria um sistema de orientação para controlar a geração de imagens usando condicionamento negativo perpendicular. Ele recebe entradas de condicionamento positivo, negativo e vazio e aplica um algoritmo de orientação especializado para direcionar o processo de geração. Este nó foi projetado para fins de teste e oferece controle refinado sobre a força da orientação e a escala negativa.
 

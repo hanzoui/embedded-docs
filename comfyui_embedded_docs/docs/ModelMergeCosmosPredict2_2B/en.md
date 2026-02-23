@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmosPredict2_2B/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmosPredict2_2B/en.md)
 
 The ModelMergeCosmosPredict2_2B node merges two diffusion models using a block-based approach with fine-grained control over different model components. It allows you to blend specific parts of two models by adjusting interpolation weights for position embedders, time embedders, transformer blocks, and final layers. This provides precise control over how different architectural components from each model contribute to the final merged result.
 

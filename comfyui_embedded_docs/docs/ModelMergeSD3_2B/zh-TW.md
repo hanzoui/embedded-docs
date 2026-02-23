@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSD3_2B/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSD3_2B/zh-TW.md)
 
 ModelMergeSD3_2B 節點允許您透過以可調權重混合兩個 Stable Diffusion 3 2B 模型的組件來合併它們。它提供對嵌入層和轉換器區塊的個別控制，使您能夠為特定的生成任務進行精細調整的模型組合。
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanVaceToVideo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanVaceToVideo/zh-TW.md)
 
 WanVaceToVideo 節點處理影片生成模型的影片條件資料。它接收正向和負向條件輸入以及影片控制資料，並準備用於影片生成的潛在表示。該節點處理影片放大、遮罩和 VAE 編碼，為影片模型創建適當的條件結構。
 

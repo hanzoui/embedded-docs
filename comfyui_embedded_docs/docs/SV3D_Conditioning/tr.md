@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SV3D_Conditioning/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SV3D_Conditioning/tr.md)
 
 SV3D_Conditioning düğümü, SV3D modelini kullanarak 3D video üretimi için koşullandırma verilerini hazırlar. Başlangıç görüntüsünü alır ve CLIP görüntü ve VAE kodlayıcılarından geçirerek pozitif ve negatif koşullandırmanın yanı sıra bir gizli temsil de oluşturur. Düğüm, belirtilen video karesi sayısına dayalı olarak çok kareli video üretimi için kamera yükseklik ve azimut dizileri oluşturur.
 

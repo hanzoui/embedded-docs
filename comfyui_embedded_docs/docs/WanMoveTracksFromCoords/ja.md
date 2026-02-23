@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveTracksFromCoords/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveTracksFromCoords/ja.md)
 
 WanMoveTracksFromCoordsノードは、座標点のリストから一連のモーショントラックを作成します。JSON形式の座標文字列を、他の動画処理ノードで使用可能なテンソル形式に変換し、オプションでマスクを適用して時間経過に伴うトラックの可視性を制御することができます。
 

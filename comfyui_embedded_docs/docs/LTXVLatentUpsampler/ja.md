@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVLatentUpsampler/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVLatentUpsampler/ja.md)
 
 LTXVLatentUpsamplerノードは、動画の潜在表現の空間解像度を2倍に増加させます。このノードは、専用のアップスケールモデルを使用して潜在データを処理します。処理の際には、まず潜在データが非正規化され、その後、指定されたVAEのチャネル統計を用いて再正規化されます。このノードは、潜在空間内での動画ワークフロー向けに設計されています。
 

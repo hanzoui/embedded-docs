@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/unCLIPConditioning/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/unCLIPConditioning/pt-BR.md)
 
 Este nó foi projetado para integrar as saídas de visão do CLIP no processo de condicionamento, ajustando a influência dessas saídas com base em parâmetros especificados de força e aumento de ruído. Ele enriquece o condicionamento com contexto visual, aprimorando o processo de geração.
 

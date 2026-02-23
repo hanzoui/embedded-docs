@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyHunyuanLatentVideo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyHunyuanLatentVideo/zh-TW.md)
 
 `EmptyHunyuanLatentVideo` 節點與 `EmptyLatentImage` 節點類似。您可以將其視為影片生成的空白畫布，其中寬度、高度和長度定義了畫布的屬性，而批次大小則決定了要創建的畫布數量。此節點創建空的畫布，準備用於後續的影片生成任務。
 

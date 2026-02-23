@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceDiTSimple/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceDiTSimple/pt-BR.md)
 
 Versão simplificada do nó SkipLayerGuidanceDiT que modifica apenas a passagem incondicional durante o processo de remoção de ruído. Este nó aplica a orientação de camada de salto (skip layer guidance) a camadas específicas do transformador em modelos DiT (Diffusion Transformer), pulando seletivamente certas camadas durante a passagem incondicional com base em parâmetros de tempo e camada especificados.
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSDXL/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSDXL/ko.md)
 
 ModelMergeSDXL 노드를 사용하면 두 개의 SDXL 모델을 아키텍처의 다양한 부분에 대한 각 모델의 영향을 조정하여 혼합할 수 있습니다. 시간 임베딩, 레이블 임베딩 및 모델 구조 내 다양한 블록에 각 모델이 얼마나 기여하는지 제어할 수 있습니다. 이를 통해 두 입력 모델의 특성을 결합한 하이브리드 모델이 생성됩니다.
 

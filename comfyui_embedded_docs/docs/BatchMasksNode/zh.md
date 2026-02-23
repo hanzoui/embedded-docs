@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BatchMasksNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BatchMasksNode/zh.md)
 
 Batch Masks 节点将多个独立的遮罩输入合并为单个批次。它接收可变数量的遮罩输入，并将它们作为单个批处理的遮罩张量输出，以便在后续节点中对遮罩进行批处理。
 

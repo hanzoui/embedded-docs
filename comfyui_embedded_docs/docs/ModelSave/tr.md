@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSave/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSave/tr.md)
 
 ModelSave düğümü, eğitilmiş veya değiştirilmiş modelleri bilgisayarınızın depolama birimine kaydeder. Bir modeli girdi olarak alır ve belirttiğiniz dosya adıyla bir dosyaya yazar. Bu, çalışmanızı korumanıza ve modelleri gelecekteki projelerde yeniden kullanmanıza olanak tanır.
 
@@ -7,7 +7,7 @@ ModelSave düğümü, eğitilmiş veya değiştirilmiş modelleri bilgisayarın�
 | Parametre | Veri Türü | Zorunlu | Aralık | Açıklama |
 |-----------|-----------|----------|-------|-------------|
 | `model` | MODEL | Evet | - | Diske kaydedilecek model |
-| `dosyaadı_öneki` | STRING | Evet | - | Kaydedilen model dosyası için dosya adı ve yol öneki (varsayılan: "diffusion_models/ComfyUI") |
+| `dosyaadı_öneki` | STRING | Evet | - | Kaydedilen model dosyası için dosya adı ve yol öneki (varsayılan: "diffusion_models/Hanzo Studio") |
 | `prompt` | PROMPT | Hayır | - | İş akışı istem bilgileri (otomatik olarak sağlanır) |
 | `extra_pnginfo` | EXTRA_PNGINFO | Hayır | - | Ek iş akışı üst verisi (otomatik olarak sağlanır) |
 

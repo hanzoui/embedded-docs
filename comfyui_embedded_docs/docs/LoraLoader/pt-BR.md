@@ -1,6 +1,6 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraLoader/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraLoader/pt-BR.md)
 
-Este nó detecta automaticamente modelos localizados na pasta LoRA (incluindo subpastas), sendo o caminho correspondente `ComfyUI\models\loras`. Para mais informações, consulte Instalando Modelos LoRA.
+Este nó detecta automaticamente modelos localizados na pasta LoRA (incluindo subpastas), sendo o caminho correspondente `Hanzo Studio\models\loras`. Para mais informações, consulte Instalando Modelos LoRA.
 
 O nó LoRA Loader é usado principalmente para carregar modelos LoRA. Você pode pensar em modelos LoRA como filtros que podem dar às suas imagens estilos, conteúdos e detalhes específicos:
 

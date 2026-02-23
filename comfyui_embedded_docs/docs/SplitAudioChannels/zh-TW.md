@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SplitAudioChannels/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SplitAudioChannels/zh-TW.md)
 
 SplitAudioChannels 節點可將立體聲音訊分離為獨立的左右聲道。它接收具有兩個聲道的立體聲音訊輸入，並輸出兩個獨立的音訊流，一個用於左聲道，另一個用於右聲道。
 

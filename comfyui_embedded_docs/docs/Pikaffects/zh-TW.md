@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Pikaffects/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Pikaffects/zh-TW.md)
 
 Pikaffects 節點可生成帶有各種視覺效果的影片，這些效果會套用至輸入圖像。它使用 Pika 的影片生成 API，將靜態圖像轉換為具有特定效果（如融化、爆炸或漂浮）的動態影片。該節點需要 API 金鑰和驗證令牌才能存取 Pika 服務。
 

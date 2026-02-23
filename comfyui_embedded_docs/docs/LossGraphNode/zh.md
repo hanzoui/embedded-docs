@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LossGraphNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LossGraphNode/zh.md)
 
 LossGraphNode 可创建训练损失值随时间变化的可视化图表，并将其保存为图像文件。该节点从训练过程中获取损失数据，并生成显示损失在训练步骤中变化情况的折线图。生成的图表包含坐标轴标签、最小/最大损失值，并会自动保存到临时输出目录并附带时间戳。
 

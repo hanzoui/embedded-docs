@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVLatentUpsampler/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVLatentUpsampler/zh-TW.md)
 
 此節點將影片潛在表徵的空間解析度提升兩倍。它使用專門的放大模型來處理潛在數據，這些數據首先會使用提供的 VAE 通道統計數據進行反歸一化，然後再重新歸一化。此節點專為潛在空間內的影片工作流程而設計。
 

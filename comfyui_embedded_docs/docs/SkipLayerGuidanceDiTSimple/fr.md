@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceDiTSimple/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceDiTSimple/fr.md)
 
 Version simplifiée du nœud SkipLayerGuidanceDiT qui modifie uniquement la passe inconditionnelle pendant le processus de débruitage. Ce nœud applique le guidage par saut de couche à des couches spécifiques du transformateur dans les modèles DiT (Diffusion Transformer) en ignorant sélectivement certaines couches pendant la passe inconditionnelle en fonction des paramètres de timing et de couche spécifiés.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Wan22FunControlToVideo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Wan22FunControlToVideo/zh-TW.md)
 
 Wan22FunControlToVideo 節點使用 Wan 視訊模型架構，為視訊生成準備條件調控和潛在表示。它處理正向和負向條件調控輸入，以及可選的參考圖像和控制視訊，以創建視訊合成所需的潛在空間表示。該節點處理空間縮放和時間維度，為視訊模型生成適當的條件調控資料。
 

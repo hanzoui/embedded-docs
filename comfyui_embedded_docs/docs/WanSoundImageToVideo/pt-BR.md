@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanSoundImageToVideo/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanSoundImageToVideo/pt-BR.md)
 
 O nó WanSoundImageToVideo gera conteúdo de vídeo a partir de imagens com condicionamento de áudio opcional. Ele recebe *prompts* de condicionamento positivo e negativo, juntamente com um modelo VAE, para criar latentes de vídeo, e pode incorporar imagens de referência, codificação de áudio, vídeos de controle e referências de movimento para orientar o processo de geração de vídeo.
 

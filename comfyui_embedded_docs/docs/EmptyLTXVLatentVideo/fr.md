@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyLTXVLatentVideo/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyLTXVLatentVideo/fr.md)
 
 Le nœud EmptyLTXVLatentVideo crée un tenseur latent vide pour le traitement vidéo. Il génère un point de départ vierge avec des dimensions spécifiées qui peut être utilisé comme entrée pour les flux de travail de génération vidéo. Le nœud produit une représentation latente remplie de zéros avec la largeur, la hauteur, la longueur et la taille de lot configurées.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMAdaptative/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMAdaptative/ar.md)
 
 ```markdown
 ينفذ عقدة SamplerDPMAdaptative مُعينًا تكيفيًا لنموذج الانتشار الاحتمالي (DPM) يقوم بضبط أحجام الخطوات تلقائيًا أثناء عملية أخذ العينات. يستخدم عنصر التحكم في الخطأ القائم على التسامح لتحديد أحجام الخطوات المثلى، موازنًا بين الكفاءة الحسابية ودقة أخذ العينات. يساعد هذا النهج التكيفي في الحفاظ على الجودة مع تقليل عدد الخطوات المطلوبة محتملًا.

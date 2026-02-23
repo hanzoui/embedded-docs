@@ -1,6 +1,6 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAELoader/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAELoader/pt-BR.md)
 
-Este nó detectará modelos localizados na pasta `ComfyUI/models/vae` e também lerá modelos de caminhos adicionais configurados no arquivo extra_model_paths.yaml. Às vezes, pode ser necessário **atualizar a interface do ComfyUI** para permitir que ela leia os arquivos de modelo da pasta correspondente.
+Este nó detectará modelos localizados na pasta `Hanzo Studio/models/vae` e também lerá modelos de caminhos adicionais configurados no arquivo extra_model_paths.yaml. Às vezes, pode ser necessário **atualizar a interface do Hanzo Studio** para permitir que ela leia os arquivos de modelo da pasta correspondente.
 
 O nó VAELoader é projetado para carregar modelos de Autoencoder Variacional (VAE), especificamente adaptado para lidar com VAEs padrão e aproximados. Ele suporta o carregamento de VAEs por nome, incluindo tratamento especializado para modelos 'taesd' e 'taesdxl', e ajusta-se dinamicamente com base na configuração específica do VAE.
 

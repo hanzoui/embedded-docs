@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyTextToModelNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyTextToModelNode/zh-TW.md)
 
 此節點使用 Meshy API，根據文字描述生成 3D 模型。它會將您的提示詞和設定發送至 API，等待生成完成後下載產生的模型檔案。
 

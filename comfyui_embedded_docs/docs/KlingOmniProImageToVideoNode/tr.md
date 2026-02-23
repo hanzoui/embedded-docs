@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProImageToVideoNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProImageToVideoNode/tr.md)
 
 Bu düğüm, Kling AI modelini kullanarak bir metin istemine ve en fazla yedi referans görseline dayalı olarak bir video oluşturur. Videoların en-boy oranını, süresini ve çözünürlüğünü kontrol etmenize olanak tanır. Düğüm, isteği harici bir API'ye gönderir ve oluşturulan videoyu döndürür.
 

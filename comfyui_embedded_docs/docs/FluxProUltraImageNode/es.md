@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxProUltraImageNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxProUltraImageNode/es.md)
 
 Genera imágenes utilizando Flux Pro 1.1 Ultra mediante API basándose en el prompt y la resolución. Este nodo se conecta a un servicio externo para crear imágenes de acuerdo con tu descripción de texto y las dimensiones especificadas.
 

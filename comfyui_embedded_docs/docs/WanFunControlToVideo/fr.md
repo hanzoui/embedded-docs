@@ -1,19 +1,19 @@
-Ce noeud a été ajouté pour prendre en charge le modèle Wan Fun Control d'Alibaba pour la génération vidéo, et a été ajouté après [ce commit](https://github.com/comfyanonymous/ComfyUI/commit/3661c833bcc41b788a7c9f0e7bc48524f8ee5f82).
+Ce noeud a été ajouté pour prendre en charge le modèle Wan Fun Control d'Alibaba pour la génération vidéo, et a été ajouté après [ce commit](https://github.com/hanzoai/studio/commit/3661c833bcc41b788a7c9f0e7bc48524f8ee5f82).
 
 - **Objectif :** Préparer les informations conditionnelles nécessaires à la génération vidéo, en utilisant le modèle Wan 2.1 Fun Control.
 
-Le noeud WanFunControlToVideo est un ajout à ComfyUI conçu pour prendre en charge les modèles Wan Fun Control pour la génération vidéo, visant à utiliser le contrôle WanFun pour la création vidéo.
+Le noeud WanFunControlToVideo est un ajout à Hanzo Studio conçu pour prendre en charge les modèles Wan Fun Control pour la génération vidéo, visant à utiliser le contrôle WanFun pour la création vidéo.
 
 Ce noeud sert de point de préparation pour les informations conditionnelles essentielles et initialise le point central de l'espace latent, guidant le processus de génération vidéo ultérieur en utilisant le modèle Wan 2.1 Fun. Le nom du noeud indique clairement sa fonction : il accepte diverses entrées et les convertit en un format adapté pour contrôler la génération vidéo dans le cadre de WanFun.
 
-La position du noeud dans la hiérarchie des noeuds ComfyUI indique qu'il opère aux premières étapes du pipeline de génération vidéo, se concentrant sur la manipulation des signaux conditionnels avant l'échantillonnage ou le décodage réel des cadres vidéo.
+La position du noeud dans la hiérarchie des noeuds Hanzo Studio indique qu'il opère aux premières étapes du pipeline de génération vidéo, se concentrant sur la manipulation des signaux conditionnels avant l'échantillonnage ou le décodage réel des cadres vidéo.
 
 ## Entrées
 
 | Nom du paramètre    | Requis  | Type de données      | Description                                                  | Valeur par défaut |
 |:-------------------|:--------|:--------------------|:-------------------------------------------------------------|:------------------|
-| positif            | Oui     | CONDITIONING        | Données conditionnelles positives standard de ComfyUI, généralement provenant d'un noeud "CLIP Text Encode". L'invite positive décrit le contenu, le sujet et le style artistique que l'utilisateur envisage pour la vidéo générée. | N/A  |
-| négatif            | Oui     | CONDITIONING        | Données conditionnelles négatives standard de ComfyUI, généralement générées par un noeud "CLIP Text Encode". L'invite négative spécifie les éléments, styles ou artefacts que l'utilisateur souhaite éviter dans la vidéo générée. | N/A  |
+| positif            | Oui     | CONDITIONING        | Données conditionnelles positives standard de Hanzo Studio, généralement provenant d'un noeud "CLIP Text Encode". L'invite positive décrit le contenu, le sujet et le style artistique que l'utilisateur envisage pour la vidéo générée. | N/A  |
+| négatif            | Oui     | CONDITIONING        | Données conditionnelles négatives standard de Hanzo Studio, généralement générées par un noeud "CLIP Text Encode". L'invite négative spécifie les éléments, styles ou artefacts que l'utilisateur souhaite éviter dans la vidéo générée. | N/A  |
 | vae                | Oui     | VAE                 | Nécessite un modèle VAE (Autoencodeur Variationnel) compatible avec la famille de modèles Wan 2.1 Fun, utilisé pour encoder et décoder des données image/vidéo. | N/A  |
 | largeur            | Oui     | INT                 | La largeur souhaitée des cadres vidéo de sortie en pixels, avec une valeur par défaut de 832, une valeur minimale de 16, une valeur maximale déterminée par nodes.MAX_RESOLUTION, et un pas de 16. | 832  |
 | hauteur            | Oui     | INT                 | La hauteur souhaitée des cadres vidéo de sortie en pixels, avec une valeur par défaut de 480, une valeur minimale de 16, une valeur maximale déterminée par nodes.MAX_RESOLUTION, et un pas de 16. | 480  |

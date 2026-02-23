@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VoxelToMeshBasic/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VoxelToMeshBasic/fr.md)
 
 Le nœud VoxelToMeshBasic convertit des données voxel 3D en géométrie maillée. Il traite les volumes voxel en appliquant une valeur de seuil pour déterminer quelles parties du volume deviennent des surfaces solides dans le maillage résultant. Le nœud produit une structure maillée complète avec des sommets et des faces qui peut être utilisée pour le rendu et la modélisation 3D.
 

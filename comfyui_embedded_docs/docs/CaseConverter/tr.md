@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CaseConverter/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CaseConverter/tr.md)
 
 Case Converter düğümü, metin dizilerini farklı harf büyüklüğü formatlarına dönüştürür. Bir giriş dizisi alır ve seçilen moda göre dönüştürerek, belirtilen büyük/küçük harf biçimlendirmesi uygulanmış bir çıkış dizisi üretir. Düğüm, metninizin büyük/küçük harf kullanımını değiştirmek için dört farklı büyük/küçük harf dönüşüm seçeneğini destekler.
 

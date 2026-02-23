@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeWAN2_1/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeWAN2_1/zh.md)
 
 ModelMergeWAN2_1 节点通过加权平均的方式融合两个模型的组件来实现模型合并。它支持不同的模型规模，包括包含30个模块的1.3B模型和包含40个模块的14B模型，并对包含额外图像嵌入组件的图像转视频模型进行特殊处理。模型的每个组件都可以单独设置权重，以控制两个输入模型之间的融合比例。
 

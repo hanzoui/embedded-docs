@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/UNetSelfAttentionMultiply/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UNetSelfAttentionMultiply/ar.md)
 
 تُطبق عقدة UNetSelfAttentionMultiply عوامل ضرب على مكونات الاستعلام والمفتاح والقيمة والإخراج في آلية الانتباه الذاتي بنموذج UNet. تتيح لك تحجيم أجزاء مختلفة من عملية حساب الانتباه لتجريب كيفية تأثير أوزان الانتباه على سلوك النموذج.
 

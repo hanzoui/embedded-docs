@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveAnimatedWEBP/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveAnimatedWEBP/ar.md)
 
 تم تصميم هذه العقدة لحفظ سلسلة من الصور كملف WEBP متحرك. فهي تتعامل مع تجميع الإطارات الفردية في رسوم متحركة متماسكة، وتطبيق البيانات الوصفية المحددة، وتحسين المخرجات بناءً على إعدادات الجودة والضغط.
 

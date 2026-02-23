@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ShuffleDataset/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ShuffleDataset/zh-TW.md)
 
 Shuffle Dataset 節點接收一個圖像列表並隨機改變其順序。它使用種子值來控制隨機性，確保相同的洗牌順序能夠重現。這在處理前對資料集中的圖像序列進行隨機化時非常有用。
 

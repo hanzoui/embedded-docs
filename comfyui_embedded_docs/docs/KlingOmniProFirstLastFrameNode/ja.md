@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProFirstLastFrameNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProFirstLastFrameNode/ja.md)
 
 このノードはKling AIモデルを使用して動画を生成します。開始画像とテキストプロンプトが必要です。オプションで終了画像または最大6枚の参照画像を提供することで、動画の内容やスタイルをガイドすることができます。このノードはこれらの入力を処理し、指定された長さと解像度の動画を作成します。
 

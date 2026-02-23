@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RegexReplace/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RegexReplace/en.md)
 
 The RegexReplace node finds and replaces text in strings using regular expression patterns. It allows you to search for text patterns and replace them with new text, with options to control how the pattern matching works including case sensitivity, multiline matching, and limiting the number of replacements.
 

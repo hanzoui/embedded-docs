@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PrimitiveString/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PrimitiveString/ko.md)
 
 String 노드는 워크플로우에서 텍스트 데이터를 입력하고 전달하는 간단한 방법을 제공합니다. 텍스트 문자열을 입력으로 받아 동일한 문자열을 변경 없이 출력하므로, 문자열 매개변수가 필요한 다른 노드에 텍스트 입력을 제공하는 데 유용합니다.
 

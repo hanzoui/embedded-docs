@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LumaImageModifyNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LumaImageModifyNode/pt-BR.md)
 
 Modifica imagens de forma síncrona com base em um prompt e na proporção de aspecto. Este nó recebe uma imagem de entrada e a transforma de acordo com o prompt de texto fornecido, mantendo a proporção de aspecto original da imagem.
 

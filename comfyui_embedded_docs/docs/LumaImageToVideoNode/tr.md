@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LumaImageToVideoNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LumaImageToVideoNode/tr.md)
 
 İstem, giriş görüntüleri ve çıktı boyutuna dayalı olarak senkronize bir şekilde video oluşturur. Bu düğüm, video içeriğini ve yapısını tanımlamak için metin istemleri ve isteğe bağlı başlangıç/bitiş görüntüleri sağlayarak Luma API'sini kullanarak videolar oluşturur.
 

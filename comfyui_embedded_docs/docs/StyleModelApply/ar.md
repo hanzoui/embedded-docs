@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StyleModelApply/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StyleModelApply/ar.md)
 
 تطبق هذه العقدة نموذجًا للأسلوب على التكييف المحدد، محسنةً أو معدلةً لأسلوبه بناءً على مخرجات نموذج الرؤية CLIP. تقوم بدمج تكييف نموذج الأسلوب في التكييف الحالي، مما يسمح بدمج سلس للأساليب في عملية التوليد.
 

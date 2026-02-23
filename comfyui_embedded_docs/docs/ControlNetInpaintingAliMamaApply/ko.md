@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ControlNetInpaintingAliMamaApply/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ControlNetInpaintingAliMamaApply/ko.md)
 
 ControlNetInpaintingAliMamaApply 노드는 인페인팅 작업을 위해 ControlNet 조건을 적용하며, 긍정적 및 부정적 조건을 컨트롤 이미지와 마스크와 결합합니다. 이 노드는 입력 이미지와 마스크를 처리하여 수정된 조건을 생성하며, 생성 과정을 안내하여 이미지의 어떤 영역을 인페인팅할지 정밀하게 제어할 수 있게 합니다. 생성 과정의 다양한 단계에서 ControlNet의 영향을 미세 조정하기 위해 강도 조정 및 타이밍 제어를 지원합니다.
 

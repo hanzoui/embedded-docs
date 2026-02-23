@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LossGraphNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LossGraphNode/es.md)
 
 El LossGraphNode crea un gráfico visual de los valores de pérdida de entrenamiento a lo largo del tiempo y lo guarda como un archivo de imagen. Toma datos de pérdida de procesos de entrenamiento y genera un gráfico de líneas que muestra cómo cambia la pérdida a través de los pasos de entrenamiento. El gráfico resultante incluye etiquetas de ejes, valores mínimos/máximos de pérdida, y se guarda automáticamente en el directorio temporal de salida con una marca de tiempo.
 

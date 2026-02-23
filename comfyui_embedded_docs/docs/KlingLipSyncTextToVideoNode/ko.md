@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingLipSyncTextToVideoNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingLipSyncTextToVideoNode/ko.md)
 
 Kling Lip Sync Text to Video 노드는 비디오 파일에서 입 모양을 텍스트 프롬프트에 맞춰 동기화합니다. 입력 비디오를 받아 제공된 텍스트에 맞춰 캐릭터의 입 모양이 정렬된 새로운 비디오를 생성합니다. 이 노드는 음성 합성을 사용하여 자연스러운 음성 동기화를 구현합니다.
 

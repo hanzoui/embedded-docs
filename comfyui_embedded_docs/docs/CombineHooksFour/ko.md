@@ -1,6 +1,6 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CombineHooksFour/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CombineHooksFour/ko.md)
 
-Combine Hooks [4] 노드는 최대 네 개의 별도 훅 그룹을 단일 결합 훅 그룹으로 병합합니다. 사용 가능한 네 가지 훅 입력 중 임의의 조합을 가져와 ComfyUI의 훅 결합 시스템을 사용하여 결합합니다. 이를 통해 고급 워크플로에서 여러 훅 구성을 통합하여 효율적인 처리를 가능하게 합니다.
+Combine Hooks [4] 노드는 최대 네 개의 별도 훅 그룹을 단일 결합 훅 그룹으로 병합합니다. 사용 가능한 네 가지 훅 입력 중 임의의 조합을 가져와 Hanzo Studio의 훅 결합 시스템을 사용하여 결합합니다. 이를 통해 고급 워크플로에서 여러 훅 구성을 통합하여 효율적인 처리를 가능하게 합니다.
 
 ## 입력
 

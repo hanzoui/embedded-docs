@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BriaImageEditNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BriaImageEditNode/zh.md)
 
 Bria FIBO 图像编辑节点允许您通过文本指令修改现有图像。它会将图像和您的提示发送至 Bria API，该 API 使用 FIBO 模型根据您的要求生成新的编辑后图像版本。您也可以提供蒙版，以将编辑限制在特定区域。
 

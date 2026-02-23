@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageEditNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageEditNode/en.md)
 
 The ByteDance Image Edit node allows you to modify images using ByteDance's AI models through an API. You provide an input image and a text prompt describing the desired changes, and the node processes the image according to your instructions. The node handles the API communication automatically and returns the edited image.
 

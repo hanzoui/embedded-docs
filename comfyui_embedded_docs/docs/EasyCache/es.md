@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EasyCache/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EasyCache/es.md)
 
 El nodo EasyCache implementa un sistema de caché nativo para modelos con el fin de mejorar el rendimiento mediante la reutilización de pasos previamente calculados durante el proceso de muestreo. Añade funcionalidad EasyCache a un modelo con umbrales configurables para determinar cuándo comenzar y detener el uso de la caché durante la línea de tiempo de muestreo.
 

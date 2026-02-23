@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SetUnionControlNetType/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SetUnionControlNetType/ar.md)
 
 يسمح لك عقد SetUnionControlNetType بتحديد نوع شبكة التحكم المستخدمة للتكييف. يأخذ العقد شبكة تحكم موجودة ويضبط نوع التحكم الخاص بها بناءً على اختيارك، مما ينشئ نسخة معدلة من شبكة التحكم مع إعدادات النوع المحدد.
 

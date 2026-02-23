@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeHunyuanVideo_ImageToVideo/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeHunyuanVideo_ImageToVideo/ar.md)
 
 يقوم عُقدة TextEncodeHunyuanVideo_ImageToVideo بإنشاء بيانات تكييف لتوليد الفيديو من خلال دمج نصوص التوجيه مع تضمينات الصورة. يستخدم العُقدة نموذج CLIP لمعالجة كل من الإدخال النصي والمعلومات البصرية من ناتج رؤية CLIP، ثم يُنشئ رموزًا تمزج بين هذين المصدرين وفقًا للإعداد المحدد لتناوب الصورة.
 

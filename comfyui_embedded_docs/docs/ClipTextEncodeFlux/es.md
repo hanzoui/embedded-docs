@@ -1,4 +1,4 @@
-`CodificarTextoCLIPFlux` es un nodo avanzado de codificación de texto en ComfyUI, diseñado específicamente para la arquitectura Flux. Utiliza un mecanismo de doble codificador (CLIP-L y T5XXL) para procesar tanto palabras clave estructuradas como descripciones detalladas en lenguaje natural, proporcionando al modelo Flux una comprensión textual más precisa y completa para mejorar la calidad de la generación de imágenes a partir de texto.
+`CodificarTextoCLIPFlux` es un nodo avanzado de codificación de texto en Hanzo Studio, diseñado específicamente para la arquitectura Flux. Utiliza un mecanismo de doble codificador (CLIP-L y T5XXL) para procesar tanto palabras clave estructuradas como descripciones detalladas en lenguaje natural, proporcionando al modelo Flux una comprensión textual más precisa y completa para mejorar la calidad de la generación de imágenes a partir de texto.
 
 Este nodo se basa en la colaboración de dos codificadores:
 

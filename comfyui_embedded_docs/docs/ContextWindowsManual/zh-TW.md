@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ContextWindowsManual/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ContextWindowsManual/zh-TW.md)
 
 Context Windows (Manual) 節點允許您在取樣過程中手動配置模型的上下文窗口。它會建立具有指定長度、重疊和排程模式的上下文區段，以可管理的區塊處理資料，同時保持區段之間的連續性。
 

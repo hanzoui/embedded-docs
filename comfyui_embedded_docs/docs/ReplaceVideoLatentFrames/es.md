@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ReplaceVideoLatentFrames/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ReplaceVideoLatentFrames/es.md)
 
 El nodo ReplaceVideoLatentFrames inserta fotogramas de un vídeo latente fuente en un vídeo latente destino, comenzando en un índice de fotograma especificado. Si no se proporciona el latente fuente, se devuelve el latente destino sin cambios. El nodo maneja índices negativos y emitirá una advertencia si los fotogramas fuente no caben dentro del destino.
 

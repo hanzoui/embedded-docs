@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TopazVideoEnhance/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TopazVideoEnhance/pt-BR.md)
 
 O nó Topaz Video Enhance utiliza uma API externa para melhorar a qualidade de vídeo. Ele pode aumentar a resolução do vídeo (upscale), incrementar a taxa de quadros por meio de interpolação e aplicar compressão. O nó processa um vídeo de entrada no formato MP4 e retorna uma versão aprimorada com base nas configurações selecionadas.
 

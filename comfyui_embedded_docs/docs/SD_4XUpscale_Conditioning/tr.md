@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SD_4XUpscale_Conditioning/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SD_4XUpscale_Conditioning/tr.md)
 
 SD_4XUpscale_Conditioning düğümü, difüzyon modellerini kullanarak görüntüleri yukarı ölçeklendirmek için koşullandırma verilerini hazırlar. Girdi görüntülerini ve koşullandırma verilerini alır, ardından yukarı ölçeklendirme sürecine rehberlik edecek şekilde değiştirilmiş koşullandırma oluşturmak için ölçeklendirme ve gürültü artırma uygular. Düğüm, hem pozitif hem de negatif koşullandırmanın yanı sıra yukarı ölçeklenmiş boyutlar için gizli temsilleri çıktı olarak verir.
 

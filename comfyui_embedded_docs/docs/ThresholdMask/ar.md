@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ThresholdMask/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ThresholdMask/ar.md)
 
 يقوم عُقدة ThresholdMask بتحويل القناع إلى قناع ثنائي من خلال تطبيق قيمة عتبة محددة. تقوم بمقارنة كل بكسل في القناع المدخل مع قيمة العتبة المحددة وإنشاء قناع جديد حيث تصبح البكسلات التي تزيد قيمتها عن العتبة 1 (أبيض) وتصبح البكسلات التي تقل أو تساوي قيمة العتبة 0 (أسود).
 

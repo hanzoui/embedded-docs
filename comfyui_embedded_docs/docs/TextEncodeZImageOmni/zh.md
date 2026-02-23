@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeZImageOmni/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeZImageOmni/zh.md)
 
 TextEncodeZImageOmni 节点是一个高级条件编码节点，可将文本提示词与可选参考图像一同编码为适用于图像生成模型的条件格式。它最多可处理三张图像，可选择使用视觉编码器和/或 VAE 对图像进行编码以生成参考潜变量，并通过特定的模板结构将这些视觉参考与文本提示词进行整合。
 

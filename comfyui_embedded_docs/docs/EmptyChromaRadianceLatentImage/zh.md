@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyChromaRadianceLatentImage/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyChromaRadianceLatentImage/zh.md)
 
 EmptyChromaRadianceLatentImage 节点创建一个具有指定尺寸的空白潜空间图像，用于色度辐射工作流程。它生成一个填充零值的张量，作为潜空间操作的起点。该节点允许您定义空白潜空间图像的宽度、高度和批次大小。
 

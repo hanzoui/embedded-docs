@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PreviewAny/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PreviewAny/ko.md)
 
 PreviewAny 노드는 모든 입력 데이터 유형을 텍스트 형식으로 미리 보여주는 노드입니다. 모든 데이터 유형을 입력으로 받아들이고, 이를 읽을 수 있는 문자열 표현으로 변환하여 표시합니다. 이 노드는 문자열, 숫자, 불리언 및 복잡한 객체를 포함한 다양한 데이터 유형을 JSON 형식으로 직렬화하려고 시도하여 자동으로 처리합니다.
 

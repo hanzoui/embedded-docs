@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveTracksFromCoords/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveTracksFromCoords/zh.md)
 
 WanMoveTracksFromCoords 节点根据一系列坐标点创建一组运动轨迹。它将 JSON 格式的坐标字符串转换为可供其他视频处理节点使用的张量格式，并可选择性地应用遮罩来控制轨迹随时间的可见性。
 

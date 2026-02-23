@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceFirstLastFrameNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceFirstLastFrameNode/zh.md)
 
 该节点通过文本提示词结合首尾帧图像生成视频。它根据您的描述和两个关键帧创建完整的视频序列，实现帧与帧之间的过渡。该节点提供多种选项来控制视频的分辨率、宽高比、时长及其他生成参数。
 

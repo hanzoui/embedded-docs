@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Rodin3D_Smooth/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Rodin3D_Smooth/en.md)
 
 The Rodin 3D Smooth node generates 3D assets using the Rodin API by processing input images and converting them into smooth 3D models. It takes multiple images as input and produces a downloadable 3D model file. The node handles the entire generation process including task creation, status polling, and file downloading automatically.
 

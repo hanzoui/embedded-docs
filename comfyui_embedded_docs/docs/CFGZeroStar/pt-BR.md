@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CFGZeroStar/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CFGZeroStar/pt-BR.md)
 
 O nó CFGZeroStar aplica uma técnica especializada de dimensionamento de orientação a modelos de difusão. Ele modifica o processo de orientação livre de classificador calculando um fator de escala otimizado com base na diferença entre as previsões condicionais e incondicionais. Esta abordagem ajusta a saída final para fornecer um controle aprimorado sobre o processo de geração, mantendo a estabilidade do modelo.
 

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LumaImageToVideoNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LumaImageToVideoNode/fr.md)
 
 Génère des vidéos de manière synchrone en fonction de l'invite, des images d'entrée et de la taille de sortie. Ce nœud crée des vidéos en utilisant l'API Luma en fournissant des invites textuelles et des images de début/fin optionnelles pour définir le contenu et la structure de la vidéo.
 

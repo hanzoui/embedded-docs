@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/NormalizeImages/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/NormalizeImages/en.md)
 
 This node adjusts the pixel values of an input image using a mathematical normalization process. It subtracts a specified mean value from each pixel and then divides the result by a specified standard deviation. This is a common preprocessing step to prepare image data for other machine learning models.
 

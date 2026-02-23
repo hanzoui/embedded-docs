@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPAdd/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPAdd/ja.md)
 
 CLIPAddノードは、2つのCLIPモデルのキーパッチを統合することで結合します。最初のCLIPモデルのコピーを作成し、2番目のモデルのキーパッチの大部分を追加します（位置IDとロジットスケールパラメータは除く）。これにより、最初のモデルの構造を保持しながら、異なるCLIPモデルの特徴をブレンドすることができます。
 

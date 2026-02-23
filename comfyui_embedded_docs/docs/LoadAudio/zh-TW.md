@@ -1,6 +1,6 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadAudio/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadAudio/zh-TW.md)
 
-LoadAudio 節點會從輸入目錄載入音訊檔案，並將其轉換為可供 ComfyUI 中其他音訊節點處理的格式。它會讀取音訊檔案並提取波形資料和取樣率，使其可用於後續的音訊處理任務。
+LoadAudio 節點會從輸入目錄載入音訊檔案，並將其轉換為可供 Hanzo Studio 中其他音訊節點處理的格式。它會讀取音訊檔案並提取波形資料和取樣率，使其可用於後續的音訊處理任務。
 
 ## 輸入參數
 
@@ -8,7 +8,7 @@ LoadAudio 節點會從輸入目錄載入音訊檔案，並將其轉換為可供 
 |-----------|-----------|----------|-------|-------------|
 | `音訊` | AUDIO | 是 | 輸入目錄中所有支援的音訊/視訊檔案 | 要從輸入目錄載入的音訊檔案 |
 
-**注意：** 此節點僅接受位於 ComfyUI 輸入目錄中的音訊和視訊檔案。檔案必須存在且可存取才能成功載入。
+**注意：** 此節點僅接受位於 Hanzo Studio 輸入目錄中的音訊和視訊檔案。檔案必須存在且可存取才能成功載入。
 
 ## 輸出結果
 

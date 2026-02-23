@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/wanBlockSwap/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/wanBlockSwap/ko.md)
 
 이 노드는 더 이상 사용되지 않으며 기능을 수행하지 않습니다. 모델을 입력으로 받아 동일한 모델을 변경 없이 반환합니다. 설명에 있는 "NOP"는 아무런 연산도 수행하지 않음을 나타냅니다.
 

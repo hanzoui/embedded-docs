@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioEncoderEncode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioEncoderEncode/ja.md)
 
 AudioEncoderEncodeノードは、オーディオエンコーダーモデルを使用してオーディオデータをエンコードし処理します。このノードはオーディオ入力を取得し、コンディショニングパイプラインでのさらなる処理に使用できるエンコードされた表現に変換します。このノードは生のオーディオ波形を、オーディオベースの機械学習アプリケーションに適した形式に変換します。
 

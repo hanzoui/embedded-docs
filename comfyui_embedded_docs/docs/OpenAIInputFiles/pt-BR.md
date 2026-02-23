@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIInputFiles/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIInputFiles/pt-BR.md)
 
 Carrega e formata arquivos de entrada para a API da OpenAI. Este nó prepara arquivos de texto e PDF para serem incluídos como entradas de contexto para o Nó de Chat da OpenAI. Os arquivos serão lidos pelo modelo da OpenAI ao gerar respostas. Vários nós de arquivos de entrada podem ser encadeados para incluir múltiplos arquivos em uma única mensagem.
 

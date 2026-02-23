@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageYUVToRGB/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageYUVToRGB/en.md)
 
 The ImageYUVToRGB node converts YUV color space images to RGB color space. It takes three separate input images representing the Y (luma), U (blue projection), and V (red projection) channels and combines them into a single RGB image using color space conversion.
 

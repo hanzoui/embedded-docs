@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RegexReplace/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RegexReplace/pt-BR.md)
 
 O nó RegexReplace localiza e substitui texto em strings usando padrões de expressões regulares. Ele permite que você busque por padrões de texto e os substitua por novos textos, com opções para controlar como a correspondência de padrões funciona, incluindo sensibilidade a maiúsculas/minúsculas, correspondência em múltiplas linhas e limitar o número de substituições.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageInvert/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageInvert/ar.md)
 
 عُقدة `ImageInvert` مصممة لعكس ألوان الصورة، حيث تقوم بتحويل قيمة لون كل بكسل إلى لونه المكمل في دائرة الألوان بشكل فعّال. تُعد هذه العملية مفيدة لإنشاء صور سلبية أو للتأثيرات البصرية التي تتطلب انعكاس الألوان.
 

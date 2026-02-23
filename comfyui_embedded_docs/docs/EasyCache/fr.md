@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EasyCache/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EasyCache/fr.md)
 
 Le nœud EasyCache implémente un système de cache natif pour les modèles afin d'améliorer les performances en réutilisant les étapes précédemment calculées pendant le processus d'échantillonnage. Il ajoute la fonctionnalité EasyCache à un modèle avec des seuils configurables pour déterminer quand commencer et arrêter d'utiliser le cache pendant la chronologie d'échantillonnage.
 

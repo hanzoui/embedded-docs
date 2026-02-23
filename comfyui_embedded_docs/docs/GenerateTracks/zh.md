@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GenerateTracks/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GenerateTracks/zh.md)
 
 `GenerateTracks` 节点为视频生成创建多条平行的运动轨迹。它定义了一条从起点到终点的主路径，然后生成一组与此路径平行、均匀间隔的轨迹。您可以控制路径的形状（直线或贝塞尔曲线）、沿路径移动的速度以及轨迹在哪些帧中可见。
 

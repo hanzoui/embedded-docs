@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KarrasScheduler/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KarrasScheduler/ar.md)
 
 تم تصميم عقدة KarrasScheduler لتوليد تسلسل لمستويات الضوضاء (sigmas) بناءً على جدولة الضوضاء من Karras وآخرون (2022). تُعد هذه المجدولة مفيدة للتحكم في عملية الانتشار (diffusion) في النماذج التوليدية، مما يسمح بإجراء تعديلات دقيقة لمستويات الضوضاء المُطبقة في كل خطوة من عملية التوليد.
 

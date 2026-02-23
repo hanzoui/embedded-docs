@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioMerge/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioMerge/pt-BR.md)
 
 O nó AudioMerge combina duas faixas de áudio sobrepondo suas formas de onda. Ele automaticamente iguala as taxas de amostragem de ambas as entradas de áudio e ajusta seus comprimentos para que sejam iguais antes da mesclagem. O nó oferece vários métodos matemáticos para combinar os sinais de áudio e garante que a saída permaneça dentro de níveis de volume aceitáveis.
 

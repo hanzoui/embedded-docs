@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoImageToModelNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoImageToModelNode/tr.md)
 
 Tek bir görüntüye dayalı olarak Tripo'nun API'sini kullanarak 3B modelleri eşzamanlı olarak oluşturur. Bu düğüm, bir girdi görüntüsü alır ve onu doku, kalite ve model özellikleri için çeşitli özelleştirme seçenekleriyle bir 3B modele dönüştürür.
 

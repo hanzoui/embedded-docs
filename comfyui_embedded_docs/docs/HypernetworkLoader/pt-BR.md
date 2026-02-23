@@ -1,6 +1,6 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HypernetworkLoader/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HypernetworkLoader/pt-BR.md)
 
-Este nó detectará modelos localizados na pasta `ComfyUI/models/hypernetworks`, e também lerá modelos de caminhos adicionais configurados no arquivo extra_model_paths.yaml. Às vezes, pode ser necessário **atualizar a interface do ComfyUI** para permitir que ela leia os arquivos de modelo da pasta correspondente.
+Este nó detectará modelos localizados na pasta `Hanzo Studio/models/hypernetworks`, e também lerá modelos de caminhos adicionais configurados no arquivo extra_model_paths.yaml. Às vezes, pode ser necessário **atualizar a interface do Hanzo Studio** para permitir que ela leia os arquivos de modelo da pasta correspondente.
 
 O nó HypernetworkLoader é projetado para aprimorar ou modificar as capacidades de um determinado modelo aplicando uma hiper-rede. Ele carrega uma hiper-rede especificada e a aplica ao modelo, potencialmente alterando seu comportamento ou desempenho com base no parâmetro de força. Este processo permite ajustes dinâmicos na arquitetura ou nos parâmetros do modelo, possibilitando sistemas de IA mais flexíveis e adaptativos.
 

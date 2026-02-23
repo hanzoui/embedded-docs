@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Pikadditions/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Pikadditions/ja.md)
 
 Pikadditionsノードを使用すると、動画に任意のオブジェクトや画像を追加できます。動画をアップロードし、追加したい要素を指定することで、シームレスに統合された結果を作成します。このノードはPika APIを使用して、自然な統合で画像を動画に挿入します。
 

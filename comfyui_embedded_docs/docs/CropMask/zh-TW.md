@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CropMask/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CropMask/zh-TW.md)
 
 CropMask 節點專為從指定遮罩中裁剪特定區域而設計。它允許使用者透過指定座標和尺寸來定義感興趣區域，有效提取遮罩的一部分以進行進一步處理或分析。
 

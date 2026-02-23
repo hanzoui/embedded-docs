@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableZero123_Conditioning/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableZero123_Conditioning/ja.md)
 
 StableZero123_Conditioningノードは、入力画像とカメラ角度を処理し、3Dモデル生成のためのコンディショニングデータと潜在表現を生成します。CLIP Visionモデルを使用して画像の特徴をエンコードし、仰角と方位角に基づくカメラ埋め込み情報と組み合わせることで、下流の3D生成タスク向けにポジティブおよびネガティブなコンディショニングと潜在表現を生成します。
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningStableAudio/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningStableAudio/en.md)
 
 The ConditioningStableAudio node adds timing information to both positive and negative conditioning inputs for audio generation. It sets the start time and total duration parameters that help control when and how long audio content should be generated. This node modifies existing conditioning data by appending audio-specific timing metadata.
 

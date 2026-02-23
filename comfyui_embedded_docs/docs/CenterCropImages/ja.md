@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CenterCropImages/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CenterCropImages/ja.md)
 
 Center Crop Images ノードは、画像の中心から指定された幅と高さにクロップします。入力画像の中央領域を計算し、定義された寸法の矩形領域を抽出します。要求されたクロップサイズが画像よりも大きい場合、クロップは画像の境界内に制限されます。
 

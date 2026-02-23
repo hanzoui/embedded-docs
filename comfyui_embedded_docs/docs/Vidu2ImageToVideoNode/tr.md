@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu2ImageToVideoNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu2ImageToVideoNode/tr.md)
 
 Vidu2 Görüntüden-Videoya Üretim düğümü, tek bir giriş görüntüsünden başlayarak bir video dizisi oluşturur. İsteğe bağlı bir metin istemi temelinde sahneyi canlandırmak için belirtilen bir Vidu2 modelini kullanır ve videonun uzunluğunu, çözünürlüğünü ve hareket yoğunluğunu kontrol eder.
 

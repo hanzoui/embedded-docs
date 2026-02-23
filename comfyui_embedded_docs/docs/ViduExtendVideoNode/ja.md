@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduExtendVideoNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduExtendVideoNode/ja.md)
 
 ViduExtendVideoNodeは、既存の動画の長さを延長するための追加フレームを生成します。指定されたAIモデルを使用して、ソース動画とオプションのテキストプロンプトに基づき、シームレスな続きの動画を作成します。
 

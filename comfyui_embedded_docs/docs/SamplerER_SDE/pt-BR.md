@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerER_SDE/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerER_SDE/pt-BR.md)
 
 O nó SamplerER_SDE fornece métodos de amostragem especializados para modelos de difusão, oferecendo diferentes tipos de solucionadores, incluindo abordagens ER-SDE, SDE de tempo reverso e ODE. Ele permite o controle sobre o comportamento estocástico e os estágios computacionais do processo de amostragem. O nó ajusta automaticamente os parâmetros com base no tipo de solucionador selecionado para garantir o funcionamento adequado.
 

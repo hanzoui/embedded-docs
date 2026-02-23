@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingContinuousEDM/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingContinuousEDM/tr.md)
 
 Bu düğüm, sürekli EDM (Enerji Tabanlı Yayılım Modelleri) örnekleme tekniklerini entegre ederek bir modelin örnekleme yeteneklerini geliştirmek üzere tasarlanmıştır. Modelin örnekleme sürecindeki gürültü seviyelerinin dinamik olarak ayarlanmasına olanak tanıyarak, üretim kalitesi ve çeşitliliği üzerinde daha hassas bir kontrol sunar.
 

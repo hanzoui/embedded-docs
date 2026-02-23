@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityAudioInpaint/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityAudioInpaint/ar.md)
 
 يقوم بتحويل جزء من عينة صوتية موجودة باستخدام تعليمات نصية. تتيح لك هذه العقدة تعديل أقسام محددة من الصوت من خلال تقديم أوصاف نصية، مما يؤدي بشكل فعال إلى "إعادة رسم" أو إعادة توليد الأجزاء المحددة مع الحفاظ على بقية الصوت.
 

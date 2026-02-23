@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/InpaintModelConditioning/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/InpaintModelConditioning/pt-BR.md)
 
 O nó InpaintModelConditioning é projetado para facilitar o processo de condicionamento para modelos de inpainting, permitindo a integração e manipulação de várias entradas de condicionamento para personalizar a saída do inpainting. Ele abrange uma ampla gama de funcionalidades, desde carregar checkpoints de modelos específicos e aplicar modelos de estilo ou control net, até codificar e combinar elementos de condicionamento, servindo assim como uma ferramenta abrangente para personalizar tarefas de inpainting.
 

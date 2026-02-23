@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageRGBToYUV/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageRGBToYUV/fr.md)
 
 Le nœud ImageRGBToYUV convertit les images couleur RVB vers l'espace colorimétrique YUV. Il prend une image RVB en entrée et la sépare en trois canaux distincts : Y (luminance), U (projection bleue) et V (projection rouge). Chaque canal de sortie est retourné sous forme d'image en niveaux de gris distincte représentant la composante YUV correspondante.
 

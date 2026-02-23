@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ControlNetApplySD3/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ControlNetApplySD3/ko.md)
 
 이 노드는 Stable Diffusion 3 조건화에 ControlNet 지도를 적용합니다. 긍정적 및 부정적 조건화 입력과 함께 ControlNet 모델 및 이미지를 받은 다음, 조정 가능한 강도 및 타이밍 매개변수를 사용하여 생성 과정에 영향을 미치는 제어 지도를 적용합니다.
 

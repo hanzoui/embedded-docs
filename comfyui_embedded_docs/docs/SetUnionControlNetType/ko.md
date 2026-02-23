@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SetUnionControlNetType/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SetUnionControlNetType/ko.md)
 
 SetUnionControlNetType 노드를 사용하면 조건화에 사용할 제어 네트워크 유형을 지정할 수 있습니다. 기존 제어 네트워크를 입력받아 선택에 따라 제어 유형을 설정하며, 지정된 유형 구성으로 수정된 제어 네트워크의 사본을 생성합니다.
 

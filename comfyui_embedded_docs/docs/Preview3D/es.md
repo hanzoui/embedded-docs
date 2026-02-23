@@ -1,22 +1,22 @@
-El nodo Preview3D se utiliza principalmente para previsualizar la salida de modelos 3D. Este nodo recibe dos entradas: una es la `camera_info` del nodo Load3D y la otra es la ruta al archivo del modelo 3D. La ruta del archivo del modelo debe estar ubicada en la carpeta `ComfyUI/output`.
+El nodo Preview3D se utiliza principalmente para previsualizar la salida de modelos 3D. Este nodo recibe dos entradas: una es la `camera_info` del nodo Load3D y la otra es la ruta al archivo del modelo 3D. La ruta del archivo del modelo debe estar ubicada en la carpeta `Hanzo Studio/output`.
 
 **Formatos soportados**
 Actualmente, este nodo soporta varios formatos de archivos 3D, incluyendo `.gltf`, `.glb`, `.obj`, `.fbx` y `.stl`.
 
 **Preferencias del nodo 3D**
-Algunas preferencias relacionadas con los nodos 3D se pueden configurar en el menú de configuración de ComfyUI. Consulta el siguiente documento para ver los ajustes correspondientes:
-[Menú de configuración](https://docs.comfy.org/interface/settings/3d)
+Algunas preferencias relacionadas con los nodos 3D se pueden configurar en el menú de configuración de Hanzo Studio. Consulta el siguiente documento para ver los ajustes correspondientes:
+[Menú de configuración](https://docs.hanzo.ai/interface/settings/3d)
 
 ## Entradas
 
 | Nombre del parámetro | Tipo           | Descripción                                  |
 | -------------------- | -------------- | -------------------------------------------- |
 | camera_info          | LOAD3D_CAMERA  | Información de la cámara                     |
-| model_file           | LOAD3D_CAMERA  | Ruta del archivo del modelo en `ComfyUI/output/` |
+| model_file           | LOAD3D_CAMERA  | Ruta del archivo del modelo en `Hanzo Studio/output/` |
 
 ## Descripción del área de lienzo (Canvas)
 
-Actualmente, los nodos relacionados con 3D en el frontend de ComfyUI comparten el mismo componente de canvas, por lo que sus operaciones básicas son en su mayoría consistentes, salvo algunas diferencias funcionales.
+Actualmente, los nodos relacionados con 3D en el frontend de Hanzo Studio comparten el mismo componente de canvas, por lo que sus operaciones básicas son en su mayoría consistentes, salvo algunas diferencias funcionales.
 
 > El siguiente contenido e interfaz están basados principalmente en el nodo Load3D. Consulta la interfaz real del nodo para características específicas.
 
@@ -36,7 +36,7 @@ El área Canvas incluye varias operaciones de vista, como:
 ### 1. Operaciones de vista
 
 <video controls width="640" height="360">
-  <source src="https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de video.
 </video>
 
@@ -49,7 +49,7 @@ Operaciones de control de vista:
 
 ### 2. Funciones del menú izquierdo
 
-![Menu](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu.webp)
+![Menu](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu.webp)
 
 En el área de previsualización, algunos menús relacionados con operaciones de vista están ocultos en el menú. Haz clic en el botón de menú para expandir los diferentes menús.
 
@@ -61,7 +61,7 @@ En el área de previsualización, algunos menús relacionados con operaciones de
 
 #### Escena (Scene)
 
-![scene menu](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_scene.webp)
+![scene menu](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_scene.webp)
 
 El menú Escena proporciona algunas funciones básicas de configuración de la escena:
 
@@ -72,7 +72,7 @@ El menú Escena proporciona algunas funciones básicas de configuración de la e
 
 #### Modelo (Model)
 
-![Menu_Scene](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_model.webp)
+![Menu_Scene](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_model.webp)
 
 El menú Modelo proporciona algunas funciones relacionadas con el modelo:
 
@@ -81,7 +81,7 @@ El menú Modelo proporciona algunas funciones relacionadas con el modelo:
 
 #### Cámara (Camera)
 
-![menu_modelmenu_camera](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_camera.webp)
+![menu_modelmenu_camera](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_camera.webp)
 
 Este menú permite cambiar entre vistas ortográfica y perspectiva, y ajustar el ángulo de perspectiva:
 
@@ -90,12 +90,12 @@ Este menú permite cambiar entre vistas ortográfica y perspectiva, y ajustar el
 
 #### Luz (Light)
 
-![menu_modelmenu_camera](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_light.webp)
+![menu_modelmenu_camera](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_light.webp)
 
 A través de este menú puedes ajustar rápidamente la intensidad de la iluminación global de la escena
 
 #### Exportar (Export)
 
-![menu_export](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_export.webp)
+![menu_export](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_export.webp)
 
 Este menú permite convertir y exportar rápidamente formatos de modelo

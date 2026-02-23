@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageToMask/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageToMask/ar.md)
 
 يتم تصميم عُقدة ImageToMask لتحويل الصورة إلى قناع بناءً على قناة لون محددة. تتيح استخراج طبقات الأقنعة المقابلة لقنوات الأحمر، الأخضر، الأزرق، أو ألفا في الصورة، مما يسهل العمليات التي تتطلب إخفاء أو معالجة محددة للقنوات.
 

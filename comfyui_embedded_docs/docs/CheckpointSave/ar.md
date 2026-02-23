@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CheckpointSave/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CheckpointSave/ar.md)
 
 ```markdown
 عُقدة `Save Checkpoint` مصممة لحفظ نموذج Stable Diffusion الكامل (بما في ذلك مكونات UNet وCLIP وVAE) كملف نقطة فحص بصيغة **.safetensors**.
@@ -25,10 +25,10 @@
 
 ## التوافق مع البنى
 
-- مدعوم بالكامل حاليًا: SDXL، SD3، SVD وغيرها من البنى الرئيسية، راجع [الكود المصدري](https://github.com/comfyanonymous/ComfyUI/blob/master/comfy_extras/nodes_model_merging.py#L176-L189)
+- مدعوم بالكامل حاليًا: SDXL، SD3، SVD وغيرها من البنى الرئيسية، راجع [الكود المصدري](https://github.com/hanzoai/studio/blob/master/comfy_extras/nodes_model_merging.py#L176-L189)
 - الدعم الأساسي: يمكن حفظ البنى الأخرى ولكن بدون معلومات بيانات وصفية قياسية
 
 ## الروابط ذات الصلة
 
-الكود المصدري ذو الصلة: [nodes_model_merging.py#L227](https://github.com/comfyanonymous/ComfyUI/blob/master/comfy_extras/nodes_model_merging.py#L227)
+الكود المصدري ذو الصلة: [nodes_model_merging.py#L227](https://github.com/hanzoai/studio/blob/master/comfy_extras/nodes_model_merging.py#L227)
 ```

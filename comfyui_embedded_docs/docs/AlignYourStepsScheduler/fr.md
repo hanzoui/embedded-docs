@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AlignYourStepsScheduler/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AlignYourStepsScheduler/fr.md)
 
 Le nœud AlignYourStepsScheduler génère des valeurs sigma pour le processus de débruitage en fonction des différents types de modèles. Il calcule les niveaux de bruit appropriés pour chaque étape du processus d'échantillonnage et ajuste le nombre total d'étapes en fonction du paramètre de débruitage. Cela permet d'aligner les étapes d'échantillonnage sur les exigences spécifiques des différents modèles de diffusion.
 

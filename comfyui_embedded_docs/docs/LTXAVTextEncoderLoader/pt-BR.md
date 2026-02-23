@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXAVTextEncoderLoader/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXAVTextEncoderLoader/pt-BR.md)
 
 Este nó carrega um codificador de texto especializado para o modelo de áudio LTXV. Ele combina um arquivo específico de codificador de texto com um arquivo de checkpoint para criar um modelo CLIP que pode ser usado para tarefas de condicionamento de texto relacionadas a áudio.
 

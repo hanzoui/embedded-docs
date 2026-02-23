@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProImageNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProImageNode/zh.md)
 
 Kling Omni 图像（专业版）节点使用 Kling AI 模型生成或编辑图像。它基于文本描述创建图像，并允许您提供参考图像来引导风格或内容。该节点会向外部 API 发送请求，由 API 处理任务并返回最终图像。
 

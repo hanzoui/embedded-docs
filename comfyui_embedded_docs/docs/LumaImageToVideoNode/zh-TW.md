@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LumaImageToVideoNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LumaImageToVideoNode/zh-TW.md)
 
 基於提示詞、輸入圖像和輸出尺寸同步生成影片。此節點透過使用 Luma API，提供文字提示詞和可選的起始/結束圖像來定義影片內容和結構，從而創建影片。
 

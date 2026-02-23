@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceDiTSimple/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceDiTSimple/zh.md)
 
 SkipLayerGuidanceDiT 节点的简化版本，仅在去噪过程中修改无条件传递。该节点通过根据指定的时序和层参数，在无条件传递期间选择性跳过特定层，从而对 DiT（扩散变换器）模型中的特定变换器层应用跳跃层引导。
 

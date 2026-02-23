@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MaskToImage/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MaskToImage/zh-TW.md)
 
 `MaskToImage` 節點旨在將遮罩轉換為影像格式。此轉換允許將遮罩作為影像進行視覺化和進一步處理，在基於遮罩的操作與基於影像的應用之間建立橋樑。
 

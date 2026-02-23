@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeSDXL/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeSDXL/pt-BR.md)
 
 Este nó foi projetado para codificar entrada de texto usando um modelo CLIP especificamente personalizado para a arquitetura SDXL. Ele utiliza um sistema de codificador duplo (CLIP-L e CLIP-G) para processar descrições de texto, resultando em uma geração de imagem mais precisa.
 

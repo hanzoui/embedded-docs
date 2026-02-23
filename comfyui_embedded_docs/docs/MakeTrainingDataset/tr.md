@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MakeTrainingDataset/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MakeTrainingDataset/tr.md)
 
 Bu düğüm, görüntüleri ve metni kodlayarak eğitim için veri hazırlar. Bir görüntü listesi ve karşılık gelen bir metin açıklaması listesi alır, ardından görüntüleri gizli temsillere dönüştürmek için bir VAE modeli ve metni koşullandırma verisine dönüştürmek için bir CLIP modeli kullanır. Ortaya çıkan eşleştirilmiş gizli temsiller ve koşullandırma verileri, eğitim iş akışlarında kullanılmaya hazır listeler olarak çıktılanır.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu2ReferenceVideoNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu2ReferenceVideoNode/zh-TW.md)
 
 Vidu2 參考圖轉影片生成節點能根據文字提示詞和多張參考圖像創建影片。您可以定義最多七個主體，每個主體可擁有一組參考圖像，並在提示詞中使用 `@subject{subject_id}` 來引用它們。此節點可生成具有可配置時長、長寬比和動態效果的影片。
 

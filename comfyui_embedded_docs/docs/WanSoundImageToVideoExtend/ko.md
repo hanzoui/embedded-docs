@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanSoundImageToVideoExtend/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanSoundImageToVideoExtend/ko.md)
 
 WanSoundImageToVideoExtend 노드는 오디오 조건화와 참조 이미지를 통합하여 이미지-비디오 생성을 확장합니다. 긍정적 및 부정적 조건화와 함께 비디오 잠재 데이터 및 선택적 오디오 임베딩을 입력받아 확장된 비디오 시퀀스를 생성합니다. 이 노드는 이러한 입력들을 처리하여 오디오 큐와 동기화될 수 있는 일관된 비디오 출력을 생성합니다.
 

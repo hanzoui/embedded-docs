@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageTextSetFromFolderNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageTextSetFromFolderNode/fr.md)
 
 Charge un lot d'images et leurs légendes textuelles correspondantes à partir d'un répertoire spécifié à des fins d'entraînement. Le nœud recherche automatiquement les fichiers image et leurs fichiers texte de légende associés, traite les images selon les paramètres de redimensionnement spécifiés et encode les légendes en utilisant le modèle CLIP fourni.
 

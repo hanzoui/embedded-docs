@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentCut/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentCut/ko.md)
 
 LatentCut 노드는 잠재 샘플에서 선택한 차원을 따라 특정 구간을 추출합니다. 이 노드를 사용하면 차원(x, y 또는 t), 시작 위치, 추출할 양을 지정하여 잠재 표현의 일부를 잘라낼 수 있습니다. 양수 및 음수 인덱싱을 모두 처리하며, 사용 가능한 범위 내에서 추출량을 자동으로 조정합니다.
 

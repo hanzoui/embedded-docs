@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingLipSyncAudioToVideoNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingLipSyncAudioToVideoNode/en.md)
 
 Kling Lip Sync Audio to Video Node synchronizes mouth movements in a video file to match the audio content of an audio file. This node analyzes the vocal patterns in the audio and adjusts the facial movements in the video to create realistic lip-syncing. The process requires both a video containing a distinct face and an audio file with clearly distinguishable vocals.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageQuantize/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageQuantize/pt-BR.md)
 
 O nó ImageQuantize é projetado para reduzir o número de cores em uma imagem para uma quantidade especificada, aplicando opcionalmente técnicas de *dithering* para manter a qualidade visual. Este processo é útil para criar imagens baseadas em paleta ou reduzir a complexidade de cores para certas aplicações.
 

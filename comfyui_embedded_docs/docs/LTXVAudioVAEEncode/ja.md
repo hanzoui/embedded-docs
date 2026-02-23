@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVAudioVAEEncode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVAudioVAEEncode/ja.md)
 
 LTXV Audio VAE Encodeノードは、オーディオ入力を取得し、指定されたAudio VAEモデルを使用して、より小さな潜在表現に圧縮します。この処理は、潜在空間ワークフロー内でオーディオを生成または操作するために不可欠です。生のオーディオデータを、パイプライン内の他のノードが理解・処理できる形式に変換します。
 

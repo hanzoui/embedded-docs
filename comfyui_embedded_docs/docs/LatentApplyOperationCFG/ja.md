@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentApplyOperationCFG/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentApplyOperationCFG/ja.md)
 
 LatentApplyOperationCFGノードは、モデルの条件付けガイダンスプロセスを変更する潜在操作を適用します。このノードは、Classifier-Free Guidance（CFG）サンプリングプロセス中に条件付け出力をインターセプトし、生成に使用される前に潜在表現に対して指定された操作を適用することで機能します。
 

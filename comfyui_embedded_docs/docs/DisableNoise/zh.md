@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DisableNoise/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DisableNoise/zh.md)
 
 DisableNoise 节点提供了一个空的噪声配置，可用于在采样过程中禁用噪声生成。它返回一个不包含任何噪声数据的特殊噪声对象，当其他节点连接到此输出时，可以跳过与噪声相关的操作。
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OptimalStepsScheduler/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OptimalStepsScheduler/tr.md)
 
 OptimalStepsScheduler düğümü, seçilen model türüne ve adım yapılandırmasına dayanarak yayılım modelleri için gürültü programı sigma değerlerini hesaplar. Toplam adım sayısını gürültü giderme parametresine göre ayarlar ve istenen adım sayısına uyacak şekilde gürültü seviyelerini enterpole eder. Düğüm, yayılım örnekleme sürecinde kullanılan gürültü seviyelerini belirleyen bir sigma değerleri dizisi döndürür.
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeKandinsky5/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeKandinsky5/ja.md)
 
 CLIPTextEncodeKandinsky5ノードは、Kandinsky 5モデルで使用するためのテキストプロンプトを準備します。2つの別々のテキスト入力を取り、提供されたCLIPモデルを使用してそれらをトークン化し、単一のコンディショニング出力に結合します。この出力は、画像生成プロセスを導くために使用されます。
 

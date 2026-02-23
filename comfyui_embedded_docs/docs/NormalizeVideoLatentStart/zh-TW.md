@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/NormalizeVideoLatentStart/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/NormalizeVideoLatentStart/zh-TW.md)
 
 此節點調整影片潛在表示的前幾幀，使其看起來更像後續的幀。它會計算影片後段一組參考幀的平均值和變異，並將這些相同的特徵應用到起始幀上。這有助於在影片開頭創造更平滑、更一致的視覺過渡。
 

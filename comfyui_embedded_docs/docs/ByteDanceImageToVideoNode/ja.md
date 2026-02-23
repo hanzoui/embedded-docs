@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageToVideoNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageToVideoNode/ja.md)
 
 ByteDance Image to Videoノードは、入力画像とテキストプロンプトに基づいて、APIを通じてByteDanceモデルを使用して動画を生成します。開始画像フレームを受け取り、提供された説明に沿った動画シーケンスを作成します。このノードは、動画の解像度、アスペクト比、長さ、その他の生成パラメータに関する様々なカスタマイズオプションを提供します。
 

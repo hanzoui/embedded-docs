@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RenormCFG/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RenormCFG/zh-TW.md)
 
 RenormCFG 節點透過應用條件縮放與正規化，來修改擴散模型中的分類器自由引導（CFG）過程。它根據指定的時間步閾值和重新正規化因子來調整去噪過程，以控制在圖像生成過程中條件預測與無條件預測的影響力。
 

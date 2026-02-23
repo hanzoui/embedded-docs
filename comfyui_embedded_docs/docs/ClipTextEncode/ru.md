@@ -1,4 +1,4 @@
-> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncode/ru.md)
+> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncode/ru.md)
 
 `CLIP Text Encode (CLIPTextEncode)` действует как переводчик, преобразуя ваши текстовые описания в формат, понятный искусственному интеллекту. Это помогает ИИ интерпретировать ваш ввод и генерировать желаемое изображение.
 
@@ -23,10 +23,10 @@
 
 Модели эмбеддингов позволяют применять определённые художественные эффекты или стили. Поддерживаемые форматы включают `.safetensors`, `.pt` и `.bin`. Чтобы использовать модель эмбеддинга:
 
-1. Поместите файл в папку `ComfyUI/models/embeddings`.
+1. Поместите файл в папку `Hanzo Studio/models/embeddings`.
 2. Ссылайтесь на неё в вашем тексте, используя `embedding:имя_модели`.
 
-Пример: Если у вас есть модель с именем `EasyNegative.pt` в папке `ComfyUI/models/embeddings`, то вы можете использовать её так:
+Пример: Если у вас есть модель с именем `EasyNegative.pt` в папке `Hanzo Studio/models/embeddings`, то вы можете использовать её так:
 
 ```
 worst quality, embedding:EasyNegative, bad quality

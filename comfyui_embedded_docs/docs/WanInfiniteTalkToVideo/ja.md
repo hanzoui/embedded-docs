@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanInfiniteTalkToVideo/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanInfiniteTalkToVideo/ja.md)
 
 WanInfiniteTalkToVideoノードは、音声入力から動画シーケンスを生成します。このノードは、1人または2人の話者から抽出された音声特徴量を条件付けとして使用するビデオ拡散モデルを利用し、話し手の動画の潜在表現を生成します。既存のシーケンスを拡張する場合、モーションコンテキストとして前のフレームを使用することができます。
 

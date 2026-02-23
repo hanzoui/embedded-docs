@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIDalle3/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIDalle3/ja.md)
 
 OpenAIのDALL·E 3エンドポイントを介して画像を同期的に生成します。このノードはテキストプロンプトを受け取り、OpenAIのDALL·E 3モデルを使用して対応する画像を作成します。画像の品質、スタイル、サイズを指定することができます。
 

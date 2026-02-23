@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/UNetTemporalAttentionMultiply/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UNetTemporalAttentionMultiply/zh.md)
 
 UNetTemporalAttentionMultiply 节点用于对时序 UNet 模型中的不同类型的注意力机制应用乘法因子。该节点通过调整自注意力和交叉注意力层的权重来修改模型，并区分结构组件和时序组件。这样可以微调每种注意力类型对模型输出的影响程度。
 

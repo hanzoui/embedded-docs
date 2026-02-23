@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SetModelHooksOnCond/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SetModelHooksOnCond/pt-BR.md)
 
 Este nó anexa ganchos personalizados aos dados de condicionamento, permitindo que você intercepte e modifique o processo de condicionamento durante a execução do modelo. Ele recebe um conjunto de ganchos e os aplica aos dados de condicionamento fornecidos, possibilitando uma personalização avançada do fluxo de trabalho de geração de texto para imagem. O condicionamento modificado com os ganchos anexados é então retornado para uso nas etapas subsequentes de processamento.
 

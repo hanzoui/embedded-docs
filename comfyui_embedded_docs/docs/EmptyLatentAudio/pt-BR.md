@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyLatentAudio/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyLatentAudio/pt-BR.md)
 
 O nó EmptyLatentAudio cria tensores latentes vazios para processamento de áudio. Ele gera uma representação latente de áudio em branco com duração e tamanho de lote especificados, que pode ser usada como entrada para fluxos de trabalho de geração ou processamento de áudio. O nó calcula as dimensões latentes apropriadas com base na duração do áudio e na taxa de amostragem.
 

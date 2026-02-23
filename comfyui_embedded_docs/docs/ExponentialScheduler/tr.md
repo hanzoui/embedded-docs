@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ExponentialScheduler/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ExponentialScheduler/tr.md)
 
 `ExponentialScheduler` düğümü, difüzyon örnekleme süreçleri için üstel bir programa uygun bir sigma değerleri dizisi oluşturmak üzere tasarlanmıştır. Örnekleme davranışının hassas ayarını sağlamak amacıyla, difüzyon sürecinin her adımında uygulanan gürültü seviyelerini kontrol etmek için özelleştirilebilir bir yaklaşım sunar.
 

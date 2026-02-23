@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ControlNetInpaintingAliMamaApply/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ControlNetInpaintingAliMamaApply/tr.md)
 
 ControlNetInpaintingAliMamaApply düğümü, pozitif ve negatif koşullandırmayı bir kontrol görüntüsü ve maske ile birleştirerek boyama görevleri için ControlNet koşullandırması uygular. Girdi görüntüsünü ve maskeyi işleyerek, üretim sürecini yönlendiren ve görüntünün hangi alanlarının boyanacağı üzerinde hassas kontrol sağlayan değiştirilmiş koşullandırma oluşturur. Düğüm, ControlNet'in etkisini üretim sürecinin farklı aşamalarında ince ayar yapmak için güç ayarlaması ve zamanlama kontrollerini destekler.
 

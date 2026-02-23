@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmos7B/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmos7B/ja.md)
 
 ModelMergeCosmos7Bノードは、2つのAIモデルを特定のコンポーネントの重み付きブレンドを使用して統合します。位置埋め込み、トランスフォーマーブロック、最終層に対する個別の重みを調整することで、モデルの異なる部分がどのように結合されるかを細かく制御できます。
 

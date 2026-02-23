@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingStartEndFrameNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingStartEndFrameNode/zh-TW.md)
 
 Kling 起始-結束影格轉影片節點會建立一個影片序列，在您提供的起始影像和結束影像之間進行轉場過渡。它會生成所有中間影格，以實現從第一影格到最後影格的平滑轉換。此節點呼叫影像轉影片 API，但僅支援與 `image_tail` 請求欄位相容的輸入選項。
 

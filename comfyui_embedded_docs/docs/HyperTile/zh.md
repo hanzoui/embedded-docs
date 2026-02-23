@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HyperTile/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HyperTile/zh.md)
 
 HyperTile 节点对扩散模型中的注意力机制应用分块技术，以优化图像生成过程中的内存使用。它将潜在空间分割成较小的图块并分别处理，然后重新组装结果。这样可以在不耗尽内存的情况下处理更大尺寸的图像。
 

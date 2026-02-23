@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanVaceToVideo/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanVaceToVideo/ar.md)
 
 يعالج عُقد WanVaceToVideo بيانات التكييف المرئي لنماذج توليد الفيديو. يأخذ العُقد مدخلات التكييف الإيجابية والسلبية إلى جانب بيانات التحكم في الفيديو ويُعد التمثيلات الكامنة لتوليد الفيديو. يتعامل العُقد مع تحسين جودة الفيديو، والإخفاء، والترميز VAE لإنشاء هيكل التكييف المناسب لنماذج الفيديو.
 

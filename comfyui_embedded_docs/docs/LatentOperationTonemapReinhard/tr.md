@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentOperationTonemapReinhard/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentOperationTonemapReinhard/tr.md)
 
 LatentOperationTonemapReinhard düğümü, gizli vektörlere Reinhard ton eşleme uygular. Bu teknik, gizli vektörleri normalleştirir ve büyüklüklerini, yoğunluğu bir çarpan parametresi tarafından kontrol edilen ortalama ve standart sapmaya dayalı istatistiksel bir yaklaşımla ayarlar.
 

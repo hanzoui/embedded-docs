@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceDiTSimple/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceDiTSimple/zh-TW.md)
 
 此節點是 SkipLayerGuidanceDiT 節點的簡化版本，僅在去噪過程中修改無條件傳遞。該節點透過根據指定的時機和層級參數，在無條件傳遞期間選擇性地跳過特定層級，將跳層引導應用於 DiT（擴散轉換器）模型中的特定轉換器層級。
 

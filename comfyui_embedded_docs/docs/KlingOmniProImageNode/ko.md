@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProImageNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProImageNode/ko.md)
 
 Kling Omni 이미지 (Pro) 노드는 Kling AI 모델을 사용하여 이미지를 생성하거나 편집합니다. 텍스트 설명을 기반으로 이미지를 생성하며, 스타일이나 콘텐츠를 안내하기 위한 참조 이미지를 제공할 수 있습니다. 이 노드는 외부 API에 요청을 보내 작업을 처리하고 최종 이미지를 반환합니다.
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ShuffleDataset/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ShuffleDataset/ko.md)
 
 Shuffle Dataset 노드는 이미지 목록을 가져와 순서를 무작위로 변경합니다. 이 노드는 무작위성을 제어하기 위해 시드 값을 사용하여 동일한 셔플 순서를 재현할 수 있도록 합니다. 이는 처리 전 데이터셋의 이미지 순서를 무작위화하는 데 유용합니다.
 

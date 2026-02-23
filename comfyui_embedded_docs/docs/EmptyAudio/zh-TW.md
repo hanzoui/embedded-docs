@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyAudio/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyAudio/zh-TW.md)
 
 此節點生成具有指定持續時間、取樣率和聲道配置的靜音音訊片段。它會建立一個包含所有零值的波形，在給定的持續時間內產生完全靜音的效果。此節點適用於建立佔位音訊或在音訊工作流程中生成靜音片段。
 

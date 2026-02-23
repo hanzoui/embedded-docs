@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripleCLIPLoader/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripleCLIPLoader/es.md)
 
 El nodo TripleCLIPLoader carga tres modelos diferentes de codificación de texto simultáneamente y los combina en un único modelo CLIP. Esto es útil para escenarios avanzados de codificación de texto donde se necesitan múltiples codificadores de texto, como en los flujos de trabajo de SD3 que requieren que los modelos clip-l, clip-g y t5 trabajen juntos.
 

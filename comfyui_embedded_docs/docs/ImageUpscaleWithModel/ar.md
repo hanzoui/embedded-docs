@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageUpscaleWithModel/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageUpscaleWithModel/ar.md)
 
 هذه العقدة مصممة لتحسين دقة الصور باستخدام نموذج تحسين محدد. تدير عملية التحسين بكفاءة من خلال ضبط الصورة على الجهاز المناسب، وتحسين استخدام الذاكرة، وتطبيق نموذج التحسين بطريقة مجزأة لمنع حدوث أخطاء نفاد الذاكرة.
 

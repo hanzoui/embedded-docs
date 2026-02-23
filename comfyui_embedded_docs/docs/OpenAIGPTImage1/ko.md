@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIGPTImage1/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIGPTImage1/ko.md)
 
 OpenAI의 GPT Image 1 엔드포인트를 통해 동기적으로 이미지를 생성합니다. 이 노드는 텍스트 프롬프트로부터 새로운 이미지를 생성하거나, 입력 이미지와 선택적 마스크가 제공될 경우 기존 이미지를 편집할 수 있습니다.
 

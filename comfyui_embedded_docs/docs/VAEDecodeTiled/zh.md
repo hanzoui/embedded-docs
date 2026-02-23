@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeTiled/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeTiled/zh.md)
 
 VAEDecodeTiled 节点使用分块方法将潜在表示解码为图像，以高效处理大尺寸图像。它通过将输入分割成较小的图块进行处理，在保持图像质量的同时有效管理内存使用。该节点还支持视频 VAE，通过带重叠的帧块处理来实现平滑过渡。
 

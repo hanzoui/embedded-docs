@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PrimitiveBoolean/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PrimitiveBoolean/ko.md)
 
 Boolean 노드는 워크플로우에서 불리언(true/false) 값을 전달할 수 있는 간단한 방법을 제공합니다. 불리언 입력 값을 받아 동일한 값을 변경 없이 출력하며, 다른 노드들의 불리언 매개변수를 제어할 수 있게 해줍니다.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LumaReferenceNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LumaReferenceNode/tr.md)
 
 Bu düğüm, Luma Görüntü Oluştur düğümüyle kullanılmak üzere bir görüntü ve ağırlık değeri tutar. Görüntü oluşturmayı etkilemek için diğer Luma düğümlerine aktarılabilen bir referans zinciri oluşturur. Düğüm, ya yeni bir referans zinciri başlatabilir ya da mevcut bir zincire ekleme yapabilir.
 

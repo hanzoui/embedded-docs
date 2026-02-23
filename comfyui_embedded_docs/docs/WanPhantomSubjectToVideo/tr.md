@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanPhantomSubjectToVideo/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanPhantomSubjectToVideo/tr.md)
 
 WanPhantomSubjectToVideo düğümü, koşullandırma girdilerini ve isteğe bağlı referans görüntülerini işleyerek video içeriği oluşturur. Video üretimi için gizli temsiller oluşturur ve sağlandığında girdi görüntülerinden görsel rehberlik dahil edebilir. Düğüm, video modelleri için zaman-boyutlu birleştirme ile koşullandırma verilerini hazırlar ve değiştirilmiş koşullandırmayı, üretilen gizli video verileriyle birlikte çıktı olarak verir.
 

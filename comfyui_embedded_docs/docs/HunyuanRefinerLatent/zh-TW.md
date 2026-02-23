@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanRefinerLatent/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanRefinerLatent/zh-TW.md)
 
 HunyuanRefinerLatent 節點處理用於精細化操作的條件調控和潛在輸入。它對正向和負向條件調控同時應用噪聲增強，並結合潛在圖像數據，生成具有特定維度的新潛在輸出以供後續處理。
 

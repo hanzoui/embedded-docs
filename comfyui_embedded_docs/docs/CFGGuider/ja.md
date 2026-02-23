@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CFGGuider/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CFGGuider/ja.md)
 
 CFGGuiderノードは、画像生成におけるサンプリングプロセスを制御するためのガイダンスシステムを作成します。モデルと、ポジティブおよびネガティブなコンディショニング入力を取り、クラスifierフリーガイダンススケールを適用して、望ましくない要素を避けつつ、生成を目的のコンテンツに向けて導きます。このノードは、画像生成の方向を制御するためにサンプリングノードで使用できるガイダーオブジェクトを出力します。
 

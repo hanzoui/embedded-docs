@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageUpscalerPreciseV2Node/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageUpscalerPreciseV2Node/tr.md)
 
 Magnific Image Upscale (Precise V2) düğümü, keskinlik, gren ve detay geliştirme üzerinde hassas kontrol sağlayarak yüksek kalitede görüntü büyütme işlemi gerçekleştirir. Görüntüleri harici bir API üzerinden işler ve maksimum 10060×10060 piksel çıktı çözünürlüğünü destekler. Düğüm, farklı işleme stilleri sunar ve talep edilen çıktı boyutu izin verilen maksimum boyutu aşacaksa giriş görüntüsünü otomatik olarak küçültebilir.
 

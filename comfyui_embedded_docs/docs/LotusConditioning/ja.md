@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LotusConditioning/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LotusConditioning/ja.md)
 
 LotusConditioningノードは、Lotusモデル用に事前計算された条件付け埋め込みを提供します。このノードは、ヌル条件付けを使用した凍結されたエンコーダを利用し、推論や大きなテンソルファイルの読み込みを必要とせずに、リファレンス実装との互換性を達成するためにハードコードされたプロンプト埋め込みを返します。このノードは、生成パイプラインで直接使用できる固定の条件付けテンソルを出力します。
 

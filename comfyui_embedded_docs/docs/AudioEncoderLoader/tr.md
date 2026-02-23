@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioEncoderLoader/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioEncoderLoader/tr.md)
 
 AudioEncoderLoader düğümü, mevcut ses kodlayıcı dosyalarınızdan ses kodlayıcı modellerini yükler. Bir ses kodlayıcı dosya adını girdi olarak alır ve iş akışınızda ses işleme görevleri için kullanılabilecek yüklenmiş bir ses kodlayıcı modeli döndürür.
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Mahiro/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Mahiro/zh.md)
 
 Mahiro 节点通过修改引导函数，使其更专注于正向提示词的方向，而非正向与负向提示词之间的差异。该节点会创建一个修补后的模型，该模型采用自定义的引导缩放方法，利用归一化后的条件性与无条件性去噪输出之间的余弦相似度。这个实验性节点有助于更强烈地将生成过程引导至正向提示词的预期方向。
 

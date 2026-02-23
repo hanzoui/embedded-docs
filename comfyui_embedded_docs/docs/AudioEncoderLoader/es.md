@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioEncoderLoader/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioEncoderLoader/es.md)
 
 El nodo AudioEncoderLoader carga modelos de codificadores de audio desde tus archivos de codificadores de audio disponibles. Toma un nombre de archivo de codificador de audio como entrada y devuelve un modelo de codificador de audio cargado que puede utilizarse para tareas de procesamiento de audio en tu flujo de trabajo.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeControlnet/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeControlnet/ar.md)
 
 ```markdown
 عُقدة CLIPTextEncodeControlnet تعالج نص الإدخال باستخدام نموذج CLIP وتدمجه مع بيانات التكييف الحالية لإنشاء ناتج تكييف مُحسَّن لتطبيقات controlnet. تقوم العُقدة بتجزئة النص المدخل، وتشفيره عبر نموذج CLIP، ثم تضيف النتائج المُضمَّنة إلى بيانات التكييف المُقدَّمة كمعاملات التحكم بالانتباه المتقاطع (cross-attention) لـ controlnet.

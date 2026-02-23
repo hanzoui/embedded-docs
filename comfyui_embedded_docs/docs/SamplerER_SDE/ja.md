@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerER_SDE/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerER_SDE/ja.md)
 
 SamplerER_SDEノードは、拡散モデル用の特殊なサンプリング手法を提供し、ER-SDE、Reverse-time SDE、ODEアプローチを含む異なるソルバータイプを提供します。このノードは、サンプリングプロセスの確率的な振る舞いと計算ステージを制御することができます。選択されたソルバータイプに基づいて、ノードは適切な機能を確保するためにパラメータを自動的に調整します。
 

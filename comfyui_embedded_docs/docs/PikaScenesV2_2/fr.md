@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaScenesV2_2/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaScenesV2_2/fr.md)
 
 Le nœud PikaScenes v2.2 combine plusieurs images pour créer une vidéo qui intègre des objets provenant de toutes les images d'entrée. Vous pouvez télécharger jusqu'à cinq images différentes en tant qu'ingrédients et générer une vidéo de haute qualité qui les fusionne de manière homogène.
 

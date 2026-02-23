@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LossGraphNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LossGraphNode/tr.md)
 
 LossGraphNode, eğitim kayıp değerlerinin zaman içindeki değişimini görsel bir grafik olarak oluşturur ve bunu bir görüntü dosyası olarak kaydeder. Eğitim süreçlerinden gelen kayıp verilerini alır ve kaybın eğitim adımları boyunca nasıl değiştiğini gösteren bir çizgi grafiği oluşturur. Ortaya çıkan grafik, eksen etiketlerini, minimum/maksimum kayıp değerlerini içerir ve otomatik olarak geçici çıktı dizinine bir zaman damgası ile kaydedilir.
 

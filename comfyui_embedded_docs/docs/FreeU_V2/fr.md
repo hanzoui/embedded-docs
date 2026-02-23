@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FreeU_V2/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FreeU_V2/fr.md)
 
 Le nœud FreeU_V2 applique une amélioration basée sur les fréquences aux modèles de diffusion en modifiant l'architecture U-Net. Il met à l'échelle différents canaux de caractéristiques en utilisant des paramètres configurables pour améliorer la qualité de génération d'images sans nécessiter d'entraînement supplémentaire. Le nœud fonctionne en modifiant les blocs de sortie du modèle pour appliquer des facteurs d'échelle à des dimensions de canaux spécifiques.
 

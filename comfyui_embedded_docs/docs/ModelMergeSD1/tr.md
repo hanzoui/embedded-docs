@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSD1/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSD1/tr.md)
 
 ModelMergeSD1 düğümü, iki Stable Diffusion 1.x modelini farklı model bileşenlerinin etkisini ayarlayarak birleştirmenize olanak tanır. Zaman gömme, etiket gömme ve tüm giriş, orta ve çıkış blokları üzerinde ayrı ayrı kontrol sağlayarak belirli kullanım durumları için hassas ayarlanmış model birleştirme imkanı sunar.
 

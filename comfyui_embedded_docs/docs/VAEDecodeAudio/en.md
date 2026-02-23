@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeAudio/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeAudio/en.md)
 
 The VAEDecodeAudio node converts latent representations back into audio waveforms using a Variational Autoencoder. It takes encoded audio samples and processes them through the VAE to reconstruct the original audio, applying normalization to ensure consistent output levels. The resulting audio is returned with a standard sample rate of 44100 Hz.
 

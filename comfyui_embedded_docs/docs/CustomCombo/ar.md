@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CustomCombo/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CustomCombo/ar.md)
 
 تتيح عقدة Custom Combo إنشاء قائمة منسدلة مخصصة بقائمة خيارات نصية خاصة بك. إنها عقدة تركز على الواجهة الأمامية وتوفر تمثيلًا للواجهة الخلفية لضمان التوافق داخل سير العمل الخاص بك. عند تحديد خيار من القائمة المنسدلة، تخرج العقدة هذا النص كسلسلة نصية.
 

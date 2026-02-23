@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MaskToImage/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MaskToImage/tr.md)
 
 `MaskToImage` düğümü, bir maskeyi görüntü formatına dönüştürmek için tasarlanmıştır. Bu dönüşüm, maskelerin görüntü olarak görselleştirilmesine ve daha fazla işlenmesine olanak tanıyarak, maske tabanlı işlemler ile görüntü tabanlı uygulamalar arasında bir köprü oluşturur.
 

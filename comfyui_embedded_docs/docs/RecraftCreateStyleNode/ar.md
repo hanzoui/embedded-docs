@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftCreateStyleNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftCreateStyleNode/ar.md)
 
 يُنشئ هذا العقد أسلوبًا مخصصًا لتوليد الصور عن طريق رفع صور مرجعية. يمكنك رفع ما بين 1 إلى 5 صور لتحديد الأسلوب الجديد، وسيعيد العقد مُعرِّفًا فريدًا للأسلوب يمكن استخدامه مع عُقد Recraft الأخرى. يجب ألا يتجاوز الحجم الإجمالي لجميع الصور المرفوعة 5 ميغابايت.
 

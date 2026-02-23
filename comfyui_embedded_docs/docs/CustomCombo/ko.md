@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CustomCombo/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CustomCombo/ko.md)
 
 Custom Combo 노드를 사용하면 사용자 정의 텍스트 옵션 목록으로 구성된 드롭다운 메뉴를 생성할 수 있습니다. 이 노드는 프론트엔드에 초점을 맞추고 있으며, 워크플로우 내 호환성을 보장하기 위해 백엔드 표현을 제공합니다. 드롭다운에서 옵션을 선택하면 해당 텍스트가 문자열로 출력됩니다.
 

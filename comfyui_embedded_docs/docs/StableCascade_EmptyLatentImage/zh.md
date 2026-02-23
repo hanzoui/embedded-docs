@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableCascade_EmptyLatentImage/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableCascade_EmptyLatentImage/zh.md)
 
 StableCascade_EmptyLatentImage 节点为 Stable Cascade 模型创建空潜在张量。它生成两个独立的潜在表示——一个用于阶段 C，另一个用于阶段 B——根据输入分辨率和压缩设置具有适当的维度。该节点为 Stable Cascade 生成流程提供了起点。
 

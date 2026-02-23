@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TrimVideoLatent/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TrimVideoLatent/zh-TW.md)
 
 此節點從影片潛在表示的開頭移除影格。它接收一個潛在影片樣本，並從開頭裁切指定數量的影格，返回影片的剩餘部分。這讓您可以透過移除初始影格來縮短影片序列。
 

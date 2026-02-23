@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentApplyOperationCFG/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentApplyOperationCFG/es.md)
 
 El nodo LatentApplyOperationCFG aplica una operación latente para modificar el proceso de guía de condicionamiento en un modelo. Funciona interceptando las salidas de condicionamiento durante el proceso de muestreo de guía libre de clasificador (CFG) y aplicando la operación especificada a las representaciones latentes antes de que sean utilizadas para la generación.
 

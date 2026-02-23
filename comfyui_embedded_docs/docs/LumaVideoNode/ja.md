@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LumaVideoNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LumaVideoNode/ja.md)
 
 プロンプトと出力設定に基づいて同期方式で動画を生成します。このノードはテキスト記述と様々な生成パラメータを使用して動画コンテンツを作成し、生成プロセスが完了すると最終的な動画出力を生成します。
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaTextToVideoNode2_2/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaTextToVideoNode2_2/zh.md)
 
 Pika Text2Video v2.2 节点将文本提示发送到 Pika API 2.2 版本以生成视频。该节点通过 Pika 的 AI 视频生成服务将您的文本描述转换为视频。您可以通过该节点自定义视频生成过程的各个方面，包括宽高比、时长和分辨率。
 

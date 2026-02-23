@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingSingleImageVideoEffectNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingSingleImageVideoEffectNode/fr.md)
 
 Le nœud Kling Single Image Video Effect crée des vidéos avec différents effets spéciaux basés sur une seule image de référence. Il applique divers effets visuels et scènes pour transformer des images statiques en contenu vidéo dynamique. Le nœud prend en charge différentes scènes d'effets, options de modèle et durées vidéo pour obtenir le résultat visuel souhaité.
 

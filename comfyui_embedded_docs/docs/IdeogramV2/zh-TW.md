@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/IdeogramV2/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/IdeogramV2/zh-TW.md)
 
 Ideogram V2 節點使用 Ideogram V2 AI 模型生成圖像。它接收文字提示和各種生成設定，透過 API 服務創建圖像。該節點支援不同的長寬比、解析度和風格選項，以自定義輸出圖像。
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanContextWindowsManual/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanContextWindowsManual/ja.md)
 
 WAN Context Windows (Manual) ノードを使用すると、2次元処理を行うWANタイプのモデルに対して、手動でコンテキストウィンドウを設定できます。このノードは、ウィンドウの長さ、オーバーラップ、スケジューリング方法、融合技術を指定することで、サンプリング中にカスタムコンテキストウィンドウ設定を適用します。これにより、モデルが異なるコンテキスト領域で情報を処理する方法を精密に制御できます。
 

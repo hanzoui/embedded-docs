@@ -1,8 +1,8 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CombineHooks/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CombineHooks/zh-TW.md)
 
 ## 概述
 
-Combine Hooks [2] 節點將兩個掛鉤群組合併為單一的組合掛鉤群組。它接受兩個可選的掛鉤輸入，並使用 ComfyUI 的掛鉤組合功能將它們合併。這讓您可以整合多個掛鉤配置，以實現更流暢的處理流程。
+Combine Hooks [2] 節點將兩個掛鉤群組合併為單一的組合掛鉤群組。它接受兩個可選的掛鉤輸入，並使用 Hanzo Studio 的掛鉤組合功能將它們合併。這讓您可以整合多個掛鉤配置，以實現更流暢的處理流程。
 
 ## 輸入
 

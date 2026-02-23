@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConvertStringToComboNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConvertStringToComboNode/ar.md)
 
 يأخذ عقدة Convert String to Combo سلسلة نصية كمدخل ويحولها إلى نوع بيانات Combo. يتيح لك ذلك استخدام قيمة نصية كاختيار للعقد الأخرى التي تتطلب مدخلًا من نوع Combo. إنها تمرر قيمة السلسلة دون تغيير ولكنها تغير نوع بياناتها.
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FreSca/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FreSca/ko.md)
 
 FreSca 노드는 샘플링 과정에서 주파수 종속 스케일링을 guidance에 적용합니다. 푸리에 필터링을 사용하여 guidance 신호를 저주파 및 고주파 구성 요소로 분리한 후, 각 주파수 범위에 다른 스케일링 인자를 적용하여 재결합합니다. 이를 통해 생성된 출력의 다양한 측면에 guidance가 영향을 미치는 방식을 더욱 세밀하게 제어할 수 있습니다.
 

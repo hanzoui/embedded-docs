@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripleCLIPLoader/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripleCLIPLoader/ja.md)
 
 TripleCLIPLoaderノードは、3つの異なるテキストエンコーダーモデルを同時に読み込み、それらを単一のCLIPモデルに結合します。これは、clip-l、clip-g、t5モデルが連携して動作するSD3ワークフローなど、複数のテキストエンコーダーが必要な高度なテキストエンコーディングシナリオで有用です。
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentSubtract/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentSubtract/pt-BR.md)
 
 O nó LatentSubtract é projetado para subtrair uma representação latente de outra. Esta operação pode ser usada para manipular ou modificar as características das saídas de modelos generativos, removendo efetivamente características ou atributos representados em um espaço latente de outro.
 

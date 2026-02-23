@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PerpNegGuider/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PerpNegGuider/ja.md)
 
 PerpNegGuiderノードは、垂直ネガティブ条件付けを使用して画像生成を制御するためのガイダンスシステムを作成します。このノードは、ポジティブ、ネガティブ、および空の条件付け入力を取り、特殊なガイダンスアルゴリズムを適用して生成プロセスを導きます。このノードはテスト目的で設計されており、ガイダンスの強度とネガティブスケーリングを細かく制御できます。
 

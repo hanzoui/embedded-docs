@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanPhantomSubjectToVideo/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanPhantomSubjectToVideo/pt-BR.md)
 
 O nó WanPhantomSubjectToVideo gera conteúdo de vídeo processando entradas de condicionamento e imagens de referência opcionais. Ele cria representações latentes para geração de vídeo e pode incorporar orientação visual de imagens de entrada quando fornecidas. O nó prepara dados de condicionamento com concatenação temporal para modelos de vídeo e retorna o condicionamento modificado junto com os dados latentes de vídeo gerados.
 

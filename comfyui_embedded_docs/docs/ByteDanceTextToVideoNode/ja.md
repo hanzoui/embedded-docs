@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceTextToVideoNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceTextToVideoNode/ja.md)
 
 ByteDance Text to Videoノードは、テキストプロンプトに基づいてByteDanceモデルを使用し、APIを通じて動画を生成します。このノードは、テキストによる記述と様々な動画設定を入力として受け取り、指定された仕様に合った動画を作成します。ノードはAPI通信を処理し、生成された動画を出力として返します。
 

@@ -1,6 +1,6 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/unCLIPCheckpointLoader/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/unCLIPCheckpointLoader/ar.md)
 
-سيكتشف هذا العقد النماذج الموجودة في مجلد `ComfyUI/models/checkpoints`، كما سيقوم بقراءة النماذج من المسارات الإضافية المُكونة في ملف extra_model_paths.yaml. في بعض الأحيان، قد تحتاج إلى **تحديث واجهة ComfyUI** للسماح لها بقراءة ملفات النماذج من المجلد المقابل.
+سيكتشف هذا العقد النماذج الموجودة في مجلد `Hanzo Studio/models/checkpoints`، كما سيقوم بقراءة النماذج من المسارات الإضافية المُكونة في ملف extra_model_paths.yaml. في بعض الأحيان، قد تحتاج إلى **تحديث واجهة Hanzo Studio** للسماح لها بقراءة ملفات النماذج من المجلد المقابل.
 
 تم تصميم عقدة unCLIPCheckpointLoader لتحميل نقاط التفتيش المخصصة خصيصًا لنماذج unCLIP. فهي تسهل استرجاع وتهيئة النماذج، ووحدات CLIP للرؤية، ومشفرات الفارق التبايني (VAEs) من نقطة تفتيش محددة، مما يبسط عملية الإعداد للمزيد من العمليات أو التحليلات.
 

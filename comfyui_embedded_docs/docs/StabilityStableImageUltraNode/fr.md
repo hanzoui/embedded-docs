@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityStableImageUltraNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityStableImageUltraNode/fr.md)
 
 Génère des images de manière synchrone en fonction de l'invite et de la résolution. Ce nœud crée des images en utilisant le modèle Stable Image Ultra de Stability AI, traitant votre invite texte et générant une image correspondante avec le rapport d'aspect et le style spécifiés.
 

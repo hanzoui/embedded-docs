@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProImageToVideoNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProImageToVideoNode/zh-TW.md)
 
 此節點使用 Kling AI 模型，根據文字提示詞和多達七張參考圖像來生成影片。它允許您控制影片的長寬比、持續時間和解析度。節點會將請求發送到外部 API 並返回生成的影片。
 

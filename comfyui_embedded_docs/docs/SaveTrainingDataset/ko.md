@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveTrainingDataset/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveTrainingDataset/ko.md)
 
 이 노드는 준비된 학습 데이터셋을 컴퓨터 하드 드라이브에 저장합니다. 이미지 잠재 표현과 해당 텍스트 조건화를 포함하는 인코딩된 데이터를 가져와서, 더 쉬운 관리를 위해 샤드라고 불리는 여러 개의 작은 파일로 구성합니다. 노드는 출력 디렉토리에 폴더를 자동으로 생성하고 데이터 파일과 데이터셋을 설명하는 메타데이터 파일을 모두 저장합니다.
 

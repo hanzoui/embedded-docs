@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageDeduplication/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageDeduplication/tr.md)
 
 Bu düğüm, bir grup görselden kopya veya çok benzer görselleri kaldırır. Her görsel için algısal bir hash (görsel içeriğine dayalı basit bir sayısal parmak izi) oluşturarak ve bunları karşılaştırarak çalışır. Hash değerleri belirlenen bir eşik değerinden daha benzer olan görseller kopya olarak kabul edilir ve filtrelenir.
 

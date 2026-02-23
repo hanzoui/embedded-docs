@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaTextToVideoNode2_2/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaTextToVideoNode2_2/ja.md)
 
 Pika Text2Video v2.2 ノードは、テキストプロンプトを Pika API バージョン 2.2 に送信して動画を生成します。このノードは、Pika の AI 動画生成サービスを使用して、テキストによる説明を動画に変換します。アスペクト比、長さ、解像度など、動画生成プロセスの様々な側面をカスタマイズすることができます。
 

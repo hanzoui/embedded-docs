@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIChatConfig/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIChatConfig/tr.md)
 
 OpenAIChatConfig düğümü, OpenAI Chat Node için ek yapılandırma seçenekleri ayarlamaya olanak tanır. Modelin yanıtları nasıl oluşturacağını kontrol eden, kesme davranışı, çıktı uzunluk sınırları ve özel talimatlar dahil olmak üzere gelişmiş ayarlar sağlar.
 

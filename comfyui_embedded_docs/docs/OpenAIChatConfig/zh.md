@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIChatConfig/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIChatConfig/zh.md)
 
 OpenAIChatConfig 节点用于为 OpenAI Chat 节点设置额外的配置选项。它提供高级设置，用于控制模型生成响应的方式，包括截断行为、输出长度限制和自定义指令。
 

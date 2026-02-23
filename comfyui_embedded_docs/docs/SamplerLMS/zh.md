@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerLMS/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerLMS/zh.md)
 
 SamplerLMS 节点创建了一个用于扩散模型的最小均方（LMS）采样器。它生成一个可在采样过程中使用的采样器对象，允许您控制 LMS 算法的阶数以实现数值稳定性和准确性。
 

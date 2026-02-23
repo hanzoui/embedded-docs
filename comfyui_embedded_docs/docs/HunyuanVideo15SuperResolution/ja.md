@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanVideo15SuperResolution/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanVideo15SuperResolution/ja.md)
 
 HunyuanVideo15SuperResolutionノードは、動画の超解像処理のための条件付けデータを準備します。動画の潜在表現と、オプションで開始画像を受け取り、それらをノイズ増強とCLIP visionデータと共にパッケージ化し、モデルが高解像度の出力を生成するために使用できる形式に変換します。
 

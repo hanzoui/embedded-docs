@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmos14B/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmos14B/ja.md)
 
 ModelMergeCosmos14Bノードは、Cosmos 14Bモデルアーキテクチャ向けに特別に設計されたブロックベースのアプローチを使用して、2つのAIモデルをマージします。各モデルブロックと埋め込み層に対して0.0から1.0の間の重み値を調整することで、モデルの異なるコンポーネントをブレンドすることができます。
 

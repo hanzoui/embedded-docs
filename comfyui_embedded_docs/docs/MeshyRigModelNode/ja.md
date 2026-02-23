@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyRigModelNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyRigModelNode/ja.md)
 
 Meshy: Rig Model ノードは、Meshy からの 3D モデルタスクを受け取り、リグ（骨組み）付きのキャラクターモデルを生成します。このノードはモデルに対して自動的にスケルトン（骨格）を作成し、ポーズを付けたりアニメーションさせたりできるようにします。リグ付きモデルは GLB および FBX ファイル形式の両方で出力されます。
 

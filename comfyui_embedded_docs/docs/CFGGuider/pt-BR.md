@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CFGGuider/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CFGGuider/pt-BR.md)
 
 O nó CFGGuider cria um sistema de orientação para controlar o processo de amostragem na geração de imagens. Ele recebe um modelo junto com entradas de condicionamento positivo e negativo e, em seguida, aplica uma escala de orientação livre de classificador para direcionar a geração em direção ao conteúdo desejado, evitando elementos indesejados. Este nó produz um objeto guia que pode ser usado por nós de amostragem para controlar a direção da geração de imagens.
 

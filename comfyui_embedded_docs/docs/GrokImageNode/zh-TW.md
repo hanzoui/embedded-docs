@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GrokImageNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GrokImageNode/zh-TW.md)
 
 Grok Image 節點使用 Grok AI 模型，根據文字描述生成一張或多張圖片。它會將您的提示詞發送到外部服務，並將生成的圖片以張量形式返回，供您在工作流程中使用。
 

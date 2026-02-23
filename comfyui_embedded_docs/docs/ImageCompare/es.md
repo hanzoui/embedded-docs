@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageCompare/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageCompare/es.md)
 
 El nodo Comparar Imágenes proporciona una interfaz visual para comparar dos imágenes lado a lado utilizando un control deslizante arrastrable. Está diseñado como un nodo de salida, lo que significa que no pasa datos a otros nodos, sino que muestra las imágenes directamente en la interfaz de usuario para su inspección.
 
@@ -14,4 +14,4 @@ El nodo Comparar Imágenes proporciona una interfaz visual para comparar dos im�
 
 ## Salidas
 
-Este nodo es un nodo de salida y no produce ninguna salida de datos para usar en otros nodos. Su función es mostrar las imágenes proporcionadas en la interfaz de ComfyUI.
+Este nodo es un nodo de salida y no produce ninguna salida de datos para usar en otros nodos. Su función es mostrar las imágenes proporcionadas en la interfaz de Hanzo Studio.

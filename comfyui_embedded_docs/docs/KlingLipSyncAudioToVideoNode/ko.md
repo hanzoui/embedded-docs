@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingLipSyncAudioToVideoNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingLipSyncAudioToVideoNode/ko.md)
 
 Kling Lip Sync Audio to Video 노드는 비디오 파일의 입 모양을 오디오 파일의 음성 내용에 맞춰 동기화합니다. 이 노드는 오디오의 발성 패턴을 분석하고 비디오 내 얼굴 움직임을 조정하여 사실적인 립싱크를 생성합니다. 이 과정에는 명확한 얼굴이 포함된 비디오와 뚜렷이 구분 가능한 음성이 포함된 오디오 파일이 모두 필요합니다.
 

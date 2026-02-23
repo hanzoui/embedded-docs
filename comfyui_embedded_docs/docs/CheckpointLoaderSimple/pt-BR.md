@@ -1,12 +1,12 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CheckpointLoaderSimple/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CheckpointLoaderSimple/pt-BR.md)
 
 Este é um nó carregador de modelos que carrega arquivos de modelo de locais especificados e os decompõe em três componentes principais: o modelo principal, o codificador de texto e o codificador/decodificador de imagem.
 
-Este nó detecta automaticamente todos os arquivos de modelo na pasta `ComfyUI/models/checkpoints`, bem como caminhos adicionais configurados no seu arquivo `extra_model_paths.yaml`.
+Este nó detecta automaticamente todos os arquivos de modelo na pasta `Hanzo Studio/models/checkpoints`, bem como caminhos adicionais configurados no seu arquivo `extra_model_paths.yaml`.
 
 1. **Compatibilidade do Modelo**: Certifique-se de que o modelo selecionado é compatível com seu fluxo de trabalho. Diferentes tipos de modelo (como SD1.5, SDXL, Flux, etc.) precisam ser emparelhados com amostradores e outros nós correspondentes.
-2. **Gerenciamento de Arquivos**: Coloque os arquivos de modelo na pasta `ComfyUI/models/checkpoints`, ou configure outros caminhos através do arquivo `extra_model_paths.yaml`.
-3. **Atualização da Interface**: Se novos arquivos de modelo forem adicionados enquanto o ComfyUI está em execução, você precisa atualizar o navegador (Ctrl+R) para ver os novos arquivos na lista suspensa.
+2. **Gerenciamento de Arquivos**: Coloque os arquivos de modelo na pasta `Hanzo Studio/models/checkpoints`, ou configure outros caminhos através do arquivo `extra_model_paths.yaml`.
+3. **Atualização da Interface**: Se novos arquivos de modelo forem adicionados enquanto o Hanzo Studio está em execução, você precisa atualizar o navegador (Ctrl+R) para ver os novos arquivos na lista suspensa.
 
 ## Entradas
 

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetAreaPercentageVideo/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetAreaPercentageVideo/fr.md)
 
 Le nœud ConditioningSetAreaPercentageVideo modifie les données de conditionnement en définissant une zone spécifique et une région temporelle pour la génération vidéo. Il vous permet de définir la position, la taille et la durée de la zone où le conditionnement sera appliqué en utilisant des valeurs en pourcentage par rapport aux dimensions globales. Ceci est utile pour concentrer la génération sur des parties spécifiques d'une séquence vidéo.
 

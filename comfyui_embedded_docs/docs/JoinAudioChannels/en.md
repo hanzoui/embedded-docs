@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/JoinAudioChannels/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/JoinAudioChannels/en.md)
 
 The Join Audio Channels node combines two separate mono audio inputs into a single stereo audio output. It takes a left channel and a right channel, ensures they have compatible sample rates and lengths, and merges them into a two-channel audio waveform.
 

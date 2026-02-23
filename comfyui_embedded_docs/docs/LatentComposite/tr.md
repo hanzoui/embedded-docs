@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentComposite/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentComposite/tr.md)
 
 LatentComposite düğümü, iki gizli temsili birleştirmek veya tek bir çıktıda birleştirmek için tasarlanmıştır. Bu işlem, girdi gizli temsillerin özelliklerini kontrollü bir şekilde birleştirerek kompozit görüntüler veya özellikler oluşturmak için gereklidir.
 

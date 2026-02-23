@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ControlNetInpaintingAliMamaApply/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ControlNetInpaintingAliMamaApply/zh.md)
 
 ControlNetInpaintingAliMamaApply 节点通过将正向和负向条件与控制图像及蒙版相结合，为修复任务应用 ControlNet 条件处理。该节点会处理输入图像和蒙版，创建经过修改的条件来指导生成过程，从而实现对图像修复区域的精确控制。该节点支持强度调整和时序控制，可在生成过程的不同阶段微调 ControlNet 的影响程度。
 

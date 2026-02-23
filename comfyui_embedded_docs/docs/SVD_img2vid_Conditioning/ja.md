@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SVD_img2vid_Conditioning/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SVD_img2vid_Conditioning/ja.md)
 
 SVD_img2vid_Conditioningノードは、Stable Video Diffusionを使用した動画生成のためのコンディショニングデータを準備します。初期画像を受け取り、CLIP visionとVAEエンコーダーを通して処理し、ポジティブおよびネガティブなコンディショニングペアと、動画生成用の空の潜在空間を作成します。このノードは、生成される動画の動き、フレームレート、拡張レベルを制御するための必要なパラメータを設定します。
 

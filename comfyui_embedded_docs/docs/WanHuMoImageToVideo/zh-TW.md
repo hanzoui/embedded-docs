@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanHuMoImageToVideo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanHuMoImageToVideo/zh-TW.md)
 
 WanHuMoImageToVideo 節點透過為影片影格生成潛在表徵來將圖像轉換為影片序列。它處理條件輸入，並可整合參考圖像和音訊嵌入來影響影片生成。該節點輸出經過修改的條件資料以及適用於影片合成的潛在表徵。
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HitPawGeneralImageEnhance/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HitPawGeneralImageEnhance/tr.md)
 
 Bu düğüm, düşük çözünürlüklü görüntüleri yükselterek süper çözünürlüğe getirir, artefaktları ve gürültüyü giderir. Görüntüyü işlemek için harici bir API kullanır ve işleme limitleri dahilinde kalmak için giriş boyutunu otomatik olarak ayarlayabilir. İzin verilen maksimum çıktı boyutu 4 megapikseldir.
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanTrackToVideo/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanTrackToVideo/zh.md)
 
 WanTrackToVideo 节点通过处理轨迹点并生成相应的视频帧，将运动跟踪数据转换为视频序列。它接收跟踪坐标作为输入，并生成可用于视频生成的视频条件信息和潜在表示。当未提供轨迹数据时，该节点将回退到标准的图像到视频转换模式。
 

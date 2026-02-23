@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingLTXV/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingLTXV/tr.md)
 
 ModelSamplingLTXV düğümü, bir modele belirteç sayısına dayalı gelişmiş örnekleme parametreleri uygular. Girdi gizli değişkenindeki belirteç sayısına bağlı olarak, temel ve maksimum kaydırma değerleri arasında doğrusal bir enterpolasyon kullanarak bir kaydırma değeri hesaplar. Düğüm daha sonra özelleştirilmiş bir model örnekleme yapılandırması oluşturur ve bunu girdi modeline uygular.
 

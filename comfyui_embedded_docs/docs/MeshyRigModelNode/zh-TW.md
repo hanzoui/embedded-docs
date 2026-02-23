@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyRigModelNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyRigModelNode/zh-TW.md)
 
 Meshy: Rig Model 節點接收來自 Meshy 的 3D 模型任務，並生成一個已綁定骨架的角色模型。它會自動為模型創建骨架，使其能夠被擺姿勢和動畫化。該節點會以 GLB 和 FBX 兩種檔案格式輸出已綁定骨架的模型。
 

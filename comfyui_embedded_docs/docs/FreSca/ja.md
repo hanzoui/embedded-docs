@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FreSca/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FreSca/ja.md)
 
 FreScaノードは、サンプリングプロセスにおいて周波数依存のスケーリングをガイダンスに適用します。フーリエフィルタリングを使用してガイダンス信号を低周波数成分と高周波数成分に分離し、それぞれの周波数範囲に異なるスケーリング係数を適用してから再結合します。これにより、生成される出力の異なる側面にガイダンスがどのように影響するかを、より細かく制御することが可能になります。
 

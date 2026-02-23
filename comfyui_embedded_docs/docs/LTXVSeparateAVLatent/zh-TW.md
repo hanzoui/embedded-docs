@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVSeparateAVLatent/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVSeparateAVLatent/zh-TW.md)
 
 LTXVSeparateAVLatent 節點接收一個結合的視聽潛在表示，並將其拆分為兩個獨立部分：一個用於視訊，一個用於音訊。它會從輸入的潛在表示中分離出樣本，如果存在的話，也會分離出噪聲遮罩，從而創建兩個新的潛在物件。
 

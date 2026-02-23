@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingTextToVideoNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingTextToVideoNode/zh-TW.md)
 
 Kling 文字轉影片節點可將文字描述轉換為影片內容。它接收文字提示並根據指定的配置設定生成對應的影片序列。此節點支援不同的長寬比和生成模式，可產生不同時長和品質的影片。
 

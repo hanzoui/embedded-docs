@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecode/pt-BR.md)
 
 O nó VAEDecode é projetado para decodificar representações latentes em imagens usando um Autoencoder Variacional (VAE) especificado. Ele tem a finalidade de gerar imagens a partir de representações de dados comprimidos, facilitando a reconstrução de imagens a partir de suas codificações no espaço latente.
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveConcatTrack/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveConcatTrack/ko.md)
 
 WanMoveConcatTrack 노드는 두 세트의 모션 트래킹 데이터를 하나의 더 긴 시퀀스로 결합합니다. 입력 트랙의 트랙 경로와 가시성 마스크를 각각의 차원을 따라 연결하는 방식으로 작동합니다. 트랙 입력이 하나만 제공되면 해당 데이터를 변경 없이 그대로 전달합니다.
 

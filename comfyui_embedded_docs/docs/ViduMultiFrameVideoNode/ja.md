@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduMultiFrameVideoNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduMultiFrameVideoNode/ja.md)
 
 このノードは、複数のキーフレーム間のトランジションを作成することで動画を生成します。初期画像から開始し、ユーザーが定義した一連の終了画像とプロンプトを通じてアニメーション化し、単一の動画ファイルを出力として生成します。
 

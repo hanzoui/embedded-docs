@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingImageGenerationNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingImageGenerationNode/pt-BR.md)
 
 O nó Kling Image Generation gera imagens a partir de prompts de texto com a opção de usar uma imagem de referência para orientação. Ele cria uma ou mais imagens com base na sua descrição textual e configurações de referência, retornando as imagens geradas como saída.
 

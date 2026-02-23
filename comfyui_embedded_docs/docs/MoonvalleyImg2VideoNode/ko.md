@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MoonvalleyImg2VideoNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MoonvalleyImg2VideoNode/ko.md)
 
 Moonvalley Marey Image to Video 노드는 참조 이미지를 Moonvalley API를 사용하여 비디오로 변환합니다. 입력 이미지와 텍스트 프롬프트를 받아 지정된 해상도, 품질 설정 및 창의적 제어를 통해 비디오를 생성합니다. 이 노드는 이미지 업로드부터 비디오 생성 및 다운로드까지의 전체 프로세스를 처리합니다.
 

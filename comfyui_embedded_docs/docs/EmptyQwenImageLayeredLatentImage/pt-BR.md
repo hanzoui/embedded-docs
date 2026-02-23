@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyQwenImageLayeredLatentImage/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyQwenImageLayeredLatentImage/pt-BR.md)
 
 O nó **Empty Qwen Image Layered Latent** cria uma representação latente em branco e multicamadas para uso com modelos de imagem Qwen. Ele gera um tensor preenchido com zeros, estruturado com um número especificado de camadas, tamanho do lote e dimensões espaciais. Este latente vazio serve como ponto de partida para fluxos de trabalho subsequentes de geração ou manipulação de imagem.
 

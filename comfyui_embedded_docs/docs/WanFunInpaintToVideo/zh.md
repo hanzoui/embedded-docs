@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanFunInpaintToVideo/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanFunInpaintToVideo/zh.md)
 
 WanFunInpaintToVideo 节点通过在起始图像和结束图像之间进行修复来创建视频序列。它接收正向和负向条件提示以及可选的帧图像，以生成视频潜在表示。该节点支持可配置尺寸和长度参数来处理视频生成。
 

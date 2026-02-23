@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanVideo15LatentUpscaleWithModel/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanVideo15LatentUpscaleWithModel/en.md)
 
 The Hunyuan Video 15 Latent Upscale With Model node increases the resolution of a latent image representation. It first upscales the latent samples to a specified size using a chosen interpolation method, then refines the upscaled result using a specialized Hunyuan Video 1.5 upscale model to improve quality.
 

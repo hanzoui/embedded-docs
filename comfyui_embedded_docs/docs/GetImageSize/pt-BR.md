@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GetImageSize/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GetImageSize/pt-BR.md)
 
 O nó GetImageSize extrai as dimensões e informações de lote de uma imagem de entrada. Ele retorna a largura, altura e o tamanho do lote da imagem, além de exibir essas informações como texto de progresso na interface do nó. Os dados originais da imagem passam inalterados.
 

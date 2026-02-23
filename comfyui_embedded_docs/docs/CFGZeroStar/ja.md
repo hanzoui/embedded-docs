@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CFGZeroStar/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CFGZeroStar/ja.md)
 
 CFGZeroStarノードは、拡散モデルに特殊なガイダンススケーリング技術を適用します。このノードは、条件付き予測と無条件予測の差に基づいて最適化されたスケール係数を計算することで、Classifier-Free Guidanceプロセスを変更します。この手法は、モデルの安定性を維持しながら生成プロセスを強化する制御を提供するために最終出力を調整します。
 

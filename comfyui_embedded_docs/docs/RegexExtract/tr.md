@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RegexExtract/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RegexExtract/tr.md)
 
 RegexExtract düğümü, metin içinde düzenli ifadeler kullanarak desenleri arar. İlk eşleşmeyi, tüm eşleşmeleri, eşleşmelerden belirli grupları veya birden fazla eşleşmedeki tüm grupları bulabilir. Düğüm, büyük/küçük harf duyarlılığı, çok satırlı eşleştirme ve dotall davranışı için çeşitli regex bayraklarını destekler.
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveTrainingDataset/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveTrainingDataset/ja.md)
 
 このノードは、準備済みのトレーニングデータセットをコンピュータのハードドライブに保存します。画像の潜在表現とそれに対応するテキスト条件付けを含むエンコードされたデータを受け取り、管理を容易にするためにシャードと呼ばれる複数の小さなファイルに整理します。ノードは出力ディレクトリ内にフォルダを自動的に作成し、データファイルとデータセットを説明するメタデータファイルの両方を保存します。
 

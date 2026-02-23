@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveTrackToVideo/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveTrackToVideo/en.md)
 
 The WanMoveTrackToVideo node prepares conditioning and latent space data for video generation, incorporating optional motion tracking information. It encodes a starting image sequence into a latent representation and can blend in positional data from object tracks to guide the motion in the generated video. The node outputs modified positive and negative conditioning along with an empty latent tensor ready for a video model.
 

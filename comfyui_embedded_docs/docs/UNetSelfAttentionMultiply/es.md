@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/UNetSelfAttentionMultiply/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UNetSelfAttentionMultiply/es.md)
 
 El nodo UNetSelfAttentionMultiply aplica factores de multiplicación a los componentes de consulta, clave, valor y salida del mecanismo de autoatención en un modelo UNet. Permite escalar diferentes partes del cálculo de atención para experimentar con cómo los pesos de atención afectan el comportamiento del modelo.
 

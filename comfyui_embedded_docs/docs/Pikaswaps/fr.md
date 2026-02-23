@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Pikaswaps/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Pikaswaps/fr.md)
 
 Le nœud Pika Swaps vous permet de remplacer des objets ou des régions dans votre vidéo par de nouvelles images. Vous pouvez définir les zones à remplacer en utilisant soit un masque, soit des coordonnées, et le nœud remplacera de manière transparente le contenu spécifié tout au long de la séquence vidéo.
 

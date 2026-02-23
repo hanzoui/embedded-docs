@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageBlend/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageBlend/zh-TW.md)
 
 `ImageBlend` 節點旨在根據指定的混合模式和混合因子將兩張圖像融合在一起。它支援多種混合模式，例如正常、相乘、濾色、疊加、柔光和差異，可實現多樣化的圖像處理和合成技術。此節點對於透過調整兩個圖像層之間的視覺互動來創建合成圖像至關重要。
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVAddGuide/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVAddGuide/ko.md)
 
 LTXVAddGuide 노드는 입력 이미지나 비디오를 인코딩하여 조건화 데이터에 키프레임으로 통합함으로써 잠재 시퀀스에 비디오 조건화 가이던스를 추가합니다. VAE 인코더를 통해 입력을 처리하고, 결과로 생성된 잠재 표현을 지정된 프레임 위치에 전략적으로 배치하는 동시에 양극 및 음극 조건화를 키프레임 정보로 업데이트합니다. 이 노드는 프레임 정렬 제약 조건을 처리하며 조건화 영향의 강도를 제어할 수 있도록 합니다.
 

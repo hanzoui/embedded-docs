@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PolyexponentialScheduler/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PolyexponentialScheduler/zh-TW.md)
 
 PolyexponentialScheduler 節點旨在根據多項式指數噪聲排程生成一系列噪聲水平（sigmas）。此排程是 sigma 對數中的多項式函數，允許在整個擴散過程中實現靈活且可自訂的噪聲水平進展。
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SetFirstSigma/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SetFirstSigma/ar.md)
 
 يقوم عُقدة SetFirstSigma بتعديل تسلسل قيم سيغما عن طريق استبدال أول قيمة سيغما في التسلسل بقيمة مخصصة. تأخذ العُقدة تسلسل سيغما موجودًا وقيمة سيغما جديدة كمدخلات، ثم تُرجع تسلسل سيغما جديدًا حيث تم تغيير العنصر الأول فقط مع الحفاظ على جميع قيم سيغما الأخرى دون تغيير.
 

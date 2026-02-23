@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ComfySwitchNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ComfySwitchNode/zh.md)
 
 Switch 节点根据布尔条件在两个可能的输入之间进行选择。当 `switch` 启用时，它输出 `on_true` 输入；当 `switch` 禁用时，它输出 `on_false` 输入。这允许你在工作流中创建条件逻辑并选择不同的数据路径。
 

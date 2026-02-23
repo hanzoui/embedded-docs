@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AdjustContrast/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AdjustContrast/pt-BR.md)
 
 O nó Adjust Contrast modifica o nível de contraste de uma imagem de entrada. Ele funciona ajustando a diferença entre as áreas claras e escuras da imagem. Um fator de 1.0 deixa a imagem inalterada, valores abaixo de 1.0 reduzem o contraste e valores acima de 1.0 o aumentam.
 

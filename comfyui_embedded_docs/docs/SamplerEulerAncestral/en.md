@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerEulerAncestral/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerEulerAncestral/en.md)
 
 The SamplerEulerAncestral node creates an Euler Ancestral sampler for generating images. This sampler uses a specific mathematical approach that combines Euler integration with ancestral sampling techniques to produce image variations. The node allows you to configure the sampling behavior by adjusting parameters that control the randomness and step size during the generation process.
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Rodin3D_Regular/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Rodin3D_Regular/zh.md)
 
 Rodin 3D Regular 节点通过 Rodin API 生成 3D 资源。该节点接收输入图像并通过 Rodin 服务进行处理以创建 3D 模型。该节点处理从任务创建到下载最终 3D 模型文件的完整工作流程。
 

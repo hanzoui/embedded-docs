@@ -1,8 +1,8 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/UNETLoader/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UNETLoader/pt-BR.md)
 
 O nó UNETLoader é projetado para carregar modelos U-Net pelo nome, facilitando o uso de arquiteturas U-Net pré-treinadas dentro do sistema.
 
-Este nó detectará modelos localizados na pasta `ComfyUI/models/diffusion_models`.
+Este nó detectará modelos localizados na pasta `Hanzo Studio/models/diffusion_models`.
 
 ## Entradas
 

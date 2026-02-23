@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResizeImageMaskNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResizeImageMaskNode/tr.md)
 
 Resize Image/Mask düğümü, bir giriş görüntüsünün veya maskesinin boyutlarını değiştirmek için birden fazla yöntem sunar. Çarpan ile ölçeklendirme, belirli boyutlar belirleme, başka bir girişin boyutunu eşleştirme veya piksel sayısına göre ayarlama yapabilir ve kalite için çeşitli enterpolasyon yöntemleri kullanır.
 

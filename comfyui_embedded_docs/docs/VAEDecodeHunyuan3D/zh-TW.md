@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeHunyuan3D/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeHunyuan3D/zh-TW.md)
 
 此節點使用 VAE 解碼器將潛在表示轉換為 3D 體素資料。它透過可配置的分塊和解析度設定，將潛在樣本透過 VAE 模型處理，生成適用於 3D 應用的體積資料。
 

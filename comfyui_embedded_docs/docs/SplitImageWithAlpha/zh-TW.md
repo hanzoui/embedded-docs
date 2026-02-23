@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SplitImageWithAlpha/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SplitImageWithAlpha/zh-TW.md)
 
 SplitImageWithAlpha 節點專門用於分離影像的色彩與透明度元件。它會處理輸入的影像張量，提取 RGB 通道作為色彩元件，並提取 Alpha 通道作為透明度元件，方便後續需要分別處理這些影像屬性的操作。
 

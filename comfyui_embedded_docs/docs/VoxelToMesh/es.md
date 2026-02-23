@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VoxelToMesh/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VoxelToMesh/es.md)
 
 El nodo VoxelToMesh convierte datos de vóxeles 3D en geometría de malla utilizando diferentes algoritmos. Procesa cuadrículas de vóxeles y genera vértices y caras que forman una representación de malla 3D. El nodo admite múltiples algoritmos de conversión y permite ajustar el valor de umbral para controlar la extracción de superficie.
 

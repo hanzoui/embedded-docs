@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentConcat/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentConcat/ko.md)
 
 LatentConcat 노드는 두 개의 잠재 샘플을 지정된 차원을 따라 결합합니다. 두 개의 잠재 입력을 받아 선택한 축(x, y 또는 t 차원)을 따라 연결합니다. 이 노드는 연결 작업을 수행하기 전에 두 번째 입력의 배치 크기를 첫 번째 입력과 일치하도록 자동으로 조정합니다.
 

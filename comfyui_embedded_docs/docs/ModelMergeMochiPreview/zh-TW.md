@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeMochiPreview/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeMochiPreview/zh-TW.md)
 
 此節點使用基於區塊的方法合併兩個 AI 模型，並對不同模型組件提供細粒度控制。它允許您透過調整特定區段的插值權重來混合模型，這些區段包括位置頻率、嵌入層和個別轉換器區塊。合併過程會根據指定的權重值，結合兩個輸入模型的架構和參數。
 

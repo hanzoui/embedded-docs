@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftImageToImageNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftImageToImageNode/fr.md)
 
 Ce nœud modifie une image existante en fonction d'une invite textuelle et d'un paramètre de force. Il utilise l'API Recraft pour transformer l'image d'entrée selon la description fournie tout en maintenant une certaine similarité avec l'image originale en fonction du paramètre de force.
 

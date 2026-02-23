@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMAdaptative/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMAdaptative/en.md)
 
 The SamplerDPMAdaptative node implements an adaptive DPM (Diffusion Probabilistic Model) sampler that automatically adjusts step sizes during the sampling process. It uses tolerance-based error control to determine optimal step sizes, balancing computational efficiency with sampling accuracy. This adaptive approach helps maintain quality while potentially reducing the number of steps needed.
 

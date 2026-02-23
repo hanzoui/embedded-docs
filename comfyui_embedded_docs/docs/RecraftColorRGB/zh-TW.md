@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftColorRGB/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftColorRGB/zh-TW.md)
 
 透過選擇特定的 RGB 值來建立 Recraft 顏色。此節點允許您透過指定個別的紅、綠、藍值來定義顏色，這些值隨後會被轉換為 Recraft 顏色格式，可用於其他 Recraft 操作。
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyQwenImageLayeredLatentImage/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyQwenImageLayeredLatentImage/zh.md)
 
 Empty Qwen Image Layered Latent 节点创建一个空白的多层潜在表示，用于 Qwen 图像模型。它生成一个填充零值的张量，结构包含指定的层数、批次大小和空间维度。此空潜在表示可作为后续图像生成或处理工作流的起点。
 

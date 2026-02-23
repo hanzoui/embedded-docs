@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplingPercentToSigma/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplingPercentToSigma/ko.md)
 
 SamplingPercentToSigma 노드는 모델의 샘플링 매개변수를 사용하여 샘플링 백분율 값을 해당 시그마 값으로 변환합니다. 0.0에서 1.0 사이의 백분율 값을 입력받아 모델의 노이즈 스케줄에 맞는 적절한 시그마 값으로 매핑하며, 경계에서 계산된 시그마를 반환할지 실제 최대/최소 시그마 값을 반환할지 선택할 수 있는 옵션을 제공합니다.
 

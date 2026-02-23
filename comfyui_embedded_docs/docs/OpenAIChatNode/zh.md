@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIChatNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIChatNode/zh.md)
 
 此节点通过 OpenAI 模型生成文本回复。它允许您通过发送文本提示并接收生成的回复来与 AI 模型进行对话。该节点支持多轮对话，能够记住先前的上下文，并且还可以处理图像和文件作为模型的附加上下文。
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OptimalStepsScheduler/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OptimalStepsScheduler/pt-BR.md)
 
 O nó OptimalStepsScheduler calcula os sigmas do cronograma de ruído para modelos de difusão com base no tipo de modelo e na configuração de etapas selecionados. Ele ajusta o número total de etapas de acordo com o parâmetro `denoise` e interpola os níveis de ruído para corresponder à contagem de etapas solicitada. O nó retorna uma sequência de valores sigma que determinam os níveis de ruído usados durante o processo de amostragem de difusão.
 

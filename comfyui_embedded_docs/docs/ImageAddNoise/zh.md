@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageAddNoise/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageAddNoise/zh.md)
 
 ImageAddNoise 节点用于向输入图像添加随机噪声。它使用指定的随机种子生成一致的噪声模式，并允许控制噪声效果的强度。输出图像保持与输入相同的尺寸，但增加了视觉纹理。
 

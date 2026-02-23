@@ -1,4 +1,4 @@
-> 本文档由AI生成。如果您发现任何错误或有改进建议，请随时贡献！[在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BasicGuider/zh.md)
+> 本文档由AI生成。如果您发现任何错误或有改进建议，请随时贡献！[在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BasicGuider/zh.md)
 
 BasicGuider 节点为采样过程创建一个简单的引导机制。它接收模型和条件数据作为输入，并生成一个引导器对象，该对象可在采样过程中用于引导生成过程。此节点提供了受控生成所需的基础引导功能。
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeAceStepAudio1.5/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeAceStepAudio1.5/ja.md)
 
 TextEncodeAceStepAudio1.5ノードは、AceStepAudio 1.5モデルで使用するためのテキストおよびオーディオ関連のメタデータを準備します。記述的なタグ、歌詞、音楽パラメータを受け取り、CLIPモデルを使用してオーディオ生成に適したコンディショニング形式に変換します。
 

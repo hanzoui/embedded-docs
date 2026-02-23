@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecordAudio/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecordAudio/fr.md)
 
 Le nœud RecordAudio charge les fichiers audio qui ont été enregistrés ou sélectionnés via l'interface d'enregistrement audio. Il traite le fichier audio et le convertit en un format de forme d'onde qui peut être utilisé par d'autres nœuds de traitement audio dans le flux de travail. Le nœud détecte automatiquement la fréquence d'échantillonnage et prépare les données audio pour une manipulation ultérieure.
 

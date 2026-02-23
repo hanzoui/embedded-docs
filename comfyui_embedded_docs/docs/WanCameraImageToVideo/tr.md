@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanCameraImageToVideo/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanCameraImageToVideo/tr.md)
 
 WanCameraImageToVideo düğümü, video üretimi için gizli temsiller oluşturarak görüntüleri video dizilerine dönüştürür. Video modelleriyle kullanılabilecek video gizli temsilleri oluşturmak için koşullandırma girdilerini ve isteğe bağlı başlangıç görüntülerini işler. Düğüm, gelişmiş video üretimi kontrolü için kamera koşullarını ve clip vision çıktılarını destekler.
 

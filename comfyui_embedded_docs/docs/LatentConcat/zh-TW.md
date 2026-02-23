@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentConcat/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentConcat/zh-TW.md)
 
 LatentConcat 節點會沿著指定的維度合併兩個潛空間樣本。它接收兩個潛空間輸入，並沿著選定的軸線（x、y 或 t 維度）將它們串接在一起。在執行串接操作之前，該節點會自動調整第二個輸入的批次大小以匹配第一個輸入。
 

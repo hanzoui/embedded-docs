@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentCutToBatch/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentCutToBatch/ar.md)
 
 يأخذ عقدة LatentCutToBatch تمثيلاً كامنًا ويقسمه على طول بُعد محدد إلى شرائح متعددة. ثم يتم تجميع هذه الشرائح في بُعد دفعة جديد، مما يحول بشكل فعال عينة كامنة واحدة إلى دفعة من العينات الكامنة الأصغر. يُعد هذا مفيدًا لمعالجة أجزاء مختلفة من الفضاء الكامن بشكل مستقل.
 

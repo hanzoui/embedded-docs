@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AlignYourStepsScheduler/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AlignYourStepsScheduler/ko.md)
 
 AlignYourStepsScheduler 노드는 다양한 모델 유형에 따라 디노이징 프로세스를 위한 시그마 값을 생성합니다. 이 노드는 샘플링 프로세스의 각 단계에 적절한 노이즈 수준을 계산하고 디노이즈 매개변수에 따라 총 단계 수를 조정합니다. 이를 통해 다양한 디퓨전 모델의 특정 요구 사항에 샘플링 단계를 맞추는 데 도움이 됩니다.
 

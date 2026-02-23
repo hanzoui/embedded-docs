@@ -1,12 +1,12 @@
-Load3D 노드는 3D 모델 파일을 불러오고 처리하는 핵심 노드입니다. 노드를 불러올 때 `ComfyUI/input/3d/` 폴더에서 사용 가능한 3D 리소스를 자동으로 가져오며, 업로드 기능을 통해 지원되는 3D 파일을 업로드하여 미리보기할 수도 있습니다.
+Load3D 노드는 3D 모델 파일을 불러오고 처리하는 핵심 노드입니다. 노드를 불러올 때 `Hanzo Studio/input/3d/` 폴더에서 사용 가능한 3D 리소스를 자동으로 가져오며, 업로드 기능을 통해 지원되는 3D 파일을 업로드하여 미리보기할 수도 있습니다.
 
 **지원 포맷**
 현재 이 노드는 `.gltf`, `.glb`, `.obj`, `.fbx`, `.stl` 등 다양한 3D 파일 포맷을 지원합니다.
 
 **3D 노드 설정**
-3D 노드와 관련된 일부 설정은 ComfyUI의 설정 메뉴에서 조정할 수 있습니다. 자세한 내용은 아래 문서를 참고하세요:
+3D 노드와 관련된 일부 설정은 Hanzo Studio의 설정 메뉴에서 조정할 수 있습니다. 자세한 내용은 아래 문서를 참고하세요:
 
-[설정 메뉴](https://docs.comfy.org/interface/settings/3d)
+[설정 메뉴](https://docs.hanzo.ai/interface/settings/3d)
 
 일반적인 노드 출력 외에도 Load3D에는 미리보기 영역 메뉴에 다양한 3D 뷰 관련 기능이 있습니다.
 
@@ -14,7 +14,7 @@ Load3D 노드는 3D 모델 파일을 불러오고 처리하는 핵심 노드입�
 
 | 파라미터명      | 타입           | 설명                                                        | 기본값 | 범위         |
 |---------------|---------------|-------------------------------------------------------------|--------|--------------|
-| model_file    | File Selection | 3D 모델 파일 경로, 업로드 지원, 기본적으로 `ComfyUI/input/3d/`에서 파일을 읽음 | -      | 지원 포맷    |
+| model_file    | File Selection | 3D 모델 파일 경로, 업로드 지원, 기본적으로 `Hanzo Studio/input/3d/`에서 파일을 읽음 | -      | 지원 포맷    |
 | width         | INT            | 캔버스 렌더링 너비                                           | 1024   | 1-4096       |
 | height        | INT            | 캔버스 렌더링 높이                                           | 1024   | 1-4096       |
 
@@ -24,7 +24,7 @@ Load3D 노드는 3D 모델 파일을 불러오고 처리하는 핵심 노드입�
 |-----------------|----------------|-------------------------------------------------------------|
 | image           | IMAGE          | 캔버스에 렌더링된 이미지                                    |
 | mask            | MASK           | 현재 모델 위치가 포함된 마스크                              |
-| mesh_path       | STRING         | 모델 파일 경로(`ComfyUI/input` 폴더 내 경로)                |
+| mesh_path       | STRING         | 모델 파일 경로(`Hanzo Studio/input` 폴더 내 경로)                |
 | normal          | IMAGE          | 노멀 맵                                                     |
 | lineart         | IMAGE          | 라인아트 이미지 출력, `edge_threshold`는 캔버스의 모델 메뉴에서 조정 가능 |
 | camera_info     | LOAD3D_CAMERA  | 카메라 정보                                                 |
@@ -122,7 +122,7 @@ Load3D 노드의 Canvas 영역에는 다양한 뷰 조작 기능이 포함되어
 ### 3. 오른쪽 메뉴 기능
 
 <video controls width="640" height="360">
-  <source src="https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
   사용 중인 브라우저는 동영상 재생을 지원하지 않습니다.
 </video>
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HyperTile/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HyperTile/ja.md)
 
 HyperTileノードは、拡散モデルのアテンションメカニズムにタイリング技術を適用し、画像生成時のメモリ使用量を最適化します。潜在空間を小さなタイルに分割して個別に処理し、結果を再構成します。これにより、メモリ不足を起こすことなく、より大きな画像サイズを扱うことが可能になります。
 

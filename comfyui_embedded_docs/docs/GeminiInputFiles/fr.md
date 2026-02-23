@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GeminiInputFiles/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GeminiInputFiles/fr.md)
 
 Charge et formate les fichiers d'entrée pour une utilisation avec l'API Gemini. Ce nœud permet aux utilisateurs d'inclure des fichiers texte (.txt) et PDF (.pdf) comme contexte d'entrée pour le modèle Gemini. Les fichiers sont convertis au format approprié requis par l'API et peuvent être chaînés ensemble pour inclure plusieurs fichiers dans une seule requête.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeWAN2_1/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeWAN2_1/zh-TW.md)
 
 ModelMergeWAN2_1 節點透過加權平均的方式混合兩個模型的組件來進行模型合併。它支援不同的模型尺寸，包括具有 30 個區塊的 1.3B 模型和具有 40 個區塊的 14B 模型，並對包含額外圖像嵌入組件的圖像轉影片模型進行特殊處理。模型的每個組件都可以單獨設定權重，以控制兩個輸入模型之間的混合比例。
 

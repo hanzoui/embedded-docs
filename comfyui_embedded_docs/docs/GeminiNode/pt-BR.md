@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GeminiNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GeminiNode/pt-BR.md)
 
 Este nó permite que os usuários interajam com os modelos de IA Gemini do Google para gerar respostas em texto. Você pode fornecer múltiplos tipos de entrada, incluindo texto, imagens, áudio, vídeo e arquivos como contexto para que o modelo gere respostas mais relevantes e significativas. O nó gerencia toda a comunicação com a API e a análise das respostas automaticamente.
 

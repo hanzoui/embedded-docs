@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PerpNegGuider/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PerpNegGuider/zh-TW.md)
 
 PerpNegGuider 節點建立了一個引導系統，用於使用垂直負向條件控制來控制圖像生成。它接收正向、負向和空條件輸入，並應用專門的引導演算法來引導生成過程。此節點專為測試目的而設計，提供對引導強度和負向縮放的細緻控制。
 

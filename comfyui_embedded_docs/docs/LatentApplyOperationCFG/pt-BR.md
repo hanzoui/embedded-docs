@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentApplyOperationCFG/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentApplyOperationCFG/pt-BR.md)
 
 O nó LatentApplyOperationCFG aplica uma operação latente para modificar o processo de orientação por condicionamento (CFG) em um modelo. Ele funciona interceptando as saídas de condicionamento durante o processo de amostragem de orientação livre de classificador (CFG) e aplicando a operação especificada às representações latentes antes que elas sejam usadas para a geração.
 

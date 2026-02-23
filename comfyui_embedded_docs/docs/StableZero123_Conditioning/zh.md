@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableZero123_Conditioning/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableZero123_Conditioning/zh.md)
 
 StableZero123_Conditioning 节点通过处理输入图像和相机角度，生成用于3D模型生成的条件数据和潜在表示。该节点使用CLIP视觉模型对图像特征进行编码，将其基于仰角和方位角的相机嵌入信息相结合，并为下游3D生成任务生成正向/负向条件数据及潜在表示。
 

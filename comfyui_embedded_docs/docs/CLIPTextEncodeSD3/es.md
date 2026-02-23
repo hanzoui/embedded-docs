@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeSD3/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeSD3/es.md)
 
 El nodo CLIPTextEncodeSD3 procesa entradas de texto para modelos Stable Diffusion 3 mediante la codificación de múltiples prompts de texto utilizando diferentes modelos CLIP. Maneja tres entradas de texto separadas (clip_g, clip_l y t5xxl) y proporciona opciones para gestionar el relleno de texto vacío. El nodo asegura una alineación adecuada de tokens entre las diferentes entradas de texto y devuelve datos de acondicionamiento adecuados para las pipelines de generación de SD3.
 

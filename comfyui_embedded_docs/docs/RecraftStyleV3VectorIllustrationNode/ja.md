@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftStyleV3VectorIllustrationNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftStyleV3VectorIllustrationNode/ja.md)
 
 このノードは、Recraft APIで使用するスタイルを設定し、特に`vector_illustration`スタイルを選択します。このカテゴリ内で、より具体的なサブスタイルをオプションで選択することができます。このノードは、他のRecraft APIノードに渡すことができるスタイル設定オブジェクトを出力します。
 

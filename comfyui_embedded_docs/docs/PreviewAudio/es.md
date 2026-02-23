@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PreviewAudio/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PreviewAudio/es.md)
 
 El nodo PreviewAudio genera un archivo de vista previa de audio temporal que puede mostrarse en la interfaz. Hereda de SaveAudio pero guarda los archivos en un directorio temporal con un prefijo de nombre de archivo aleatorio. Esto permite a los usuarios previsualizar rápidamente las salidas de audio sin crear archivos permanentes.
 

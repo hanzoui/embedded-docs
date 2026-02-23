@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceDiT/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceDiT/en.md)
 
 Enhances guidance towards detailed structure by using another set of CFG negative with skipped layers. This generic version of SkipLayerGuidance can be used on every DiT model and is inspired by Perturbed Attention Guidance. The original experimental implementation was created for SD3.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadVideo/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadVideo/pt-BR.md)
 
 O nó Load Video carrega arquivos de vídeo do diretório de entrada e os disponibiliza para processamento no fluxo de trabalho. Ele lê arquivos de vídeo da pasta de entrada designada e os emite como dados de vídeo que podem ser conectados a outros nós de processamento de vídeo.
 

@@ -1,6 +1,6 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningSetDefaultAndCombine/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningSetDefaultAndCombine/en.md)
 
-The PairConditioningSetDefaultAndCombine node sets default conditioning values and combines them with input conditioning data. It takes positive and negative conditioning inputs along with their default counterparts, then processes them through ComfyUI's hook system to produce final conditioning outputs that incorporate the default values.
+The PairConditioningSetDefaultAndCombine node sets default conditioning values and combines them with input conditioning data. It takes positive and negative conditioning inputs along with their default counterparts, then processes them through Hanzo Studio's hook system to produce final conditioning outputs that incorporate the default values.
 
 ## Inputs
 

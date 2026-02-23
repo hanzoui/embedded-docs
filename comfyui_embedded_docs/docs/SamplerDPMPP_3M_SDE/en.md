@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMPP_3M_SDE/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMPP_3M_SDE/en.md)
 
 The SamplerDPMPP_3M_SDE node creates a DPM++ 3M SDE sampler for use in the sampling process. This sampler uses a third-order multistep stochastic differential equation method with configurable noise parameters. The node allows you to choose whether noise calculations are performed on the GPU or CPU.
 

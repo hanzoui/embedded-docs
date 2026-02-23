@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMAdaptative/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMAdaptative/fr.md)
 
 Le nœud SamplerDPMAdaptative implémente un échantillonneur DPM (Diffusion Probabilistic Model) adaptatif qui ajuste automatiquement la taille des pas pendant le processus d'échantillonnage. Il utilise un contrôle d'erreur basé sur la tolérance pour déterminer les tailles de pas optimales, équilibrant l'efficacité computationnelle avec la précision de l'échantillonnage. Cette approche adaptative aide à maintenir la qualité tout en réduisant potentiellement le nombre d'étapes nécessaires.
 

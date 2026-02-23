@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Rodin3D_Sketch/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Rodin3D_Sketch/ko.md)
 
 이 노드는 Rodin API를 사용하여 3D 에셋을 생성합니다. 입력 이미지를 가져와 외부 서비스를 통해 3D 모델로 변환합니다. 이 노드는 작업 생성부터 최종 3D 모델 파일 다운로드까지의 전체 프로세스를 처리합니다.
 

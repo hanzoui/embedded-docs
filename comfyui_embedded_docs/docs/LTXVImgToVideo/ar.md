@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVImgToVideo/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVImgToVideo/ar.md)
 
 يحول عقدة LTXVImgToVideo الصورة المدخلة إلى تمثيل كامن للفيديو لنماذج توليد الفيديو. تأخذ العقدة صورة واحدة وتوسعها إلى سلسلة من الإطارات باستخدام مشفر VAE، ثم تطبق التكييف مع تحكم في القوة لتحديد مقدار المحتوى الأصلي للصورة الذي يتم الحفاظ عليه مقابل المقدار الذي يتم تعديله أثناء توليد الفيديو.
 

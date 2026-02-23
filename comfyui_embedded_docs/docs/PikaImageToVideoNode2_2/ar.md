@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaImageToVideoNode2_2/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaImageToVideoNode2_2/ar.md)
 
 عقد Pika Image to Video يرسل صورة ونصًا وصفيًا إلى واجهة برمجة تطبيقات Pika الإصدار 2.2 لتوليد فيديو. يحول العقد الصورة المدخلة إلى تنسيق فيديو بناءً على الوصف والإعدادات المقدمة. يتولى العقد إدارة الاتصال بواجهة برمجة التطبيقات ويعيد الفيديو المُنشأ كمخرج.
 

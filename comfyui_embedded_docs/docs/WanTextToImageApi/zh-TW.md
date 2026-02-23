@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanTextToImageApi/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanTextToImageApi/zh-TW.md)
 
 Wan Text to Image 節點根據文字描述生成圖像。它使用 AI 模型從文字提示創建視覺內容，支援英文和中文文字輸入。該節點提供各種控制項來調整輸出圖像的尺寸、品質和風格偏好。
 

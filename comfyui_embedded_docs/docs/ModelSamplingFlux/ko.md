@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingFlux/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingFlux/ko.md)
 
 ModelSamplingFlux 노드는 이미지 크기를 기반으로 시프트 매개변수를 계산하여 주어진 모델에 Flux 모델 샘플링을 적용합니다. 이 노드는 지정된 너비, 높이 및 시프트 매개변수에 따라 모델의 동작을 조정하는 특수화된 샘플링 구성을 생성한 후, 새로운 샘플링 설정이 적용된 수정된 모델을 반환합니다.
 

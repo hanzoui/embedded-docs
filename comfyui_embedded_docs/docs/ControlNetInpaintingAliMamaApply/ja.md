@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ControlNetInpaintingAliMamaApply/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ControlNetInpaintingAliMamaApply/ja.md)
 
 ControlNetInpaintingAliMamaApplyノードは、インペイント（画像修復）タスク向けにControlNetの調節を適用するノードです。ポジティブ調節とネガティブ調節をコントロール画像とマスクと組み合わせることで、生成プロセスを誘導する修正済みの調節データを作成します。入力画像とマスクを処理し、画像のどの領域を修復するかを精密に制御できるようにします。このノードは強度調整とタイミング制御をサポートしており、生成プロセスの異なる段階におけるControlNetの影響を微調整することが可能です。
 

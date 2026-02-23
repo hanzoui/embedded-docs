@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPMergeAdd/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPMergeAdd/zh.md)
 
 CLIPMergeAdd 节点通过将第二个 CLIP 模型中的补丁添加到第一个模型来合并两个 CLIP 模型。它会创建第一个 CLIP 模型的副本，并选择性地整合第二个模型中的关键补丁，同时排除位置 ID 和对数尺度参数。这使您能够在保留基础模型结构的同时合并 CLIP 模型组件。
 

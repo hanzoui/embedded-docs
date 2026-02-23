@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentBlend/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentBlend/pt-BR.md)
 
 O nó LatentBlend combina duas amostras latentes mesclando-as usando um fator de mesclagem especificado. Ele recebe duas entradas latentes e cria uma nova saída onde a primeira amostra é ponderada pelo fator de mesclagem e a segunda amostra é ponderada pelo inverso. Se as amostras de entrada tiverem formas diferentes, a segunda amostra será redimensionada automaticamente para corresponder às dimensões da primeira amostra.
 

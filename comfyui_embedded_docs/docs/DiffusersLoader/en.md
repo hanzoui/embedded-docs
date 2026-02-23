@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DiffusersLoader/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DiffusersLoader/en.md)
 
 The DiffusersLoader node loads pre-trained models from the diffusers format. It searches for valid diffusers model directories containing a model_index.json file and loads them as MODEL, CLIP, and VAE components for use in the pipeline. This node is part of the deprecated loaders category and provides compatibility with Hugging Face diffusers models.
 

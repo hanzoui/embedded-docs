@@ -1,6 +1,6 @@
-该节点会检测位于 `ComfyUI/models/checkpoints` 文件夹下的模型，
+该节点会检测位于 `Hanzo Studio/models/checkpoints` 文件夹下的模型，
 同时也会读取你在 extra_model_paths.yaml 文件中配置的额外路径的模型，
-有时你可能需要 **刷新 ComfyUI 界面** 才能让它读取到对应文件夹下的模型文件
+有时你可能需要 **刷新 Hanzo Studio 界面** 才能让它读取到对应文件夹下的模型文件
 
 unCLIP检查点加载节点旨在加载专门为unCLIP模型定制的检查点。它便于检索和初始化模型、CLIP视觉模块和变分自编码器（VAE）从指定的检查点，简化了进一步操作或分析的设置过程。
 

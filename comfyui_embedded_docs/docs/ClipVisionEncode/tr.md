@@ -1,6 +1,6 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPVisionEncode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPVisionEncode/tr.md)
 
-`CLIP Vision Encode` düğümü, ComfyUI'da giriş görüntülerini CLIP Vision modeli aracılığıyla görsel özellik vektörlerine dönüştürmek için kullanılan bir görüntü kodlama düğümüdür. Bu düğüm, görüntü ve metin anlama arasında önemli bir köprü görevi görür ve çeşitli AI görüntü oluşturma ve işleme iş akışlarında yaygın olarak kullanılır.
+`CLIP Vision Encode` düğümü, Hanzo Studio'da giriş görüntülerini CLIP Vision modeli aracılığıyla görsel özellik vektörlerine dönüştürmek için kullanılan bir görüntü kodlama düğümüdür. Bu düğüm, görüntü ve metin anlama arasında önemli bir köprü görevi görür ve çeşitli AI görüntü oluşturma ve işleme iş akışlarında yaygın olarak kullanılır.
 
 **Düğüm İşlevselliği**
 

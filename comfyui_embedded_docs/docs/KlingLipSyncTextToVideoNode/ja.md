@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingLipSyncTextToVideoNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingLipSyncTextToVideoNode/ja.md)
 
 Kling Lip Sync Text to Videoノードは、ビデオファイル内の口の動きをテキストプロンプトに合わせて同期させます。入力ビデオを受け取り、キャラクターの口の動きが提供されたテキストに合うように調整された新しいビデオを生成します。このノードは音声合成を使用して、自然な見た目の音声同期を作成します。
 

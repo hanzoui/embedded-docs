@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyLatentImage/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyLatentImage/ar.md)
 
 تُعد عُقدة `EmptyLatentImage` مصممة لتوليد تمثيل مساحة كامنة فارغة بأبعاد وحجم دفعة محددة. تُمثل هذه العُقدة خطوة أساسية في إنشاء الصور أو التلاعب بها في المساحة الكامنة، حيث توفر نقطة بداية لعمليات توليد الصور أو تعديلها لاحقًا.
 

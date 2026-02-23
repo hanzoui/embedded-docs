@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVConditioning/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVConditioning/ar.md)
 
 تُضيف عقدة LTXVConditioning معلومات معدل الإطارات إلى كل من مدخلي التكييف الإيجابي والسلبي لنماذج توليد الفيديو. تأخذ العقدة بيانات التكييف الموجودة مسبقًا وتطبق قيمة معدل الإطارات المحددة على مجموعتي التكييف، مما يجعلها مناسبة لمعالجة نماذج الفيديو.
 

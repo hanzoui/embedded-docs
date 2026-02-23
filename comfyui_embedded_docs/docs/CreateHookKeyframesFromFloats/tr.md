@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookKeyframesFromFloats/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookKeyframesFromFloats/tr.md)
 
 Bu düğüm, belirtilen başlangıç ve bitiş yüzdeleri arasında eşit şekilde dağıtılmış bir kayan nokta kuvvet değerleri listesinden kanca kareleri oluşturur. Animasyon zaman çizelgesinde her kuvvet değerinin belirli bir yüzdelik konuma atandığı bir kare dizisi üretir. Düğüm, yeni bir kare grubu oluşturabilir veya mevcut bir gruba ekleyebilir ve hata ayıklama amacıyla oluşturulan kareleri yazdırma seçeneği sunar.
 

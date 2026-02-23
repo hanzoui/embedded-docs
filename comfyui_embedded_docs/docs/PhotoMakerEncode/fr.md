@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PhotoMakerEncode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PhotoMakerEncode/fr.md)
 
 Le nœud PhotoMakerEncode traite des images et du texte pour générer des données de conditionnement pour la génération d'images IA. Il prend une image de référence et une invite texte, puis crée des plongements qui peuvent être utilisés pour guider la génération d'image en fonction des caractéristiques visuelles de l'image de référence. Le nœud recherche spécifiquement le jeton "photomaker" dans le texte pour déterminer où appliquer le conditionnement basé sur l'image.
 

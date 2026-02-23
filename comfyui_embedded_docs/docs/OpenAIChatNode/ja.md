@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIChatNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIChatNode/ja.md)
 
 このノードはOpenAIモデルからテキスト応答を生成します。テキストプロンプトを送信して生成された応答を受け取ることで、AIモデルとの会話を行うことができます。このノードは、以前のコンテキストを記憶できるマルチターン会話をサポートしており、モデルの追加コンテキストとして画像やファイルを処理することもできます。
 

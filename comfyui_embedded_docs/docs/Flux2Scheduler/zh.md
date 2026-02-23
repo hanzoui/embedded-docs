@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Flux2Scheduler/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Flux2Scheduler/zh.md)
 
 Flux2Scheduler 节点为去噪过程生成一系列噪声水平值（sigmas），专为 Flux 模型定制。它根据去噪步骤的数量和目标图像的尺寸计算一个调度表，该调度表会影响图像生成过程中噪声去除的进程。
 

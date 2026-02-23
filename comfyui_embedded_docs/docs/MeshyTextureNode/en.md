@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyTextureNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyTextureNode/en.md)
 
 The Meshy: Texture Node applies AI-generated textures to a 3D model. It takes a task ID from a previous Meshy 3D generation or conversion node and uses either a text description or a reference image to create new textures for the model. The node outputs the textured model in GLB and FBX file formats.
 

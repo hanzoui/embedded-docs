@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftColorRGB/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftColorRGB/tr.md)
 
 Belirli RGB değerlerini seçerek Recraft Rengi oluşturun. Bu düğüm, bireysel kırmızı, yeşil ve mavi değerlerini belirterek bir renk tanımlamanıza olanak tanır; bu değerler daha sonra diğer Recraft işlemlerinde kullanılabilecek bir Recraft renk formatına dönüştürülür.
 

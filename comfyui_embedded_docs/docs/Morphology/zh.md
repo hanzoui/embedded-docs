@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Morphology/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Morphology/zh.md)
 
 形态学节点对图像应用各种形态学操作，这些是用于处理和分析图像形状的数学运算。它可以使用可自定义的核大小来执行腐蚀、膨胀、开运算、闭运算等操作，以控制效果强度。
 

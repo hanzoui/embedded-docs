@@ -3,14 +3,14 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "comfyui-embedded-docs"
+name = "hanzo-studio-embedded-docs"
 version = "0.4.1"
-description = "Embedded documentation for ComfyUI nodes"
+description = "Embedded documentation for Hanzo Studio nodes"
 readme = "README.md"
 requires-python = ">=3.9"
 license = "GPL-3.0"
 authors = [
-    {name = "Comfy-Org"}
+    {name = "hanzoui"}
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
@@ -18,10 +18,10 @@ classifiers = [
 ]
 
 [project.urls]
-repository = "https://github.com/Comfy-Org/embedded-docs"
+repository = "https://github.com/hanzoui/embedded-docs"
 
 [tool.setuptools]
-packages = ["comfyui_embedded_docs"]
+packages = ["hanzo_studio_embedded_docs"]
 
 [tool.setuptools.package-data]
-comfyui_embedded_docs = ["docs/**/*.md", "docs/**/*.jpg", "docs/**/*.png", "docs/**/*.gif", "docs/**/*.webp"] 
+hanzo_studio_embedded_docs = ["docs/**/*.md", "docs/**/*.jpg", "docs/**/*.png", "docs/**/*.gif", "docs/**/*.webp"] 

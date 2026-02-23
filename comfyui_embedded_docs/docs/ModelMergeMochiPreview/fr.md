@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeMochiPreview/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeMochiPreview/fr.md)
 
 Ce nœud fusionne deux modèles d'IA en utilisant une approche basée sur des blocs avec un contrôle précis des différentes composantes du modèle. Il permet de mélanger des modèles en ajustant les poids d'interpolation pour des sections spécifiques incluant les fréquences positionnelles, les couches d'embedding et les blocs de transformateurs individuels. Le processus de fusion combine les architectures et paramètres des deux modèles d'entrée selon les valeurs de poids spécifiées.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerEulerAncestralCFGPP/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerEulerAncestralCFGPP/pt-BR.md)
 
 O nó SamplerEulerAncestralCFGPP cria um amostrador especializado para gerar imagens usando o método Euler Ancestral com orientação livre de classificador. Este amostrador combina técnicas de amostragem ancestral com condicionamento de orientação para produzir variações de imagem diversas, mantendo a coerência. Ele permite o ajuste fino do processo de amostragem por meio de parâmetros que controlam o ruído e os ajustes do tamanho do passo.
 

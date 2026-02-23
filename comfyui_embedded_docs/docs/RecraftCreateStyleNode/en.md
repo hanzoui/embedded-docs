@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftCreateStyleNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftCreateStyleNode/en.md)
 
 This node creates a custom style for image generation by uploading reference images. You can upload between 1 and 5 images to define the new style, and the node will return a unique style ID that can be used with other Recraft nodes. The total combined file size of all uploaded images must not exceed 5 MB.
 

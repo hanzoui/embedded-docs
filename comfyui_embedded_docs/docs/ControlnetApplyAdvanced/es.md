@@ -1,4 +1,4 @@
-Este nodo ha sido renombrado a Aplicar ControlNet en la nueva versión de ComfyUI, reemplazando la versión anterior llamada Aplicar ControlNet (ANTIGUO). Dado que el anterior Aplicar ControlNet (ANTIGUO) es actualmente algo similar a un estado habilitado, la documentación más reciente para este nodo se ha trasladado a `Aplicar ControlNet` para mayor claridad.
+Este nodo ha sido renombrado a Aplicar ControlNet en la nueva versión de Hanzo Studio, reemplazando la versión anterior llamada Aplicar ControlNet (ANTIGUO). Dado que el anterior Aplicar ControlNet (ANTIGUO) es actualmente algo similar a un estado habilitado, la documentación más reciente para este nodo se ha trasladado a `Aplicar ControlNet` para mayor claridad.
 
 Este nodo aplica transformaciones avanzadas de control net a los datos de acondicionamiento basados en una imagen y un modelo de control net. Permite ajustes precisos de la influencia del control net sobre el contenido generado, habilitando modificaciones más precisas y variadas al acondicionamiento.
 

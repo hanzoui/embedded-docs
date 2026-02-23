@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PixverseTransitionVideoNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PixverseTransitionVideoNode/ar.md)
 
 يُنشئ مقاطع فيديو بناءً على المطالبة النصية وحجم الإخراج. تقوم هذه العقدة بإنشاء مقاطع فيديو انتقالية بين صورتين مدخليتين باستخدام واجهة برمجة تطبيقات PixVerse، مما يسمح لك بتحديد جودة الفيديو، المدة، نمط الحركة، ومعاملات التوليد.
 

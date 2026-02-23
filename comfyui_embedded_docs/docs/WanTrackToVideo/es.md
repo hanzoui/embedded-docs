@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanTrackToVideo/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanTrackToVideo/es.md)
 
 El nodo WanTrackToVideo convierte datos de seguimiento de movimiento en secuencias de video procesando puntos de seguimiento y generando los fotogramas de video correspondientes. Toma coordenadas de seguimiento como entrada y produce acondicionamiento de video y representaciones latentes que pueden usarse para generación de video. Cuando no se proporcionan seguimientos, recurre a la conversión estándar de imagen a video.
 

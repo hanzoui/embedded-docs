@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIDalle3/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIDalle3/tr.md)
 
 OpenAI'nin DALL·E 3 uç noktası aracılığıyla görüntüleri eşzamanlı olarak oluşturur. Bu düğüm, bir metin istemi alır ve OpenAI'nin DALL·E 3 modelini kullanarak karşılık gelen görüntüleri oluşturur; görüntü kalitesi, stili ve boyutlarını belirtmenize olanak tanır.
 

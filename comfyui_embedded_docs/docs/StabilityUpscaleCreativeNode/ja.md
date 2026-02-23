@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityUpscaleCreativeNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityUpscaleCreativeNode/ja.md)
 
 画像を最小限の変更で4K解像度にアップスケールします。このノードはStability AIのクリエイティブアップスケーリング技術を使用して、元のコンテンツを保持しながら画像解像度を向上させ、微妙なクリエイティブな詳細を追加します。
 

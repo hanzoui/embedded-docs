@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SetModelHooksOnCond/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SetModelHooksOnCond/fr.md)
 
 Ce nœud attache des crochets personnalisés aux données de conditionnement, vous permettant d'intercepter et de modifier le processus de conditionnement pendant l'exécution du modèle. Il prend un ensemble de crochets et les applique aux données de conditionnement fournies, permettant une personnalisation avancée du flux de travail de génération texte-à-image. Le conditionnement modifié avec les crochets attachés est ensuite renvoyé pour être utilisé dans les étapes de traitement ultérieures.
 

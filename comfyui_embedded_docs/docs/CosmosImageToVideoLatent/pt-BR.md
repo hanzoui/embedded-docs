@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CosmosImageToVideoLatent/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CosmosImageToVideoLatent/pt-BR.md)
 
 O nó CosmosImageToVideoLatent cria representações latentes de vídeo a partir de imagens de entrada. Ele gera um latente de vídeo em branco e, opcionalmente, codifica imagens de início e/ou fim nos quadros iniciais e/ou finais da sequência de vídeo. Quando as imagens são fornecidas, ele também cria máscaras de ruído correspondentes para indicar quais partes do latente devem ser preservadas durante a geração.
 

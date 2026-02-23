@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AutogrowNamesTestNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AutogrowNamesTestNode/es.md)
 
 Este nodo es una prueba para la función de entrada Autogrow. Toma un número dinámico de entradas de tipo FLOAT, cada una etiquetada con un nombre específico, y combina sus valores en una única cadena separada por comas.
 

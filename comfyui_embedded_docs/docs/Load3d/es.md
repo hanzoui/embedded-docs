@@ -1,12 +1,12 @@
-El nodo Load3D es un nodo principal para cargar y procesar archivos de modelos 3D. Al cargar el nodo, obtiene automáticamente los recursos 3D disponibles en `ComfyUI/input/3d/`. También puedes subir archivos 3D compatibles para previsualizarlos usando la función de carga.
+El nodo Load3D es un nodo principal para cargar y procesar archivos de modelos 3D. Al cargar el nodo, obtiene automáticamente los recursos 3D disponibles en `Hanzo Studio/input/3d/`. También puedes subir archivos 3D compatibles para previsualizarlos usando la función de carga.
 
 **Formatos soportados**
 Actualmente, este nodo soporta varios formatos de archivos 3D, incluyendo `.gltf`, `.glb`, `.obj`, `.fbx` y `.stl`.
 
 **Preferencias del nodo 3D**
-Algunas preferencias relacionadas con los nodos 3D se pueden configurar en el menú de configuración de ComfyUI. Consulta el siguiente documento para ver los ajustes correspondientes:
+Algunas preferencias relacionadas con los nodos 3D se pueden configurar en el menú de configuración de Hanzo Studio. Consulta el siguiente documento para ver los ajustes correspondientes:
 
-[Menú de configuración](https://docs.comfy.org/interface/settings/3d)
+[Menú de configuración](https://docs.hanzo.ai/interface/settings/3d)
 
 Además de las salidas habituales del nodo, Load3D tiene muchas opciones relacionadas con la vista 3D en el menú del área de previsualización.
 
@@ -14,7 +14,7 @@ Además de las salidas habituales del nodo, Load3D tiene muchas opciones relacio
 
 | Nombre del parámetro | Tipo           | Descripción                                                        | Predeterminado | Rango         |
 |---------------------|----------------|--------------------------------------------------------------------|----------------|---------------|
-| model_file          | File Selection | Ruta del archivo del modelo 3D, soporta carga, por defecto lee archivos de `ComfyUI/input/3d/` | -              | Formatos soportados |
+| model_file          | File Selection | Ruta del archivo del modelo 3D, soporta carga, por defecto lee archivos de `Hanzo Studio/input/3d/` | -              | Formatos soportados |
 | width               | INT            | Ancho de renderizado del lienzo                                    | 1024           | 1-4096        |
 | height              | INT            | Alto de renderizado del lienzo                                     | 1024           | 1-4096        |
 
@@ -24,7 +24,7 @@ Además de las salidas habituales del nodo, Load3D tiene muchas opciones relacio
 |--------------------|----------------|--------------------------------------------------------------------|
 | image              | IMAGE          | Imagen renderizada en el lienzo                                    |
 | mask               | MASK           | Máscara que contiene la posición actual del modelo                 |
-| mesh_path          | STRING         | Ruta del archivo del modelo (dentro de la carpeta `ComfyUI/input`) |
+| mesh_path          | STRING         | Ruta del archivo del modelo (dentro de la carpeta `Hanzo Studio/input`) |
 | normal             | IMAGE          | Mapa de normales                                                   |
 | lineart            | IMAGE          | Salida de imagen de dibujo lineal, el `edge_threshold` se puede ajustar en el menú de modelo del lienzo |
 | camera_info        | LOAD3D_CAMERA  | Información de la cámara                                           |
@@ -122,7 +122,7 @@ Este menú permite convertir y exportar rápidamente formatos de modelo
 ### 3. Funciones del menú derecho
 
 <video controls width="640" height="360">
-  <source src="https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de video.
 </video>
 

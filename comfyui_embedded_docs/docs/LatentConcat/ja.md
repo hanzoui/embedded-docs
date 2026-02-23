@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentConcat/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentConcat/ja.md)
 
 LatentConcatノードは、2つの潜在サンプルを指定された次元に沿って結合します。2つの潜在入力を取り、選択した軸（x、y、またはt次元）に沿って連結します。このノードは、連結操作を実行する前に、2番目の入力のバッチサイズを最初の入力に一致するように自動的に調整します。
 

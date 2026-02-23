@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ManualSigmas/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ManualSigmas/zh-TW.md)
 
 此節點允許您為採樣過程手動定義自定義的噪聲級別（sigmas）序列。您輸入一個數字列表作為字串，節點會將其轉換為可供其他採樣節點使用的張量。這對於測試或創建特定的噪聲調度非常有用。
 

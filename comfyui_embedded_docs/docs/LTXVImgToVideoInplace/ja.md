@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVImgToVideoInplace/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVImgToVideoInplace/ja.md)
 
 LTXVImgToVideoInplaceノードは、入力画像を初期フレームにエンコードすることで、動画の潜在表現を条件付けします。このノードは、VAEを使用して画像を潜在空間にエンコードし、指定された強度に基づいて既存の潜在サンプルとブレンドすることで動作します。これにより、画像が動画生成の出発点や条件付け信号として機能することが可能になります。
 

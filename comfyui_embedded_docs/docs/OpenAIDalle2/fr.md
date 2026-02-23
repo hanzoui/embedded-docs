@@ -1,10 +1,10 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIDalle2/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIDalle2/fr.md)
 
 Génère des images de manière synchrone via le point de terminaison DALL·E 2 d'OpenAI.
 
 ## Fonctionnement
 
-Ce nœud se connecte à l'API DALL·E 2 d'OpenAI pour créer des images basées sur des descriptions textuelles. Lorsque vous fournissez une invite textuelle, le nœud l'envoie aux serveurs d'OpenAI qui génèrent les images correspondantes et les renvoient à ComfyUI. Le nœud peut fonctionner dans deux modes : la génération d'image standard utilisant uniquement une invite textuelle, ou le mode d'édition d'image lorsqu'une image et un masque sont fournis. En mode édition, il utilise le masque pour déterminer quelles parties de l'image originale doivent être modifiées tout en conservant les autres zones inchangées.
+Ce nœud se connecte à l'API DALL·E 2 d'OpenAI pour créer des images basées sur des descriptions textuelles. Lorsque vous fournissez une invite textuelle, le nœud l'envoie aux serveurs d'OpenAI qui génèrent les images correspondantes et les renvoient à Hanzo Studio. Le nœud peut fonctionner dans deux modes : la génération d'image standard utilisant uniquement une invite textuelle, ou le mode d'édition d'image lorsqu'une image et un masque sont fournis. En mode édition, il utilise le masque pour déterminer quelles parties de l'image originale doivent être modifiées tout en conservant les autres zones inchangées.
 
 ## Entrées
 

@@ -1,12 +1,12 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVAudioVAELoader/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVAudioVAELoader/ar.md)
 
-يُحمِّل عُقدة LTXV Audio VAE Loader نموذج Audio Variational Autoencoder (VAE) مُدرَّبًا مسبقًا من ملف نقطة فحص. تقوم بقراءة نقطة الفحص المحددة، وتحميل أوزانها وبياناتها الوصفية، وإعداد النموذج للاستخدام في سير عمل توليد أو معالجة الصوت داخل ComfyUI.
+يُحمِّل عُقدة LTXV Audio VAE Loader نموذج Audio Variational Autoencoder (VAE) مُدرَّبًا مسبقًا من ملف نقطة فحص. تقوم بقراءة نقطة الفحص المحددة، وتحميل أوزانها وبياناتها الوصفية، وإعداد النموذج للاستخدام في سير عمل توليد أو معالجة الصوت داخل Hanzo Studio.
 
 ## المدخلات
 
 | المعامل | نوع البيانات | إلزامي | النطاق | الوصف |
 |-----------|-----------|----------|-------|-------------|
-| `ckpt_name` | STRING | نعم | جميع الملفات في مجلد `checkpoints`.<br>*مثال: `"audio_vae.safetensors"`* | نقطة فحص Audio VAE المطلوب تحميلها. هذه قائمة منسدلة تحتوي على جميع الملفات الموجودة في دليل `checkpoints` الخاص بـ ComfyUI. |
+| `ckpt_name` | STRING | نعم | جميع الملفات في مجلد `checkpoints`.<br>*مثال: `"audio_vae.safetensors"`* | نقطة فحص Audio VAE المطلوب تحميلها. هذه قائمة منسدلة تحتوي على جميع الملفات الموجودة في دليل `checkpoints` الخاص بـ Hanzo Studio. |
 
 ## المخرجات
 

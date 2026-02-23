@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeControlnet/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeControlnet/tr.md)
 
 CLIPTextEncodeControlnet düğümü, metin girişini bir CLIP modeli kullanarak işler ve mevcut koşullandırma verileriyle birleştirerek controlnet uygulamaları için geliştirilmiş koşullandırma çıktısı oluşturur. Girdi metnini tokenize eder, CLIP modeli aracılığıyla kodlar ve ortaya çıkan gömme vektörlerini sağlanan koşullandırma verilerine cross-attention controlnet parametreleri olarak ekler.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PreviewImage/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PreviewImage/ar.md)
 
 عُقدة PreviewImage مصممة لإنشاء صور معاينة مؤقتة. تقوم تلقائيًا بتوليد اسم ملف مؤقت فريد لكل صورة، وضغط الصورة إلى مستوى محدد، وحفظها في دليل مؤقت. هذه الوظيفة مفيدة بشكل خاص لتوليد معاينات للصور أثناء المعالجة دون التأثير على الملفات الأصلية.
 

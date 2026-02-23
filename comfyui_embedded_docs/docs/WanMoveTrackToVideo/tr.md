@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveTrackToVideo/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveTrackToVideo/tr.md)
 
 WanMoveTrackToVideo düğümü, video oluşturma için koşullandırma ve gizli uzay verilerini hazırlar ve isteğe bağlı hareket izleme bilgilerini dahil eder. Bir başlangıç görüntü dizisini gizli bir temsile kodlar ve oluşturulan videodaki hareketi yönlendirmek için nesne izlerinden konumsal verileri harmanlayabilir. Düğüm, değiştirilmiş pozitif ve negatif koşullandırmanın yanı sıra bir video modeli için hazır boş bir gizli tensör çıktısı verir.
 

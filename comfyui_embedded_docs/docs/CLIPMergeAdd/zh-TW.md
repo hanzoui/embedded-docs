@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPMergeAdd/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPMergeAdd/zh-TW.md)
 
 CLIPMergeAdd 節點透過將第二個 CLIP 模型中的修補程式添加到第一個模型來合併兩個 CLIP 模型。它會建立第一個 CLIP 模型的副本，並選擇性地整合第二個模型中的關鍵修補程式，排除位置 ID 和 logit 縮放參數。這讓您可以在保留基礎模型結構的同時合併 CLIP 模型元件。
 

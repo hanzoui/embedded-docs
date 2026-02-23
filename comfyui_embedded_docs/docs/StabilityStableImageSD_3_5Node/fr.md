@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityStableImageSD_3_5Node/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityStableImageSD_3_5Node/fr.md)
 
 Ce nœud génère des images de manière synchrone en utilisant le modèle Stable Diffusion 3.5 de Stability AI. Il crée des images basées sur des invites textuelles et peut également modifier des images existantes lorsqu'elles sont fournies en entrée. Le nœud prend en charge différents ratios d'aspect et préréglages de style pour personnaliser le résultat.
 

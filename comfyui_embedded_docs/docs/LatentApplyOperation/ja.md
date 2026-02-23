@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentApplyOperation/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentApplyOperation/ja.md)
 
 LatentApplyOperationノードは、指定された操作を潜在サンプルに適用します。このノードは潜在データと操作を入力として受け取り、提供された操作を使用して潜在サンプルを処理し、修正された潜在データを返します。このノードを使用することで、ワークフロー内で潜在表現を変換または操作することができます。
 

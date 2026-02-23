@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanCameraImageToVideo/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanCameraImageToVideo/en.md)
 
 The WanCameraImageToVideo node converts images to video sequences by generating latent representations for video generation. It processes conditioning inputs and optional starting images to create video latents that can be used with video models. The node supports camera conditions and clip vision outputs for enhanced video generation control.
 

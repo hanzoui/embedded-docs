@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerSASolver/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerSASolver/ko.md)
 
 SamplerSASolver 노드는 확산 모델을 위한 사용자 정의 샘플링 알고리즘을 구현합니다. 예측자-수정자 접근법과 구성 가능한 차수 설정 및 확률적 미분방정식(SDE) 매개변수를 사용하여 입력 모델로부터 샘플을 생성합니다.
 

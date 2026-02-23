@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CFGGuider/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CFGGuider/zh.md)
 
 CFGGuider 节点创建了一个用于控制图像生成采样过程的引导系统。它接收一个模型以及正向和负向条件输入，然后应用无分类器引导尺度来引导生成过程朝向期望内容，同时避免不需要的元素。该节点输出一个引导器对象，可供采样节点使用以控制图像生成方向。
 

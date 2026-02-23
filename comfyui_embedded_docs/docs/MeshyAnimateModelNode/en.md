@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyAnimateModelNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyAnimateModelNode/en.md)
 
 This node applies a specific animation to a 3D character model that has already been rigged using the Meshy service. It takes a task ID from a previous rigging operation and an action ID to select the desired animation from the library. The node then processes the request and returns the animated model in both GLB and FBX file formats.
 

@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmosPredict2_2B/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmosPredict2_2B/es.md)
 
 El nodo ModelMergeCosmosPredict2_2B fusiona dos modelos de difusión utilizando un enfoque basado en bloques con control detallado sobre diferentes componentes del modelo. Permite combinar partes específicas de dos modelos ajustando los pesos de interpolación para los incrustadores de posición, incrustadores de tiempo, bloques transformadores y capas finales. Esto proporciona un control preciso sobre cómo los diferentes componentes arquitectónicos de cada modelo contribuyen al resultado fusionado final.
 

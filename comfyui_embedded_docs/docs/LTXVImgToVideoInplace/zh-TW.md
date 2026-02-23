@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVImgToVideoInplace/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVImgToVideoInplace/zh-TW.md)
 
 LTXVImgToVideoInplace 節點透過將輸入圖像編碼到其初始影格中，來對視訊潛在表徵進行條件設定。其工作原理是使用 VAE 將圖像編碼到潛在空間，然後根據指定的強度將其與現有的潛在樣本進行混合。這使得圖像可以作為視訊生成的起點或條件設定訊號。
 

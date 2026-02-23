@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVConditioning/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVConditioning/ja.md)
 
 LTXVConditioningノードは、ビデオ生成モデル用にポジティブおよびネガティブのコンディショニング入力にフレームレート情報を追加します。既存のコンディショニングデータを受け取り、指定されたフレームレート値を両方のコンディショニングセットに適用し、ビデオモデル処理に適した形式に変換します。
 

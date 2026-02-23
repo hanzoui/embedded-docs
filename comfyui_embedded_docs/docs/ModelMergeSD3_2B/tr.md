@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSD3_2B/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSD3_2B/tr.md)
 
 ModelMergeSD3_2B düğümü, iki adet Stable Diffusion 3 2B modelini, bileşenlerini ayarlanabilir ağırlıklarla harmanlayarak birleştirmenize olanak tanır. Gömme katmanları ve transformör blokları üzerinde bireysel kontrol sağlayarak, özel üretim görevleri için ince ayarlı model kombinasyonları oluşturmanıza imkan verir.
 

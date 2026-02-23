@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanFunInpaintToVideo/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanFunInpaintToVideo/ko.md)
 
 WanFunInpaintToVideo 노드는 시작 이미지와 종료 이미지 사이를 인페인팅하여 비디오 시퀀스를 생성합니다. 긍정 및 부정 조건화와 선택적 프레임 이미지를 입력받아 비디오 잠재 표현을 생성합니다. 이 노드는 구성 가능한 크기와 길이 매개변수로 비디오 생성을 처리합니다.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeQwenImage/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeQwenImage/pt-BR.md)
 
 O nó ModelMergeQwenImage mescla dois modelos de IA combinando seus componentes com pesos ajustáveis. Ele permite que você misture partes específicas dos modelos de imagem Qwen, incluindo blocos transformadores, embeddings posicionais e componentes de processamento de texto. Você pode controlar quanto influência cada modelo tem em diferentes seções do resultado mesclado.
 

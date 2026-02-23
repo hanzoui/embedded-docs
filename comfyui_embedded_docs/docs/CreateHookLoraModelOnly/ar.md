@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookLoraModelOnly/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookLoraModelOnly/ar.md)
 
 يقوم هذا العقد بإنشاء خطاف LoRA (التكيف ذو الرتبة المنخفضة) الذي يُطبق على مكون النموذج فقط، مما يسمح لك بتعديل سلوك النموذج دون التأثير على مكون CLIP. يقوم بتحميل ملف LoRA وتطبيقه بقوة محددة على النموذج مع الحفاظ على مكون CLIP دون تغيير. يمكن ربط هذا العقد بخطافات سابقة لإنشاء خطوط تعديل معقدة.
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanCameraImageToVideo/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanCameraImageToVideo/ja.md)
 
 WanCameraImageToVideoノードは、画像をビデオシーケンスに変換するために、ビデオ生成用の潜在表現を生成します。このノードは、コンディショニング入力とオプションの開始画像を処理し、ビデオモデルで使用できるビデオ潜在表現を作成します。ノードは、カメラ条件とCLIP vision出力をサポートしており、ビデオ生成の制御を強化します。
 

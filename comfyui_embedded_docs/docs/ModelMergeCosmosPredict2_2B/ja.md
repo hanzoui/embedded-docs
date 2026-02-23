@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmosPredict2_2B/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmosPredict2_2B/ja.md)
 
 ModelMergeCosmosPredict2_2Bノードは、ブロックベースのアプローチを使用して2つの拡散モデルを統合し、異なるモデルコンポーネントに対するきめ細かい制御を可能にします。位置埋め込み、時間埋め込み、トランスフォーマーブロック、最終層の補間重みを調整することで、2つのモデルの特定部分をブレンドすることができます。これにより、各モデルからの異なるアーキテクチャコンポーネントが最終的な統合結果にどのように寄与するかを精密に制御できます。
 

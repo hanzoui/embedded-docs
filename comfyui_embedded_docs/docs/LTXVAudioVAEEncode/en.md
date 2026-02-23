@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVAudioVAEEncode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVAudioVAEEncode/en.md)
 
 The LTXV Audio VAE Encode node takes an audio input and compresses it into a smaller, latent representation using a specified Audio VAE model. This process is essential for generating or manipulating audio within a latent space workflow, as it converts raw audio data into a format that other nodes in the pipeline can understand and process.
 

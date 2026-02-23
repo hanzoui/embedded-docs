@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DiffusersLoader/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DiffusersLoader/ja.md)
 
 DiffusersLoaderノードは、diffusers形式から事前学習済みモデルを読み込みます。model_index.jsonファイルを含む有効なdiffusersモデルディレクトリを検索し、それらをパイプラインで使用するためのMODEL、CLIP、VAEコンポーネントとして読み込みます。このノードは非推奨のローダーカテゴリに属し、Hugging Face diffusersモデルとの互換性を提供します。
 

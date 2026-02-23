@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PhotoMakerEncode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PhotoMakerEncode/ja.md)
 
 PhotoMakerEncodeノードは、画像とテキストを処理してAI画像生成のためのコンディショニングデータを生成します。参照画像とテキストプロンプトを受け取り、参照画像の視覚的特徴に基づいて画像生成を導くために使用できる埋め込みを作成します。このノードは特に、テキスト内の"photomaker"トークンを検出し、画像ベースのコンディショニングを適用する位置を決定します。
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RunwayImageToVideoNodeGen3a/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RunwayImageToVideoNodeGen3a/tr.md)
 
 Runway Image to Video (Gen3a Turbo) düğümü, Runway'nin Gen3a Turbo modelini kullanarak tek bir başlangıç karesinden video oluşturur. Bir metin istemi ve bir başlangıç görüntü karesi alır, ardından belirtilen süre ve en-boy oranına dayalı olarak bir video dizisi oluşturur. Bu düğüm, işlemi uzaktan gerçekleştirmek için Runway'nin API'sına bağlanır.
 

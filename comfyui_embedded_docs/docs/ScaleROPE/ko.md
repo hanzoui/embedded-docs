@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ScaleROPE/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ScaleROPE/ko.md)
 
 ScaleROPE 노드를 사용하면 모델의 회전 위치 임베딩(ROPE)을 X, Y, T(시간) 구성 요소에 각각 별도의 스케일링 및 시프트 계수를 적용하여 수정할 수 있습니다. 이는 모델의 위치 인코딩 동작을 조정하는 데 사용되는 고급 실험적 노드입니다.
 

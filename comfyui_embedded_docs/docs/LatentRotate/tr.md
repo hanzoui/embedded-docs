@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentRotate/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentRotate/tr.md)
 
 LatentRotate düğümü, görüntülerin gizli temsillerini belirtilen açılarla döndürmek için tasarlanmıştır. Döndürme efektleri elde etmek için gizli uzayın manipülasyonunun karmaşıklığını soyutlar ve kullanıcıların bir üretken modelin gizli uzayındaki görüntüleri kolayca dönüştürmesine olanak tanır.
 

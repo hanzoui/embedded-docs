@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyFlux2LatentImage/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyFlux2LatentImage/zh.md)
 
 EmptyFlux2LatentImage 节点创建一个空白的潜在表示。它生成一个填充零值的张量，作为 Flux 模型去噪过程的起点。潜在表示的维度由输入的宽度和高度决定，并按 16 的比例因子进行缩放。
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageRotate/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageRotate/pt-BR.md)
 
 O nó ImageRotate gira uma imagem de entrada por ângulos especificados. Ele suporta quatro opções de rotação: sem rotação, 90 graus no sentido horário, 180 graus e 270 graus no sentido horário. A rotação é realizada usando operações eficientes com tensores que mantêm a integridade dos dados da imagem.
 

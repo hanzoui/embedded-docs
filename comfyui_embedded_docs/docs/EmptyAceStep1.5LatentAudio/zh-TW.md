@@ -1,6 +1,6 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyAceStep1.5LatentAudio/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyAceStep1.5LatentAudio/zh-TW.md)
 
-此節點建立一個專為音訊處理設計的空潛在張量。它會生成指定持續時間和批次大小的靜音音訊潛在表示，可作為 ComfyUI 中音訊生成工作流程的起點。該節點會根據輸入的秒數和固定採樣率計算潛在長度。
+此節點建立一個專為音訊處理設計的空潛在張量。它會生成指定持續時間和批次大小的靜音音訊潛在表示，可作為 Hanzo Studio 中音訊生成工作流程的起點。該節點會根據輸入的秒數和固定採樣率計算潛在長度。
 
 ## 輸入參數
 

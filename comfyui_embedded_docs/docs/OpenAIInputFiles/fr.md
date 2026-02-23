@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIInputFiles/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIInputFiles/fr.md)
 
 Charge et formate les fichiers d'entrée pour l'API OpenAI. Ce nœud prépare les fichiers texte et PDF à inclure comme entrées de contexte pour le nœud OpenAI Chat. Les fichiers seront lus par le modèle OpenAI lors de la génération des réponses. Plusieurs nœuds de fichiers d'entrée peuvent être chaînés pour inclure plusieurs fichiers dans un seul message.
 

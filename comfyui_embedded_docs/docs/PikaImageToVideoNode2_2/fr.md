@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaImageToVideoNode2_2/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaImageToVideoNode2_2/fr.md)
 
 Le nœud Pika Image to Video envoie une image et une invite texte à l'API Pika version 2.2 pour générer une vidéo. Il convertit votre image d'entrée en format vidéo en fonction de la description et des paramètres fournis. Le nœud gère la communication avec l'API et retourne la vidéo générée en sortie.
 

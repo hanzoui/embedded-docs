@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WavespeedFlashVSRNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WavespeedFlashVSRNode/tr.md)
 
 WavespeedFlashVSRNode, düşük çözünürlüklü veya bulanık görüntüler için çözünürlüğü artıran ve netliği geri kazandıran hızlı, yüksek kaliteli bir video yükselticidir. Bir video girdisini işler ve kullanıcının seçtiği daha yüksek bir çözünürlükte yeni bir video çıktısı verir.
 

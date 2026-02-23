@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingCameraControlI2VNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingCameraControlI2VNode/pt-BR.md)
 
 O nó Kling Image to Video Camera Control transforma imagens estáticas em vídeos cinematográficos com movimentos de câmera profissionais. Este nó especializado de imagem para vídeo permite que você controle ações de câmera virtuais, incluindo zoom, rotação, panorâmica, inclinação e visão em primeira pessoa, mantendo o foco na sua imagem original. O controle de câmera atualmente é suportado apenas no modo pro com o modelo kling-v1-5 e duração de 5 segundos.
 

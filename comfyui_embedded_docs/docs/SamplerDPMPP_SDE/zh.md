@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMPP_SDE/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMPP_SDE/zh.md)
 
 SamplerDPMPP_SDE 节点创建了一个用于采样过程的 DPM++ SDE（随机微分方程）采样器。该采样器提供了一种可配置噪声参数和设备选择的随机采样方法，它会返回一个可在采样流程中使用的采样器对象。
 

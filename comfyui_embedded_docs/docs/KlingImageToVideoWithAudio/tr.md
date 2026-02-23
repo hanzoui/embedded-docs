@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingImageToVideoWithAudio/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingImageToVideoWithAudio/tr.md)
 
 Kling Image(First Frame) to Video with Audio düğümü, Kling AI modelini kullanarak tek bir başlangıç görselinden ve bir metin isteminden kısa bir video oluşturur. Sağlanan görsel ile başlayan bir video dizisi oluşturur ve isteğe bağlı olarak görüntülere eşlik etmesi için yapay zeka tarafından üretilen sesi içerebilir.
 

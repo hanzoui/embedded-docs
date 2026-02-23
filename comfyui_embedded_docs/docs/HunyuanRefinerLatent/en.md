@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanRefinerLatent/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanRefinerLatent/en.md)
 
 The HunyuanRefinerLatent node processes conditioning and latent inputs for refinement operations. It applies noise augmentation to both positive and negative conditioning while incorporating latent image data, and generates a new latent output with specific dimensions for further processing.
 

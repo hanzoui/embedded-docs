@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MaskPreview/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MaskPreview/en.md)
 
 The MaskPreview node generates a visual preview of a mask by converting it into a 3-channel image format and saving it as a temporary file. It takes a mask input and reshapes it into a format suitable for image display, then saves the result to the temporary directory with a random filename prefix. This allows users to visually inspect mask data during workflow execution.
 
@@ -7,7 +7,7 @@ The MaskPreview node generates a visual preview of a mask by converting it into 
 | Parameter | Data Type | Required | Range | Description |
 |-----------|-----------|----------|-------|-------------|
 | `mask` | MASK | Yes | - | The mask data to be previewed and converted to image format |
-| `filename_prefix` | STRING | No | - | Prefix for the output filename (default: "ComfyUI") |
+| `filename_prefix` | STRING | No | - | Prefix for the output filename (default: "Hanzo Studio") |
 | `prompt` | PROMPT | No | - | Prompt information for metadata (automatically provided) |
 | `extra_pnginfo` | EXTRA_PNGINFO | No | - | Additional PNG information for metadata (automatically provided) |
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableCascade_StageB_Conditioning/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableCascade_StageB_Conditioning/zh-TW.md)
 
 StableCascade_StageB_Conditioning 節點透過將現有的調節資訊與來自 Stage C 的先驗潛在表示相結合，為 Stable Cascade Stage B 生成準備調節資料。它修改調節資料以包含來自 Stage C 的潛在樣本，使生成過程能夠利用先驗資訊來產生更連貫的輸出。
 

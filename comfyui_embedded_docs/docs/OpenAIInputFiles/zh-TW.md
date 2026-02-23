@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIInputFiles/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIInputFiles/zh-TW.md)
 
 載入並格式化 OpenAI API 的輸入檔案。此節點會準備文字和 PDF 檔案，以作為 OpenAI 聊天節點的上下文輸入。這些檔案將在生成回應時由 OpenAI 模型讀取。可以將多個輸入檔案節點鏈接在一起，以便在單一訊息中包含多個檔案。
 

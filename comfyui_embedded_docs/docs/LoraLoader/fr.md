@@ -1,4 +1,4 @@
-Ce nœud détecte automatiquement les modèles situés dans le dossier LoRA (y compris les sous-dossiers) avec le chemin de modèle correspondant `ComfyUI\models\loras`.
+Ce nœud détecte automatiquement les modèles situés dans le dossier LoRA (y compris les sous-dossiers) avec le chemin de modèle correspondant `Hanzo Studio\models\loras`.
 
 Le nœud Chargeur LoRA est principalement utilisé pour charger des modèles LoRA. Vous pouvez considérer les modèles LoRA comme des filtres qui peuvent donner à vos images des styles, contenus et détails spécifiques :
 

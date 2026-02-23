@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FreeU_V2/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FreeU_V2/tr.md)
 
 FreeU_V2 düğümü, U-Net mimarisini değiştirerek difüzyon modellerine frekans tabanlı bir iyileştirme uygular. Görüntü oluşturma kalitesini ek eğitim gerektirmeden iyileştirmek için yapılandırılabilir parametreler kullanarak farklı özellik kanallarını ölçeklendirir. Düğüm, belirli kanal boyutlarına ölçeklendirme faktörleri uygulamak için modelin çıktı bloklarını yamayarak çalışır.
 

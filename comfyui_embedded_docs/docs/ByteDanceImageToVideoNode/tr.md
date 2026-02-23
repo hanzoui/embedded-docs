@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageToVideoNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageToVideoNode/tr.md)
 
 ByteDance Image to Video düğümü, bir giriş görseli ve metin istemi aracılığıyla ByteDance modellerini kullanarak bir API üzerinden video oluşturur. Bir başlangıç görsel karesi alır ve sağlanan açıklamayı takip eden bir video dizisi oluşturur. Düğüm, video çözünürlüğü, en-boy oranı, süre ve diğer oluşturma parametreleri için çeşitli özelleştirme seçenekleri sunar.
 

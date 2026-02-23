@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyChromaRadianceLatentImage/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyChromaRadianceLatentImage/zh-TW.md)
 
 此節點建立一個具有指定尺寸的空白潛在圖像，用於色度輻射工作流程。它會生成一個填充零值的張量，作為潛在空間操作的起點。該節點允許您定義空白潛在圖像的寬度、高度和批次大小。
 

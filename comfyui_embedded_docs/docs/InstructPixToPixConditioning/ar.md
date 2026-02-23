@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/InstructPixToPixConditioning/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/InstructPixToPixConditioning/ar.md)
 
 يقوم عقد InstructPixToPixConditioning بإعداد بيانات التكييف لتحرير الصور باستخدام InstructPix2Pix من خلال دمج نصوص الأوامر الإيجابية والسلبية مع بيانات الصورة. يعالج العقد الصور المدخلة عبر مشفر VAE لإنشاء تمثيلات كامنة ويربط هذه التمثيلات ببيانات التكييف الإيجابية والسلبية على حد سواء. يتعامل العقد تلقائيًا مع أبعاد الصورة عن طريق القص لمضاعفات 8 بكسل لضمان التوافق مع عملية التشفير بواسطة VAE.
 

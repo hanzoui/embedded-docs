@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVCropGuides/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVCropGuides/ja.md)
 
 LTXVCropGuidesノードは、ビデオ生成のためのコンディショニング入力と潜在入力を処理し、キーフレーム情報を除去して潜在次元を調整します。このノードは、潜在画像とノイズマスクをトリミングしてキーフレームセクションを除外すると同時に、ポジティブおよびネガティブなコンディショニング入力からキーフレームインデックスをクリアします。これにより、キーフレームガイダンスを必要としないビデオ生成ワークフローのためのデータが準備されます。
 

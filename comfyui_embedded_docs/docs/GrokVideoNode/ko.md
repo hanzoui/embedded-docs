@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GrokVideoNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GrokVideoNode/ko.md)
 
 Grok Video 노드는 텍스트 설명으로부터 짧은 동영상을 생성합니다. 프롬프트를 사용해 처음부터 동영상을 만들거나, 프롬프트를 기반으로 단일 입력 이미지를 애니메이션화할 수 있습니다. 이 노드는 외부 API에 요청을 보내고 생성된 동영상을 반환합니다.
 

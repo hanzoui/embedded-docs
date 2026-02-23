@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveTrackToVideo/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveTrackToVideo/es.md)
 
 El nodo WanMoveTrackToVideo prepara datos de condicionamiento y del espacio latente para la generación de vídeo, incorporando información opcional de seguimiento de movimiento. Codifica una secuencia de imagen inicial en una representación latente y puede mezclar datos posicionales de seguimientos de objetos para guiar el movimiento en el vídeo generado. El nodo devuelve condicionamientos positivo y negativo modificados, junto con un tensor latente vacío listo para un modelo de vídeo.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningTimestepsRange/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningTimestepsRange/ar.md)
 
 ينشئ عقد ConditioningTimestepsRange ثلاث نطاقات زمنية متميزة للتحكم في توقيت تطبيق تأثيرات التكييف خلال عملية التوليد. يأخذ العقد قيمتي النسبة المئوية للبداية والنهاية، ويقسم نطاق الخطوات الزمنية الكامل (من 0.0 إلى 1.0) إلى ثلاثة أقسام: النطاق الرئيسي بين النسب المئوية المحددة، والنطاق الذي يسبق نسبة البداية، والنطاق الذي يلي نسبة النهاية.
 

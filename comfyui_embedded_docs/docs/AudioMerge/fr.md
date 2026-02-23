@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioMerge/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioMerge/fr.md)
 
 Le nœud AudioMerge combine deux pistes audio en superposant leurs formes d'onde. Il aligne automatiquement les taux d'échantillonnage des deux entrées audio et ajuste leurs durées pour qu'elles soient égales avant la fusion. Le nœud propose plusieurs méthodes mathématiques pour combiner les signaux audio et garantit que la sortie reste dans des niveaux de volume acceptables.
 

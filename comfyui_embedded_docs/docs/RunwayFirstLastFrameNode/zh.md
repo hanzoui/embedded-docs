@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RunwayFirstLastFrameNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RunwayFirstLastFrameNode/zh.md)
 
 Runway 首尾帧转视频节点通过上传首尾关键帧和文本提示来生成视频。它使用 Runway 的 Gen-3 模型在提供的起始帧和结束帧之间创建平滑过渡。这对于结束帧与起始帧差异较大的复杂过渡特别有用。
 

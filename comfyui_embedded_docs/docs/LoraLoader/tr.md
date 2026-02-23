@@ -1,6 +1,6 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraLoader/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraLoader/tr.md)
 
-Bu düğüm, LoRA klasöründeki (alt klasörler dahil) modelleri otomatik olarak algılar. İlgili model yolu `ComfyUI\models\loras` şeklindedir. Daha fazla bilgi için LoRA Modellerini Yükleme bölümüne bakınız.
+Bu düğüm, LoRA klasöründeki (alt klasörler dahil) modelleri otomatik olarak algılar. İlgili model yolu `Hanzo Studio\models\loras` şeklindedir. Daha fazla bilgi için LoRA Modellerini Yükleme bölümüne bakınız.
 
 LoRA Yükleyici düğümü, temel olarak LoRA modellerini yüklemek için kullanılır. LoRA modellerini, görüntülerinize belirli stiller, içerikler ve detaylar katabilen filtreler olarak düşünebilirsiniz:
 

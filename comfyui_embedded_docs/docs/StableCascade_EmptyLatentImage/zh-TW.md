@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableCascade_EmptyLatentImage/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableCascade_EmptyLatentImage/zh-TW.md)
 
 StableCascade_EmptyLatentImage 節點為 Stable Cascade 模型建立空的潛在張量。它會產生兩個獨立的潛在表示 - 一個用於階段 C，另一個用於階段 B - 這些表示根據輸入解析度和壓縮設定具有適當的維度。此節點為 Stable Cascade 生成流程提供了起始點。
 

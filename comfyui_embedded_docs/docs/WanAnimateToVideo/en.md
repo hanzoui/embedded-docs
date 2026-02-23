@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanAnimateToVideo/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanAnimateToVideo/en.md)
 
 The WanAnimateToVideo node generates video content by combining multiple conditioning inputs including pose references, facial expressions, and background elements. It processes various video inputs to create coherent animated sequences while maintaining temporal consistency across frames. The node handles latent space operations and can extend existing videos by continuing motion patterns.
 

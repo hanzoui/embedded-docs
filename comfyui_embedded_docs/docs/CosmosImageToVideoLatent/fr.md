@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CosmosImageToVideoLatent/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CosmosImageToVideoLatent/fr.md)
 
 Le nœud CosmosImageToVideoLatent crée des représentations latentes vidéo à partir d'images d'entrée. Il génère un latent vidéo vierge et encode optionnellement des images de début et/ou de fin dans les premières et/ou dernières images de la séquence vidéo. Lorsque des images sont fournies, il crée également des masques de bruit correspondants pour indiquer quelles parties du latent doivent être préservées pendant la génération.
 

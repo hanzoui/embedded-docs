@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SplitImageWithAlpha/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SplitImageWithAlpha/ar.md)
 
 تم تصميم العقدة SplitImageWithAlpha لفصل مكونات اللون والشفافية في الصورة. حيث تقوم بمعالجة موتر الصورة المدخل، واستخراج قنوات RGB كمكون اللون وقناة ألفا كمكون الشفافية، مما يسهل العمليات التي تتطلب التعامل مع هذه الجوانب المنفصلة للصورة.
 

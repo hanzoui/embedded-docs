@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookLora/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookLora/zh-TW.md)
 
 Create Hook LoRA 節點會生成掛鉤物件，用於對模型應用 LoRA（低秩適應）修改。它會載入指定的 LoRA 檔案並建立可調整模型和 CLIP 強度的掛鉤，然後將這些掛鉤與傳遞給它的任何現有掛鉤合併。該節點透過快取先前載入的 LoRA 檔案來有效管理 LoRA 載入，避免重複操作。
 

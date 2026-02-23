@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ShuffleDataset/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ShuffleDataset/es.md)
 
 El nodo Shuffle Dataset toma una lista de imágenes y cambia aleatoriamente su orden. Utiliza un valor de semilla para controlar la aleatoriedad, garantizando que el mismo orden de mezcla pueda reproducirse. Esto es útil para aleatorizar la secuencia de imágenes en un conjunto de datos antes de su procesamiento.
 

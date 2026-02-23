@@ -1,6 +1,6 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyAceStep1.5LatentAudio/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyAceStep1.5LatentAudio/es.md)
 
-El nodo Empty Ace Step 1.5 Latent Audio crea un tensor latente vacío diseñado para procesamiento de audio. Genera un latente de audio silencioso de una duración y tamaño de lote especificados, que puede utilizarse como punto de partida para flujos de trabajo de generación de audio en ComfyUI. El nodo calcula la longitud del latente en función de los segundos de entrada y una tasa de muestreo fija.
+El nodo Empty Ace Step 1.5 Latent Audio crea un tensor latente vacío diseñado para procesamiento de audio. Genera un latente de audio silencioso de una duración y tamaño de lote especificados, que puede utilizarse como punto de partida para flujos de trabajo de generación de audio en Hanzo Studio. El nodo calcula la longitud del latente en función de los segundos de entrada y una tasa de muestreo fija.
 
 ## Entradas
 

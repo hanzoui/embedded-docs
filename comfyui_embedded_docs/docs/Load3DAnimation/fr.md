@@ -1,4 +1,4 @@
-Le nœud Load3DAnimation est un nœud principal pour charger et traiter des fichiers de modèles 3D. Lors du chargement du nœud, il récupère automatiquement les ressources 3D disponibles dans `ComfyUI/input/3d/`. Vous pouvez également téléverser des fichiers 3D pris en charge pour les prévisualiser à l'aide de la fonction de téléversement.
+Le nœud Load3DAnimation est un nœud principal pour charger et traiter des fichiers de modèles 3D. Lors du chargement du nœud, il récupère automatiquement les ressources 3D disponibles dans `Hanzo Studio/input/3d/`. Vous pouvez également téléverser des fichiers 3D pris en charge pour les prévisualiser à l'aide de la fonction de téléversement.
 
 > - La plupart des fonctions de ce nœud sont identiques à celles du nœud Load 3D, mais ce nœud prend en charge le chargement de modèles avec animations, et vous pouvez prévisualiser les animations correspondantes dans le nœud.
 > - Le contenu de cette documentation est le même que celui du nœud Load3D, car à l’exception de la prévisualisation et de la lecture des animations, leurs capacités sont identiques.
@@ -7,9 +7,9 @@ Le nœud Load3DAnimation est un nœud principal pour charger et traiter des fich
 Actuellement, ce nœud prend en charge plusieurs formats de fichiers 3D, y compris `.gltf`, `.glb`, `.obj`, `.fbx` et `.stl`.
 
 **Préférences du nœud 3D**
-Certaines préférences liées aux nœuds 3D peuvent être configurées dans le menu des paramètres de ComfyUI. Veuillez consulter la documentation suivante pour les réglages correspondants :
+Certaines préférences liées aux nœuds 3D peuvent être configurées dans le menu des paramètres de Hanzo Studio. Veuillez consulter la documentation suivante pour les réglages correspondants :
 
-[Menu des paramètres](https://docs.comfy.org/interface/settings/3d)
+[Menu des paramètres](https://docs.hanzo.ai/interface/settings/3d)
 
 En plus des sorties habituelles du nœud, Load3D propose de nombreuses options liées à la vue 3D dans le menu de la zone d’aperçu.
 
@@ -17,7 +17,7 @@ En plus des sorties habituelles du nœud, Load3D propose de nombreuses options l
 
 | Nom du paramètre | Type           | Description                                                        | Par défaut | Plage         |
 |------------------|----------------|--------------------------------------------------------------------|------------|---------------|
-| model_file       | File Selection | Chemin du fichier du modèle 3D, prise en charge du téléversement, lit par défaut les fichiers dans `ComfyUI/input/3d/` | -          | Formats pris en charge |
+| model_file       | File Selection | Chemin du fichier du modèle 3D, prise en charge du téléversement, lit par défaut les fichiers dans `Hanzo Studio/input/3d/` | -          | Formats pris en charge |
 | width            | INT            | Largeur de rendu du canevas                                        | 1024       | 1-4096        |
 | height           | INT            | Hauteur de rendu du canevas                                        | 1024       | 1-4096        |
 
@@ -27,7 +27,7 @@ En plus des sorties habituelles du nœud, Load3D propose de nombreuses options l
 |------------------|----------------|--------------------------------------------------------------------|
 | image            | IMAGE          | Image rendue sur le canevas                                        |
 | mask             | MASK           | Masque contenant la position actuelle du modèle                    |
-| mesh_path        | STRING         | Chemin du fichier du modèle (dans le dossier `ComfyUI/input`)      |
+| mesh_path        | STRING         | Chemin du fichier du modèle (dans le dossier `Hanzo Studio/input`)      |
 | normal           | IMAGE          | Carte des normales                                                 |
 | lineart          | IMAGE          | Sortie d’image de dessin au trait, le `edge_threshold` peut être ajusté dans le menu du modèle du canevas |
 | camera_info      | LOAD3D_CAMERA  | Informations de la caméra                                          |
@@ -58,7 +58,7 @@ La zone Canvas du nœud Load3D contient de nombreuses opérations de vue, notamm
 ### 1. Opérations de vue
 
 <video controls width="640" height="360">
-  <source src="https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
   Votre navigateur ne prend pas en charge la lecture vidéo.
 </video>
 
@@ -71,7 +71,7 @@ Opérations de contrôle de la vue :
 
 ### 2. Fonctions du menu de gauche
 
-![Menu](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu.webp)
+![Menu](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu.webp)
 
 Dans la zone d’aperçu, certains menus liés aux opérations de vue sont cachés dans le menu. Cliquez sur le bouton de menu pour développer les différents menus
 
@@ -83,7 +83,7 @@ Dans la zone d’aperçu, certains menus liés aux opérations de vue sont cach�
 
 #### Scène (Scene)
 
-![scene menu](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_scene.webp)
+![scene menu](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_scene.webp)
 
 Le menu Scène propose quelques fonctions de configuration de base de la scène
 
@@ -94,7 +94,7 @@ Le menu Scène propose quelques fonctions de configuration de base de la scène
 
 #### Modèle (Model)
 
-![Menu_Scene](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_model.webp)
+![Menu_Scene](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_model.webp)
 
 Le menu Modèle propose quelques fonctions liées au modèle
 
@@ -103,7 +103,7 @@ Le menu Modèle propose quelques fonctions liées au modèle
 
 #### Caméra (Camera)
 
-![menu_modelmenu_camera](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_camera.webp)
+![menu_modelmenu_camera](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_camera.webp)
 
 Ce menu permet de basculer entre la vue orthographique et la vue en perspective, et de régler l’angle de perspective
 
@@ -112,13 +112,13 @@ Ce menu permet de basculer entre la vue orthographique et la vue en perspective,
 
 #### Lumière (Light)
 
-![menu_modelmenu_camera](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_light.webp)
+![menu_modelmenu_camera](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_light.webp)
 
 Ce menu permet d’ajuster rapidement l’intensité de l’éclairage global de la scène
 
 #### Exportation (Export)
 
-![menu_export](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_export.webp)
+![menu_export](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_export.webp)
 
 Ce menu permet de convertir et d’exporter rapidement les formats de modèle
 

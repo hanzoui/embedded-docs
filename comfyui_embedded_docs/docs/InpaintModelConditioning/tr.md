@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/InpaintModelConditioning/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/InpaintModelConditioning/tr.md)
 
 InpaintModelConditioning düğümü, inpaint modelleri için koşullandırma sürecini kolaylaştırmak üzere tasarlanmış olup, çeşitli koşullandırma girdilerinin entegrasyonunu ve manipülasyonunu sağlayarak inpaint çıktısını özelleştirmeye olanak tanır. Belirli model kontrol noktalarını yüklemeden stil veya kontrol ağı modelleri uygulamaya, koşullandırma öğelerini kodlamadan birleştirmeye kadar geniş bir işlev yelpazesini kapsar ve böylece inpaint görevlerini özelleştirmek için kapsamlı bir araç görevi görür.
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ScaleROPE/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ScaleROPE/en.md)
 
 The ScaleROPE node allows you to modify the Rotary Position Embedding (ROPE) of a model by applying separate scaling and shifting factors to its X, Y, and T (time) components. This is an advanced, experimental node used to adjust the model's positional encoding behavior.
 

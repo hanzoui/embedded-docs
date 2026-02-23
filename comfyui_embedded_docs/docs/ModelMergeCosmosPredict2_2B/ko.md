@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmosPredict2_2B/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmosPredict2_2B/ko.md)
 
 ModelMergeCosmosPredict2_2B 노드는 블록 기반 접근 방식을 사용하여 두 개의 디퓨전 모델을 병합하며, 다양한 모델 구성 요소에 대한 세밀한 제어를 제공합니다. 이 노드를 사용하면 포지션 임베더, 타임 임베더, 트랜스포머 블록, 최종 레이어에 대한 보간 가중치를 조정하여 두 모델의 특정 부분을 혼합할 수 있습니다. 이를 통해 각 모델의 서로 다른 아키텍처 구성 요소가 최종 병합 결과에 기여하는 방식을 정밀하게 제어할 수 있습니다.
 

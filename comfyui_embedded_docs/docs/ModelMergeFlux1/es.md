@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeFlux1/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeFlux1/es.md)
 
 El nodo ModelMergeFlux1 fusiona dos modelos de difusión combinando sus componentes mediante interpolación ponderada. Permite un control detallado sobre cómo se combinan las diferentes partes de los modelos, incluyendo bloques de procesamiento de imágenes, capas de incrustación temporal, mecanismos de guía, entradas vectoriales, codificadores de texto y varios bloques transformadores. Esto permite crear modelos híbridos con características personalizadas a partir de dos modelos fuente.
 

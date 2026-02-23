@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentApplyOperation/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentApplyOperation/ko.md)
 
 LatentApplyOperation 노드는 지정된 연산을 잠재 샘플에 적용합니다. 잠재 데이터와 연산을 입력으로 받아 제공된 연산을 사용하여 잠재 샘플을 처리하고 수정된 잠재 데이터를 반환합니다. 이 노드를 사용하면 워크플로우에서 잠재 표현을 변환하거나 조작할 수 있습니다.
 

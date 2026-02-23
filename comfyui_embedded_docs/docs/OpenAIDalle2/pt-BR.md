@@ -1,10 +1,10 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIDalle2/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIDalle2/pt-BR.md)
 
 Gera imagens de forma síncrona através do endpoint DALL·E 2 da OpenAI.
 
 ## Como Funciona
 
-Este nó se conecta à API DALL·E 2 da OpenAI para criar imagens com base em descrições textuais. Quando você fornece um prompt de texto, o nó o envia para os servidores da OpenAI, que geram as imagens correspondentes e as retornam para o ComfyUI. O nó pode operar em dois modos: geração padrão de imagens usando apenas um prompt de texto, ou modo de edição de imagem quando tanto uma imagem quanto uma máscara são fornecidas. No modo de edição, ele usa a máscara para determinar quais partes da imagem original devem ser modificadas, mantendo as outras áreas inalteradas.
+Este nó se conecta à API DALL·E 2 da OpenAI para criar imagens com base em descrições textuais. Quando você fornece um prompt de texto, o nó o envia para os servidores da OpenAI, que geram as imagens correspondentes e as retornam para o Hanzo Studio. O nó pode operar em dois modos: geração padrão de imagens usando apenas um prompt de texto, ou modo de edição de imagem quando tanto uma imagem quanto uma máscara são fornecidas. No modo de edição, ele usa a máscara para determinar quais partes da imagem original devem ser modificadas, mantendo as outras áreas inalteradas.
 
 ## Entradas
 

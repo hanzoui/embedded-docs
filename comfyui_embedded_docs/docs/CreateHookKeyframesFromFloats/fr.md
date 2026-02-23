@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookKeyframesFromFloats/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookKeyframesFromFloats/fr.md)
 
 Ce nœud crée des images clés de hook à partir d'une liste de valeurs de force à virgule flottante, en les répartissant uniformément entre des pourcentages de début et de fin spécifiés. Il génère une séquence d'images clés où chaque valeur de force est assignée à une position en pourcentage spécifique dans la chronologie de l'animation. Le nœud peut soit créer un nouveau groupe d'images clés, soit ajouter à un groupe existant, avec une option pour afficher les images clés générées à des fins de débogage.
 

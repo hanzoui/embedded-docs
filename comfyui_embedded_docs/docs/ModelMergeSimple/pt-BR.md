@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSimple/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSimple/pt-BR.md)
 
 O nó ModelMergeSimple é projetado para mesclar dois modelos combinando seus parâmetros com base em uma proporção especificada. Este nó facilita a criação de modelos híbridos que combinam os pontos fortes ou características de ambos os modelos de entrada.
 

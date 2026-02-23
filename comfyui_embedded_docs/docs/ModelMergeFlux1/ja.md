@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeFlux1/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeFlux1/ja.md)
 
 ModelMergeFlux1ノードは、2つの拡散モデルを重み付き補間によって統合します。画像処理ブロック、時間埋め込み層、ガイダンス機構、ベクトル入力、テキストエンコーダー、様々なトランスフォーマーブロックなど、モデルの異なる部分をどのように組み合わせるかを細かく制御できます。これにより、2つのソースモデルからカスタマイズされた特性を持つハイブリッドモデルを作成することが可能になります。
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PrimitiveStringMultiline/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PrimitiveStringMultiline/ko.md)
 
 PrimitiveStringMultiline 노드는 워크플로우에서 여러 줄의 텍스트를 입력하고 문자열 값을 전달하기 위한 다중 줄 텍스트 입력 필드를 제공합니다. 여러 줄로 구성된 텍스트 입력을 받아들이며, 동일한 문자열 값을 변경 없이 출력합니다. 이 노드는 긴 텍스트 내용이나 여러 줄에 걸쳐 형식이 지정된 텍스트를 입력해야 할 때 유용합니다.
 

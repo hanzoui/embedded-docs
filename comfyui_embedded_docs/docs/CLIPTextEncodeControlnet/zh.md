@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeControlnet/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeControlnet/zh.md)
 
 CLIPTextEncodeControlnet 节点使用 CLIP 模型处理文本输入，并将其与现有的条件数据相结合，为 controlnet 应用创建增强的条件输出。该节点将输入文本进行标记化处理，通过 CLIP 模型进行编码，并将生成的嵌入作为交叉注意力 controlnet 参数添加到提供的条件数据中。
 

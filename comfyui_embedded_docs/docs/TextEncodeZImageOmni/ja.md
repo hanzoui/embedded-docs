@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeZImageOmni/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeZImageOmni/ja.md)
 
 TextEncodeZImageOmniノードは、テキストプロンプトとオプションの参照画像を画像生成モデルに適したコンディショニング形式にエンコードする高度なコンディショニングノードです。最大3枚までの画像を処理でき、オプションでビジョンエンコーダーやVAEを使用してエンコードし、参照用の潜在表現を生成することができます。これらの視覚的参照は、特定のテンプレート構造を使用してテキストプロンプトと統合されます。
 

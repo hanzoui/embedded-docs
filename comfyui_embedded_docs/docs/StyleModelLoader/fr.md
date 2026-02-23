@@ -1,6 +1,6 @@
-Ce nœud détectera les modèles situés dans le dossier `ComfyUI/models/style_models`,
+Ce nœud détectera les modèles situés dans le dossier `Hanzo Studio/models/style_models`,
 et lira également les modèles des chemins supplémentaires que vous avez configurés dans le fichier extra_model_paths.yaml.
-Parfois, vous devrez **rafraîchir l'interface ComfyUI** pour qu'elle puisse lire les fichiers de modèle dans le dossier correspondant.
+Parfois, vous devrez **rafraîchir l'interface Hanzo Studio** pour qu'elle puisse lire les fichiers de modèle dans le dossier correspondant.
 
 Le nœud StyleModelLoader est conçu pour charger un modèle de style à partir d'un chemin spécifié. Il se concentre sur la récupération et l'initialisation des modèles de style qui peuvent être utilisés pour appliquer des styles artistiques spécifiques aux images, permettant ainsi la personnalisation des sorties visuelles en fonction du modèle de style chargé.
 

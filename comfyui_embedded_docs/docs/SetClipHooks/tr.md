@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SetClipHooks/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SetClipHooks/tr.md)
 
 SetClipHooks düğümü, bir CLIP modeline özel kancalar uygulamanıza olanak tanıyarak, modelin davranışında gelişmiş değişiklikler yapabilmenizi sağlar. Koşullandırma çıktılarına kancalar uygulayabilir ve isteğe bağlı olarak clip zamanlama işlevselliğini etkinleştirebilir. Bu düğüm, girdi olarak verilen CLIP modelinin belirtilen kanca yapılandırmaları uygulanmış klonlanmış bir kopyasını oluşturur.
 

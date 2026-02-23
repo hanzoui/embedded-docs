@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageGrid/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageGrid/zh.md)
 
 图像网格节点将多张图像组合成一个有序的网格或拼贴画。它接收一个图像列表，并将它们排列到指定数量的列中，调整每张图像的大小以适配定义的单元格尺寸，并可在图像之间添加可选的内边距。最终输出是一张包含所有输入图像、按网格布局排列的新图像。
 

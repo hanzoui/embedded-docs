@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CenterCropImages/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CenterCropImages/pt-BR.md)
 
 O nó Center Crop Images recorta uma imagem a partir do seu centro para uma largura e altura especificadas. Ele calcula a região central da imagem de entrada e extrai uma área retangular com as dimensões definidas. Se o tamanho de recorte solicitado for maior que a imagem, o recorte será limitado às bordas da imagem.
 

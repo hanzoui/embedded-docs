@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraLoaderBypass/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraLoaderBypass/zh.md)
 
 LoraLoaderBypass 节点以一种特殊的“旁路”模式将 LoRA（低秩适应）应用于扩散模型和 CLIP 模型。与标准的 LoRA 加载器不同，此方法不会永久修改基础模型的权重。相反，它通过将 LoRA 的效果添加到模型的正常前向传递中来计算输出，这在训练或处理权重已卸载的模型时非常有用。
 

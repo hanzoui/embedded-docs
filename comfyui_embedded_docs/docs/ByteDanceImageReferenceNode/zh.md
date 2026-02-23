@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageReferenceNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageReferenceNode/zh.md)
 
 字节跳动图像参考节点使用文本提示和一到四张参考图像来生成视频。它将图像和提示发送到外部 API 服务，该服务会根据您的描述创建视频，同时融入参考图像的视觉风格和内容。该节点提供了视频分辨率、宽高比、时长和其他生成参数的各种控制选项。
 

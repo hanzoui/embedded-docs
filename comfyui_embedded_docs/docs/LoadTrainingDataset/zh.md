@@ -1,12 +1,12 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadTrainingDataset/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadTrainingDataset/zh.md)
 
-此节点加载先前已保存到磁盘的编码训练数据集。它会在 ComfyUI 输出目录的指定文件夹中搜索并读取所有数据分片文件，然后返回合并的潜在向量和条件数据，以供训练工作流使用。
+此节点加载先前已保存到磁盘的编码训练数据集。它会在 Hanzo Studio 输出目录的指定文件夹中搜索并读取所有数据分片文件，然后返回合并的潜在向量和条件数据，以供训练工作流使用。
 
 ## 输入参数
 
 | 参数名 | 数据类型 | 必填 | 取值范围 | 描述 |
 |-----------|-----------|----------|-------|-------------|
-| `folder_name` | STRING | 否 | N/A | 包含已保存数据集的文件夹名称，位于 ComfyUI 输出目录内（默认值："training_dataset"）。 |
+| `folder_name` | STRING | 否 | N/A | 包含已保存数据集的文件夹名称，位于 Hanzo Studio 输出目录内（默认值："training_dataset"）。 |
 
 ## 输出结果
 

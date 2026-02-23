@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingFlux/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingFlux/ar.md)
 
 يقوم عقد ModelSamplingFlux بتطبيق أخذ عينات نموذج Flux على نموذج معين من خلال حساب معلمة إزاحة بناءً على أبعاد الصورة. يقوم بإنشاء تكوين متخصص لأخذ العينات يعدل سلوك النموذج وفقًا لمعلمات العرض والارتفاع والإزاحة المحددة، ثم يعيد النموذج المعدل مع إعدادات أخذ العينات الجديدة المطبقة.
 

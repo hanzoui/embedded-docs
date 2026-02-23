@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AlignYourStepsScheduler/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AlignYourStepsScheduler/pt-BR.md)
 
 O nó AlignYourStepsScheduler gera valores sigma para o processo de remoção de ruído com base em diferentes tipos de modelo. Ele calcula níveis de ruído apropriados para cada etapa do processo de amostragem e ajusta o número total de etapas de acordo com o parâmetro `denoise`. Isso ajuda a alinhar as etapas de amostragem com os requisitos específicos de diferentes modelos de difusão.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxKontextImageScale/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxKontextImageScale/pt-BR.md)
 
 Este nó redimensiona a imagem de entrada para um tamanho ideal utilizado durante o treinamento do modelo Flux Kontext usando o algoritmo Lanczos, com base na proporção de aspecto da imagem de entrada. Este nó é particularmente útil ao inserir imagens de grande tamanho, pois entradas excessivamente grandes podem levar à degradação da qualidade da saída do modelo ou a problemas como a aparição de múltiplos sujeitos na saída.
 

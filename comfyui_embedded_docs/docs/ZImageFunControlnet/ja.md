@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ZImageFunControlnet/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ZImageFunControlnet/ja.md)
 
 ZImageFunControlnetノードは、画像生成や編集プロセスに影響を与える特殊な制御ネットワークを適用します。ベースモデル、モデルパッチ、VAEを使用し、制御効果の強度を調整できます。このノードは、よりターゲットを絞った編集のために、ベース画像、インペイント画像、マスクと連携して動作することが可能です。
 

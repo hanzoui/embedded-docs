@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TopazVideoEnhance/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TopazVideoEnhance/ar.md)
 
 يستخدم عقد Topaz Video Enhance واجهة برمجة تطبيقات خارجية لتحسين جودة الفيديو. يمكنه رفع دقة الفيديو، وزيادة معدل الإطارات من خلال الاستيفاء، وتطبيق الضغط. يعالج العقد فيديو إدخال بتنسيق MP4 ويعيد نسخة محسنة بناءً على الإعدادات المحددة.
 

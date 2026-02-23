@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/JoinAudioChannels/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/JoinAudioChannels/zh-TW.md)
 
 此節點將兩個獨立的單聲道音訊輸入合併為單一的立體聲音訊輸出。它接收左聲道和右聲道，確保它們具有相容的取樣率和長度，並將它們合併為雙聲道音訊波形。
 

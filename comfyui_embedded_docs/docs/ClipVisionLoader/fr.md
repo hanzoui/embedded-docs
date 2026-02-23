@@ -1,10 +1,10 @@
-Ce nœud détecte automatiquement les modèles situés dans le dossier `ComfyUI/models/clip_vision`, ainsi que tout chemin supplémentaire configuré dans le fichier `extra_model_paths.yaml`. Si vous ajoutez des modèles après avoir démarré ComfyUI, veuillez **rafraîchir l'interface ComfyUI** pour vous assurer que la liste des fichiers de modèles est à jour.
+Ce nœud détecte automatiquement les modèles situés dans le dossier `Hanzo Studio/models/clip_vision`, ainsi que tout chemin supplémentaire configuré dans le fichier `extra_model_paths.yaml`. Si vous ajoutez des modèles après avoir démarré Hanzo Studio, veuillez **rafraîchir l'interface Hanzo Studio** pour vous assurer que la liste des fichiers de modèles est à jour.
 
 ## Entrées
 
 | Champ      | Data Type      | Description |
 |------------|---------------|-------------|
-| nom_clip   | COMBO[STRING]  | Affiche tous les fichiers de modèles compatibles dans le dossier `ComfyUI/models/clip_vision`. |
+| nom_clip   | COMBO[STRING]  | Affiche tous les fichiers de modèles compatibles dans le dossier `Hanzo Studio/models/clip_vision`. |
 
 ## Sorties
 

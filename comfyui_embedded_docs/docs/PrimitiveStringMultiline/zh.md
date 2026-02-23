@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PrimitiveStringMultiline/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PrimitiveStringMultiline/zh.md)
 
 PrimitiveStringMultiline 节点提供了一个多行文本输入字段，用于在工作流中输入和传递字符串值。它接受包含多行的文本输入，并原样输出相同的字符串值。当需要输入较长文本内容或跨多行的格式化文本时，此节点非常有用。
 

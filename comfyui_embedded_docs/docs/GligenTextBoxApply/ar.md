@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GLIGENTextBoxApply/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GLIGENTextBoxApply/ar.md)
 
 يُعد عقد `GLIGENTextBoxApply` مصممًا لدمج التكييف النصي في مدخلات النموذج التوليدي، وذلك تحديدًا من خلال تطبيق معاملات مربع النص وتشفيرها باستخدام نموذج CLIP. تعمل هذه العملية على إثراء التكييف بمعلومات مكانية ونصية، مما يُسهّل عملية توليد أكثر دقة ومراعاة للسياق.
 

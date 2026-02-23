@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ZImageFunControlnet/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ZImageFunControlnet/en.md)
 
 The ZImageFunControlnet node applies a specialized control network to influence the image generation or editing process. It uses a base model, a model patch, and a VAE, allowing you to adjust the strength of the control effect. This node can work with a base image, an inpainting image, and a mask for more targeted edits.
 

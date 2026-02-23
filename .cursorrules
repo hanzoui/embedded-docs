@@ -1,7 +1,7 @@
-# ComfyUI Node Documentation Multi-language Localization Project Rules
+# Hanzo Studio Node Documentation Multi-language Localization Project Rules
 
 ## Project Overview
-You are assisting in a project dedicated to creating multi-language documentation for ComfyUI nodes.
+You are assisting in a project dedicated to creating multi-language documentation for Hanzo Studio nodes.
 While maintaining professional explanations, metaphorical explanations are also needed to transform complex technical concepts into everyday life scenarios, ensuring non-technical users can easily understand node functionality.
 
 ## Core Principles
@@ -21,7 +21,7 @@ While maintaining professional explanations, metaphorical explanations are also 
 
 ## Documentation Structure Requirements
 
-When creating or editing ComfyUI node documentation, strictly follow this structure:
+When creating or editing Hanzo Studio node documentation, strictly follow this structure:
 
 ### Required Sections
 1. **Function Description** - Explain the node's core purpose in 1-2 easy-to-understand sentences

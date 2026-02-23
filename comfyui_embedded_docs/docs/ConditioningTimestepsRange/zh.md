@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningTimestepsRange/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningTimestepsRange/zh.md)
 
 ConditioningTimestepsRange 节点创建三个不同的时间步范围，用于控制在生成过程中应用条件效果的时机。它接收起始和结束百分比值，并将整个时间步范围（0.0 到 1.0）划分为三个区段：指定百分比之间的主范围、起始百分比之前的范围以及结束百分比之后的范围。
 

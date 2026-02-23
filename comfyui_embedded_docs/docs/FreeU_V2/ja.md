@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FreeU_V2/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FreeU_V2/ja.md)
 
 FreeU_V2ノードは、U-Netアーキテクチャを変更することで拡散モデルに周波数ベースの拡張を適用します。設定可能なパラメータを使用して異なる特徴チャネルをスケーリングし、追加の学習を必要とせずに画像生成の品質を向上させます。このノードは、モデルの出力ブロックをパッチ適用し、特定のチャネル次元にスケーリング係数を適用することで動作します。
 

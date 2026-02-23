@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SV3D_Conditioning/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SV3D_Conditioning/ar.md)
 
 ```markdown
 عُقدة SV3D_Conditioning تُعد بيانات توجيهية لتوليد مقاطع الفيديو ثلاثية الأبعاد باستخدام نموذج SV3D. تأخذ العُقدة صورة أولية وتعالجها عبر مُرمِّزي CLIP vision وVAE لإنشاء توجيهات إيجابية وسلبية، إلى جانب تمثيل كامن. تُنشئ العُقدة تسلسلات ارتفاع وسمت الكاميرا لتوليد فيديو متعدد الإطارات بناءً على عدد إطارات الفيديو المحدد.

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeAuraflow/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeAuraflow/fr.md)
 
 Le nœud ModelMergeAuraflow vous permet de fusionner deux modèles différents en ajustant des poids de mélange spécifiques pour divers composants du modèle. Il offre un contrôle granulaire sur la manière dont les différentes parties des modèles sont fusionnées, des couches initiales aux sorties finales. Ce nœud est particulièrement utile pour créer des combinaisons de modèles personnalisées avec un contrôle précis du processus de fusion.
 

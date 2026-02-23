@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Veo3VideoGenerationNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Veo3VideoGenerationNode/fr.md)
 
 Génère des vidéos à partir de descriptions textuelles en utilisant l'API Veo 3 de Google. Ce nœud prend en charge deux modèles Veo 3 : veo-3.0-generate-001 et veo-3.0-fast-generate-001. Il étend le nœud Veo de base avec des fonctionnalités spécifiques à Veo 3, incluant la génération audio et une durée fixe de 8 secondes.
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingImage2VideoNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingImage2VideoNode/zh.md)
 
 Kling Image to Video 节点能够基于起始图像，通过文本提示生成视频内容。该节点接收参考图像，并根据提供的正向和负向文本描述创建视频序列，同时提供多种配置选项用于模型选择、时长和宽高比。
 

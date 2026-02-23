@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanCameraImageToVideo/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanCameraImageToVideo/ko.md)
 
 WanCameraImageToVideo 노드는 이미지를 비디오 시퀀스로 변환하며, 비디오 생성을 위한 잠재 표현을 생성합니다. 이 노드는 조건 입력과 선택적 시작 이미지를 처리하여 비디오 모델과 함께 사용할 수 있는 비디오 잠재 표현을 생성합니다. 향상된 비디오 생성 제어를 위해 카메라 조건과 CLIP 비전 출력을 지원합니다.
 

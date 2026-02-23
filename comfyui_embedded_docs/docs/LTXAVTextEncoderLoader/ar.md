@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXAVTextEncoderLoader/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXAVTextEncoderLoader/ar.md)
 
 يُحمِّل هذا العقد مُشَفِّر نص متخصص لنموذج الصوت LTXV. يجمع بين ملف مُشَفِّر نص محدد وملف نقطة فحص لإنشاء نموذج CLIP يمكن استخدامه لمهام التكييف النصي المتعلقة بالصوت.
 

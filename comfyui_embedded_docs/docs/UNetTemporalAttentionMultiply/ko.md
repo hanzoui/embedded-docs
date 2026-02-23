@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/UNetTemporalAttentionMultiply/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UNetTemporalAttentionMultiply/ko.md)
 
 UNetTemporalAttentionMultiply 노드는 시간적 UNet 모델에서 다양한 유형의 어텐션 메커니즘에 곱셈 계수를 적용합니다. 이 노드는 자기 어텐션(self-attention)과 교차 어텐션(cross-attention) 레이어의 가중치를 조정하고, 구조적 요소와 시간적 요소를 구분하여 모델을 수정합니다. 이를 통해 각 어텐션 유형이 모델 출력에 미치는 영향력을 미세하게 조정할 수 있습니다.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanImageToVideo/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanImageToVideo/tr.md)
 
 WanImageToVideo düğümü, video üretimi görevleri için koşullandırma ve gizli temsilleri hazırlar. Video üretimi için boş bir gizli alan oluşturur ve isteğe bağlı olarak başlangıç görüntülerini ve CLIP görü çıktılarını video üretim sürecini yönlendirmek için dahil edebilir. Düğüm, sağlanan görüntü ve görü verilerine dayanarak hem pozitif hem de negatif koşullandırma girdilerini değiştirir.
 

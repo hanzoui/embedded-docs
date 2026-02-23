@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSD35_Large/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSD35_Large/ar.md)
 
 يسمح لك عُقدة ModelMergeSD35_Large بدمج نموذجين من Stable Diffusion 3.5 Large معًا من خلال ضبط تأثير مكونات النموذج المختلفة. فهي توفر تحكمًا دقيقًا في مدى مساهمة كل جزء من النموذج الثاني في النموذج المدمج النهائي، بدءًا من طبقات التضمين ومرورًا بالكتل المشتركة ووصولاً إلى الطبقات النهائية.
 

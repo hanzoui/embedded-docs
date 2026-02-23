@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/NormalizeImages/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/NormalizeImages/tr.md)
 
 Bu düğüm, bir giriş görüntüsünün piksel değerlerini matematiksel bir normalleştirme işlemi kullanarak ayarlar. Her pikselden belirtilen bir ortalama değeri çıkarır ve ardından sonucu belirtilen bir standart sapma değerine böler. Bu, görüntü verilerini diğer makine öğrenimi modelleri için hazırlamak amacıyla yaygın bir ön işleme adımıdır.
 

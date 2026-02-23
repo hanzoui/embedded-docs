@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SD_4XUpscale_Conditioning/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SD_4XUpscale_Conditioning/pt-BR.md)
 
 O nó SD_4XUpscale_Conditioning prepara dados de condicionamento para o processo de aumento de escala (upscaling) de imagens usando modelos de difusão. Ele recebe imagens de entrada e dados de condicionamento, aplica redimensionamento e aumento de ruído para criar um condicionamento modificado que orienta o processo de upscaling. O nó gera como saída tanto o condicionamento positivo quanto o negativo, juntamente com representações latentes para as dimensões da imagem ampliada.
 

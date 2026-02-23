@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerSEEDS2/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerSEEDS2/ja.md)
 
 このノードは、画像生成のための設定可能なサンプラーを提供します。SEEDS-2アルゴリズムを実装しており、これは確率微分方程式（SDE）ソルバーです。パラメータを調整することで、`seeds_2`、`exp_heun_2_x0`、`exp_heun_2_x0_sde` など、いくつかの特定のサンプラーと同様の動作に設定することができます。
 

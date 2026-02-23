@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！[在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioAdjustVolume/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！[在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioAdjustVolume/zh.md)
 
 AudioAdjustVolume 节点通过以分贝为单位进行音量调整来修改音频的响度。它接收音频输入，并根据指定的音量级别应用增益系数，其中正值增加音量，负值减小音量。该节点返回处理后的音频，其采样率与原始音频相同。
 

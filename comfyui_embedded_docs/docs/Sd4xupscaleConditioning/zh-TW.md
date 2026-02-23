@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Sd4xupscaleConditioning/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Sd4xupscaleConditioning/zh-TW.md)
 
 此節點專門透過 4x 超解析度處理來增強影像的解析度，並結合條件化元素來優化輸出結果。它利用擴散技術來放大影像，同時允許調整縮放比例和噪聲增強，以微調增強過程。
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GeminiInputFiles/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GeminiInputFiles/tr.md)
 
 Gemini API ile kullanım için giriş dosyalarını yükler ve biçimlendirir. Bu düğüm, kullanıcıların Gemini modeli için giriş bağlamı olarak metin (.txt) ve PDF (.pdf) dosyalarını eklemesine olanak tanır. Dosyalar, API tarafından gereken uygun formata dönüştürülür ve tek bir istekte birden fazla dosya eklemek için birbirine zincirlenebilir.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RandomCropImages/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RandomCropImages/pt-BR.md)
 
 O nó Random Crop Images seleciona aleatoriamente uma seção retangular de cada imagem de entrada e a recorta para uma largura e altura especificadas. Isso é comumente usado para aumento de dados (data augmentation) para criar variações de imagens de treinamento. A posição aleatória para o recorte é determinada por um valor de semente (seed), garantindo que o mesmo recorte possa ser reproduzido.
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxKontextMultiReferenceLatentMethod/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxKontextMultiReferenceLatentMethod/ja.md)
 
 FluxKontextMultiReferenceLatentMethodノードは、特定の参照潜在表現メソッドを設定することで条件付けデータを変更します。このノードは選択されたメソッドを条件付け入力に追加し、後続の生成ステップにおける参照潜在表現の処理方法に影響を与えます。このノードは実験的としてマークされており、Flux条件付けシステムの一部です。
 

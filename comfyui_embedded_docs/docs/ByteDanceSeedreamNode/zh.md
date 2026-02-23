@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceSeedreamNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceSeedreamNode/zh.md)
 
 字节跳动 Seedream 4 节点提供统一的文生图功能和高达 4K 分辨率的精准单句编辑能力。它可以根据文本提示创建新图像，或使用文本指令编辑现有图像。该节点支持单张图像生成和连续生成多张相关图像。
 

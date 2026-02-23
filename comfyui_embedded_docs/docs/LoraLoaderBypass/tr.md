@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraLoaderBypass/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraLoaderBypass/tr.md)
 
 LoraLoaderBypass düğümü, bir difüzyon modeline ve bir CLIP modeline özel bir "bypass" (atlatma) modunda bir LoRA (Düşük Dereceli Uyarlama) uygular. Standart bir LoRA yükleyicisinden farklı olarak, bu yöntem temel modelin ağırlıklarını kalıcı olarak değiştirmez. Bunun yerine, çıktıyı LoRA'nın etkisini modelin normal ileri geçişine ekleyerek hesaplar. Bu, eğitim sırasında veya ağırlıkları dışarıya aktarılmış modellerle çalışırken kullanışlıdır.
 

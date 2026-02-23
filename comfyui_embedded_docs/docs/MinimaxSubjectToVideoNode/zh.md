@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MinimaxSubjectToVideoNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MinimaxSubjectToVideoNode/zh.md)
 
 基于图像和提示词，以及可选参数，使用 MiniMax 的 API 同步生成视频。该节点通过主体图像和文本描述，利用 MiniMax 的视频生成服务创建视频。
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerEulerAncestralCFGPP/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerEulerAncestralCFGPP/en.md)
 
 The SamplerEulerAncestralCFGPP node creates a specialized sampler for generating images using the Euler Ancestral method with classifier-free guidance. This sampler combines ancestral sampling techniques with guidance conditioning to produce diverse image variations while maintaining coherence. It allows fine-tuning of the sampling process through parameters that control noise and step size adjustments.
 

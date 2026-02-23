@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingLTXV/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingLTXV/zh.md)
 
 ModelSamplingLTXV 节点基于令牌数量对模型应用高级采样参数。它通过在基础偏移值和最大偏移值之间进行线性插值来计算偏移值，该计算取决于输入潜空间中的令牌数量。该节点随后创建一个专门的模型采样配置，并将其应用于输入模型。
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PreviewAny/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PreviewAny/en.md)
 
 The PreviewAny node displays a preview of any input data type in text format. It accepts any data type as input and converts it to a readable string representation for viewing. The node automatically handles different data types including strings, numbers, booleans, and complex objects by attempting to serialize them to JSON format.
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeControlnet/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeControlnet/en.md)
 
 The CLIPTextEncodeControlnet node processes text input using a CLIP model and combines it with existing conditioning data to create enhanced conditioning output for controlnet applications. It tokenizes the input text, encodes it through the CLIP model, and adds the resulting embeddings to the provided conditioning data as cross-attention controlnet parameters.
 

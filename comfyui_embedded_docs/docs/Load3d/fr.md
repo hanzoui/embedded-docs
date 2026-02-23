@@ -1,12 +1,12 @@
-Le nœud Load3D est un nœud principal pour charger et traiter des fichiers de modèles 3D. Lors du chargement du nœud, il récupère automatiquement les ressources 3D disponibles dans `ComfyUI/input/3d/`. Vous pouvez également téléverser des fichiers 3D pris en charge pour les prévisualiser à l'aide de la fonction de téléversement.
+Le nœud Load3D est un nœud principal pour charger et traiter des fichiers de modèles 3D. Lors du chargement du nœud, il récupère automatiquement les ressources 3D disponibles dans `Hanzo Studio/input/3d/`. Vous pouvez également téléverser des fichiers 3D pris en charge pour les prévisualiser à l'aide de la fonction de téléversement.
 
 **Formats pris en charge**
 Actuellement, ce nœud prend en charge plusieurs formats de fichiers 3D, y compris `.gltf`, `.glb`, `.obj`, `.fbx` et `.stl`.
 
 **Préférences du nœud 3D**
-Certaines préférences liées aux nœuds 3D peuvent être configurées dans le menu des paramètres de ComfyUI. Veuillez consulter la documentation suivante pour les réglages correspondants :
+Certaines préférences liées aux nœuds 3D peuvent être configurées dans le menu des paramètres de Hanzo Studio. Veuillez consulter la documentation suivante pour les réglages correspondants :
 
-[Menu des paramètres](https://docs.comfy.org/interface/settings/3d)
+[Menu des paramètres](https://docs.hanzo.ai/interface/settings/3d)
 
 En plus des sorties habituelles du nœud, Load3D propose de nombreuses options liées à la vue 3D dans le menu de la zone d’aperçu.
 
@@ -14,7 +14,7 @@ En plus des sorties habituelles du nœud, Load3D propose de nombreuses options l
 
 | Nom du paramètre | Type           | Description                                                        | Par défaut | Plage         |
 |------------------|----------------|--------------------------------------------------------------------|------------|---------------|
-| model_file       | File Selection | Chemin du fichier du modèle 3D, prise en charge du téléversement, lit par défaut les fichiers dans `ComfyUI/input/3d/` | -          | Formats pris en charge |
+| model_file       | File Selection | Chemin du fichier du modèle 3D, prise en charge du téléversement, lit par défaut les fichiers dans `Hanzo Studio/input/3d/` | -          | Formats pris en charge |
 | width            | INT            | Largeur de rendu du canevas                                        | 1024       | 1-4096        |
 | height           | INT            | Hauteur de rendu du canevas                                        | 1024       | 1-4096        |
 
@@ -24,7 +24,7 @@ En plus des sorties habituelles du nœud, Load3D propose de nombreuses options l
 |------------------|----------------|--------------------------------------------------------------------|
 | image            | IMAGE          | Image rendue sur le canevas                                        |
 | mask             | MASK           | Masque contenant la position actuelle du modèle                    |
-| mesh_path        | STRING         | Chemin du fichier du modèle (dans le dossier `ComfyUI/input`)      |
+| mesh_path        | STRING         | Chemin du fichier du modèle (dans le dossier `Hanzo Studio/input`)      |
 | normal           | IMAGE          | Carte des normales                                                 |
 | lineart          | IMAGE          | Sortie d’image de dessin au trait, le `edge_threshold` peut être ajusté dans le menu du modèle du canevas |
 | camera_info      | LOAD3D_CAMERA  | Informations de la caméra                                          |
@@ -122,7 +122,7 @@ Ce menu permet de convertir et d’exporter rapidement les formats de modèle
 ### 3. Fonctions du menu de droite
 
 <video controls width="640" height="360">
-  <source src="https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
   Votre navigateur ne prend pas en charge la lecture vidéo.
 </video>
 

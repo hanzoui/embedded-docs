@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StripWhitespace/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StripWhitespace/ar.md)
 
 يزيل هذا العقد أي مسافات إضافية أو علامات جدولة أو أسطر جديدة من بداية ونهاية سلسلة النص. يأخذ نصًا مُدخلاً ويعيد نسخة مُنظفة بعد إزالة المسافات البيضاء من البداية والنهاية.
 

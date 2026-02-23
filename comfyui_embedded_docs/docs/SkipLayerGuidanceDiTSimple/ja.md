@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceDiTSimple/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceDiTSimple/ja.md)
 
 Denoisingプロセスにおいて、無条件パスのみを変更するSkipLayerGuidanceDiTノードの簡易版です。このノードは、指定されたタイミングとレイヤーパラメータに基づいて無条件パスの特定のレイヤーを選択的にスキップすることで、DiT（Diffusion Transformer）モデルの特定のトランスフォーマーレイヤーにスキップレイヤーガイダンスを適用します。
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentOperationSharpen/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentOperationSharpen/zh-TW.md)
 
 LatentOperationSharpen 節點使用高斯核心對潛在表徵應用銳化效果。它通過將潛在數據標準化、應用自定義銳化核心的卷積運算，然後恢復原始亮度來實現。這能增強潛在空間表徵中的細節和邊緣。
 

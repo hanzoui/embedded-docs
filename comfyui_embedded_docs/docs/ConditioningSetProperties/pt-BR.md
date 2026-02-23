@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetProperties/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetProperties/pt-BR.md)
 
 O nó ConditioningSetProperties modifica as propriedades dos dados de condicionamento ajustando a força, configurações de área e aplicando máscaras opcionais ou intervalos de timestep. Ele permite controlar como o condicionamento influencia o processo de geração, definindo parâmetros específicos que afetam a aplicação dos dados de condicionamento durante a geração de imagem.
 

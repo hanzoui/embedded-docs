@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPSubtract/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPSubtract/ko.md)
 
 CLIPSubtract 노드는 두 CLIP 모델 간의 뺄셈 연산을 수행합니다. 첫 번째 CLIP 모델을 기본으로 사용하고 두 번째 CLIP 모델의 키 패치를 빼는데, 뺄셈 강도를 조절하는 선택적 승수를 사용합니다. 이를 통해 한 모델의 특정 특성을 다른 모델을 사용하여 제거하는 방식으로 미세 조정된 모델 혼합이 가능합니다.
 

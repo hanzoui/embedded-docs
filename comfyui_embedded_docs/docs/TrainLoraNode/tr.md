@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TrainLoraNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TrainLoraNode/tr.md)
 
 TrainLoraNode, sağlanan latents ve conditioning verilerini kullanarak bir diffusion model üzerinde LoRA (Low-Rank Adaptation) modeli oluşturur ve eğitir. Özel eğitim parametreleri, optimizerlar ve kayıp fonksiyonları ile bir modeli ince ayar yapmanıza olanak tanır. Düğüm, LoRA uygulanmış eğitilmiş modeli, LoRA ağırlıklarını, eğitim kaybı metriklerini ve tamamlanan toplam eğitim adımlarını çıktı olarak verir.
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CFGGuider/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CFGGuider/en.md)
 
 The CFGGuider node creates a guidance system for controlling the sampling process in image generation. It takes a model along with positive and negative conditioning inputs, then applies a classifier-free guidance scale to steer the generation toward desired content while avoiding unwanted elements. This node outputs a guider object that can be used by sampling nodes to control the image generation direction.
 

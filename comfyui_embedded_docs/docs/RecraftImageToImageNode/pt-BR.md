@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftImageToImageNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftImageToImageNode/pt-BR.md)
 
 Este nó modifica uma imagem existente com base em um prompt de texto e um parâmetro de força. Ele utiliza a API Recraft para transformar a imagem de entrada de acordo com a descrição fornecida, mantendo um certo grau de semelhança com a imagem original, definido pela configuração de força.
 

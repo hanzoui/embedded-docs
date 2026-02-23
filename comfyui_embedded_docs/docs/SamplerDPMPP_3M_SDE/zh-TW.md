@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMPP_3M_SDE/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMPP_3M_SDE/zh-TW.md)
 
 SamplerDPMPP_3M_SDE 節點建立一個 DPM++ 3M SDE 取樣器，用於取樣流程中。此取樣器採用三階多步隨機微分方程方法，並具有可配置的噪聲參數。該節點允許您選擇在 GPU 或 CPU 上執行噪聲計算。
 

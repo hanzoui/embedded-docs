@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageUpscalerCreativeNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageUpscalerCreativeNode/ko.md)
 
 이 노드는 Magnific AI 서비스를 사용하여 이미지를 업스케일하고 창의적으로 향상시킵니다. 텍스트 프롬프트로 향상 과정을 안내하고, 최적화할 특정 스타일을 선택하며, 디테일, 원본과의 유사도, 스타일화 강도 등 창의적 프로세스의 다양한 측면을 제어할 수 있습니다. 이 노드는 선택한 배율(2x, 4x, 8x, 16x)로 업스케일된 이미지를 출력하며, 최대 출력 크기는 25.3 메가픽셀입니다.
 

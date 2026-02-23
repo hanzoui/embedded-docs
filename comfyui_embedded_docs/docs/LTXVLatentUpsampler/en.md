@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVLatentUpsampler/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVLatentUpsampler/en.md)
 
 The LTXVLatentUpsampler node increases the spatial resolution of a video latent representation by a factor of two. It uses a specialized upscale model to process the latent data, which is first un-normalized and then re-normalized using the provided VAE's channel statistics. This node is designed for video workflows within the latent space.
 

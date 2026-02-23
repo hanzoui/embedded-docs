@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduStartEndToVideoNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduStartEndToVideoNode/zh-TW.md)
 
 Vidu Start End To Video Generation 節點透過在起始影格和結束影格之間生成影格來建立影片。它使用文字提示來引導影片生成過程，並支援具有不同解析度和運動設定的各種影片模型。該節點在處理前會驗證起始和結束影格是否具有相容的長寬比。
 

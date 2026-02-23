@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ReplaceVideoLatentFrames/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ReplaceVideoLatentFrames/tr.md)
 
 ReplaceVideoLatentFrames düğümü, bir kaynak gizli videodan alınan kareleri, belirtilen bir kare indeksinden başlayarak bir hedef gizli videoya ekler. Kaynak gizli video sağlanmazsa, hedef gizli video değiştirilmeden döndürülür. Düğüm negatif indekslemeyi işler ve kaynak kareler hedef video içine sığmazsa bir uyarı verir.
 

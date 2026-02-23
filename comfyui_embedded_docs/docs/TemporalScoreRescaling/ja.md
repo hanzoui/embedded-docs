@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TemporalScoreRescaling/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TemporalScoreRescaling/ja.md)
 
 このノードは、拡散モデルにTemporal Score Rescaling (TSR) を適用します。ノイズ除去プロセス中に予測されたノイズまたはスコアを再スケーリングすることで、モデルのサンプリング動作を変更し、生成される出力の多様性を導くことができます。これは、CFG（Classifier-Free Guidance）後の関数として実装されています。
 

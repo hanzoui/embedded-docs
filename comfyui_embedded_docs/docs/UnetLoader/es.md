@@ -1,7 +1,7 @@
 
 El nodo UNETLoader está diseñado para cargar modelos U-Net por nombre, facilitando el uso de arquitecturas U-Net preentrenadas dentro del sistema.
 
-Este nodo detectará los modelos ubicados en la carpeta `ComfyUI/models/diffusion_models`.
+Este nodo detectará los modelos ubicados en la carpeta `Hanzo Studio/models/diffusion_models`.
 
 ## Entradas
 

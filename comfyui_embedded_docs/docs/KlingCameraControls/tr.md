@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingCameraControls/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingCameraControls/tr.md)
 
 Kling Kamera Kontrolleri düğümü, video oluşturmada hareket kontrol efektleri yaratmak için çeşitli kamera hareketi ve dönüş parametrelerini yapılandırmanıza olanak tanır. Farklı kamera hareketlerini simüle etmek için kamera konumlandırma, dönüş ve yakınlaştırma kontrolleri sağlar.
 

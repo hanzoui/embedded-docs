@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentFlip/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentFlip/ar.md)
 
 تُعد عقدة LatentFlip مصممة لمعالجة التمثيلات الكامنة عن طريق قلبها إما عموديًا أو أفقيًا. تتيح هذه العملية تحويل الفضاء الكامن، مما قد يكشف عن تغييرات أو وجهات نظر جديدة ضمن البيانات.
 

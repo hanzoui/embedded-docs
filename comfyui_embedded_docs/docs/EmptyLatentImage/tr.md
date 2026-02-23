@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyLatentImage/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyLatentImage/tr.md)
 
 `EmptyLatentImage` düğümü, belirtilen boyutlarda ve toplu işlem boyutunda boş bir gizli uzay temsili oluşturmak için tasarlanmıştır. Bu düğüm, gizli uzayda görüntü oluşturma veya manipülasyon işlemlerinde temel bir adım olarak hizmet eder ve daha sonraki görüntü sentezi veya değiştirme süreçleri için bir başlangıç noktası sağlar.
 

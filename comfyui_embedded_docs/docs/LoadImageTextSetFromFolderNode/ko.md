@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageTextSetFromFolderNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageTextSetFromFolderNode/ko.md)
 
 지정된 디렉토리에서 훈련 목적으로 이미지 배치와 해당하는 텍스트 캡션을 불러옵니다. 이 노드는 이미지 파일과 연결된 캡션 텍스트 파일을 자동으로 검색하고, 지정된 리사이즈 설정에 따라 이미지를 처리하며, 제공된 CLIP 모델을 사용하여 캡션을 인코딩합니다.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Rodin3D_Smooth/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Rodin3D_Smooth/zh-TW.md)
 
 Rodin 3D Smooth 節點透過處理輸入圖像並將其轉換為平滑的 3D 模型，使用 Rodin API 來生成 3D 資源。它接收多張圖像作為輸入，並產生一個可下載的 3D 模型檔案。此節點會自動處理整個生成過程，包括任務建立、狀態輪詢和檔案下載。
 

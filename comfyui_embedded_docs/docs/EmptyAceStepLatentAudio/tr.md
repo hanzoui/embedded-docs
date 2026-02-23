@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyAceStepLatentAudio/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyAceStepLatentAudio/tr.md)
 
 EmptyAceStepLatentAudio düğümü, belirtilen süreye sahip boş gizli ses örnekleri oluşturur. Girdi saniyelerine ve ses işleme parametrelerine dayalı olarak hesaplanan uzunlukta, sıfırlarla dolu sessiz ses gizli örneklerinden oluşan bir grup oluşturur. Bu düğüm, gizli temsillere ihtiyaç duyan ses işleme iş akışlarını başlatmak için kullanışlıdır.
 

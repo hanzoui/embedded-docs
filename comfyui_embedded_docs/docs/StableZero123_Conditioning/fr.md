@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableZero123_Conditioning/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableZero123_Conditioning/fr.md)
 
 Le nœud StableZero123_Conditioning traite une image d'entrée et des angles de caméra pour générer des données de conditionnement et des représentations latentes destinées à la génération de modèles 3D. Il utilise un modèle de vision CLIP pour encoder les caractéristiques de l'image, les combine avec des informations d'embedding de caméra basées sur les angles d'élévation et d'azimut, et produit un conditionnement positif et négatif ainsi qu'une représentation latente pour les tâches de génération 3D en aval.
 

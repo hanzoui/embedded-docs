@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftStyleV3VectorIllustrationNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftStyleV3VectorIllustrationNode/zh-TW.md)
 
 此節點為 Recraft API 配置一個樣式，專門選擇 `vector_illustration` 樣式。它允許您選擇性地在該類別中選擇更具體的子樣式。此節點輸出一個樣式配置物件，可以傳遞給其他 Recraft API 節點。
 

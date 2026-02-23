@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeQwenImageEdit/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeQwenImageEdit/en.md)
 
 The TextEncodeQwenImageEdit node processes text prompts and optional images to generate conditioning data for image generation or editing. It uses a CLIP model to tokenize the input and can optionally encode reference images using a VAE to create reference latents. When an image is provided, it automatically resizes the image to maintain consistent processing dimensions.
 

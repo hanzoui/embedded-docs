@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingImage2VideoNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingImage2VideoNode/es.md)
 
 El nodo Kling Image to Video genera contenido de video a partir de una imagen inicial utilizando prompts de texto. Toma una imagen de referencia y crea una secuencia de video basada en las descripciones de texto positivas y negativas proporcionadas, con varias opciones de configuración para la selección del modelo, duración y relación de aspecto.
 

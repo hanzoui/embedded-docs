@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TruncateText/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TruncateText/ko.md)
 
 이 노드는 지정된 최대 길이에서 텍스트를 잘라내어 텍스트를 단축합니다. 입력된 텍스트를 받아 설정한 문자 수까지의 첫 부분만 반환합니다. 텍스트가 특정 크기를 초과하지 않도록 보장하는 간단한 방법입니다.
 

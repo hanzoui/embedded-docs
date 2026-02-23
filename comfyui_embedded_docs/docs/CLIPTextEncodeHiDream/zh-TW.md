@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeHiDream/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeHiDream/zh-TW.md)
 
 CLIPTextEncodeHiDream 節點使用不同的語言模型處理多個文字輸入，並將它們組合成單一的條件化輸出。它會對來自四個不同來源（CLIP-L、CLIP-G、T5-XXL 和 LLaMA）的文字進行標記化，並使用排程編碼方法進行編碼。這透過同時利用多個語言模型，實現了更複雜的文字條件化處理。
 

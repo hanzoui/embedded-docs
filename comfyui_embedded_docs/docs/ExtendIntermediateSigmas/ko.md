@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ExtendIntermediateSigmas/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ExtendIntermediateSigmas/ko.md)
 
 ExtendIntermediateSigmas 노드는 기존 시그마 값 시퀀스를 가져와 그 사이에 추가적인 중간 시그마 값을 삽입합니다. 추가할 단계 수, 보간을 위한 간격 지정 방법, 그리고 시그마 시퀀스 내에서 확장이 발생하는 위치를 제어하기 위한 선택적인 시작 및 종료 시그마 경계를 지정할 수 있습니다.
 

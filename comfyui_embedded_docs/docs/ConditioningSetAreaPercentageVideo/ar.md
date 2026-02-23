@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetAreaPercentageVideo/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetAreaPercentageVideo/ar.md)
 
 ```markdown
 يُعدِّل عُقدة ConditioningSetAreaPercentageVideo بيانات التكييف من خلال تحديد منطقة معينة ونطاق زمني لتوليد الفيديو. تتيح لك ضبط الموضع والحجم والمدة للمنطقة التي سيُطبَّق فيها التكييف باستخدام قيم نسبية بالنسبة للأبعاد الإجمالية. يُعد هذا مفيدًا لتركيز عملية التوليد على أجزاء محددة من تسلسل الفيديو.

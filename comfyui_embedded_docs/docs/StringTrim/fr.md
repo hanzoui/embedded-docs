@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringTrim/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringTrim/fr.md)
 
 Le nœud StringTrim supprime les caractères d'espacement du début, de la fin, ou des deux côtés d'une chaîne de texte. Vous pouvez choisir de supprimer les espaces du côté gauche, du côté droit, ou des deux côtés de la chaîne. Ceci est utile pour nettoyer les entrées de texte en supprimant les espaces, tabulations ou caractères de nouvelle ligne indésirables.
 

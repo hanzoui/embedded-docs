@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageRGBToYUV/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageRGBToYUV/ar.md)
 
 يقوم عُقدة ImageRGBToYUV بتحويل صور الألوان من مساحة ألوان RGB إلى مساحة ألوان YUV. تأخذ صورة RGB كمدخل وتفصلها إلى ثلاث قنوات منفصلة: Y (الإضاءة)، U (الإسقاط الأزرق)، و V (الإسقاط الأحمر). يتم إرجاع كل قناة مخرجات كصورة ذات تدرج رمادي منفصلة تمثل المكون المقابل في YUV.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyHunyuanLatentVideo/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyHunyuanLatentVideo/ar.md)
 
 عُقدة `EmptyHunyuanLatentVideo` مشابهة لعُقدة `EmptyLatentImage`. يمكنك اعتبارها كلوحة فارغة لتوليد الفيديو، حيث يحدد العرض والارتفاع والطول خصائص اللوحة، ويحدد حجم الدُفعة عدد اللوحات المراد إنشاؤها. تقوم هذه العُقدة بإنشاء لوحات فارغة جاهزة لمهام توليد الفيديو اللاحقة.
 

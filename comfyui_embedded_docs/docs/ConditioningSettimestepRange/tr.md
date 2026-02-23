@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetTimestepRange/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetTimestepRange/tr.md)
 
 Bu düğüm, belirli bir zaman adımı aralığı ayarlayarak koşullandırmanın zamansal boyutunu ayarlamak için tasarlanmıştır. Koşullandırma sürecinin başlangıç ve bitiş noktaları üzerinde hassas kontrol sağlayarak, daha hedefli ve verimli üretime olanak tanır.
 

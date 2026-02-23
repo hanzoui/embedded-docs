@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AdjustBrightness/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AdjustBrightness/zh.md)
 
 此节点通过将输入图像的每个像素值乘以指定系数来调整图像亮度，并确保结果值保持在有效范围内。系数为 1.0 时图像保持不变，低于 1.0 会使图像变暗，高于 1.0 会使图像变亮。
 

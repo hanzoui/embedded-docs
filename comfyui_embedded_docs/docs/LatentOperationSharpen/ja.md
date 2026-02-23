@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentOperationSharpen/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentOperationSharpen/ja.md)
 
 LatentOperationSharpenノードは、ガウシアンカーネルを使用して潜在表現にシャープ化効果を適用します。このノードは、潜在データを正規化し、カスタムシャープ化カーネルによる畳み込みを適用し、元の輝度を復元することで動作します。これにより、潜在空間表現における詳細とエッジが強調されます。
 

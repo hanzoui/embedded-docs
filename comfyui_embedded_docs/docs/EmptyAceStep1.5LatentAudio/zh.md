@@ -1,8 +1,8 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyAceStep1.5LatentAudio/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyAceStep1.5LatentAudio/zh.md)
 
 ## 概述
 
-Empty Ace Step 1.5 Latent Audio 节点创建一个专为音频处理设计的空潜在张量。它生成指定时长和批次大小的静音音频潜在表示，可作为 ComfyUI 中音频生成工作流的起点。该节点根据输入的秒数和固定的采样率计算潜在长度。
+Empty Ace Step 1.5 Latent Audio 节点创建一个专为音频处理设计的空潜在张量。它生成指定时长和批次大小的静音音频潜在表示，可作为 Hanzo Studio 中音频生成工作流的起点。该节点根据输入的秒数和固定的采样率计算潜在长度。
 
 ## 输入
 

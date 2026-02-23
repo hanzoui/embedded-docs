@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageUpscalerCreativeNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageUpscalerCreativeNode/en.md)
 
 This node uses the Magnific AI service to upscale and creatively enhance an image. It allows you to guide the enhancement with a text prompt, choose a specific style to optimize for, and control various aspects of the creative process like detail, resemblance to the original, and stylization strength. The node outputs an upscaled image at your chosen factor (2x, 4x, 8x, or 16x), with a maximum output size of 25.3 megapixels.
 

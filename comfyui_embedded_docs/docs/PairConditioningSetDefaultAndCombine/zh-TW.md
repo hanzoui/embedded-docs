@@ -1,6 +1,6 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningSetDefaultAndCombine/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningSetDefaultAndCombine/zh-TW.md)
 
-PairConditioningSetDefaultAndCombine 節點用於設定預設的條件設定值，並將其與輸入的條件設定資料進行合併。該節點接收正向與負向的條件設定輸入及其對應的預設值，然後透過 ComfyUI 的掛鉤系統進行處理，最終產生包含預設值的最終條件設定輸出。
+PairConditioningSetDefaultAndCombine 節點用於設定預設的條件設定值，並將其與輸入的條件設定資料進行合併。該節點接收正向與負向的條件設定輸入及其對應的預設值，然後透過 Hanzo Studio 的掛鉤系統進行處理，最終產生包含預設值的最終條件設定輸出。
 
 ## 輸入參數
 

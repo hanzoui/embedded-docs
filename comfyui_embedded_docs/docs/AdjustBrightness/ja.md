@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AdjustBrightness/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AdjustBrightness/ja.md)
 
 Adjust Brightnessノードは、入力画像の明るさを調整します。各ピクセルの値を指定された係数で乗算し、結果の値が有効な範囲内に収まるようにすることで機能します。係数が1.0の場合は画像は変化せず、1.0未満の値では暗く、1.0より大きい値では明るくなります。
 

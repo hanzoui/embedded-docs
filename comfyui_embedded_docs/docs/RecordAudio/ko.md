@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecordAudio/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecordAudio/ko.md)
 
 RecordAudio 노드는 오디오 녹음 인터페이스를 통해 녹음되거나 선택된 오디오 파일을 불러옵니다. 이 노드는 오디오 파일을 처리하여 워크플로우 내 다른 오디오 처리 노드에서 사용할 수 있는 웨이브폼 형식으로 변환합니다. 노드는 샘플 레이트를 자동으로 감지하고 오디오 데이터를 추가 조작에 대비하여 준비합니다.
 

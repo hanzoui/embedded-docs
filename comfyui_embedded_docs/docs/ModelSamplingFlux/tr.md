@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingFlux/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingFlux/tr.md)
 
 ModelSamplingFlux düğümü, görüntü boyutlarına dayalı olarak bir kaydırma parametresi hesaplayarak belirli bir modele Flux model örneklemesi uygular. Modelin davranışını belirtilen genişlik, yükseklik ve kaydırma parametrelerine göre ayarlayan özelleştirilmiş bir örnekleme yapılandırması oluşturur ve ardından yeni örnekleme ayarları uygulanmış şekilde değiştirilmiş modeli döndürür.
 

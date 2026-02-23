@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KarrasScheduler/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KarrasScheduler/tr.md)
 
 KarrasScheduler düğümü, Karras ve diğerlerinin (2022) gürültü zamanlamasına dayalı olarak bir gürültü seviyeleri (sigmas) dizisi oluşturmak için tasarlanmıştır. Bu zamanlayıcı, üretim modellerindeki difüzyon sürecini kontrol etmek için kullanışlı olup, üretim sürecinin her adımında uygulanan gürültü seviyelerine ince ayarlı düzenlemeler yapılmasına olanak tanır.
 

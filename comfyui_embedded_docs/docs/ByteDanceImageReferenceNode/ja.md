@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageReferenceNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageReferenceNode/ja.md)
 
 ByteDance Image Referenceノードは、テキストプロンプトと1～4枚の参照画像を使用して動画を生成します。このノードは画像とプロンプトを外部APIサービスに送信し、参照画像の視覚的なスタイルや内容を取り入れながら、あなたの説明に合った動画を作成します。ノードは、動画の解像度、アスペクト比、長さ、その他の生成パラメータを制御するための様々なオプションを提供します。
 

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringCompare/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringCompare/fr.md)
 
 Le nœud StringCompare compare deux chaînes de texte en utilisant différentes méthodes de comparaison. Il peut vérifier si une chaîne commence par une autre, se termine par une autre, ou si les deux chaînes sont exactement égales. La comparaison peut être effectuée en tenant compte ou non des différences de casse.
 

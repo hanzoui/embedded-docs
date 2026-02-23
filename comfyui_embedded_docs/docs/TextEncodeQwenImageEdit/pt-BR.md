@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeQwenImageEdit/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeQwenImageEdit/pt-BR.md)
 
 O nó TextEncodeQwenImageEdit processa *prompts* de texto e imagens opcionais para gerar dados de condicionamento para geração ou edição de imagens. Ele utiliza um modelo CLIP para tokenizar a entrada e pode, opcionalmente, codificar imagens de referência usando um VAE para criar *latents* de referência. Quando uma imagem é fornecida, ela é redimensionada automaticamente para manter dimensões de processamento consistentes.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioEncoderEncode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioEncoderEncode/ar.md)
 
 يقوم عقد AudioEncoderEncode بمعالجة البيانات الصوتية عن طريق ترميزها باستخدام نموذج مُشفر صوتي. يأخذ العقد مدخلات صوتية ويحولها إلى تمثيل مُشفر يمكن استخدامه لمزيد من المعالجة في خط التكييف. يحول هذا العقد الموجات الصوتية الخام إلى تنسيق مناسب للتطبيقات القائمة على الصوت في تعلم الآلة.
 

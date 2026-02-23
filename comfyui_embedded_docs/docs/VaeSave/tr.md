@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAESave/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAESave/tr.md)
 
 VAESave düğümü, VAE modellerini ve bunlara ait istemleri ve ek PNG bilgilerini içeren meta verileri belirtilen bir çıktı dizinine kaydetmek için tasarlanmıştır. Model durumunu ve ilişkili bilgileri bir dosyaya serileştirme işlevselliğini kapsar, böylece eğitilmiş modellerin korunmasını ve paylaşılmasını kolaylaştırır.
 

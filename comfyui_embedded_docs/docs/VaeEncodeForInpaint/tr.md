@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEEncodeForInpaint/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEEncodeForInpaint/tr.md)
 
 Bu düğüm, görüntüleri, giriş görüntüsünü ve maskeyi VAE modeli tarafından optimal kodlama için ayarlamak üzere ek ön işleme adımları içeren, inpaintleme görevleri için uygun bir latent temsile kodlamak üzere tasarlanmıştır.
 

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu3ImageToVideoNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu3ImageToVideoNode/fr.md)
 
 Le nœud Vidu Q3 Image-to-Vidéo génère une séquence vidéo à partir d'une image d'entrée. Il utilise le modèle Vidu Q3 Pro pour animer l'image, éventuellement guidé par une invite textuelle, et produit un fichier vidéo.
 

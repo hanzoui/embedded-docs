@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageCompare/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageCompare/zh-TW.md)
 
 Image Compare 節點提供了一個視覺化介面，透過可拖曳的滑桿來並排比較兩張圖片。它被設計為輸出節點，這意味著它不會將資料傳遞給其他節點，而是直接在用戶介面中顯示圖片以供檢視。
 
@@ -14,4 +14,4 @@ Image Compare 節點提供了一個視覺化介面，透過可拖曳的滑桿來
 
 ## 輸出結果
 
-此節點為輸出節點，不會產生任何可供其他節點使用的資料輸出。其功能是在 ComfyUI 介面中顯示所提供的圖片。
+此節點為輸出節點，不會產生任何可供其他節點使用的資料輸出。其功能是在 Hanzo Studio 介面中顯示所提供的圖片。

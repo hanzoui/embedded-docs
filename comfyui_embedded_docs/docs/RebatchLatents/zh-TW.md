@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RebatchLatents/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RebatchLatents/zh-TW.md)
 
 RebatchLatents 節點旨在根據指定的批次大小，將一批潛在表示重新組織成新的批次配置。它能確保潛在樣本被適當分組，處理維度和大小的變化，以便於後續處理或模型推論。
 

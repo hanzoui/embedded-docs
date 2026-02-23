@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageAddNoise/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageAddNoise/pt-BR.md)
 
 O nó ImageAddNoise adiciona ruído aleatório a uma imagem de entrada. Ele utiliza uma semente aleatória especificada para gerar padrões de ruído consistentes e permite controlar a intensidade do efeito de ruído. A imagem resultante mantém as mesmas dimensões da entrada, mas com textura visual adicionada.
 

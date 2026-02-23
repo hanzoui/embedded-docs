@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVConditioning/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVConditioning/ko.md)
 
 LTXVConditioning 노드는 비디오 생성 모델을 위해 양수 및 음수 조건 입력에 프레임 속도 정보를 추가합니다. 기존 조건 데이터를 가져와 지정된 프레임 속도 값을 두 조건 세트에 적용하여 비디오 모델 처리에 적합하게 만듭니다.
 

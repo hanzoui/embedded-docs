@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeHunyuan3D/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeHunyuan3D/fr.md)
 
 Le nœud VAEDecodeHunyuan3D convertit des représentations latentes en données voxel 3D à l'aide d'un décodeur VAE. Il traite les échantillons latents via le modèle VAE avec des paramètres configurables de découpage et de résolution pour générer des données volumétriques adaptées aux applications 3D.
 

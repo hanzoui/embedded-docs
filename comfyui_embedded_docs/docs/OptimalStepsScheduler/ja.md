@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OptimalStepsScheduler/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OptimalStepsScheduler/ja.md)
 
 OptimalStepsSchedulerノードは、選択されたモデルタイプとステップ設定に基づいて、拡散モデルのノイズスケジュールシグマ値を計算します。このノードはデノイズパラメータに応じて総ステップ数を調整し、要求されたステップ数に合わせてノイズレベルを補間します。拡散サンプリングプロセスで使用されるノイズレベルを決定する一連のシグマ値を返します。
 

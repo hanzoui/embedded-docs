@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Sd4xupscaleConditioning/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Sd4xupscaleConditioning/ar.md)
 
 تتخصص هذه العقدة في تحسين دقة الصور من خلال عملية تكبير بمقدار 4 أضعاف، مع دمج عناصر توجيهية لتحسين الناتج. تستخدم تقنيات الانتشار لتكبير الصور مع السماح بضبط نسبة المقياس وزيادة الضوضاء لتحسين عملية التحسين.
 

@@ -1,1 +1,1 @@
-# comfyui_embedded_docs package
+# hanzo_studio_embedded_docs package

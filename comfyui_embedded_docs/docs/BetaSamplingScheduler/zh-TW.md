@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BetaSamplingScheduler/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BetaSamplingScheduler/zh-TW.md)
 
 BetaSamplingScheduler 節點使用 beta 排程演算法為取樣過程生成一系列雜訊等級（sigmas）。它接收模型和配置參數，創建一個自定義的雜訊排程，用於控制圖像生成過程中的去雜訊處理。此排程器允許透過 alpha 和 beta 參數微調雜訊降低軌跡。
 

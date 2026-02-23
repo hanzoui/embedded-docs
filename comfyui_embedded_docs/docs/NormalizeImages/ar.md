@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/NormalizeImages/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/NormalizeImages/ar.md)
 
 يُعدِّل هذا العقد قيم البكسل لصورة الإدخال باستخدام عملية تطبيع رياضية. حيث يطرح قيمة متوسطة محددة من كل بكسل ثم يقسم الناتج على قيمة انحراف معياري محددة. تُعد هذه خطوة معالجة مسبقة شائعة لإعداد بيانات الصور لنماذج تعلم الآلة الأخرى.
 

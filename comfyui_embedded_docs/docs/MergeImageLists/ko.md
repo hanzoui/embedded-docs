@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MergeImageLists/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MergeImageLists/ko.md)
 
 Merge Image Lists 노드는 여러 개의 별도 이미지 목록을 하나의 연속된 목록으로 결합합니다. 연결된 각 입력의 모든 이미지를 가져와 수신된 순서대로 함께 추가하는 방식으로 작동합니다. 이는 서로 다른 소스의 이미지를 추가 처리하기 위해 구성하거나 일괄 처리하는 데 유용합니다.
 

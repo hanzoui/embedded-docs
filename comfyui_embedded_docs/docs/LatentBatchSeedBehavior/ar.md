@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentBatchSeedBehavior/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentBatchSeedBehavior/ar.md)
 
 يتم تصميم عُقدة LatentBatchSeedBehavior لتعديل سلوك البذرة (seed) لمجموعة من العينات الكامنة. تتيح إما تعيين البذرة بشكل عشوائي أو تثبيتها عبر المجموعة، مما يؤثر على عملية التوليد إما بإدخال عنصر التباين أو الحفاظ على الاتساق في المخرجات المُولدة.
 

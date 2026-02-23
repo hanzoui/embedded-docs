@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftStyleV3RealisticImage/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftStyleV3RealisticImage/tr.md)
 
 Bu düğüm, Recraft API'si ile kullanılmak üzere gerçekçi bir görüntü stili yapılandırması oluşturur. Gerçekçi görüntü stilini seçmenize ve çıktı görünümünü özelleştirmek için çeşitli alt stil seçenekleri arasından seçim yapmanıza olanak tanır.
 

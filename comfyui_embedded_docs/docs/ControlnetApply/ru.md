@@ -1,6 +1,6 @@
-> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ControlNetApply/ru.md)
+> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ControlNetApply/ru.md)
 
-Для использования ControlNet требуется предварительная обработка входных изображений. Поскольку начальные узлы ComfyUI не поставляются со встроенными препроцессорами и моделями ControlNet, сначала установите препроцессоры ControlNet [скачайте препроцессоры здесь](https://github.com/Fannovel16/comfy_controlnet_preprocessors) и соответствующие модели ControlNet.
+Для использования ControlNet требуется предварительная обработка входных изображений. Поскольку начальные узлы Hanzo Studio не поставляются со встроенными препроцессорами и моделями ControlNet, сначала установите препроцессоры ControlNet [скачайте препроцессоры здесь](https://github.com/Fannovel16/comfy_controlnet_preprocessors) и соответствующие модели ControlNet.
 
 ## Входы
 

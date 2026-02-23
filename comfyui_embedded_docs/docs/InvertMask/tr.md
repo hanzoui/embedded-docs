@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/InvertMask/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/InvertMask/tr.md)
 
 InvertMask düğümü, belirli bir maskenin değerlerini tersine çevirmek için tasarlanmıştır, böylece maskelenmiş ve maskelenmemiş alanlar etkili bir şekilde değiştirilir. Bu işlem, odaklanılan ilgi alanının ön plan ve arka plan arasında değiştirilmesi gereken görüntü işleme görevlerinde temel bir işlemdir.
 

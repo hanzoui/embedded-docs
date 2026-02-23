@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SplitSigmasDenoise/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SplitSigmasDenoise/tr.md)
 
 SplitSigmasDenoise düğümü, bir gürültü giderme kuvveti parametresine dayanarak bir sigma değerleri dizisini iki parçaya böler. Giriş sigmalarını yüksek ve düşük sigma dizilerine ayırır; burada bölme noktası, toplam adımların gürültü giderme faktörü ile çarpılmasıyla belirlenir. Bu, gürültü programını özel işlemler için farklı yoğunluk aralıklarına ayırmaya olanak tanır.
 

@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ControlNetInpaintingAliMamaApply/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ControlNetInpaintingAliMamaApply/es.md)
 
 El nodo ControlNetInpaintingAliMamaApply aplica el acondicionamiento ControlNet para tareas de inpainting combinando el acondicionamiento positivo y negativo con una imagen de control y una máscara. Procesa la imagen de entrada y la máscara para crear un acondicionamiento modificado que guía el proceso de generación, permitiendo un control preciso sobre qué áreas de la imagen se rellenan. El nodo soporta ajustes de fuerza y controles de temporización para afinar la influencia del ControlNet durante las diferentes etapas del proceso de generación.
 

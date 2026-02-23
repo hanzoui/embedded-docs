@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CheckpointSave/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CheckpointSave/tr.md)
 
 `Save Checkpoint` düğümü, bir Stable Diffusion modelinin tamamını (UNet, CLIP ve VAE bileşenleri dahil) **.safetensors** formatında bir kontrol noktası dosyası olarak kaydetmek için tasarlanmıştır.
 
@@ -24,9 +24,9 @@ Bu düğüm bir kontrol noktası dosyası çıktılayacaktır ve ilgili çıktı
 
 ## Mimari Uyumluluğu
 
-- Şu anda tam desteklenenler: SDXL, SD3, SVD ve diğer ana akım mimariler, bkz. [kaynak kodu](https://github.com/comfyanonymous/ComfyUI/blob/master/comfy_extras/nodes_model_merging.py#L176-L189)
+- Şu anda tam desteklenenler: SDXL, SD3, SVD ve diğer ana akım mimariler, bkz. [kaynak kodu](https://github.com/hanzoai/studio/blob/master/comfy_extras/nodes_model_merging.py#L176-L189)
 - Temel destek: Diğer mimariler kaydedilebilir ancak standart meta veri bilgisi olmadan
 
 ## İlgili Bağlantılar
 
-İlgili kaynak kodu: [nodes_model_merging.py#L227](https://github.com/comfyanonymous/ComfyUI/blob/master/comfy_extras/nodes_model_merging.py#L227)
+İlgili kaynak kodu: [nodes_model_merging.py#L227](https://github.com/hanzoai/studio/blob/master/comfy_extras/nodes_model_merging.py#L227)

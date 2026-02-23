@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningSetProperties/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningSetProperties/pt-BR.md)
 
 O nó PairConditioningSetProperties permite modificar as propriedades de pares de condicionamento positivo e negativo simultaneamente. Ele aplica ajustes de força, configurações de área de condicionamento e controles opcionais de máscara ou temporização a ambas as entradas de condicionamento, retornando os dados de condicionamento positivo e negativo modificados.
 

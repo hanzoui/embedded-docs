@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageDeduplication/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageDeduplication/ja.md)
 
 このノードは、バッチ内の重複または非常に類似した画像を除去します。各画像の知覚的ハッシュ（視覚的内容に基づく簡易な数値フィンガープリント）を作成し、それらを比較することで動作します。設定された閾値よりもハッシュが類似している画像は重複と見なされ、除外されます。
 

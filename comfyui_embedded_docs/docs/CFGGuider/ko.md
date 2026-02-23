@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CFGGuider/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CFGGuider/ko.md)
 
 CFGGuider 노드는 이미지 생성 과정에서 샘플링을 제어하기 위한 안내 시스템을 생성합니다. 모델과 함께 긍정적 및 부정적 조건 입력을 받아서, 원하는 콘텐츠를 향해 생성 과정을 유도하고 원하지 않는 요소를 피하도록 분류기 없는 안내 척도(Classifier-Free Guidance Scale)를 적용합니다. 이 노드는 샘플링 노드에서 이미지 생성 방향을 제어하는 데 사용할 수 있는 가이더 객체를 출력합니다.
 

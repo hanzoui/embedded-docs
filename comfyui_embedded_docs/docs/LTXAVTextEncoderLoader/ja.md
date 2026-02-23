@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXAVTextEncoderLoader/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXAVTextEncoderLoader/ja.md)
 
 このノードは、LTXVオーディオモデル用の特殊なテキストエンコーダを読み込みます。特定のテキストエンコーダファイルとチェックポイントファイルを組み合わせて、オーディオ関連のテキスト条件付けタスクに使用できるCLIPモデルを作成します。
 

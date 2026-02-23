@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Pikadditions/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Pikadditions/ko.md)
 
 Pikadditions 노드를 사용하면 비디오에 어떤 객체나 이미지든 추가할 수 있습니다. 비디오를 업로드하고 추가하려는 내용을 지정하여 완벽하게 통합된 결과물을 생성합니다. 이 노드는 Pika API를 사용하여 이미지를 비디오에 자연스럽게 통합된 모습으로 삽입합니다.
 

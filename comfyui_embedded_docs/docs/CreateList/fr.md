@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateList/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateList/fr.md)
 
 Le nœud Create List combine plusieurs entrées en une seule liste séquentielle. Il prend un nombre quelconque d'entrées du même type de données et les concatène dans l'ordre où elles sont connectées. Ce nœud est utile pour préparer des lots de données, tels que des images ou du texte, à être traités par d'autres nœuds dans un flux de travail.
 

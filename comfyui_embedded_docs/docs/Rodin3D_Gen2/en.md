@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Rodin3D_Gen2/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Rodin3D_Gen2/en.md)
 
 The Rodin3D_Gen2 node generates 3D assets using the Rodin API. It takes input images and converts them into 3D models with various material types and polygon counts. The node handles the entire generation process including task creation, status polling, and file downloading automatically.
 

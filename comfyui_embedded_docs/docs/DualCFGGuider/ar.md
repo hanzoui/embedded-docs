@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DualCFGGuider/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DualCFGGuider/ar.md)
 
 ```markdown
 عُقْدَة DualCFGGuider تُنشئ نظام توجيه لأخذ العينات باستخدام التوجيه الخالي من المصنف المزدوج. تجمع بين مدخلين توجيهيين إيجابيين مع مدخل توجيهي سلبي واحد، مع تطبيق مقاييس توجيه مختلفة على كل زوج توجيهي للتحكم في تأثير كل محفز على المخرجات المُنْتَجَة.

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/InpaintModelConditioning/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/InpaintModelConditioning/zh-TW.md)
 
 InpaintModelConditioning 節點旨在簡化修補模型的調節流程，能夠整合並操作各種調節輸入以定制修補輸出。它涵蓋廣泛的功能範圍，從載入特定模型檢查點、應用風格或控制網路模型，到編碼和組合調節元素，從而成為定制修補任務的綜合工具。
 

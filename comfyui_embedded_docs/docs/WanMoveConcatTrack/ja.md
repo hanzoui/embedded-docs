@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveConcatTrack/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveConcatTrack/ja.md)
 
 WanMoveConcatTrackノードは、2つのモーショントラッキングデータセットを結合し、1つのより長いシーケンスを生成します。これは、入力トラックのトラックパスと可視性マスクをそれぞれの次元に沿って結合することで機能します。トラック入力が1つだけ提供された場合は、そのデータを変更せずにそのまま出力します。
 

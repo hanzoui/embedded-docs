@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Morphology/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Morphology/ja.md)
 
 Morphologyノードは、画像にさまざまな形態学的操作を適用します。これらは画像内の形状を処理および解析するために使用される数学的操作です。エロージョン（収縮）、ダイレーション（膨張）、オープニング（開口）、クロージング（閉口）、グラディエントなど、効果の強度を制御するカスタマイズ可能なカーネルサイズを使用して操作を実行できます。
 

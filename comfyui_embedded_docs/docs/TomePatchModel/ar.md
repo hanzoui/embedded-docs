@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TomePatchModel/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TomePatchModel/ar.md)
 
 تُطبق عقدة TomePatchModel دمج الرموز (ToMe) على نموذج الانتشار لتقليل المتطلبات الحسابية أثناء الاستدلال. تعمل من خلال دمج الرموز المتشابهة انتقائيًا في آلية الانتباه، مما يسمح للنموذج بمعالجة عدد أقل من الرموز مع الحفاظ على جودة الصورة. تساعد هذه التقنية في تسريع عملية التوليد دون فقدان كبير في الجودة.
 

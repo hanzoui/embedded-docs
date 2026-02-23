@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduStartEndToVideoNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduStartEndToVideoNode/zh.md)
 
 Vidu Start End To Video Generation 节点通过在起始帧和结束帧之间生成帧来创建视频。它使用文本提示来指导视频生成过程，并支持具有不同分辨率和运动设置的各种视频模型。该节点在处理前会验证起始帧和结束帧是否具有兼容的宽高比。
 

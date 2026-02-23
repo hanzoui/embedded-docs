@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingTextToVideoNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingTextToVideoNode/en.md)
 
 The Kling Text to Video Node converts text descriptions into video content. It takes text prompts and generates corresponding video sequences based on the specified configuration settings. The node supports different aspect ratios and generation modes to produce videos of varying durations and quality.
 

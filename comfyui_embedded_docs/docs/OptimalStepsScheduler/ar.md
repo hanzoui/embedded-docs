@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OptimalStepsScheduler/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OptimalStepsScheduler/ar.md)
 
 يحسب عقدة OptimalStepsScheduler قيم سيجما لجدول الضوضاء لنماذج الانتشار بناءً على نوع النموذج المحدد وتكوين الخطوات. تقوم العقدة بضبط العدد الإجمالي للخطوات وفقًا لمعامل إزالة الضوضاء وتقوم باستيفاء مستويات الضوضاء لتتوافق مع عدد الخطوات المطلوب. تُرجع العقدة سلسلة من قيم سيجما التي تحدد مستويات الضوضاء المستخدمة أثناء عملية أخذ عينات الانتشار.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceTextToVideoNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceTextToVideoNode/tr.md)
 
 ByteDance Text to Video düğümü, metin istemlerine dayalı olarak bir API aracılığıyla ByteDance modellerini kullanarak videolar oluşturur. Bir metin açıklaması ve çeşitli video ayarlarını girdi olarak alır, ardından sağlanan özelliklere uygun bir video oluşturur. Düğüm, API iletişimini yönetir ve oluşturulan videoyu çıktı olarak döndürür.
 

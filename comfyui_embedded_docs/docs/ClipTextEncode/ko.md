@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncode/ko.md)
 
 `CLIP Text Encode (CLIPTextEncode)`는 번역기 역할을 하여, 사용자의 텍스트 설명을 AI가 이해할 수 있는 형식으로 변환합니다. 이를 통해 AI가 사용자의 입력을 해석하고 원하는 이미지를 생성하는 데 도움을 줍니다.
 
@@ -23,10 +23,10 @@
 
 임베딩 모델을 사용하면 특정 예술적 효과나 스타일을 적용할 수 있습니다. 지원되는 형식은 `.safetensors`, `.pt`, `.bin`입니다. 임베딩 모델을 사용하려면:
 
-1. 파일을 `ComfyUI/models/embeddings` 폴더에 넣습니다.
+1. 파일을 `Hanzo Studio/models/embeddings` 폴더에 넣습니다.
 2. 텍스트에서 `embedding:모델_이름` 형식으로 참조합니다.
 
-예시: `ComfyUI/models/embeddings` 폴더에 `EasyNegative.pt`라는 모델이 있다면, 다음과 같이 사용할 수 있습니다:
+예시: `Hanzo Studio/models/embeddings` 폴더에 `EasyNegative.pt`라는 모델이 있다면, 다음과 같이 사용할 수 있습니다:
 
 ```
 worst quality, embedding:EasyNegative, bad quality

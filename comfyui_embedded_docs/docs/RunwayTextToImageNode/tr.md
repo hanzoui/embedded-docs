@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RunwayTextToImageNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RunwayTextToImageNode/tr.md)
 
 Runway Metinden Görüntüye düğümü, Runway'nin Gen 4 modelini kullanarak metin istemlerinden görüntüler oluşturur. Bir metin açıklaması sağlayabilir ve isteğe bağlı olarak görüntü oluşturma sürecine rehberlik etmesi için bir referans görseli ekleyebilirsiniz. Düğüm, API iletişimini halleder ve oluşturulan görseli döndürür.
 

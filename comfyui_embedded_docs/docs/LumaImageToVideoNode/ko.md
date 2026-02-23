@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LumaImageToVideoNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LumaImageToVideoNode/ko.md)
 
 프롬프트, 입력 이미지 및 출력 크기를 기반으로 동기적으로 비디오를 생성합니다. 이 노드는 텍스트 프롬프트와 선택적으로 시작/종료 이미지를 제공하여 비디오 콘텐츠와 구조를 정의함으로써 Luma API를 사용하여 비디오를 생성합니다.
 

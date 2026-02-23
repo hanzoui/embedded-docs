@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanPhantomSubjectToVideo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanPhantomSubjectToVideo/zh-TW.md)
 
 WanPhantomSubjectToVideo 節點透過處理條件輸入和可選的參考圖像來生成影片內容。它會為影片生成創建潛在表徵，並在提供輸入圖像時納入視覺引導。該節點透過時間維度串接為影片模型準備條件資料，並輸出修改後的條件資料以及生成的潛在影片資料。
 

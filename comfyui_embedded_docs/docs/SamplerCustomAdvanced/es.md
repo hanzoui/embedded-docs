@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerCustomAdvanced/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerCustomAdvanced/es.md)
 
 El nodo SamplerCustomAdvanced realiza un muestreo avanzado en el espacio latente utilizando configuraciones personalizadas de ruido, guía y muestreo. Procesa una imagen latente a través de un proceso de muestreo guiado con generación de ruido y programaciones de sigma personalizables, produciendo tanto la salida muestreada final como una versión sin ruido cuando está disponible.
 

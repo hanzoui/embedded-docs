@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetArea/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetArea/ar.md)
 
 تم تصميم هذه العقدة لتعديل معلومات التكييف من خلال تحديد مناطق محددة ضمن سياق التكييف. تتيح هذه العقدة التحكم المكاني الدقيق لعناصر التكييف، مما يمكّن من إجراء تعديلات وتحسينات مستهدفة بناءً على أبعاد وقوة محددة.
 

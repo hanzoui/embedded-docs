@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookModelAsLora/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookModelAsLora/es.md)
 
 Este nodo crea un modelo de enlace como LoRA (Adaptación de Bajo Rango) cargando pesos de checkpoint y aplicando ajustes de intensidad tanto a los componentes del modelo como a CLIP. Permite aplicar modificaciones estilo LoRA a modelos existentes mediante un enfoque basado en enlaces, posibilitando el ajuste fino y la adaptación sin cambios permanentes en el modelo. El nodo puede combinarse con enlaces anteriores y almacena en caché los pesos cargados para mayor eficiencia.
 

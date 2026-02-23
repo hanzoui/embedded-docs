@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ReplaceText/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ReplaceText/es.md)
 
 El nodo Replace Text realiza una sustitución de texto simple. Busca un fragmento de texto específico dentro de la entrada y reemplaza cada ocurrencia con un nuevo fragmento de texto. La operación se aplica a todas las entradas de texto proporcionadas al nodo.
 

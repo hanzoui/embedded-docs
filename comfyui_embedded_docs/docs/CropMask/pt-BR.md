@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CropMask/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CropMask/pt-BR.md)
 
 O nó CropMask é projetado para recortar uma área específica de uma máscara fornecida. Ele permite que os usuários definam a região de interesse especificando coordenadas e dimensões, extraindo efetivamente uma porção da máscara para processamento ou análise posterior.
 

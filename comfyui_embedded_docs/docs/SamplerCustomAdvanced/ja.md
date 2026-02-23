@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerCustomAdvanced/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerCustomAdvanced/ja.md)
 
 SamplerCustomAdvancedノードは、カスタムノイズ、ガイダンス、およびサンプリング設定を使用して、高度な潜在空間サンプリングを実行します。このノードは、カスタマイズ可能なノイズ生成とシグマスケジュールを用いたガイド付きサンプリングプロセスを通じて潜在画像を処理し、最終的なサンプリング出力と、利用可能な場合はノイズ除去されたバージョンの両方を生成します。
 

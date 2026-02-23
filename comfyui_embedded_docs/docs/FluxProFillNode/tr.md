@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxProFillNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxProFillNode/tr.md)
 
 Görüntüyü maske ve prompt temelinde boyar. Bu düğüm, Flux.1 modelini kullanarak bir görüntünün maskelenmiş alanlarını sağlanan metin açıklamasına göre doldurur ve çevreleyen görüntüyle eşleşen yeni içerik üretir.
 

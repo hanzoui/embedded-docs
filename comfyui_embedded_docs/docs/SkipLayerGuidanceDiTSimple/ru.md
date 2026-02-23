@@ -1,4 +1,4 @@
-> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceDiTSimple/ru.md)
+> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceDiTSimple/ru.md)
 
 Упрощенная версия узла SkipLayerGuidanceDiT, которая изменяет только безусловный проход в процессе денойзинга. Этот узел применяет skip layer guidance к определенным слоям трансформера в моделях DiT (Diffusion Transformer), выборочно пропуская определенные слои во время безусловного прохода на основе заданных параметров времени и слоев.
 

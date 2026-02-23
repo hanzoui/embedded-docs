@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ComfySwitchNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ComfySwitchNode/fr.md)
 
 Le nœud Switch permet de sélectionner entre deux entrées possibles en fonction d'une condition booléenne. Il renvoie l'entrée `on_true` lorsque l'interrupteur (`switch`) est activé, et l'entrée `on_false` lorsqu'il est désactivé. Cela vous permet de créer une logique conditionnelle et de choisir différents chemins de données dans votre flux de travail.
 

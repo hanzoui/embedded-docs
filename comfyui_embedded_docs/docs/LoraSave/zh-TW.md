@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraSave/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraSave/zh-TW.md)
 
 LoraSave 節點從模型差異中提取並儲存 LoRA（低秩適應）檔案。它可以處理擴散模型差異、文字編碼器差異或兩者，並將其轉換為具有指定秩和類型的 LoRA 格式。生成的 LoRA 檔案將儲存到輸出目錄中以供後續使用。
 
@@ -6,7 +6,7 @@ LoraSave 節點從模型差異中提取並儲存 LoRA（低秩適應）檔案。
 
 | 參數名稱 | 資料類型 | 是否必填 | 數值範圍 | 參數說明 |
 |-----------|-----------|----------|-------|-------------|
-| `檔名前綴` | STRING | 是 | - | 輸出檔案名稱的前綴（預設值："loras/ComfyUI_extracted_lora"） |
+| `檔名前綴` | STRING | 是 | - | 輸出檔案名稱的前綴（預設值："loras/Hanzo Studio_extracted_lora"） |
 | `秩(rank)` | INT | 是 | 1-4096 | LoRA 的秩值，控制大小和複雜度（預設值：8） |
 | `lora類型` | COMBO | 是 | 提供多種選項 | 要建立的 LoRA 類型，提供多種可用選項 |
 | `偏差差異` | BOOLEAN | 是 | - | 是否在 LoRA 計算中包含偏差差異（預設值：True） |

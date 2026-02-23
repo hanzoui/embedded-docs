@@ -1,6 +1,6 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Load3DAnimation/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Load3DAnimation/tr.md)
 
-Load3DAnimation düğümü, 3D model dosyalarını yüklemek ve işlemek için temel bir düğümdür. Düğüm yüklendiğinde, otomatik olarak `ComfyUI/input/3d/` dizininden mevcut 3D kaynaklarını getirir. Ayrıca, yükleme işlevini kullanarak desteklenen 3D dosyalarını önizleme için yükleyebilirsiniz.
+Load3DAnimation düğümü, 3D model dosyalarını yüklemek ve işlemek için temel bir düğümdür. Düğüm yüklendiğinde, otomatik olarak `Hanzo Studio/input/3d/` dizininden mevcut 3D kaynaklarını getirir. Ayrıca, yükleme işlevini kullanarak desteklenen 3D dosyalarını önizleme için yükleyebilirsiniz.
 
 > - Bu düğümün işlevlerinin çoğu Load 3D düğümü ile aynıdır, ancak bu düğüm animasyonlu modelleri yüklemeyi destekler ve düğüm içinde ilgili animasyonları önizleyebilirsiniz.
 > - Bu belgenin içeriği Load3D düğümü ile aynıdır, çünkü animasyon önizleme ve oynatma dışında yetenekleri aynıdır.
@@ -9,9 +9,9 @@ Load3DAnimation düğümü, 3D model dosyalarını yüklemek ve işlemek için t
 Şu anda bu düğüm, `.gltf`, `.glb`, `.obj`, `.fbx` ve `.stl` dahil olmak üzere birden fazla 3D dosya biçimini desteklemektedir.
 
 **3D Düğüm Tercihleri**
-3D düğümlerle ilgili bazı tercihler ComfyUI'nin ayarlar menüsünden yapılandırılabilir. İlgili ayarlar için lütfen aşağıdaki belgelere bakın:
+3D düğümlerle ilgili bazı tercihler Hanzo Studio'nin ayarlar menüsünden yapılandırılabilir. İlgili ayarlar için lütfen aşağıdaki belgelere bakın:
 
-[Ayarlar Menüsü](https://docs.comfy.org/interface/settings/3d)
+[Ayarlar Menüsü](https://docs.hanzo.ai/interface/settings/3d)
 
 Düzenli düğüm çıktılarının yanı sıra, Load3D'nin tuval menüsünde birçok 3D görünümle ilgili ayarı bulunur.
 
@@ -19,7 +19,7 @@ Düzenli düğüm çıktılarının yanı sıra, Load3D'nin tuval menüsünde bi
 
 | Parametre Adı | Tür     | Açıklama                     | Varsayılan | Aralık        |
 |---------------|----------|---------------------------------|---------|--------------|
-| model_file    | Dosya Seçimi | 3D model dosya yolu, yüklemeyi destekler, varsayılan olarak model dosyalarını `ComfyUI/input/3d/` dizininden okur | - | Desteklenen biçimler |
+| model_file    | Dosya Seçimi | 3D model dosya yolu, yüklemeyi destekler, varsayılan olarak model dosyalarını `Hanzo Studio/input/3d/` dizininden okur | - | Desteklenen biçimler |
 | width         | INT      | Tuval işleme genişliği          | 1024    | 1-4096      |
 | height        | INT      | Tuval işleme yüksekliği         | 1024    | 1-4096      |
 
@@ -60,7 +60,7 @@ Load3D düğümünün Tuval alanı, aşağıdakiler dahil olmak üzere çok say�
 ### 1. Görünüm İşlemleri
 
 <video controls width="640" height="360">
-  <source src="https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
   Tarayıcınız video oynatmayı desteklemiyor.
 </video>
 
@@ -73,7 +73,7 @@ Görünüm kontrol işlemleri:
 
 ### 2. Sol Menü İşlevleri
 
-![Menü](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu.webp)
+![Menü](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu.webp)
 
 Tuvalde, bazı ayarlar menüde gizlidir. Menü düğmesine tıklayarak farklı menüleri genişletebilirsiniz
 
@@ -85,7 +85,7 @@ Tuvalde, bazı ayarlar menüde gizlidir. Menü düğmesine tıklayarak farklı m
 
 #### Sahne
 
-![sahne menüsü](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_scene.webp)
+![sahne menüsü](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_scene.webp)
 
 Sahne menüsü, bazı temel sahne ayarlama işlevleri sağlar
 
@@ -96,7 +96,7 @@ Sahne menüsü, bazı temel sahne ayarlama işlevleri sağlar
 
 #### Model
 
-![Menü_Sahne](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_model.webp)
+![Menü_Sahne](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_model.webp)
 
 Model menüsü, modelle ilgili bazı işlevler sağlar
 
@@ -105,7 +105,7 @@ Model menüsü, modelle ilgili bazı işlevler sağlar
 
 #### Kamera
 
-![menu_modelmenu_camera](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_camera.webp)
+![menu_modelmenu_camera](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_camera.webp)
 
 Bu menü, ortografik ve perspektif görünümler arasında geçiş yapma ve perspektif açı boyutu ayarları sağlar
 
@@ -114,13 +114,13 @@ Bu menü, ortografik ve perspektif görünümler arasında geçiş yapma ve pers
 
 #### Işık
 
-![menu_modelmenu_camera](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_light.webp)
+![menu_modelmenu_camera](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_light.webp)
 
 Bu menü aracılığıyla, sahnenin genel aydınlatma yoğunluğunu hızlıca ayarlayabilirsiniz
 
 #### Dışa Aktar
 
-![menu_export](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_export.webp)
+![menu_export](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_export.webp)
 
 Bu menü, model biçimlerini hızlıca dönüştürme ve dışa aktarma yeteneği sağlar
 

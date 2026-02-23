@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FreeU/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FreeU/ko.md)
 
 FreeU 노드는 이미지 생성 품질을 향상시키기 위해 모델의 출력 블록에 주파수 영역 수정을 적용합니다. 서로 다른 채널 그룹을 스케일링하고 특정 특징 맵에 푸리에 필터링을 적용하여 생성 과정에서 모델의 동작을 미세하게 제어할 수 있도록 합니다.
 

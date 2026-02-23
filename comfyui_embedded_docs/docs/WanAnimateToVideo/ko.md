@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanAnimateToVideo/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanAnimateToVideo/ko.md)
 
 WanAnimateToVideo 노드는 포즈 참조, 얼굴 표정, 배경 요소 등 여러 조건 입력을 결합하여 비디오 콘텐츠를 생성합니다. 다양한 비디오 입력을 처리하여 일관된 애니메이션 시퀀스를 생성하면서 프레임 간의 시간적 일관성을 유지합니다. 이 노드는 잠재 공간 연산을 처리하며 기존 비디오의 모션 패턴을 이어서 비디오를 확장할 수 있습니다.
 

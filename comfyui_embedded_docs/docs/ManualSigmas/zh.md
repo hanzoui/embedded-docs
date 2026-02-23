@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ManualSigmas/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ManualSigmas/zh.md)
 
 ManualSigmas 节点允许您为采样过程手动定义自定义的噪声级别序列。您输入一个数字列表作为字符串，节点会将其转换为可供其他采样节点使用的张量。这对于测试或创建特定的噪声调度非常有用。
 

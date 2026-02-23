@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FlipSigmas/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FlipSigmas/tr.md)
 
 `FlipSigmas` düğümü, difüzyon modellerinde kullanılan sigma değerleri dizisini ters çevirerek ve orijinal olarak sıfır ise ilk değerin sıfır olmamasını sağlayarak manipüle etmek için tasarlanmıştır. Bu işlem, gürültü seviyelerini ters sırada uyarlamak ve verilerden kademeli olarak gürültüyü azaltarak çalışan modellerde üretim sürecini kolaylaştırmak için çok önemlidir.
 

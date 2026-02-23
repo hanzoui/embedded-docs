@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/USOStyleReference/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/USOStyleReference/tr.md)
 
 USOStyleReference düğümü, CLIP görüntü çıktısından elde edilen kodlanmış görüntü özelliklerini kullanarak modellere stil referans yamaları uygular. Görsel girdilerden çıkarılan stil bilgilerini dahil ederek girdi modelinin değiştirilmiş bir versiyonunu oluşturur ve stil aktarımı veya referans tabanlı üretim yetenekleri sağlar.
 

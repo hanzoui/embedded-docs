@@ -1,4 +1,4 @@
-> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DiffusersLoader/ru.md)
+> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DiffusersLoader/ru.md)
 
 Узел DiffusersLoader загружает предварительно обученные модели из формата diffusers. Он выполняет поиск действительных каталогов моделей diffusers, содержащих файл model_index.json, и загружает их как компоненты MODEL, CLIP и VAE для использования в конвейере. Этот узел относится к устаревшей категории загрузчиков и обеспечивает совместимость с моделями Hugging Face diffusers.
 

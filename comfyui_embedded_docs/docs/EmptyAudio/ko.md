@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyAudio/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyAudio/ko.md)
 
 EmptyAudio 노드는 지정된 지속 시간, 샘플링 속도 및 채널 구성으로 무음 오디오 클립을 생성합니다. 이 노드는 모든 값이 0인 웨이브폼을 생성하여 주어진 지속 시간 동안 완전한 무음을 만들어냅니다. 이 노드는 오디오 워크플로우에서 자리 표시자 오디오를 생성하거나 무음 세그먼트를 생성하는 데 유용합니다.
 

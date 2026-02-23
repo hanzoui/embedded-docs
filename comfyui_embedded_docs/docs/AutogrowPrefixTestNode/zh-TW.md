@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AutogrowPrefixTestNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AutogrowPrefixTestNode/zh-TW.md)
 
 AutogrowPrefixTestNode 是一個用於測試自動增長輸入功能的邏輯節點。它接受動態數量的浮點數輸入，將它們的值組合成一個逗號分隔的字串，並輸出該字串。
 

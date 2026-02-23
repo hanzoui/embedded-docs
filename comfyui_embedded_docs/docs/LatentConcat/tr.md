@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentConcat/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentConcat/tr.md)
 
 LatentConcat düğümü, iki gizli örneği belirtilen bir boyut boyunca birleştirir. İki gizli girdi alır ve bunları seçilen eksen (x, y veya t boyutu) boyunca birleştirir. Düğüm, birleştirme işlemini gerçekleştirmeden önce ikinci girdinin toplu işlem boyutunu otomatik olarak ilk girdiyle eşleşecek şekilde ayarlar.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyTextToModelNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyTextToModelNode/pt-BR.md)
 
 O nó Meshy: Texto para Modelo utiliza a API Meshy para gerar um modelo 3D a partir de uma descrição textual. Ele envia uma solicitação à API com seu prompt e configurações, aguarda a conclusão da geração e faz o download dos arquivos do modelo resultante.
 

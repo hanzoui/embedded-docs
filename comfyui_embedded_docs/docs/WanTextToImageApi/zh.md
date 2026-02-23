@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanTextToImageApi/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanTextToImageApi/zh.md)
 
 万文本转图像节点根据文本描述生成图像。它使用 AI 模型从书面提示创建视觉内容，支持英文和中文文本输入。该节点提供多种控制选项来调整输出图像的尺寸、质量和风格偏好。
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MaskToImage/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MaskToImage/pt-BR.md)
 
 O nó `MaskToImage` é projetado para converter uma máscara em formato de imagem. Essa transformação permite a visualização e o processamento adicional de máscaras como imagens, facilitando uma ponte entre operações baseadas em máscara e aplicações baseadas em imagem.
 

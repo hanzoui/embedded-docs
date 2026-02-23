@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEEncodeTiled/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEEncodeTiled/ar.md)
 
 يقوم عقد VAEEncodeTiled بمعالجة الصور عن طريق تقسيمها إلى بلاطات (tiles) أصغر حجمًا ثم تشفيرها باستخدام مُشفر تلقائي تبايني (Variational Autoencoder). تتيح هذه الطريقة التعامل مع الصور الكبيرة التي قد تتجاوز حدود الذاكرة لو تمت معالجتها كصورة واحدة. يدعم العقد كلاً من نماذج VAE الخاصة بالصور والفيديو، مع تحكم منفصل في تجزئة الأبعاد المكانية والزمانية.
 

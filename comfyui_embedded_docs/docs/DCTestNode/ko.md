@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DCTestNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DCTestNode/ko.md)
 
 DCTestNode는 동적 콤보 박스에서 사용자가 선택한 옵션에 따라 다양한 유형의 데이터를 반환하는 논리 노드입니다. 이 노드는 조건부 라우터 역할을 하며, 선택된 옵션이 어떤 입력 필드가 활성화되고 노드가 어떤 유형의 값을 출력할지를 결정합니다.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxProImageNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxProImageNode/pt-BR.md)
 
 Gera imagens de forma síncrona com base em um prompt e resolução. Este nó cria imagens usando o modelo Flux 1.1 Pro enviando requisições para um endpoint de API e aguardando a resposta completa antes de retornar a imagem gerada.
 

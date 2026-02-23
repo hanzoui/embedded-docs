@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoTextureNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoTextureNode/zh-TW.md)
 
 TripoTextureNode 使用 Tripo API 生成帶有紋理的 3D 模型。它接收一個模型任務 ID，並應用包含 PBR 材質、紋理品質設定和對齊方法在內的各種選項來進行紋理生成。該節點與 Tripo API 通訊以處理紋理生成請求，並返回生成的模型檔案和任務 ID。
 

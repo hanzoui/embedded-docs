@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIGPTImage1/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIGPTImage1/es.md)
 
 Genera imágenes de forma síncrona mediante el endpoint GPT Image 1 de OpenAI. Este nodo puede crear nuevas imágenes a partir de prompts de texto o editar imágenes existentes cuando se proporciona una imagen de entrada y una máscara opcional.
 

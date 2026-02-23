@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImage/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImage/tr.md)
 
 LoadImage düğümü, belirli bir yoldan görüntüleri yüklemek ve ön işlemek üzere tasarlanmıştır. Çoklu kare içeren görüntü formatlarını işler, EXIF verilerine dayalı döndürme gibi gerekli dönüşümleri uygular, piksel değerlerini normalleştirir ve isteğe bağlı olarak alfa kanalı içeren görüntüler için bir maske oluşturur. Bu düğüm, bir işlem hattı içinde görüntülerin ileri işleme veya analiz için hazırlanmasında esastır.
 

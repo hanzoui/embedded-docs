@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageSkinEnhancerNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageSkinEnhancerNode/ko.md)
 
 Magnific Image Skin Enhancer 노드는 인물 사진의 피부 외관을 개선하기 위해 특화된 AI 처리를 적용합니다. 세 가지 구별된 모드를 제공하여 다양한 개선 목표에 맞출 수 있습니다: 예술적 효과를 위한 창의적(creative) 모드, 원본 외관을 보존하는 충실한(faithful) 모드, 조명이나 사실감과 같은 목표 개선을 위한 유연한(flexible) 모드입니다. 이 노드는 이미지를 외부 API에 업로드하여 처리하고, 개선된 결과를 반환합니다.
 

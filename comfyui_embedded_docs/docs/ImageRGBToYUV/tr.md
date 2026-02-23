@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageRGBToYUV/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageRGBToYUV/tr.md)
 
 ImageRGBToYUV düğümü, RGB renkli görüntüleri YUV renk uzayına dönüştürür. Bir RGB görüntüsünü girdi olarak alır ve onu üç ayrı kanala ayırır: Y (parlaklık), U (mavi çıkıntı) ve V (kırmızı çıkıntı). Her çıktı kanalı, ilgili YUV bileşenini temsil eden ayrı bir gri tonlamalı görüntü olarak döndürülür.
 

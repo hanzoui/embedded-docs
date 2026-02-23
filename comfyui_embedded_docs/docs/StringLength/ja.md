@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringLength/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringLength/ja.md)
 
 StringLengthノードは、テキスト文字列の文字数を計算します。任意のテキスト入力を受け取り、スペースや句読点を含む総文字数を返します。これはテキストの長さを測定したり、文字列サイズの要件を検証するのに便利です。
 

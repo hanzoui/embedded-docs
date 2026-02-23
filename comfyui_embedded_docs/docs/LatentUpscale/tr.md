@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentUpscale/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentUpscale/tr.md)
 
 LatentUpscale düğümü, görüntülerin gizli temsillerini (latent representations) büyütmek (upscale) için tasarlanmıştır. Gizli görüntülerin çözünürlüğünü artırırken, çıktı görüntüsünün boyutlarını ve büyütme yöntemini ayarlama esnekliği sağlar.
 

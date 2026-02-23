@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerLCMUpscale/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerLCMUpscale/es.md)
 
 El nodo SamplerLCMUpscale proporciona un método de muestreo especializado que combina el muestreo de Modelo de Consistencia Latente (LCM) con capacidades de aumento de escala de imagen. Permite escalar imágenes durante el proceso de muestreo utilizando varios métodos de interpolación, siendo útil para generar salidas de mayor resolución manteniendo la calidad de imagen.
 

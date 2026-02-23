@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingImage2VideoNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingImage2VideoNode/ar.md)
 
 يُنتج عُقدة Kling للتحويل من صورة إلى فيديو محتوى فيديو من صورة بداية باستخدام نصوص التوجيه. يأخذ العُقدة صورة مرجعية وينشئ تسلسل فيديو استنادًا إلى أوصاف النصوص الإيجابية والسلبية المقدمة، مع خيارات تكوين متنوعة لاختيار النموذج والمدة ونسبة العرض إلى الارتفاع.
 

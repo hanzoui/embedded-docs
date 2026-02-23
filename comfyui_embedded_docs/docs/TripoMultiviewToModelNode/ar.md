@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoMultiviewToModelNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoMultiviewToModelNode/ar.md)
 
 يُنشئ هذا العقد نماذج ثلاثية الأبعاد بشكل متزامن باستخدام واجهة برمجة تطبيقات Tripo من خلال معالجة ما يصل إلى أربع صور تُظهر مناظر مختلفة للجسم. يتطلب صورة أمامية ووجهة نظر إضافية واحدة على الأقل (يسار، خلف، أو يمين) لإنشاء نموذج ثلاثي الأبعاد كامل مع خيارات الملمس والمادة.
 

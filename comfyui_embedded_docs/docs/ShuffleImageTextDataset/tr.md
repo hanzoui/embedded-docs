@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ShuffleImageTextDataset/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ShuffleImageTextDataset/tr.md)
 
 Bu düğüm, bir görüntü listesini ve bir metin listesini birlikte karıştırır ve bunların eşleşmelerini bozmaz. Karıştırma sırasını belirlemek için rastgele bir tohum kullanır, böylece aynı girdi listeleri, tohum her yeniden kullanıldığında aynı şekilde karıştırılır.
 

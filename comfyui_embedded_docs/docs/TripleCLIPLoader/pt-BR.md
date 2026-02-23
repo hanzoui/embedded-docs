@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripleCLIPLoader/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripleCLIPLoader/pt-BR.md)
 
 O nó TripleCLIPLoader carrega três modelos diferentes de codificador de texto simultaneamente e os combina em um único modelo CLIP. Isso é útil para cenários avançados de codificação de texto onde múltiplos codificadores são necessários, como em fluxos de trabalho SD3 que exigem os modelos clip-l, clip-g e t5 trabalhando juntos.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyTextureNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyTextureNode/zh-TW.md)
 
 此節點將 AI 產生的紋理套用到 3D 模型上。它接收來自先前 Meshy 3D 生成或轉換節點的任務 ID，並使用文字描述或參考圖像來為模型建立新的紋理。該節點會輸出 GLB 和 FBX 檔案格式的帶紋理模型。
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEEncodeTiled/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEEncodeTiled/en.md)
 
 The VAEEncodeTiled node processes images by breaking them into smaller tiles and encoding them using a Variational Autoencoder. This tiled approach allows handling of large images that might otherwise exceed memory limitations. The node supports both image and video VAEs, with separate tiling controls for spatial and temporal dimensions.
 

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentOperationSharpen/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentOperationSharpen/fr.md)
 
 Le nœud LatentOperationSharpen applique un effet de netteté aux représentations latentes en utilisant un noyau gaussien. Il fonctionne en normalisant les données latentes, en appliquant une convolution avec un noyau de netteté personnalisé, puis en restaurant la luminance originale. Cela améliore les détails et les contours dans la représentation de l'espace latent.
 

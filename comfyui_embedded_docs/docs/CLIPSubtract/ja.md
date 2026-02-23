@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPSubtract/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPSubtract/ja.md)
 
 CLIPSubtractノードは、2つのCLIPモデル間で減算操作を実行します。最初のCLIPモデルをベースとして、2番目のCLIPモデルからキーパッチを減算し、減算の強度を制御するためのオプションの乗数を使用します。これにより、あるモデルから別のモデルを使用して特定の特性を除去することで、微調整されたモデルブレンディングが可能になります。
 

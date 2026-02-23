@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TemporalScoreRescaling/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TemporalScoreRescaling/es.md)
 
 Este nodo aplica el Reajuste Temporal de Puntuación (TSR) a un modelo de difusión. Modifica el comportamiento de muestreo del modelo reajustando el ruido o la puntuación predicha durante el proceso de eliminación de ruido, lo que puede dirigir la diversidad de la salida generada. Esto se implementa como una función posterior a la Guía Libre de Clasificador (CFG).
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Veo3VideoGenerationNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Veo3VideoGenerationNode/ko.md)
 
 Google의 Veo 3 API를 사용하여 텍스트 프롬프트에서 비디오를 생성합니다. 이 노드는 veo-3.0-generate-001과 veo-3.0-fast-generate-001 두 가지 Veo 3 모델을 지원합니다. 오디오 생성과 고정된 8초 길이를 포함한 Veo 3 특화 기능으로 기본 Veo 노드를 확장합니다.
 

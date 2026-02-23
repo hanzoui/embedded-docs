@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！[在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioConcat/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！[在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioConcat/zh.md)
 
 AudioConcat 节点通过将两个音频输入连接在一起来合并它们。它接收两个音频输入，并按照您指定的顺序连接它们，可以将第二个音频放置在第一个音频之前或之后。该节点通过将单声道音频转换为立体声并匹配两个输入之间的采样率，自动处理不同的音频格式。
 

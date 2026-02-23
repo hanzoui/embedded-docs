@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceTextToVideoNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceTextToVideoNode/fr.md)
 
 Le nœud ByteDance Text to Video génère des vidéos en utilisant les modèles ByteDance via une API basée sur des invites textuelles. Il prend une description textuelle et divers paramètres vidéo en entrée, puis crée une vidéo correspondant aux spécifications fournies. Le nœud gère la communication avec l'API et retourne la vidéo générée en sortie.
 

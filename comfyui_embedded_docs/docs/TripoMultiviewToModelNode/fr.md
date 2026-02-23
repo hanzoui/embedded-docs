@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoMultiviewToModelNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoMultiviewToModelNode/fr.md)
 
 Ce nœud génère des modèles 3D de manière synchrone en utilisant l'API de Tripo en traitant jusqu'à quatre images montrant différentes vues d'un objet. Il nécessite une image de face et au moins une vue supplémentaire (gauche, arrière ou droite) pour créer un modèle 3D complet avec des options de texture et de matériaux.
 

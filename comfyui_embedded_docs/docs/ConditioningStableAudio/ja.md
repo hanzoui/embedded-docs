@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningStableAudio/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningStableAudio/ja.md)
 
 ConditioningStableAudioノードは、音声生成のためのポジティブおよびネガティブなコンディショニング入力にタイミング情報を追加します。このノードは、音声コンテンツをいつ、どのくらいの長さで生成するかを制御するのに役立つ開始時間と合計時間のパラメータを設定します。このノードは、音声固有のタイミングメタデータを追加することで、既存のコンディショニングデータを変更します。
 

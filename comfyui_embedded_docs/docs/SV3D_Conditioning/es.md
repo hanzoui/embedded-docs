@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SV3D_Conditioning/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SV3D_Conditioning/es.md)
 
 El nodo SV3D_Conditioning prepara datos de condicionamiento para la generación de video 3D utilizando el modelo SV3D. Toma una imagen inicial y la procesa a través de codificadores CLIP vision y VAE para crear condicionamiento positivo y negativo, junto con una representación latente. El nodo genera secuencias de elevación y azimut de cámara para la generación de video multiframe según el número especificado de fotogramas de video.
 

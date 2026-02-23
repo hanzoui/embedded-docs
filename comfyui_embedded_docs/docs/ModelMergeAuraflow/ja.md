@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeAuraflow/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeAuraflow/ja.md)
 
 ModelMergeAuraflowノードは、2つの異なるモデルを様々なモデルコンポーネントの特定のブレンド重みを調整して組み合わせることができます。初期レイヤーから最終出力まで、モデルの異なる部分がどのようにマージされるかを細かく制御できます。このノードは、マージプロセスを精密に制御したカスタムモデルの組み合わせを作成する際に特に有用です。
 

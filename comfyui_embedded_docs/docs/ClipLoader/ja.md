@@ -1,10 +1,10 @@
 このノードは、主にCLIPテキストエンコーダーモデルを単独でロードするために使用されます。
 モデルファイルは以下のパスで検出できます：
 
-- "ComfyUI/models/text_encoders/"
-- "ComfyUI/models/clip/"
+- "Hanzo Studio/models/text_encoders/"
+- "Hanzo Studio/models/clip/"
 
-> ComfyUI起動後にモデルを保存した場合、最新のモデルファイルパスリストを取得するためにComfyUIフロントエンドを更新する必要があります
+> Hanzo Studio起動後にモデルを保存した場合、最新のモデルファイルパスリストを取得するためにHanzo Studioフロントエンドを更新する必要があります
 
 サポートされているモデル形式：
 
@@ -17,14 +17,14 @@
 - `.pkl`
 - `.sft`
 
-最新のモデルファイルのロードについての詳細は[folder_paths](https://github.com/comfyanonymous/ComfyUI/blob/master/folder_paths.py)を参照してください
+最新のモデルファイルのロードについての詳細は[folder_paths](https://github.com/hanzoai/studio/blob/master/folder_paths.py)を参照してください
 
 ## 入力
 
 | パラメータ     | データ型 | 説明 |
 |---------------|----------|------|
 | `clip名`      | COMBO[STRING] | ロードするCLIPモデルの名前を指定します。この名前は、事前定義されたディレクトリ構造内でモデルファイルを見つけるために使用されます。 |
-| `タイプ`      | COMBO[STRING] | ロードするCLIPモデルのタイプを決定します。ComfyUIがサポートするモデルが増えるにつれて、新しいタイプがここに追加されます。詳細については[node.py](https://github.com/comfyanonymous/ComfyUI/blob/master/nodes.py)の`CLIPLoader`クラスの定義を参照してください。 |
+| `タイプ`      | COMBO[STRING] | ロードするCLIPモデルのタイプを決定します。Hanzo Studioがサポートするモデルが増えるにつれて、新しいタイプがここに追加されます。詳細については[node.py](https://github.com/hanzoai/studio/blob/master/nodes.py)の`CLIPLoader`クラスの定義を参照してください。 |
 | `デバイス`    | COMBO[STRING] | CLIPモデルをロードするデバイスを選択します。`default`はGPUでモデルを実行し、`CPU`を選択するとCPUでの強制ロードを行います。 |
 
 ### デバイスオプションの説明
@@ -59,7 +59,7 @@ CPU上での実行はGPUよりもかなり遅くなりますが、他の重要�
 | lumina2 | gemma 2 2B |
 | wan | umt5 xxl |
 
-ComfyUIの更新に伴い、これらの組み合わせは拡張される可能性があります。詳細については[node.py](https://github.com/comfyanonymous/ComfyUI/blob/master/nodes.py)の`CLIPLoader`クラスの定義を参照してください。
+Hanzo Studioの更新に伴い、これらの組み合わせは拡張される可能性があります。詳細については[node.py](https://github.com/hanzoai/studio/blob/master/nodes.py)の`CLIPLoader`クラスの定義を参照してください。
 
 ## 出力
 
@@ -69,4 +69,4 @@ ComfyUIの更新に伴い、これらの組み合わせは拡張される可能�
 
 ## 補足説明
 
-CLIPモデルはComfyUIでテキストエンコーダーとして重要な役割を果たし、テキストプロンプトを拡散モデルが理解できる数値表現に変換する責任があります。これを翻訳者のように考えることができ、テキストを大規模モデルが理解できる言語に翻訳する役割を担っています。もちろん、異なるモデルには独自の「方言」があるため、異なるアーキテクチャ間でテキストエンコーディングプロセスを完了するには、異なるCLIPエンコーダーが必要です。
+CLIPモデルはHanzo Studioでテキストエンコーダーとして重要な役割を果たし、テキストプロンプトを拡散モデルが理解できる数値表現に変換する責任があります。これを翻訳者のように考えることができ、テキストを大規模モデルが理解できる言語に翻訳する役割を担っています。もちろん、異なるモデルには独自の「方言」があるため、異なるアーキテクチャ間でテキストエンコーディングプロセスを完了するには、異なるCLIPエンコーダーが必要です。

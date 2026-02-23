@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanInfiniteTalkToVideo/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanInfiniteTalkToVideo/fr.md)
 
 Le nœud WanInfiniteTalkToVideo génère des séquences vidéo à partir d'une entrée audio. Il utilise un modèle de diffusion vidéo, conditionné par des caractéristiques audio extraites d'un ou deux locuteurs, pour produire une représentation latente d'une vidéo de type "talking head". Le nœud peut générer une nouvelle séquence ou en étendre une existante en utilisant des images précédentes comme contexte de mouvement.
 

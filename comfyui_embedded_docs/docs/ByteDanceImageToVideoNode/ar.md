@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageToVideoNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageToVideoNode/ar.md)
 
 ```markdown
 يقوم عقد ByteDance لتحويل الصور إلى فيديو بإنشاء مقاطع فيديو باستخدام نماذج ByteDance من خلال واجهة برمجة تطبيقات (API) بناءً على صورة إدخال وموجه نصي. يأخذ إطار الصورة الأولي وينشئ تسلسل فيديو يتبع الوصف المقدم. يقدم العقد خيارات تخصيص متنوعة لدقة الفيديو ونسبة العرض إلى الارتفاع والمدة ومعلمات توليد أخرى.

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageEditNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageEditNode/tr.md)
 
 ByteDance Image Edit düğümü, bir API aracılığıyla ByteDance'ın AI modellerini kullanarak görselleri düzenlemenize olanak tanır. Bir girdi görseli ve istenen değişiklikleri açıklayan bir metin istemi sağlarsınız; düğüm de talimatlarınıza göre görseli işler. Düğüm, API iletişimini otomatik olarak halleder ve düzenlenmiş görseli döndürür.
 

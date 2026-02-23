@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/IdeogramV1/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/IdeogramV1/ja.md)
 
 IdeogramV1ノードは、APIを通じてIdeogram V1モデルを使用して画像を生成します。テキストプロンプトと様々な生成設定を受け取り、入力に基づいて1つ以上の画像を作成します。このノードは、異なるアスペクト比と生成モードをサポートしており、出力をカスタマイズできます。
 

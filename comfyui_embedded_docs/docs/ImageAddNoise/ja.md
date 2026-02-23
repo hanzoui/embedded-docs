@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageAddNoise/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageAddNoise/ja.md)
 
 ImageAddNoiseノードは、入力画像にランダムノイズを追加します。指定された乱数シードを使用して一貫性のあるノイズパターンを生成し、ノイズ効果の強度を制御できます。結果の画像は入力と同じ寸法を維持しますが、視覚的なテクスチャが追加されます。
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftColorRGB/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftColorRGB/ar.md)
 
 إنشاء لون Recraft عن طريق اختيار قيم RGB محددة. تسمح لك هذه العقدة بتعريف لون من خلال تحديد قيم فردية للأحمر والأخضر والأزرق، والتي يتم بعد ذلك تحويلها إلى تنسيق لون Recraft يمكن استخدامه في عمليات Recraft الأخرى.
 

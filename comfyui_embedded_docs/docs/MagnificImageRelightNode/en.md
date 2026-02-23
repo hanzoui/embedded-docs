@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageRelightNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageRelightNode/en.md)
 
 The Magnific Image Relight node adjusts the lighting of an input image. It can apply stylistic lighting based on a text prompt or transfer the lighting characteristics from an optional reference image. The node offers various controls for fine-tuning the brightness, contrast, and overall mood of the final output.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageSetFromFolderNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageSetFromFolderNode/pt-BR.md)
 
 O LoadImageSetFromFolderNode carrega múltiplas imagens de um diretório de pasta especificado para fins de treinamento. Ele detecta automaticamente formatos de imagem comuns e pode, opcionalmente, redimensionar as imagens usando diferentes métodos antes de retorná-las como um lote.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoImageToModelNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoImageToModelNode/ar.md)
 
 يُنشئ نماذج ثلاثية الأبعاد بشكل متزامن استنادًا إلى صورة واحدة باستخدام واجهة برمجة تطبيقات Tripo. تأخذ هذه العقدة صورة إدخال وتحولها إلى نموذج ثلاثي الأبعاد مع خيارات تخصيص متنوعة للملمس والجودة وخصائص النموذج.
 

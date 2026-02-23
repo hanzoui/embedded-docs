@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RegexMatch/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RegexMatch/ja.md)
 
 RegexMatchノードは、テキスト文字列が指定された正規表現パターンに一致するかどうかをチェックします。入力文字列内で正規表現パターンの出現を検索し、一致が見つかったかどうかを返します。大文字小文字の区別、複数行モード、dotallモードなど、さまざまな正規表現フラグを設定して、パターンマッチングの動作を制御できます。
 

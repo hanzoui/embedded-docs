@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu3ImageToVideoNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu3ImageToVideoNode/ko.md)
 
 Vidu Q3 이미지-비디오 생성 노드는 입력 이미지에서 시작하여 비디오 시퀀스를 생성합니다. Vidu Q3 Pro 모델을 사용하여 이미지를 애니메이션화하며, 선택적으로 텍스트 프롬프트의 지도를 받아 비디오 파일을 출력합니다.
 

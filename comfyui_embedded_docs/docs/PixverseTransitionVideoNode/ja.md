@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PixverseTransitionVideoNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PixverseTransitionVideoNode/ja.md)
 
 プロンプトと出力サイズに基づいて動画を生成します。このノードはPixVerse APIを使用して2つの入力画像間のトランジション動画を作成し、動画の品質、長さ、モーションスタイル、生成パラメータを指定できます。
 

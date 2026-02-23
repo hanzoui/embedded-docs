@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyHunyuanVideo15Latent/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyHunyuanVideo15Latent/fr.md)
 
 Ce nœud crée un tenseur latent vide spécifiquement formaté pour une utilisation avec le modèle HunyuanVideo 1.5. Il génère un point de départ vierge pour la création vidéo en allouant un tenseur de zéros avec le nombre de canaux et les dimensions spatiales corrects pour l'espace latent du modèle.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableZero123_Conditioning/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableZero123_Conditioning/pt-BR.md)
 
 O nó StableZero123_Conditioning processa uma imagem de entrada e ângulos de câmera para gerar dados de condicionamento e representações latentes para geração de modelos 3D. Ele utiliza um modelo de visão CLIP para codificar as características da imagem, combina-as com informações de incorporação da câmera baseadas nos ângulos de elevação e azimute, e produz condicionamentos positivo e negativo juntamente com uma representação latente para tarefas subsequentes de geração 3D.
 

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageDeduplication/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageDeduplication/fr.md)
 
 Ce nœud supprime les images en double ou très similaires d'un lot. Il fonctionne en créant un hachage perceptuel pour chaque image—une empreinte numérique simple basée sur son contenu visuel—puis en les comparant. Les images dont les hachages sont plus similaires qu'un seuil défini sont considérées comme des doublons et filtrées.
 

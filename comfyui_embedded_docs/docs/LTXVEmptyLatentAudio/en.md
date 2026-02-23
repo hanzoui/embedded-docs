@@ -1,6 +1,6 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVEmptyLatentAudio/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVEmptyLatentAudio/en.md)
 
-The LTXV Empty Latent Audio node creates a batch of empty (zero-filled) latent audio tensors. It uses the configuration from a provided Audio VAE model to determine the correct dimensions for the latent space, such as the number of channels and frequency bins. This empty latent serves as a starting point for audio generation or manipulation workflows within ComfyUI.
+The LTXV Empty Latent Audio node creates a batch of empty (zero-filled) latent audio tensors. It uses the configuration from a provided Audio VAE model to determine the correct dimensions for the latent space, such as the number of channels and frequency bins. This empty latent serves as a starting point for audio generation or manipulation workflows within Hanzo Studio.
 
 ## Inputs
 

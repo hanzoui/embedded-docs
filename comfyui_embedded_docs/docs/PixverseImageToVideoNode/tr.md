@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PixverseImageToVideoNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PixverseImageToVideoNode/tr.md)
 
 Bir giriş görselini ve metin istemini temel alarak videolar oluşturur. Bu düğüm, statik bir görseli hareketli bir diziye dönüştürmek için belirtilen hareket ve kalite ayarlarını uygulayarak bir görsel alır ve animasyonlu bir video oluşturur.
 

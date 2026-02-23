@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMAdaptative/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMAdaptative/ko.md)
 
 SamplerDPMAdaptative 노드는 샘플링 과정에서 단계 크기를 자동으로 조정하는 적응형 DPM(Diffusion Probabilistic Model) 샘플러를 구현합니다. 이 노드는 허용 오차 기반 오류 제어를 사용하여 최적의 단계 크기를 결정하며, 계산 효율성과 샘플링 정확도 사이의 균형을 유지합니다. 이러한 적응형 접근 방식은 필요한 단계 수를 잠재적으로 줄이면서도 품질을 유지하는 데 도움을 줍니다.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanImageToVideo/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanImageToVideo/ar.md)
 
 ```markdown
 يحول عقد HunyuanImageToVideo الصور إلى تمثيلات كامنة للفيديو باستخدام نموذج هونيوان للفيديو. يأخذ العقد مدخلات توجيهية وصور بداية اختيارية لتوليد كامنات فيديو يمكن معالجتها لاحقًا بواسطة نماذج توليد الفيديو. يدعم العقد أنواع توجيه مختلفة للتحكم في كيفية تأثير صورة البداية على عملية توليد الفيديو.

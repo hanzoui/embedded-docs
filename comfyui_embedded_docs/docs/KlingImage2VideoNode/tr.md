@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingImage2VideoNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingImage2VideoNode/tr.md)
 
 Kling Görüntüden Videoya Düğümü, başlangıç görüntüsünden metin istemlerini kullanarak video içeriği oluşturur. Bir referans görüntü alır ve sağlanan olumlu ve olumsuz metin açıklamalarına dayalı olarak, model seçimi, süre ve en-boy oranı için çeşitli yapılandırma seçenekleriyle bir video dizisi oluşturur.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningSetPropertiesAndCombine/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningSetPropertiesAndCombine/zh-TW.md)
 
 PairConditioningSetPropertiesAndCombine 節點透過將新的調節資料應用到現有的正向和負向調節輸入，來修改並組合調節對。它允許您調整所應用調節的強度，並控制調節區域的設定方式。此節點在需要混合多個調節來源的進階調節操作工作流程中特別有用。
 

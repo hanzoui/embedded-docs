@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningTimestepsRange/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningTimestepsRange/en.md)
 
 The ConditioningTimestepsRange node creates three distinct timestep ranges for controlling when conditioning effects are applied during the generation process. It takes start and end percentage values and divides the entire timestep range (0.0 to 1.0) into three segments: the main range between the specified percentages, the range before the start percentage, and the range after the end percentage.
 

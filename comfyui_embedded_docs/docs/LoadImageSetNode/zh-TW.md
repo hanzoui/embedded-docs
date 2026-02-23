@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageSetNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageSetNode/zh-TW.md)
 
 LoadImageSetNode 從輸入目錄載入多張影像，用於批次處理和訓練用途。它支援多種影像格式，並可選擇使用不同方法調整影像尺寸。此節點將所有選取的影像作為批次處理，並以單一張量形式傳回。
 

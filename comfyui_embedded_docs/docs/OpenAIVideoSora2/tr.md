@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIVideoSora2/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIVideoSora2/tr.md)
 
 OpenAIVideoSora2 düğümü, OpenAI'nin Sora modellerini kullanarak video oluşturur. Metin istemlerine ve isteğe bağlı giriş görüntülerine dayalı olarak video içeriği oluşturur ve ardından oluşturulan video çıktısını döndürür. Düğüm, seçilen modele bağlı olarak farklı video süreleri ve çözünürlükleri destekler.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetMask/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetMask/pt-BR.md)
 
 Este nó foi projetado para modificar o condicionamento de um modelo generativo aplicando uma máscara com uma força especificada a determinadas áreas. Ele permite ajustes direcionados dentro do condicionamento, possibilitando um controle mais preciso sobre o processo de geração.
 

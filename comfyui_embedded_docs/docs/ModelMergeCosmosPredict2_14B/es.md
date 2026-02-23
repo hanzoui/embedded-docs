@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmosPredict2_14B/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmosPredict2_14B/es.md)
 
 El nodo ModelMergeCosmosPredict2_14B permite fusionar dos modelos de IA ajustando la influencia de diferentes componentes del modelo. Proporciona control detallado sobre cuánto contribuye cada parte del segundo modelo al modelo fusionado final, utilizando pesos de mezcla para capas y componentes específicos del modelo.
 

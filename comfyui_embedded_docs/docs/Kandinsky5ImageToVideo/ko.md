@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Kandinsky5ImageToVideo/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Kandinsky5ImageToVideo/ko.md)
 
 Kandinsky5ImageToVideo 노드는 Kandinsky 모델을 사용한 비디오 생성을 위해 조건화 및 잠재 공간 데이터를 준비합니다. 빈 비디오 잠재 텐서를 생성하며, 선택적으로 시작 이미지를 인코딩하여 생성된 비디오의 초기 프레임을 안내하고, 이에 따라 긍정적 및 부정적 조건화를 수정할 수 있습니다.
 

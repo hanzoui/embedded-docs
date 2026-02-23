@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CosmosImageToVideoLatent/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CosmosImageToVideoLatent/zh.md)
 
 CosmosImageToVideoLatent 节点可从输入图像创建视频潜空间表示。它会生成一个空白视频潜空间，并可选地将起始图像和/或结束图像编码到视频序列的开端和/或末尾帧。当提供图像时，它还会创建相应的噪声掩码，以指示在生成过程中应保留潜空间的哪些部分。
 

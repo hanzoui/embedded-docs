@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanVideo15ImageToVideo/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanVideo15ImageToVideo/tr.md)
 
 HunyuanVideo15ImageToVideo düğümü, HunyuanVideo 1.5 modeline dayalı video oluşturma için koşullandırma ve gizli uzay verilerini hazırlar. Bir video dizisi için başlangıç gizli temsilini oluşturur ve isteğe bağlı olarak oluşturma sürecini yönlendirmek için bir başlangıç görüntüsü veya bir CLIP görüntü çıktısı entegre edebilir.
 

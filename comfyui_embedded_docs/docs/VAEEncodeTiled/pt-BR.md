@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEEncodeTiled/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEEncodeTiled/pt-BR.md)
 
 O nó VAEEncodeTiled processa imagens dividindo-as em blocos menores (tiles) e codificando-os usando um Autoencoder Variacional. Essa abordagem em blocos permite o processamento de imagens grandes que, de outra forma, poderiam exceder as limitações de memória. O nó suporta tanto VAEs de imagem quanto de vídeo, com controles de blocagem separados para as dimensões espaciais e temporais.
 

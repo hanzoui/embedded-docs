@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/UNetSelfAttentionMultiply/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UNetSelfAttentionMultiply/tr.md)
 
 UNetSelfAttentionMultiply düğümü, bir UNet modelindeki öz-dikkat mekanizmasının sorgu, anahtar, değer ve çıktı bileşenlerine çarpım faktörleri uygular. Dikkat ağırlıklarının modelin davranışını nasıl etkilediğini denemek için, dikkat hesaplamasının farklı bölümlerini ölçeklendirmenize olanak tanır.
 

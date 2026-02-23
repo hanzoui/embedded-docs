@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KSamplerSelect/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KSamplerSelect/pt-BR.md)
 
 O nó KSamplerSelect é projetado para selecionar um amostrador específico com base no nome fornecido. Ele abstrai a complexidade da seleção de amostradores, permitindo que os usuários alternem facilmente entre diferentes estratégias de amostragem para suas tarefas.
 

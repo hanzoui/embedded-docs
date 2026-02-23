@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RegexReplace/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RegexReplace/zh.md)
 
 RegexReplace 节点使用正则表达式模式在字符串中查找并替换文本。它允许您搜索文本模式并将其替换为新文本，并提供控制模式匹配方式的选项，包括大小写敏感性、多行匹配以及限制替换次数。
 

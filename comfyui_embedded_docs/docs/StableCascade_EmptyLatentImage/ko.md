@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableCascade_EmptyLatentImage/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableCascade_EmptyLatentImage/ko.md)
 
 StableCascade_EmptyLatentImage 노드는 Stable Cascade 모델을 위한 빈 잠재 텐서를 생성합니다. 이 노드는 입력 해상도와 압축 설정에 기반하여 적절한 차원을 가진 두 개의 별도 잠재 표현(스테이지 C용과 스테이지 B용)을 생성합니다. 이 노드는 Stable Cascade 생성 파이프라인의 시작점을 제공합니다.
 

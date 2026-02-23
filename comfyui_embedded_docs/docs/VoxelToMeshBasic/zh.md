@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VoxelToMeshBasic/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VoxelToMeshBasic/zh.md)
 
 VoxelToMeshBasic 节点可将三维体素数据转换为网格几何体。该节点通过应用阈值来处理体素体积，以确定体积的哪些部分在生成的网格中成为实体表面。该节点输出包含顶点和面的完整网格结构，可用于三维渲染和建模。
 

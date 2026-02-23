@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RandomCropImages/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RandomCropImages/ko.md)
 
 Random Crop Images 노드는 각 입력 이미지에서 무작위로 사각형 영역을 선택하여 지정된 너비와 높이로 자릅니다. 이는 주로 데이터 증강을 위해 훈련 이미지의 변형을 생성하는 데 사용됩니다. 자르기 영역의 무작위 위치는 시드 값에 의해 결정되므로 동일한 자르기 결과를 재현할 수 있습니다.
 

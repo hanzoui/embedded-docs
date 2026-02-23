@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GeminiImage/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GeminiImage/fr.md)
 
 Le nœud GeminiImage génère des réponses textuelles et visuelles à partir des modèles d'IA Gemini de Google. Il vous permet de fournir des entrées multimodales incluant des invites textuelles, des images et des fichiers pour créer des sorties cohérentes de texte et d'images. Le nœud gère toute la communication API et l'analyse des réponses avec les derniers modèles Gemini.
 

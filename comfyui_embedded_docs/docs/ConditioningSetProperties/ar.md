@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetProperties/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetProperties/ar.md)
 
 يُعدِّل عقد ConditioningSetProperties خصائص بيانات التكييف من خلال ضبط القوة وإعدادات المنطقة وتطبيق نطاقات أقنعة اختيارية أو نطاقات خطوات زمنية. يسمح لك بالتحكم في كيفية تأثير التكييف على عملية التوليد من خلال تعيين معاملات محددة تؤثر على تطبيق بيانات التكييف أثناء توليد الصورة.
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoImageToModelNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoImageToModelNode/ja.md)
 
 TripoのAPIを使用して、単一の画像に基づいて3Dモデルを同期的に生成します。このノードは入力画像を受け取り、テクスチャ、品質、モデルプロパティに関する様々なカスタマイズオプションを使用して3Dモデルに変換します。
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraModelLoader/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraModelLoader/en.md)
 
 The LoraModelLoader node applies trained LoRA (Low-Rank Adaptation) weights to a diffusion model. It modifies the base model by loading LoRA weights from a trained LoRA model and adjusting their influence strength. This allows you to customize the behavior of diffusion models without retraining them from scratch.
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PixverseTemplateNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PixverseTemplateNode/ja.md)
 
 PixVerse Templateノードを使用すると、PixVerseの動画生成で利用可能なテンプレートから選択できます。このノードは、選択したテンプレート名を、PixVerse APIが動画作成に必要とする対応するテンプレートIDに変換します。
 

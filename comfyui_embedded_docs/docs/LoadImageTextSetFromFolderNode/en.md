@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageTextSetFromFolderNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageTextSetFromFolderNode/en.md)
 
 Loads a batch of images and their corresponding text captions from a specified directory for training purposes. The node automatically searches for image files and their associated caption text files, processes the images according to specified resize settings, and encodes the captions using the provided CLIP model.
 

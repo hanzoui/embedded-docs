@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanImageToImageApi/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanImageToImageApi/tr.md)
 
 Wan Image to Image düğümü, bir veya iki giriş görseli ve bir metin isteminden yeni bir görsel oluşturur. Girdi görsellerinizi sağladığınız açıklamaya dayanarak dönüştürür ve orijinal girdinizin en-boy oranını koruyan yeni bir görsel meydana getirir. Çıktı görseli, girdi boyutundan bağımsız olarak sabit 1.6 megapikseldir.
 

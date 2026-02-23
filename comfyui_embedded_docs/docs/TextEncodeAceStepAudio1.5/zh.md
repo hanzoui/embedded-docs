@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeAceStepAudio1.5/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeAceStepAudio1.5/zh.md)
 
 TextEncodeAceStepAudio1.5 节点用于为 AceStepAudio 1.5 模型准备文本和音频相关的元数据。它接收描述性标签、歌词和音乐参数，然后使用 CLIP 模型将其转换为适用于音频生成的调节格式。
 

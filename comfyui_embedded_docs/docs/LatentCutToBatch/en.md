@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentCutToBatch/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentCutToBatch/en.md)
 
 The LatentCutToBatch node takes a latent representation and splits it along a specified dimension into multiple slices. These slices are then stacked into a new batch dimension, effectively converting a single latent sample into a batch of smaller latent samples. This is useful for processing different parts of a latent space independently.
 

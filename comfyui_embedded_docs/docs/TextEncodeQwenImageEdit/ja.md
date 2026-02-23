@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeQwenImageEdit/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeQwenImageEdit/ja.md)
 
 TextEncodeQwenImageEditノードは、テキストプロンプトとオプションの画像を処理して、画像生成または編集のためのコンディショニングデータを生成します。CLIPモデルを使用して入力をトークン化し、オプションでVAEを使用して参照画像をエンコードし、参照潜在変数を作成します。画像が提供された場合、一貫した処理サイズを維持するために画像を自動的にリサイズします。
 

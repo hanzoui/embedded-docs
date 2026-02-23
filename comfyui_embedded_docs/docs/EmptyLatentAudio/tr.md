@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyLatentAudio/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyLatentAudio/tr.md)
 
 EmptyLatentAudio düğümü, ses işleme için boş latent tensörler oluşturur. Belirtilen süre ve batch boyutunda boş bir ses latent temsili üretir ve bu, ses üretimi veya işleme iş akışları için girdi olarak kullanılabilir. Düğüm, ses süresine ve örnekleme hızına dayalı olarak uygun latent boyutlarını hesaplar.
 

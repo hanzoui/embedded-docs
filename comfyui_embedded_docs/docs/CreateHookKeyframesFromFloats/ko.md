@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookKeyframesFromFloats/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookKeyframesFromFloats/ko.md)
 
 이 노드는 부동 소수점 강도 값 목록에서 훅 키프레임을 생성하며, 이를 지정된 시작 및 끝 백분율 사이에 균등하게 분배합니다. 각 강도 값이 애니메이션 타임라인의 특정 백분율 위치에 할당된 일련의 키프레임을 생성합니다. 이 노드는 새로운 키프레임 그룹을 생성하거나 기존 그룹에 추가할 수 있으며, 디버깅 목적으로 생성된 키프레임을 출력하는 옵션을 제공합니다.
 

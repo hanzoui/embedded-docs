@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageStyleTransferNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageStyleTransferNode/ko.md)
 
 이 노드는 참조 이미지의 시각적 스타일을 입력 이미지에 적용합니다. 외부 AI 서비스를 사용하여 이미지를 처리하며, 스타일 전이의 강도와 원본 이미지 구조의 보존 정도를 제어할 수 있습니다.
 

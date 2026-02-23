@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSDXL/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSDXL/ar.md)
 
 يتيح لك عقد ModelMergeSDXL مزج نموذجين من SDXL معًا من خلال ضبط تأثير كل نموذج على أجزاء مختلفة من البنية. يمكنك التحكم في مدى مساهمة كل نموذج في تضمينات الوقت، وتضمينات التسمية، والكتل المختلفة داخل هيكل النموذج. يؤدي هذا إلى إنشاء نموذج هجين يجمع بين خصائص كلا النموذجين المدخلين.
 

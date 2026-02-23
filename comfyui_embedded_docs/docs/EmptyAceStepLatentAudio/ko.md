@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyAceStepLatentAudio/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyAceStepLatentAudio/ko.md)
 
 EmptyAceStepLatentAudio 노드는 지정된 길이의 빈 잠재 오디오 샘플을 생성합니다. 입력된 초(seconds)와 오디오 처리 매개변수를 기반으로 계산된 길이를 가진 무음 오디오 잠재 배치를 0 값으로 생성합니다. 이 노드는 잠재 표현이 필요한 오디오 처리 워크플로우를 초기화할 때 유용합니다.
 

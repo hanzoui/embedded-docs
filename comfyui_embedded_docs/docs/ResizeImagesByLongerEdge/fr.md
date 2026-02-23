@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResizeImagesByLongerEdge/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResizeImagesByLongerEdge/fr.md)
 
 Le nœud Redimensionner les Images par le Bord le Plus Long redimensionne une ou plusieurs images de sorte que leur côté le plus long corresponde à une longueur cible spécifiée. Il détermine automatiquement si la largeur ou la hauteur est la plus longue et met à l'échelle l'autre dimension proportionnellement pour préserver le ratio d'aspect original. Cela est utile pour standardiser la taille des images en fonction de leur plus grande dimension.
 

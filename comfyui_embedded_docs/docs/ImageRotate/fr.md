@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageRotate/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageRotate/fr.md)
 
 Le nœud ImageRotate fait pivoter une image d'entrée selon des angles spécifiés. Il prend en charge quatre options de rotation : aucune rotation, 90 degrés dans le sens horaire, 180 degrés et 270 degrés dans le sens horaire. La rotation est effectuée à l'aide d'opérations tensorielle efficaces qui préservent l'intégrité des données de l'image.
 

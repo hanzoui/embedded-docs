@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PhotoMakerLoader/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PhotoMakerLoader/ja.md)
 
 PhotoMakerLoaderノードは、利用可能なモデルファイルからPhotoMakerモデルを読み込みます。指定されたモデルファイルを読み取り、IDベースの画像生成タスクで使用するためのPhotoMaker IDエンコーダを準備します。このノードは実験的としてマークされており、テスト目的で使用されることを意図しています。
 

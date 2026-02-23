@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Wan22FunControlToVideo/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Wan22FunControlToVideo/ko.md)
 
 Wan22FunControlToVideo 노드는 Wan 비디오 모델 아키텍처를 사용하여 비디오 생성을 위한 조건화 및 잠재 표현을 준비합니다. 양수 및 음수 조건화 입력과 함께 선택적 참조 이미지 및 제어 비디오를 처리하여 비디오 합성에 필요한 잠재 공간 표현을 생성합니다. 이 노드는 공간 스케일링과 시간 차원을 처리하여 비디오 모델에 적합한 조건화 데이터를 생성합니다.
 

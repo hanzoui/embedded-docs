@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RebatchImages/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RebatchImages/zh-TW.md)
 
 RebatchImages 節點旨在將一批圖像重新組織成新的批次配置，根據指定調整批次大小。此過程對於管理和優化批次操作中的圖像資料處理至關重要，確保圖像按照所需的批次大小進行分組以實現高效處理。
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingCameraControlI2VNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingCameraControlI2VNode/ja.md)
 
 Kling Image to Video Camera Control ノードは、静止画像をプロフェッショナルなカメラムーブメントを伴った映画的な動画に変換します。この特殊な画像変換ノードを使用すると、元の画像に焦点を合わせたまま、ズーム、回転、パン、チルト、一人称視点などの仮想カメラアクションを制御できます。カメラ制御は現在、kling-v1-5モデルで5秒間のプロモードでのみサポートされています。
 

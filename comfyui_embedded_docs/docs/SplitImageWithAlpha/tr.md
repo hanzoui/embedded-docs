@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SplitImageWithAlpha/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SplitImageWithAlpha/tr.md)
 
 SplitImageWithAlpha düğümü, bir görüntünün renk ve alfa bileşenlerini ayırmak için tasarlanmıştır. Bir girdi görüntü tensörünü işleyerek, RGB kanallarını renk bileşeni olarak ve alfa kanalını da şeffaflık bileşeni olarak çıkarır; bu farklı görüntü yönlerinin manipülasyonunu gerektiren işlemleri kolaylaştırır.
 

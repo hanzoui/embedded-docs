@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KarrasScheduler/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KarrasScheduler/pt-BR.md)
 
 O nó KarrasScheduler é projetado para gerar uma sequência de níveis de ruído (sigmas) com base no agendamento de ruído de Karras et al. (2022). Este agendador é útil para controlar o processo de difusão em modelos generativos, permitindo ajustes refinados dos níveis de ruído aplicados em cada etapa do processo de geração.
 

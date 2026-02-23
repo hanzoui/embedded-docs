@@ -1,4 +1,4 @@
-这个节点在新的 ComfyUI 版本中已被重命名为 Apply ControlNet 取代了旧版本 Apply ControlNet (OLD) 的名称,由于  原先的Apply ControlNet (OLD) 目前有点类似启用状态，所以关于本节点的最新文档已经调整到 `Apply ControlNet` 来进行说明
+这个节点在新的 Hanzo Studio 版本中已被重命名为 Apply ControlNet 取代了旧版本 Apply ControlNet (OLD) 的名称,由于  原先的Apply ControlNet (OLD) 目前有点类似启用状态，所以关于本节点的最新文档已经调整到 `Apply ControlNet` 来进行说明
 
 此节点基于图像和控制网模型对条件数据应用高级控制网变换。它允许对控制网对生成内容的影响进行微调调整，从而对条件进行更精确和多样化的修改。
 

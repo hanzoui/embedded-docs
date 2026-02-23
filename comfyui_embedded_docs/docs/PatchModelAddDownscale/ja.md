@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PatchModelAddDownscale/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PatchModelAddDownscale/ja.md)
 
 PatchModelAddDownscaleノードは、Kohya Deep Shrink機能を実装し、モデルの特定のブロックにダウンスケールとアップスケール操作を適用します。処理中の中間特徴量の解像度を一時的に低下させ、その後元のサイズに復元することで、品質を維持しながらパフォーマンスを向上させることができます。このノードは、モデルの実行中にこれらのスケーリング操作をいつ、どのように行うかを精密に制御することができます。
 

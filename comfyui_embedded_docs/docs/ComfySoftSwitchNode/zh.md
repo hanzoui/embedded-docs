@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ComfySoftSwitchNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ComfySoftSwitchNode/zh.md)
 
 Soft Switch 节点根据一个布尔条件在两个可能的输入值之间进行选择。当 `switch` 为真时，它输出 `on_true` 输入的值；当 `switch` 为假时，它输出 `on_false` 输入的值。此节点设计为惰性求值，意味着它仅根据开关状态评估所需的输入。
 

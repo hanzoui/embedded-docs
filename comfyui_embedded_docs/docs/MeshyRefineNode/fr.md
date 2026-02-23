@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyRefineNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyRefineNode/fr.md)
 
 Le nœud Meshy : Modèle de Raffinement de Maquette prend un modèle 3D préalablement généré (maquette) et améliore sa qualité, en ajoutant éventuellement des textures. Il soumet une tâche de raffinement à l'API Meshy et renvoie les fichiers finaux du modèle 3D une fois le traitement terminé.
 

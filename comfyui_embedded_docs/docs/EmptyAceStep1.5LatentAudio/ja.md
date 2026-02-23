@@ -1,6 +1,6 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyAceStep1.5LatentAudio/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyAceStep1.5LatentAudio/ja.md)
 
-Empty Ace Step 1.5 Latent Audio ノードは、オーディオ処理用に設計された空の潜在テンソルを作成します。指定された長さとバッチサイズの無音のオーディオ潜在表現を生成し、ComfyUI 内のオーディオ生成ワークフローの出発点として使用できます。このノードは、入力された秒数と固定のサンプルレートに基づいて潜在表現の長さを計算します。
+Empty Ace Step 1.5 Latent Audio ノードは、オーディオ処理用に設計された空の潜在テンソルを作成します。指定された長さとバッチサイズの無音のオーディオ潜在表現を生成し、Hanzo Studio 内のオーディオ生成ワークフローの出発点として使用できます。このノードは、入力された秒数と固定のサンプルレートに基づいて潜在表現の長さを計算します。
 
 ## 入力
 

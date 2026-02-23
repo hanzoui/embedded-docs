@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SplitSigmasDenoise/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SplitSigmasDenoise/zh.md)
 
 SplitSigmasDenoise 节点根据去噪强度参数将一系列 sigma 值划分为两部分。它将输入的 sigma 序列分割为高 sigma 序列和低 sigma 序列，分割点由总步数乘以去噪因子确定。这样可以将噪声调度分离到不同的强度范围，以便进行专门处理。
 

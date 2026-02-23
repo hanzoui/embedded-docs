@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CosmosImageToVideoLatent/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CosmosImageToVideoLatent/ar.md)
 
 ```markdown
 عُقدة CosmosImageToVideoLatent تُنشئ تمثيلات كامنة للفيديو من الصور المدخلة. تقوم بتوليد فيديو كامن فارغ ويمكنها بشكل اختياري تشفير صور البداية و/أو النهاية في الإطارات الأولى و/أو الأخيرة من تسلسل الفيديو. عند توفير الصور، تقوم أيضًا بإنشاء أقنعة ضوضاء مقابلة للإشارة إلى الأجزاء التي يجب الحفاظ عليها من التمثيل الكامن أثناء عملية التوليد.

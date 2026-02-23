@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmosPredict2_14B/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmosPredict2_14B/pt-BR.md)
 
 O nó ModelMergeCosmosPredict2_14B permite mesclar dois modelos de IA ajustando a influência de diferentes componentes dos modelos. Ele oferece controle refinado sobre quanto cada parte do segundo modelo contribui para o modelo mesclado final, usando pesos de mistura para camadas e componentes específicos do modelo.
 

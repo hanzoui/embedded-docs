@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftCreativeUpscaleNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftCreativeUpscaleNode/es.md)
 
 El nodo Recraft Creative Upscale Image mejora una imagen rasterizada aumentando su resolución. Utiliza un proceso de "escalado creativo" que se centra en mejorar los pequeños detalles y los rostros dentro de la imagen. Esta operación se realiza de forma síncrona a través de una API externa.
 

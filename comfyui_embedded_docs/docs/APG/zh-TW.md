@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/APG/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/APG/zh-TW.md)
 
 APG（自適應投影引導）節點透過調整擴散過程中引導應用的方式來修改採樣過程。它將引導向量分為與條件輸出相關的平行和正交分量，從而實現更受控的影像生成。該節點提供參數來縮放引導、標準化其幅度，並應用動量以實現擴散步驟間更平滑的過渡。
 

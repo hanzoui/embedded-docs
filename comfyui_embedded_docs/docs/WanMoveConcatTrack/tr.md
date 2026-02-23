@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveConcatTrack/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveConcatTrack/tr.md)
 
 WanMoveConcatTrack düğümü, iki hareket izleme verisi setini tek, daha uzun bir dizi halinde birleştirir. Bunu, giriş izlerindeki iz yollarını ve görünürlük maskelerini kendi boyutları boyunca birleştirerek yapar. Yalnızca bir iz girişi sağlanırsa, bu veriyi değiştirmeden olduğu gibi iletir.
 

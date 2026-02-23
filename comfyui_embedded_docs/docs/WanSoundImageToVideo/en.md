@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanSoundImageToVideo/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanSoundImageToVideo/en.md)
 
 The WanSoundImageToVideo node generates video content from images with optional audio conditioning. It takes positive and negative conditioning prompts along with a VAE model to create video latents, and can incorporate reference images, audio encoding, control videos, and motion references to guide the video generation process.
 

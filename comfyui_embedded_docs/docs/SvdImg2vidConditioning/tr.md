@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SvdImg2vidConditioning/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SvdImg2vidConditioning/tr.md)
 
 Bu düğüm, video üretimi görevleri için koşullandırma verileri oluşturmak üzere tasarlanmıştır ve özellikle SVD_img2vid modelleri ile kullanıma uyarlanmıştır. Başlangıç görüntüleri, video parametreleri ve bir VAE modeli de dahil olmak üzere çeşitli girdiler alır ve video karelerinin üretimine rehberlik etmek için kullanılabilecek koşullandırma verilerini üretir.
 

@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingSingleImageVideoEffectNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingSingleImageVideoEffectNode/es.md)
 
 El nodo Kling Single Image Video Effect crea videos con diferentes efectos especiales basados en una única imagen de referencia. Aplica varios efectos visuales y escenas para transformar imágenes estáticas en contenido de video dinámico. El nodo admite diferentes escenas de efectos, opciones de modelos y duraciones de video para lograr el resultado visual deseado.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EasyCache/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EasyCache/zh-TW.md)
 
 EasyCache 節點實現了一個原生模型快取系統，透過在採樣過程中重複使用先前計算的步驟來提升效能。它為模型添加了 EasyCache 功能，並可配置在採樣時間軸中開始和停止使用快取的閾值。
 

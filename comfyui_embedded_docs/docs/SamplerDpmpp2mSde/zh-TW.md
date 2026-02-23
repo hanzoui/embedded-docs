@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDpmpp2mSde/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDpmpp2mSde/zh-TW.md)
 
 此節點旨在為 DPMPP_2M_SDE 模型生成取樣器，允許根據指定的求解器類型、噪聲水平和計算設備偏好來創建樣本。它抽象了取樣器配置的複雜性，提供了一個簡化的界面，用於生成具有自定義設置的樣本。
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SolidMask/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SolidMask/zh-TW.md)
 
 SolidMask 節點會生成一個在其整個區域內具有指定值的均勻遮罩。它專為創建具有特定尺寸和強度的遮罩而設計，在各種影像處理和遮罩任務中非常實用。
 

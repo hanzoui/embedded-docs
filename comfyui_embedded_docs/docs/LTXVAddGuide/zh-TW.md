@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVAddGuide/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVAddGuide/zh-TW.md)
 
 LTXVAddGuide 節點透過對輸入圖像或影片進行編碼，並將其作為關鍵幀整合到條件資料中，從而為潛在序列添加影片條件引導。該節點透過 VAE 編碼器處理輸入，並將產生的潛在表示策略性地放置在指定的幀位置，同時使用關鍵幀資訊更新正向和負向條件。該節點處理幀對齊約束，並允許控制條件影響的強度。
 

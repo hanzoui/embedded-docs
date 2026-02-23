@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoRetargetNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoRetargetNode/ja.md)
 
 TripoRetargetNodeは、事前定義されたアニメーションを3Dキャラクターモデルに適用するために、モーションデータのリターゲティングを行います。このノードは、以前に処理された3Dモデルを受け取り、いくつかのプリセットアニメーションのいずれかを適用して、アニメーション付きの3Dモデルファイルを出力として生成します。ノードはTripo APIと通信して、アニメーションリターゲティング操作を処理します。
 

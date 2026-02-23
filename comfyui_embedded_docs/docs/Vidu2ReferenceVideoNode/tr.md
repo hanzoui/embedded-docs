@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu2ReferenceVideoNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu2ReferenceVideoNode/tr.md)
 
 Vidu2 Referans-Görüntüden Video Üretme düğümü, bir metin istemi ve birden fazla referans görselinden bir video oluşturur. Her biri kendi referans görselleri setine sahip olmak üzere en fazla yedi özne tanımlayabilir ve bunlara `@subject{subject_id}` kullanarak istemde referans verebilirsiniz. Düğüm, yapılandırılabilir süre, en-boy oranı ve hareket ile bir video üretir.
 

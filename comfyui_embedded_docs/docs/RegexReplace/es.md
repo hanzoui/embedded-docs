@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RegexReplace/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RegexReplace/es.md)
 
 El nodo RegexReplace busca y reemplaza texto en cadenas utilizando patrones de expresiones regulares. Permite buscar patrones de texto y reemplazarlos con nuevo texto, con opciones para controlar cómo funciona la coincidencia de patrones, incluyendo sensibilidad a mayúsculas y minúsculas, coincidencia multilínea y limitación del número de reemplazos.
 

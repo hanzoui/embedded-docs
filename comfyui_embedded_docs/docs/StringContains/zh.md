@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringContains/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringContains/zh.md)
 
 StringContains 节点用于检查给定字符串是否包含指定的子字符串。该节点支持区分大小写或不区分大小写的匹配方式，并返回布尔值结果来指示是否在主字符串中找到了子字符串。
 

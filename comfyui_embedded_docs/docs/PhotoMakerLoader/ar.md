@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PhotoMakerLoader/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PhotoMakerLoader/ar.md)
 
 يُحمِّل عقد PhotoMakerLoader نموذج PhotoMaker من ملفات النماذج المتاحة. يقرأ ملف النموذج المحدد ويجهز مُرمِّز الهوية (ID encoder) الخاص بـ PhotoMaker لاستخدامه في مهام توليد الصور القائمة على الهوية. تم وضع علامة "تجريبي" على هذا العقد وهو مخصص لأغراض الاختبار.
 

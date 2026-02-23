@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu2TextToVideoNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu2TextToVideoNode/pt-BR.md)
 
 O nó Vidu2 Text-to-Video Generation cria um vídeo a partir de uma descrição textual. Ele se conecta a uma API externa para gerar conteúdo de vídeo com base no seu prompt, permitindo que você controle a duração, o estilo visual e o formato do vídeo.
 

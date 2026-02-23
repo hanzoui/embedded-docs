@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentOperationSharpen/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentOperationSharpen/ko.md)
 
 LatentOperationSharpen 노드는 가우시안 커널을 사용하여 잠재 표현에 샤프닝 효과를 적용합니다. 이 노드는 잠재 데이터를 정규화하고, 사용자 정의 샤프닝 커널로 컨볼루션을 적용한 후 원래의 휘도를 복원하는 방식으로 작동합니다. 이를 통해 잠재 공간 표현의 세부 사항과 경계를 강화합니다.
 

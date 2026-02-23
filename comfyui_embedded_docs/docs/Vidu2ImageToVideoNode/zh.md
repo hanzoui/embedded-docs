@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu2ImageToVideoNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu2ImageToVideoNode/zh.md)
 
 Vidu2 图像转视频生成节点能够从单张输入图像开始创建视频序列。它使用指定的 Vidu2 模型，根据可选的文本提示对场景进行动画处理，并控制视频的长度、分辨率和运动强度。
 

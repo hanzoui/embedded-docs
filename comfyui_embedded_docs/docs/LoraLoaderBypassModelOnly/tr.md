@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraLoaderBypassModelOnly/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraLoaderBypassModelOnly/tr.md)
 
 Bu düğüm, bir modelin davranışını değiştirmek için LoRA (Düşük Dereceli Uyarlama) uygular, ancak yalnızca model bileşenini etkiler. Belirtilen bir LoRA dosyasını yükler ve modelin ağırlıklarını belirli bir güç değeriyle ayarlar; CLIP metin kodlayıcı gibi diğer bileşenleri değiştirmeden bırakır.
 

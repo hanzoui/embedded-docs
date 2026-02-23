@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ReferenceLatent/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ReferenceLatent/tr.md)
 
 Bu düğüm, bir düzenleme modeli için kılavuz gizli katmanı (latent) ayarlar. Koşullandırma verilerini ve isteğe bağlı bir gizli katman girdisini alır, ardından koşullandırmayı referans gizli katman bilgilerini içerecek şekilde değiştirir. Model destekliyorsa, birden fazla referans görüntü ayarlamak için birden fazla ReferenceLatent düğümünü zincirleyebilirsiniz.
 

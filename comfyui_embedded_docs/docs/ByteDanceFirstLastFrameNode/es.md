@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceFirstLastFrameNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceFirstLastFrameNode/es.md)
 
 Este nodo genera un video utilizando un texto descriptivo junto con imágenes del primer y último fotograma. Toma tu descripción y los dos fotogramas clave para crear una secuencia de video completa que transiciona entre ellos. El nodo proporciona varias opciones para controlar la resolución, relación de aspecto, duración y otros parámetros de generación del video.
 

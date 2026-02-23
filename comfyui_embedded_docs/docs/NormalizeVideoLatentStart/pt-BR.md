@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/NormalizeVideoLatentStart/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/NormalizeVideoLatentStart/pt-BR.md)
 
 Este nó ajusta os primeiros quadros de um latente de vídeo para que se pareçam mais com os quadros subsequentes. Ele calcula a média e a variação a partir de um conjunto de quadros de referência mais adiante no vídeo e aplica essas mesmas características aos quadros iniciais. Isso ajuda a criar uma transição visual mais suave e consistente no início de um vídeo.
 

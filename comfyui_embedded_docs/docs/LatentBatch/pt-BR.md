@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentBatch/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentBatch/pt-BR.md)
 
 O nó LatentBatch foi projetado para mesclar dois conjuntos de amostras latentes em um único lote, potencialmente redimensionando um dos conjuntos para corresponder às dimensões do outro antes da concatenação. Esta operação facilita a combinação de diferentes representações latentes para tarefas de processamento ou geração subsequentes.
 

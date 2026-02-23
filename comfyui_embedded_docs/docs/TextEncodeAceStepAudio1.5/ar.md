@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeAceStepAudio1.5/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeAceStepAudio1.5/ar.md)
 
 يُعدّ عُقدة TextEncodeAceStepAudio1.5 النص والبيانات الوصفية المتعلقة بالصوت للاستخدام مع نموذج AceStepAudio 1.5. تأخذ العُقدة وسومًا وصفية وكلمات أغانٍ ومعاملات موسيقية، ثم تستخدم نموذج CLIP لتحويلها إلى تنسيق تكييف (conditioning) مناسب لتوليد الصوت.
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateVideo/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateVideo/ja.md)
 
 Create Videoノードは、一連の画像から動画ファイルを生成します。フレームレート（fps）を指定して再生速度を設定でき、オプションで音声を追加することもできます。このノードは入力画像を指定されたフレームレートで再生可能な動画形式に結合します。
 

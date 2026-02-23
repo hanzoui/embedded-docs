@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioEncoderLoader/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioEncoderLoader/ja.md)
 
 AudioEncoderLoaderノードは、利用可能なオーディオエンコーダーファイルからオーディオエンコーダーモデルを読み込みます。オーディオエンコーダーのファイル名を入力として受け取り、ワークフロー内のオーディオ処理タスクで使用できる読み込まれたオーディオエンコーダーモデルを返します。
 

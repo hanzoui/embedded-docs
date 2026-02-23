@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingImageToVideoWithAudio/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingImageToVideoWithAudio/es.md)
 
 El nodo Kling Image(First Frame) to Video with Audio utiliza el modelo Kling AI para generar un video corto a partir de una imagen inicial y un texto descriptivo. Crea una secuencia de video que comienza con la imagen proporcionada y puede incluir opcionalmente audio generado por IA para acompañar las imágenes.
 

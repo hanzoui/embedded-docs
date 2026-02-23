@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PrimitiveInt/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PrimitiveInt/zh-TW.md)
 
 PrimitiveInt 節點提供了一種在您的工作流程中處理整數值的簡單方式。它接收一個整數輸入並輸出相同的值，使其在節點間傳遞整數參數或為其他操作設定特定數值時非常實用。
 

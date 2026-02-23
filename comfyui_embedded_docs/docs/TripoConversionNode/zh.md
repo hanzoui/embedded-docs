@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoConversionNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoConversionNode/zh.md)
 
 TripoConversionNode 使用 Tripo API 在不同文件格式之间转换 3D 模型。它接收先前 Tripo 操作的任务 ID，并将结果模型转换为所需的格式，提供多种导出选项。
 

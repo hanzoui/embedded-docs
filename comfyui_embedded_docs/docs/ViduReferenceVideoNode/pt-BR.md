@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduReferenceVideoNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduReferenceVideoNode/pt-BR.md)
 
 O nó Vidu Reference Video gera vídeos a partir de múltiplas imagens de referência e um prompt de texto. Ele utiliza modelos de IA para criar conteúdo de vídeo consistente com base nas imagens fornecidas e na descrição. O nó suporta várias configurações de vídeo, incluindo duração, proporção de tela, resolução e controle de movimento.
 

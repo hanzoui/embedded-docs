@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CFGNorm/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CFGNorm/zh.md)
 
 CFGNorm 节点对扩散模型中的无分类器引导（CFG）过程应用归一化技术。它通过比较条件输出和无条件输出的范数来调整去噪预测的尺度，然后应用强度乘数来控制效果。这有助于通过防止引导缩放中的极端值来稳定生成过程。
 

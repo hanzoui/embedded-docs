@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PerturbedAttentionGuidance/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PerturbedAttentionGuidance/ko.md)
 
 PerturbedAttentionGuidance 노드는 생성 품질을 향상시키기 위해 확산 모델에 교란된 어텐션 가이던스를 적용합니다. 이 기술은 샘플링 과정에서 모델의 자가 어텐션 메커니즘을 값 투영에 초점을 맞춘 단순화된 버전으로 대체하여 수정합니다. 이 방법은 조건부 노이즈 제거 과정을 조정하여 생성된 이미지의 일관성과 품질을 향상시키는 데 도움을 줍니다.
 

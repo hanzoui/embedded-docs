@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookLora/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookLora/ja.md)
 
 Create Hook LoRAノードは、LoRA（Low-Rank Adaptation）修正をモデルに適用するためのフックオブジェクトを生成します。指定されたLoRAファイルを読み込み、モデルとCLIPの強度を調整できるフックを作成し、これらのフックを渡された既存のフックと結合します。このノードは、以前に読み込まれたLoRAファイルをキャッシュすることで冗長な操作を回避し、LoRAの読み込みを効率的に管理します。
 

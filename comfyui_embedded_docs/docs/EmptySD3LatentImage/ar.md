@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptySD3LatentImage/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptySD3LatentImage/ar.md)
 
 يقوم عُقدة EmptySD3LatentImage بإنشاء موتر صورة كامنة فارغ مُهيأ خصيصًا لنماذج Stable Diffusion 3. إنها تُنشئ موترًا مملوءًا بالأصفار وذي الأبعاد والبنية الصحيحة التي تتوقعها أنظمة SD3. يُستخدم هذا عادةً كنقطة بداية لسير عمل توليد الصور.
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResizeAndPadImage/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResizeAndPadImage/zh.md)
 
 ResizeAndPadImage 节点可将图像调整至指定尺寸范围内，同时保持原始宽高比例。该节点会按比例缩放图像以适应目标宽度和高度，随后在边缘区域添加填充以补足剩余空间。用户可自定义填充颜色和插值方法，从而控制填充区域的外观表现和图像缩放质量。
 

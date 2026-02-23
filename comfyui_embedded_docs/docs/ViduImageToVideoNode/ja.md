@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduImageToVideoNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduImageToVideoNode/ja.md)
 
 Vidu Image To Video Generationノードは、開始画像とオプションのテキスト記述から動画を生成します。AIモデルを使用して、提供された画像フレームから拡張する動画コンテンツを生成します。このノードは画像とパラメータを外部サービスに送信し、生成された動画を返します。
 

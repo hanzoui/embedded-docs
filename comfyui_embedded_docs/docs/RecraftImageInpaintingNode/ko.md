@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftImageInpaintingNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftImageInpaintingNode/ko.md)
 
 이 노드는 텍스트 프롬프트와 마스크를 기반으로 이미지를 수정합니다. Recraft API를 사용하여 마스크로 정의한 이미지의 특정 영역을 지능적으로 편집하는 동시에 나머지 이미지는 변경하지 않고 유지합니다.
 

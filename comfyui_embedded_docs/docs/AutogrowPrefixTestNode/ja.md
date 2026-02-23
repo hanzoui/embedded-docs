@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AutogrowPrefixTestNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AutogrowPrefixTestNode/ja.md)
 
 AutogrowPrefixTestNodeは、自動拡張入力機能をテストするためのロジックノードです。動的な数の浮動小数点入力を受け付け、それらの値をカンマ区切りの文字列に結合し、その文字列を出力します。
 

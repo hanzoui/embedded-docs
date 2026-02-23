@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CosmosPredict2ImageToVideoLatent/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CosmosPredict2ImageToVideoLatent/ja.md)
 
 CosmosPredict2ImageToVideoLatentノードは、ビデオ生成のために画像からビデオ潜在表現を作成します。空白のビデオ潜在表現を生成したり、開始画像と終了画像を取り入れて指定された寸法と長さのビデオシーケンスを作成したりすることができます。このノードは、ビデオ処理に適した潜在空間フォーマットへの画像のエンコードを処理します。
 

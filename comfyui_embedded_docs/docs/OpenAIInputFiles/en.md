@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIInputFiles/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIInputFiles/en.md)
 
 Loads and formats input files for OpenAI API. This node prepares text and PDF files to include as context inputs for the OpenAI Chat Node. The files will be read by the OpenAI model when generating responses. Multiple input file nodes can be chained together to include multiple files in a single message.
 

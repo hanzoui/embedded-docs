@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingContinuousV/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingContinuousV/fr.md)
 
 Le nœud ModelSamplingContinuousV modifie le comportement d'échantillonnage d'un modèle en appliquant des paramètres d'échantillonnage par prédiction V continue. Il crée un clone du modèle d'entrée et le configure avec des paramètres personnalisés de plage sigma pour un contrôle avancé de l'échantillonnage. Cela permet aux utilisateurs d'affiner le processus d'échantillonnage avec des valeurs sigma minimum et maximum spécifiques.
 

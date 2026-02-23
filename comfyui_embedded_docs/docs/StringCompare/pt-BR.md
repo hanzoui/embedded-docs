@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringCompare/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringCompare/pt-BR.md)
 
 O nó StringCompare compara duas strings de texto usando diferentes métodos de comparação. Ele pode verificar se uma string começa com outra, termina com outra ou se ambas as strings são exatamente iguais. A comparação pode ser realizada considerando ou não as diferenças entre letras maiúsculas e minúsculas.
 

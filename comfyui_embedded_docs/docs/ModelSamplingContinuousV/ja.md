@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingContinuousV/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingContinuousV/ja.md)
 
 ModelSamplingContinuousVノードは、連続V予測サンプリングパラメータを適用することで、モデルのサンプリング動作を変更します。このノードは入力モデルのクローンを作成し、高度なサンプリング制御のためのカスタムシグマ範囲設定で構成します。これにより、ユーザーは特定の最小・最大シグマ値でサンプリングプロセスを微調整することができます。
 

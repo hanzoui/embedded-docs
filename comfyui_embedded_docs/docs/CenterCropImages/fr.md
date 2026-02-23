@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CenterCropImages/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CenterCropImages/fr.md)
 
 Le nœud Center Crop Images recadre une image depuis son centre selon une largeur et une hauteur spécifiées. Il calcule la région centrale de l'image d'entrée et en extrait une zone rectangulaire aux dimensions définies. Si la taille de recadrage demandée est plus grande que l'image, le recadrage sera limité aux bords de l'image.
 

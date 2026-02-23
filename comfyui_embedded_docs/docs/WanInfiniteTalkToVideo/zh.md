@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanInfiniteTalkToVideo/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanInfiniteTalkToVideo/zh.md)
 
 WanInfiniteTalkToVideo 节点可从音频输入生成视频序列。它使用视频扩散模型，以从一个或两个说话者提取的音频特征为条件，生成说话人视频的潜在表示。该节点可以生成新序列，或使用先前帧作为运动上下文来扩展现有序列。
 

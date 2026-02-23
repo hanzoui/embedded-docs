@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Veo3FirstLastFrameNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Veo3FirstLastFrameNode/tr.md)
 
 Veo3FirstLastFrameNode, Google'ın Veo 3 modelini kullanarak bir video oluşturur. Bir metin istemine dayalı olarak video üretir ve dizinin başlangıcını ve sonunu yönlendirmek için sağlanan bir ilk ve son kareyi kullanır.
 

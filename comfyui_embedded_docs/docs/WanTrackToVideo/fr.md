@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanTrackToVideo/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanTrackToVideo/fr.md)
 
 Le nœud WanTrackToVideo convertit des données de suivi de mouvement en séquences vidéo en traitant les points de piste et en générant les images vidéo correspondantes. Il prend en entrée des coordonnées de suivi et produit un conditionnement vidéo ainsi que des représentations latentes qui peuvent être utilisées pour la génération vidéo. Lorsqu'aucune piste n'est fournie, il revient à une conversion image-à-vidéo standard.
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HitPawGeneralImageEnhance/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HitPawGeneralImageEnhance/zh.md)
 
 此节点通过将低分辨率图像放大至超分辨率来增强图像质量，同时去除伪影和噪声。它使用外部 API 处理图像，并能自动调整输入尺寸以确保不超过处理限制。最大允许输出尺寸为 400 万像素。
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentBlend/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentBlend/tr.md)
 
 LatentBlend düğümü, iki latent örneğini belirtilen bir karıştırma faktörü kullanarak birleştirir. İki latent girdisi alır ve ilk örneğin karıştırma faktörüyle, ikinci örneğin ise bunun tersiyle ağırlıklandırıldığı yeni bir çıktı oluşturur. Girdi örnekleri farklı şekillere sahipse, ikinci örnek otomatik olarak ilk örneğin boyutlarına göre yeniden boyutlandırılır.
 

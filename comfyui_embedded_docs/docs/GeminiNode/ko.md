@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GeminiNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GeminiNode/ko.md)
 
 이 노드는 사용자가 Google의 Gemini AI 모델과 상호작용하여 텍스트 응답을 생성할 수 있도록 합니다. 모델이 더 관련성 있고 의미 있는 응답을 생성하도록 텍스트, 이미지, 오디오, 비디오, 파일 등 여러 유형의 입력을 컨텍스트로 제공할 수 있습니다. 이 노드는 모든 API 통신과 응답 구문 분석을 자동으로 처리합니다.
 

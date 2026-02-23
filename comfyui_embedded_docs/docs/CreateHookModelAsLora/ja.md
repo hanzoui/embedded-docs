@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookModelAsLora/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookModelAsLora/ja.md)
 
 このノードは、チェックポイントの重みを読み込み、モデルとCLIPコンポーネントの両方に強度調整を適用することで、LoRA（Low-Rank Adaptation）としてフックモデルを作成します。フックベースのアプローチを通じて既存のモデルにLoRAスタイルの変更を適用することができ、永続的なモデル変更なしでのファインチューニングと適応を可能にします。このノードは以前のフックと組み合わせることができ、効率化のために読み込まれた重みをキャッシュします。
 

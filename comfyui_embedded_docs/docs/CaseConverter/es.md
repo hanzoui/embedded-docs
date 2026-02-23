@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CaseConverter/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CaseConverter/es.md)
 
 El nodo Case Converter transforma cadenas de texto a diferentes formatos de mayúsculas y minúsculas. Toma una cadena de entrada y la convierte según el modo seleccionado, produciendo una cadena de salida con el formato de mayúsculas y minúsculas especificado aplicado. El nodo admite cuatro opciones diferentes de conversión de mayúsculas y minúsculas para modificar la capitalización de su texto.
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu3ImageToVideoNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu3ImageToVideoNode/zh.md)
 
 Vidu Q3 图像转视频生成节点可从输入图像开始创建视频序列。它使用 Vidu Q3 Pro 模型为图像添加动画效果，并可选择性地通过文本提示进行引导，最终输出一个视频文件。
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProVideoToVideoNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProVideoToVideoNode/ko.md)
 
 이 노드는 Kling AI 모델을 사용하여 입력 비디오와 선택적 참조 이미지를 기반으로 새로운 비디오를 생성합니다. 원하는 콘텐츠를 설명하는 텍스트 프롬프트를 제공하면, 노드는 참조 비디오를 그에 맞게 변환합니다. 출력물의 스타일과 콘텐츠를 안내하기 위해 최대 4개의 추가 참조 이미지를 통합할 수도 있습니다.
 

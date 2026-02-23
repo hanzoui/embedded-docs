@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeQwenImageEdit/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeQwenImageEdit/ar.md)
 
 يُعالج عُقدة TextEncodeQwenImageEdit نصوص المطالبات النصية والصور الاختيارية لتوليد بيانات تكييف (conditioning) من أجل توليد الصور أو تحريرها. تستخدم هذه العُقدة نموذج CLIP لتجزئة الإدخال (tokenization) ويمكنها، بشكل اختياري، تشفير الصور المرجعية باستخدام نموذج VAE لإنشاء متجهات كامنة (latents) مرجعية. عند توفير صورة، تقوم العُقدة تلقائيًا بتغيير حجم الصورة للحفاظ على أبعاد معالجة متناسقة.
 

@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxKontextMultiReferenceLatentMethod/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxKontextMultiReferenceLatentMethod/es.md)
 
 El nodo FluxKontextMultiReferenceLatentMethod modifica los datos de condicionamiento estableciendo un método específico para los latentes de referencia. Añade el método seleccionado a la entrada de condicionamiento, lo que afecta cómo se procesan los latentes de referencia en los pasos subsiguientes de generación. Este nodo está marcado como experimental y forma parte del sistema de condicionamiento Flux.
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftRemoveBackgroundNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftRemoveBackgroundNode/ja.md)
 
 このノードは、Recraft APIサービスを使用して画像から背景を除去します。入力バッチ内の各画像を処理し、透明な背景を持つ処理済み画像と、除去された背景領域を示す対応するアルファマスクの両方を返します。
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceFirstLastFrameNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceFirstLastFrameNode/tr.md)
 
 Bu düğüm, bir metin istemi ile birlikte ilk ve son kare görüntülerini kullanarak bir video oluşturur. Açıklamanızı ve iki ana kareyi alarak, aralarında geçiş yapan eksiksiz bir video dizisi oluşturur. Düğüm, videonun çözünürlüğü, en-boy oranı, süresi ve diğer oluşturma parametreleri üzerinde kontrol sağlamak için çeşitli seçenekler sunar.
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeHiDream/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeHiDream/ko.md)
 
 CLIPTextEncodeHiDream 노드는 여러 텍스트 입력을 다양한 언어 모델로 처리하고 단일 조건화 출력으로 결합합니다. 네 가지 다른 소스(CLIP-L, CLIP-G, T5-XXL, LLaMA)의 텍스트를 토큰화하고 예약된 인코딩 방식을 사용하여 인코딩합니다. 이를 통해 여러 언어 모델을 동시에 활용하여 더욱 정교한 텍스트 조건화를 가능하게 합니다.
 

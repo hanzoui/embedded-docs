@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeKandinsky5/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeKandinsky5/zh.md)
 
 该节点为 Kandinsky 5 模型准备文本提示。它接收两个独立的文本输入，使用提供的 CLIP 模型对其进行分词处理，并将它们组合成单个条件输出。此输出用于指导图像生成过程。
 

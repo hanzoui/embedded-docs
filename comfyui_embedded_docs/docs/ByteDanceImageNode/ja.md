@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageNode/ja.md)
 
 ByteDance Imageノードは、テキストプロンプトに基づいてAPI経由でByteDanceモデルを使用して画像を生成します。異なるモデルの選択、画像サイズの指定、シードやガイダンススケールなどの様々な生成パラメータの制御が可能です。このノードはByteDanceの画像生成サービスに接続し、作成された画像を返します。
 

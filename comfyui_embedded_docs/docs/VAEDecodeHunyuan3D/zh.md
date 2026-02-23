@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeHunyuan3D/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeHunyuan3D/zh.md)
 
 VAEDecodeHunyuan3D 节点使用 VAE 解码器将潜在表示转换为 3D 体素数据。它通过可配置的分块和分辨率设置，利用 VAE 模型处理潜在样本，生成适用于 3D 应用的体数据。
 

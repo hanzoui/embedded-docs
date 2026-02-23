@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIDalle3/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIDalle3/ar.md)
 
 ينشئ الصور بشكل متزامن عبر نقطة النهاية DALL·E 3 من OpenAI. تأخذ هذه العقدة نصًا توجيهيًا وتنشئ الصور المقابلة باستخدام نموذج DALL·E 3 من OpenAI، مما يسمح لك بتحديد جودة الصورة وأسلوبها وأبعادها.
 

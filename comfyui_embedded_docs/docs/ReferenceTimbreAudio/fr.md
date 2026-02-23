@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ReferenceTimbreAudio/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ReferenceTimbreAudio/fr.md)
 
 Ce nœud définit une référence de timbre audio pour utilisation dans le processus "ace step 1.5". Il fonctionne en prenant une entrée de conditionnement et, optionnellement, une représentation latente de l'audio, puis attache ces données latentes au conditionnement pour qu'elles soient utilisées par les nœuds suivants dans le flux de travail.
 

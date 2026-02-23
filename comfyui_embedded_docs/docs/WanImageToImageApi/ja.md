@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanImageToImageApi/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanImageToImageApi/ja.md)
 
 Wan Image to Imageノードは、1つまたは2つの入力画像とテキストプロンプトから画像を生成します。入力画像を提供された説明に基づいて変換し、元の入力画像のアスペクト比を維持した新しい画像を作成します。出力画像は入力サイズに関係なく、160万ピクセルで固定されます。
 

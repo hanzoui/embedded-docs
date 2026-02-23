@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeAudioTiled/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeAudioTiled/fr.md)
 
 Ce nœud convertit une représentation audio compressée (échantillons latents) en une forme d'onde audio en utilisant un Autoencodeur Variationnel (VAE). Il traite les données par sections plus petites et chevauchantes (tuiles) pour gérer l'utilisation de la mémoire, ce qui le rend adapté à la gestion de séquences audio plus longues.
 

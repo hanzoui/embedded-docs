@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingStableCascade/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingStableCascade/ko.md)
 
 ModelSamplingStableCascade 노드는 시프트 값을 사용하여 샘플링 매개변수를 조정하여 모델에 스테이블 캐스케이드 샘플링을 적용합니다. 이 노드는 스테이블 캐스케이드 생성을 위한 사용자 정의 샘플링 구성이 적용된 수정된 버전의 입력 모델을 생성합니다.
 

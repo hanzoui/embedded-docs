@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageToMask/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageToMask/tr.md)
 
 ImageToMask düğümü, bir görüntüyü belirli bir renk kanalına dayalı olarak maskeye dönüştürmek için tasarlanmıştır. Bir görüntünün kırmızı, yeşil, mavi veya alfa kanallarına karşılık gelen maske katmanlarının çıkarılmasına olanak tanıyarak, kanala özgü maskeleme veya işleme gerektiren operasyonları kolaylaştırır.
 

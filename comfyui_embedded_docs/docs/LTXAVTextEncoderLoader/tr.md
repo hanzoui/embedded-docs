@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXAVTextEncoderLoader/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXAVTextEncoderLoader/tr.md)
 
 Bu düğüm, LTXV ses modeli için özelleştirilmiş bir metin kodlayıcı yükler. Belirli bir metin kodlayıcı dosyasını bir kontrol noktası dosyasıyla birleştirerek, sesle ilgili metin koşullandırma görevleri için kullanılabilecek bir CLIP modeli oluşturur.
 

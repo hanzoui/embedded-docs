@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BriaImageEditNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BriaImageEditNode/zh-TW.md)
 
 Bria FIBO 影像編輯節點讓您能夠透過文字指令修改現有影像。它會將影像和您的提示詞傳送至 Bria API，該 API 使用 FIBO 模型根據您的要求生成新的、經過編輯的影像版本。您也可以提供遮罩，將編輯範圍限制在特定區域。
 

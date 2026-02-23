@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMPP_3M_SDE/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMPP_3M_SDE/ja.md)
 
 SamplerDPMPP_3M_SDEノードは、サンプリング処理で使用するDPM++ 3M SDEサンプラーを作成します。このサンプラーは、設定可能なノイズパラメータを持つ三次マルチステップ確率微分方程式法を使用します。このノードでは、ノイズ計算をGPUとCPUのどちらで実行するかを選択できます。
 

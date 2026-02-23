@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PerpNeg/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PerpNeg/en.md)
 
 The PerpNeg node applies perpendicular negative guidance to a model's sampling process. This node modifies the model's configuration function to adjust noise predictions using negative conditioning and scaling factors. It has been deprecated and replaced by the PerpNegGuider node for improved functionality.
 

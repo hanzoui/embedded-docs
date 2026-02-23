@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PerpNeg/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PerpNeg/ja.md)
 
 PerpNegノードは、モデルのサンプリングプロセスに対して垂直ネガティブガイダンスを適用します。このノードは、モデルの設定関数を変更し、ネガティブな条件付けとスケーリング係数を使用してノイズ予測を調整します。このノードは非推奨となり、機能改善のためPerpNegGuiderノードに置き換えられました。
 

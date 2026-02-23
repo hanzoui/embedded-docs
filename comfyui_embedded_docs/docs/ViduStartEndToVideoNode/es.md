@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduStartEndToVideoNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduStartEndToVideoNode/es.md)
 
 El nodo Vidu Start End To Video Generation crea un video generando fotogramas entre un fotograma inicial y un fotograma final. Utiliza un mensaje de texto para guiar el proceso de generación de video y admite varios modelos de video con diferentes configuraciones de resolución y movimiento. El nodo valida que los fotogramas inicial y final tengan relaciones de aspecto compatibles antes del procesamiento.
 

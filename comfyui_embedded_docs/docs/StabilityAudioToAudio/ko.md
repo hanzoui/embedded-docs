@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityAudioToAudio/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityAudioToAudio/ko.md)
 
 텍스트 지시를 사용하여 기존 오디오 샘플을 새로운 고품질 작품으로 변환합니다. 이 노드는 입력 오디오 파일을 가져와 사용자의 텍스트 프롬프트를 기반으로 수정하여 새로운 오디오 콘텐츠를 생성합니다.
 

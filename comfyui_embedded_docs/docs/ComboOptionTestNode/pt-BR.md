@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ComboOptionTestNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ComboOptionTestNode/pt-BR.md)
 
 O ComboOptionTestNode é um nó de lógica projetado para testar e repassar seleções de caixas de combinação. Ele recebe duas entradas de caixa de combinação, cada uma com um conjunto predefinido de opções, e emite os valores selecionados diretamente, sem modificação.
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingDualCharacterVideoEffectNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingDualCharacterVideoEffectNode/zh.md)
 
 Kling 双角色视频特效节点可根据所选场景创建带有特效的视频。该节点接收两张图像，并将第一张图像定位在合成视频的左侧，第二张图像定位在右侧。根据选择的不同特效场景，会应用不同的视觉效果。
 

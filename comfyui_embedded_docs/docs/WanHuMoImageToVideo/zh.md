@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanHuMoImageToVideo/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanHuMoImageToVideo/zh.md)
 
 WanHuMoImageToVideo 节点通过生成视频帧的潜在表示，将图像转换为视频序列。该节点处理条件输入，并可结合参考图像和音频嵌入来影响视频生成。节点输出适用于视频合成的修改后条件数据和潜在表示。
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LtxvApiImageToVideo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LtxvApiImageToVideo/zh-TW.md)
 
 LTXV 圖片轉影片節點能從單張起始圖片生成專業品質的影片。它使用外部 API，根據您的文字提示建立影片序列，並允許您自訂影片的持續時間、解析度和幀率。
 

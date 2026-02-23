@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GeminiInputFiles/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GeminiInputFiles/ja.md)
 
 Gemini APIで使用するための入力ファイルを読み込み、フォーマットします。このノードを使用すると、テキストファイル（.txt）とPDFファイル（.pdf）をGeminiモデルへの入力コンテキストとして含めることができます。ファイルはAPIで要求される適切な形式に変換され、複数のファイルを単一のリクエストに含めるために連結することもできます。
 

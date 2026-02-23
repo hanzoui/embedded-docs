@@ -1,4 +1,4 @@
-> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityStableImageUltraNode/ru.md)
+> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityStableImageUltraNode/ru.md)
 
 Генерирует изображения синхронно на основе запроса и разрешения. Этот узел создает изображения с использованием модели Stable Image Ultra от Stability AI, обрабатывая ваш текстовый запрос и генерируя соответствующее изображение с указанным соотношением сторон и стилем.
 

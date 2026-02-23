@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraModelLoader/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraModelLoader/zh-TW.md)
 
 LoraModelLoader 節點會將訓練過的 LoRA（低秩適應）權重應用至擴散模型。它透過載入已訓練 LoRA 模型中的 LoRA 權重並調整其影響強度，來修改基礎模型。這讓您能夠自訂擴散模型的行為，而無需從頭重新訓練。
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GenerateTracks/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GenerateTracks/tr.md)
 
 `GenerateTracks` düğümü, video oluşturma için birden fazla paralel hareket yolu oluşturur. Bir başlangıç noktasından bir bitiş noktasına uzanan bir ana yol tanımlar ve ardından bu yola paralel, eşit aralıklarla yerleştirilmiş bir dizi yol oluşturur. Yolun şeklini (düz çizgi veya Bezier eğrisi), yol boyunca hareketin hızını ve yolların hangi karelerde görünür olduğunu kontrol edebilirsiniz.
 

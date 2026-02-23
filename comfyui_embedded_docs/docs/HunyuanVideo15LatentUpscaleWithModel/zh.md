@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanVideo15LatentUpscaleWithModel/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanVideo15LatentUpscaleWithModel/zh.md)
 
 Hunyuan Video 15 Latent Upscale With Model 节点用于提升潜在图像表示的分辨率。它首先使用选定的插值方法将潜在样本放大到指定尺寸，然后使用专门的 Hunyuan Video 1.5 放大模型对放大后的结果进行细化，以提高质量。
 

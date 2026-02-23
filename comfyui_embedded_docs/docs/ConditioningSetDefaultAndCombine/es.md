@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetDefaultAndCombine/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetDefaultAndCombine/es.md)
 
 Este nodo combina datos de acondicionamiento con datos de acondicionamiento predeterminados utilizando un sistema basado en hooks. Toma una entrada de acondicionamiento principal y una entrada de acondicionamiento predeterminado, luego las fusiona de acuerdo con la configuración de hook especificada. El resultado es una única salida de acondicionamiento que incorpora ambas fuentes.
 

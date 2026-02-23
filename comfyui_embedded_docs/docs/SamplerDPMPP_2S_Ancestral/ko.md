@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMPP_2S_Ancestral/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMPP_2S_Ancestral/ko.md)
 
 SamplerDPMPP_2S_Ancestral 노드는 이미지 생성을 위해 DPM++ 2S Ancestral 샘플링 방법을 사용하는 샘플러를 생성합니다. 이 샘플러는 결정적 요소와 확률적 요소를 결합하여 일관성을 유지하면서 다양한 결과를 생성합니다. 샘플링 과정에서 무작위성과 노이즈 수준을 제어할 수 있습니다.
 

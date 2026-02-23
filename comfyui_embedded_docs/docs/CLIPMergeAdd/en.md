@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPMergeAdd/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPMergeAdd/en.md)
 
 The CLIPMergeAdd node combines two CLIP models by adding patches from the second model to the first model. It creates a copy of the first CLIP model and selectively incorporates key patches from the second model, excluding position IDs and logit scale parameters. This allows you to merge CLIP model components while preserving the structure of the base model.
 

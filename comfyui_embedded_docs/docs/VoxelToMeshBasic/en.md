@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VoxelToMeshBasic/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VoxelToMeshBasic/en.md)
 
 The VoxelToMeshBasic node converts 3D voxel data into mesh geometry. It processes voxel volumes by applying a threshold value to determine which parts of the volume become solid surfaces in the resulting mesh. The node outputs a complete mesh structure with vertices and faces that can be used for 3D rendering and modeling.
 

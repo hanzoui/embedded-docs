@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanVideo15SuperResolution/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanVideo15SuperResolution/zh-TW.md)
 
 HunyuanVideo15SuperResolution 節點為影片超解析度處理準備條件資料。它接收影片的潛在表徵，並可選擇性地接收起始圖像，將這些資料與雜訊增強和 CLIP 視覺資料一起封裝成可供模型用於生成更高解析度輸出的格式。
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RunwayTextToImageNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RunwayTextToImageNode/zh-TW.md)
 
 此節點使用 Runway 的 Gen 4 模型，根據文字提示生成圖像。您可以提供文字描述，並可選擇包含參考圖像來引導圖像生成過程。該節點負責處理 API 通訊並返回生成的圖像。
 

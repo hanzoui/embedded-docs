@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StyleModelApply/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StyleModelApply/zh-TW.md)
 
 此節點將風格模型應用於指定的條件資料，基於 CLIP 視覺模型的輸出增強或改變其風格。它將風格模型的條件資料整合到現有條件資料中，實現生成過程中風格的無縫融合。
 

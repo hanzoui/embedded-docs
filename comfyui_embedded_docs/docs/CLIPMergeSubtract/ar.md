@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPMergeSubtract/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPMergeSubtract/ar.md)
 
 يقوم عُقدة CLIPMergeSubtract بدمج النماذج من خلال طرح أوزان أحد نماذج CLIP من نموذج آخر. تقوم بإنشاء نموذج CLIP جديد عن طريق استنساخ النموذج الأول ثم طرح رقع المفاتيح من النموذج الثاني، مع وجود مضاعف قابل للتعديل للتحكم في قوة الطرح. هذا يسمح بدمج النماذج بدقة من خلال إزالة خصائص محددة من النموذج الأساسي.
 

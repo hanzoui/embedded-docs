@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoRefineNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoRefineNode/zh-TW.md)
 
 TripoRefineNode 專門用於精煉由 v1.4 Tripo 模型創建的 3D 草稿模型。它接收一個模型任務 ID，並透過 Tripo API 進行處理，以生成模型的改進版本。此節點專門設計用於處理由 Tripo v1.4 模型產生的草稿模型。
 

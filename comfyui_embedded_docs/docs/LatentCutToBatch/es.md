@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentCutToBatch/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentCutToBatch/es.md)
 
 El nodo LatentCutToBatch toma una representación latente y la divide a lo largo de una dimensión especificada en múltiples segmentos. Estos segmentos se apilan luego en una nueva dimensión de lote, convirtiendo efectivamente una única muestra latente en un lote de muestras latentes más pequeñas. Esto es útil para procesar diferentes partes de un espacio latente de forma independiente.
 

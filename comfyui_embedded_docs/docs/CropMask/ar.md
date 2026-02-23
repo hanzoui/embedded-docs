@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CropMask/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CropMask/ar.md)
 
 تم تصميم عُقدة CropMask لقص منطقة محددة من قناع معين. تتيح للمستخدمين تحديد منطقة الاهتمام عن طريق تحديد الإحداثيات والأبعاد، مما يؤدي إلى استخراج جزء من القناع للمعالجة أو التحليل اللاحق.
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PerpNegGuider/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PerpNegGuider/ko.md)
 
 PerpNegGuider 노드는 수직 음수 조건화(perpendicular negative conditioning)를 사용하여 이미지 생성을 제어하는 안내 시스템을 생성합니다. 양수, 음수 및 빈 조건화 입력을 받아 특수화된 안내 알고리즘을 적용하여 생성 과정을 조종합니다. 이 노드는 테스트 목적으로 설계되었으며, 안내 강도와 음수 스케일링에 대한 세밀한 제어를 제공합니다.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageAddNoise/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageAddNoise/zh-TW.md)
 
 ImageAddNoise 節點會對輸入影像添加隨機噪點。它使用指定的隨機種子來生成一致的噪點模式，並允許控制噪點效果的強度。輸出影像保持與輸入相同的尺寸，但增加了視覺紋理。
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentBatchSeedBehavior/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentBatchSeedBehavior/pt-BR.md)
 
 O nó LatentBatchSeedBehavior foi projetado para modificar o comportamento da semente (seed) de um lote de amostras latentes. Ele permite randomizar ou fixar a semente ao longo do lote, influenciando assim o processo de geração ao introduzir variabilidade ou manter consistência nas saídas geradas.
 

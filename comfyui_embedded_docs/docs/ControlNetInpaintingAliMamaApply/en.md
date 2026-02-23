@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ControlNetInpaintingAliMamaApply/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ControlNetInpaintingAliMamaApply/en.md)
 
 The ControlNetInpaintingAliMamaApply node applies ControlNet conditioning for inpainting tasks by combining positive and negative conditioning with a control image and mask. It processes the input image and mask to create modified conditioning that guides the generation process, allowing for precise control over which areas of the image are inpainted. The node supports strength adjustment and timing controls to fine-tune the ControlNet's influence during different stages of the generation process.
 

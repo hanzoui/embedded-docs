@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LaplaceScheduler/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LaplaceScheduler/fr.md)
 
 Le nœud LaplaceScheduler génère une séquence de valeurs sigma suivant une distribution de Laplace pour une utilisation dans l'échantillonnage par diffusion. Il crée un calendrier de niveaux de bruit qui diminuent progressivement d'une valeur maximale à une valeur minimale, en utilisant les paramètres de la distribution de Laplace pour contrôler la progression. Ce planificateur est couramment utilisé dans les workflows d'échantillonnage personnalisés pour définir le calendrier de bruit des modèles de diffusion.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraModelLoader/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraModelLoader/pt-BR.md)
 
 O nó LoraModelLoader aplica pesos LoRA (Low-Rank Adaptation) treinados a um modelo de difusão. Ele modifica o modelo base carregando os pesos de um modelo LoRA treinado e ajustando a intensidade de sua influência. Isso permite personalizar o comportamento dos modelos de difusão sem a necessidade de retreiná-los do zero.
 

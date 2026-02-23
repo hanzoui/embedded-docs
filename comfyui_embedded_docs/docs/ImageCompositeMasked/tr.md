@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageCompositeMasked/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageCompositeMasked/tr.md)
 
 `ImageCompositeMasked` düğümü, görüntüleri birleştirmek için tasarlanmıştır ve bir kaynak görüntünün belirli koordinatlarda bir hedef görüntünün üzerine yerleştirilmesine, isteğe bağlı olarak yeniden boyutlandırma ve maskeleme imkanı sağlar.
 

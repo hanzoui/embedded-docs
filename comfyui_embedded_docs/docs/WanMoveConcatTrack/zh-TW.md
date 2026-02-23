@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveConcatTrack/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveConcatTrack/zh-TW.md)
 
 WanMoveConcatTrack 節點將兩組運動追蹤資料合併為一個更長的序列。其運作方式是沿著各自的維度連接輸入追蹤資料的軌跡路徑和可見性遮罩。如果只提供一組追蹤輸入，它會直接將該資料原封不動地傳遞出去。
 

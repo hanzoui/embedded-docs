@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeHunyuan3D/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeHunyuan3D/ko.md)
 
 VAEDecodeHunyuan3D 노드는 잠재 표현을 VAE 디코더를 사용하여 3D 복셀 데이터로 변환합니다. 구성 가능한 청킹 및 해상도 설정을 통해 VAE 모델이 잠재 샘플을 처리하여 3D 애플리케이션에 적합한 체적 데이터를 생성합니다.
 

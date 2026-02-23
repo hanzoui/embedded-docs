@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProFirstLastFrameNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProFirstLastFrameNode/en.md)
 
 This node uses the Kling AI model to generate a video. It requires a starting image and a text prompt. You can optionally provide an ending image or up to six reference images to guide the video's content and style. The node processes these inputs to create a video of a specified duration and resolution.
 

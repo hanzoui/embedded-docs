@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConvertStringToComboNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConvertStringToComboNode/zh.md)
 
 Convert String to Combo 节点接收一个文本字符串作为输入，并将其转换为 COMBO 数据类型。这允许您将文本值用作其他需要 COMBO 输入的节点的选择项。它只是原封不动地传递字符串值，但会更改其数据类型。
 

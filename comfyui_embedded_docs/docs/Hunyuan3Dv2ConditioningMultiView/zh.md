@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Hunyuan3Dv2ConditioningMultiView/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Hunyuan3Dv2ConditioningMultiView/zh.md)
 
 Hunyuan3Dv2ConditioningMultiView 节点处理多视角 CLIP 视觉嵌入以用于 3D 视频生成。它接收可选的前、左、后、右视角嵌入，并将它们与位置编码结合，为视频模型创建条件数据。该节点输出来自组合嵌入的正向条件数据，以及具有零值的负向条件数据。
 

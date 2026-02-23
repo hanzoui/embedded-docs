@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingCameraControlI2VNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingCameraControlI2VNode/tr.md)
 
 Kling Görüntüden Videoya Kamera Kontrol Düğümü, sabit görüntüleri profesyonel kamera hareketleriyle sinematik videolara dönüştürür. Bu özelleştirilmiş görüntüden videoya düğümü, orijinal görüntünüze odaklanmayı korurken sanal kamera eylemlerini (yakınlaştırma, döndürme, kaydırma, eğme ve birinci şahıs görünümü dahil) kontrol etmenize olanak tanır. Kamera kontrolü şu anda yalnızca pro modunda, kling-v1-5 modeli ve 5 saniyelik süre ile desteklenmektedir.
 

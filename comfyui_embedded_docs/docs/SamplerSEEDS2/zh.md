@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerSEEDS2/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerSEEDS2/zh.md)
 
 此节点提供了一个可配置的采样器，用于生成图像。它实现了 SEEDS-2 算法，这是一种随机微分方程（SDE）求解器。通过调整其参数，您可以将其配置为模拟多种特定采样器的行为，包括 `seeds_2`、`exp_heun_2_x0` 和 `exp_heun_2_x0_sde`。
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanImageToVideo/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanImageToVideo/ja.md)
 
 HunyuanImageToVideoノードは、Hunyuanビデオモデルを使用して画像をビデオの潜在表現に変換します。このノードは、コンディショニング入力とオプションの開始画像を受け取り、ビデオ生成モデルでさらに処理可能なビデオ潜在表現を生成します。開始画像がビデオ生成プロセスにどのように影響するかを制御するためのさまざまなガイダンスタイプをサポートしています。
 

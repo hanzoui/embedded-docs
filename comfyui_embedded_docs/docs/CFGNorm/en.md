@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CFGNorm/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CFGNorm/en.md)
 
 The CFGNorm node applies a normalization technique to the classifier-free guidance (CFG) process in diffusion models. It adjusts the scale of the denoised prediction by comparing the norms of the conditional and unconditional outputs, then applies a strength multiplier to control the effect. This helps stabilize the generation process by preventing extreme values in the guidance scaling.
 

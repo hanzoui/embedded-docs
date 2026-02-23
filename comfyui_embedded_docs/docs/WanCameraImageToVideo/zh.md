@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanCameraImageToVideo/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanCameraImageToVideo/zh.md)
 
 WanCameraImageToVideo 节点通过生成视频生成的潜在表示，将图像转换为视频序列。它处理条件输入和可选的起始图像，以创建可用于视频模型的视频潜在表示。该节点支持相机条件和 CLIP 视觉输出，以增强视频生成的控制。
 

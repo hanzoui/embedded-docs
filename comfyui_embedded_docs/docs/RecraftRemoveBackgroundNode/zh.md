@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftRemoveBackgroundNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftRemoveBackgroundNode/zh.md)
 
 此节点使用 Recraft API 服务从图像中移除背景。它会处理输入批次中的每张图像，并返回带有透明背景的处理后图像以及指示被移除背景区域的对应 Alpha 蒙版。
 

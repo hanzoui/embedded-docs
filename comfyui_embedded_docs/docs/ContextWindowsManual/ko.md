@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ContextWindowsManual/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ContextWindowsManual/ko.md)
 
 Context Windows (Manual) 노드를 사용하면 샘플링 중 모델에 대한 컨텍스트 창을 수동으로 구성할 수 있습니다. 이 노드는 지정된 길이, 중첩 및 스케줄링 패턴을 가진 중복되는 컨텍스트 세그먼트를 생성하여 데이터를 관리 가능한 청크로 처리하면서 세그먼트 간의 연속성을 유지합니다.
 

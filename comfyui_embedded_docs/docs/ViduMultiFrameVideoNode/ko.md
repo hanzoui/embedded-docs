@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduMultiFrameVideoNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduMultiFrameVideoNode/ko.md)
 
 이 노드는 여러 키프레임 간의 전환을 생성하여 비디오를 만듭니다. 초기 이미지에서 시작하여 사용자가 정의한 종료 이미지와 프롬프트 시퀀스를 통해 애니메이션을 수행하며, 단일 비디오 파일을 출력으로 생성합니다.
 

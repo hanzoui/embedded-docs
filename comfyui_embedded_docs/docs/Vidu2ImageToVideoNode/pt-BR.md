@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu2ImageToVideoNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu2ImageToVideoNode/pt-BR.md)
 
 O nó Geração de Vídeo Vidu2 a partir de Imagem cria uma sequência de vídeo a partir de uma única imagem de entrada. Ele utiliza um modelo Vidu2 especificado para animar a cena com base em um prompt de texto opcional, controlando a duração, a resolução e a intensidade do movimento do vídeo.
 

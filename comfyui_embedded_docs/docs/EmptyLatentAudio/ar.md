@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyLatentAudio/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyLatentAudio/ar.md)
 
 عُقدة EmptyLatentAudio تُنشئ موترات كامنة فارغة لمعالجة الصوت. تقوم بتوليد تمثيل كامن صوتي فارغ بمدة وحجم دفعة مُحددين، والذي يمكن استخدامه كمدخل لسير عمل توليد الصوت أو معالجته. تحسب العُقدة الأبعاد الكامنة المناسبة بناءً على مدة الصوت ومعدل العينات.
 

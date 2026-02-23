@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodePixArtAlpha/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodePixArtAlpha/pt-BR.md)
 
 Codifica texto e define o condicionamento de resolução para PixArt Alpha. Este nó processa entrada de texto e adiciona informações de largura e altura para criar dados de condicionamento especificamente para modelos PixArt Alpha. Não se aplica a modelos PixArt Sigma.
 

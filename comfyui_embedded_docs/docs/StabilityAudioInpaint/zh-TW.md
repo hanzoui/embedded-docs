@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityAudioInpaint/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityAudioInpaint/zh-TW.md)
 
 使用文字指令轉換現有音訊樣本的一部分。此節點允許您透過提供描述性提示來修改音訊的特定區段，有效地「修補」或重新生成選定部分，同時保留其餘音訊內容。
 

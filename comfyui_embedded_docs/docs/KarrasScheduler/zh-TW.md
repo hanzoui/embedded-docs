@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KarrasScheduler/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KarrasScheduler/zh-TW.md)
 
 KarrasScheduler 節點旨在根據 Karras 等人（2022 年）的噪聲調度生成一系列噪聲水平（sigmas）。此調度器對於控制生成模型中的擴散過程非常有用，允許對生成過程每個步驟應用的噪聲水平進行微調。
 

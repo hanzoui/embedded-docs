@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SplitImageWithAlpha/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SplitImageWithAlpha/pt-BR.md)
 
 O nó SplitImageWithAlpha foi projetado para separar os componentes de cor e alfa de uma imagem. Ele processa um tensor de imagem de entrada, extraindo os canais RGB como componente de cor e o canal alfa como componente de transparência, facilitando operações que requerem manipulação desses aspectos distintos da imagem.
 

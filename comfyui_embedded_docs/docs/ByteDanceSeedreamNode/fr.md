@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceSeedreamNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceSeedreamNode/fr.md)
 
 Le nœud ByteDance Seedream 4 offre des capacités unifiées de génération d'images à partir de texte et d'édition précise par instructions textuelles jusqu'à une résolution de 4K. Il peut créer de nouvelles images à partir d'invitations textuelles ou modifier des images existantes en utilisant des instructions textuelles. Le nœud prend en charge à la fois la génération d'image unique et la génération séquentielle de plusieurs images liées.
 

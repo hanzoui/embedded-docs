@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TCFG/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TCFG/ko.md)
 
 TCFG(Tangential Damping CFG)는 무조건(부정) 예측을 개선하여 조건(긍정) 예측과 더 잘 일치하도록 하는 지도 기법을 구현합니다. 이 방법은 2503.18137로 참조된 연구 논문을 기반으로 무조건 지도에 접선 감쇠를 적용하여 출력 품질을 향상시킵니다. 이 노드는 분류자 없는 지도 과정에서 무조건 예측이 처리되는 방식을 조정하여 모델의 샘플링 동작을 수정합니다.
 

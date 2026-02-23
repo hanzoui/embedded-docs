@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceDiT/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceDiT/ja.md)
 
 スキップレイヤーガイダンスを適用することで、詳細な構造へのガイダンスを強化します。この汎用バージョンのSkipLayerGuidanceは、すべてのDiTモデルで使用でき、Perturbed Attention Guidanceに着想を得ています。元の実験的な実装はSD3向けに作成されました。
 

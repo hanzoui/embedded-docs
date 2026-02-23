@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/APG/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/APG/tr.md)
 
 APG (Uyarlanabilir Yansıtılmış Kılavuzluk) düğümü, yayılım sürecinde kılavuzluğun nasıl uygulandığını ayarlayarak örnekleme işlemini değiştirir. Kılavuzluk vektörünü, koşullu çıktıya göre paralel ve dik bileşenler olarak ayırarak daha kontrollü görüntü oluşturmayı sağlar. Düğüm, kılavuzluğun ölçeğini ayarlamak, büyüklüğünü normalize etmek ve yayılım adımları arasında daha pürüzsüz geçişler için momentum uygulamak üzere parametreler sağlar.
 

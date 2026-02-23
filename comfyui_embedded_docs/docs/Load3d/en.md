@@ -1,12 +1,12 @@
-The Load3D node is a core node for loading and processing 3D model files. When loading the node, it automatically retrieves available 3D resources from `ComfyUI/input/3d/`. You can also upload supported 3D files for preview using the upload function.
+The Load3D node is a core node for loading and processing 3D model files. When loading the node, it automatically retrieves available 3D resources from `Hanzo Studio/input/3d/`. You can also upload supported 3D files for preview using the upload function.
 
 **Supported Formats**
 Currently, this node supports multiple 3D file formats, including `.gltf`, `.glb`, `.obj`, `.fbx`, and `.stl`.
 
 **3D Node Preferences**
-Some related preferences for 3D nodes can be configured in ComfyUI's settings menu. Please refer to the following documentation for corresponding settings:
+Some related preferences for 3D nodes can be configured in Hanzo Studio's settings menu. Please refer to the following documentation for corresponding settings:
 
-[Settings Menu](https://docs.comfy.org/interface/settings/3d)
+[Settings Menu](https://docs.hanzo.ai/interface/settings/3d)
 
 Besides regular node outputs, Load3D has lots of 3D view-related settings in the canvas menu.
 
@@ -14,7 +14,7 @@ Besides regular node outputs, Load3D has lots of 3D view-related settings in the
 
 | Parameter Name | Type     | Description                     | Default | Range        |
 |---------------|----------|---------------------------------|---------|--------------|
-| model_file    | File Selection | 3D model file path, supports upload, defaults to reading model files from `ComfyUI/input/3d/` | - | Supported formats |
+| model_file    | File Selection | 3D model file path, supports upload, defaults to reading model files from `Hanzo Studio/input/3d/` | - | Supported formats |
 | width         | INT      | Canvas rendering width          | 1024    | 1-4096      |
 | height        | INT      | Canvas rendering height         | 1024    | 1-4096      |
 
@@ -122,7 +122,7 @@ This menu provides the ability to quickly convert and export model formats
 ### 3. Right Menu Functions
 
 <video controls width="640" height="360">
-  <source src="https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
   Your browser does not support video playback.
 </video>
 

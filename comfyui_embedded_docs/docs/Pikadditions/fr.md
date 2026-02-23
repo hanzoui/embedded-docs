@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Pikadditions/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Pikadditions/fr.md)
 
 Le nœud Pikadditions vous permet d'ajouter n'importe quel objet ou image dans votre vidéo. Vous téléchargez une vidéo et spécifiez ce que vous souhaitez ajouter pour créer un résultat parfaitement intégré. Ce nœud utilise l'API Pika pour insérer des images dans des vidéos avec une intégration d'apparence naturelle.
 

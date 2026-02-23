@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GeminiImage2Node/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GeminiImage2Node/zh.md)
 
 GeminiImage2Node 使用 Google 的 Vertex AI Gemini 模型生成或编辑图像。它将文本提示词和可选的参考图像或文件发送到 API，并返回生成的图像和/或文本描述。
 

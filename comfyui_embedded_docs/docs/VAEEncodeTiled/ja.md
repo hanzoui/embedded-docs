@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEEncodeTiled/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEEncodeTiled/ja.md)
 
 VAEEncodeTiledノードは、画像を小さなタイルに分割して変分オートエンコーダーを使用してエンコードするノードです。このタイル方式により、メモリ制限を超える可能性のある大きな画像を処理できます。このノードは画像用と動画用の両方のVAEをサポートしており、空間次元と時間次元に対して個別のタイル制御が可能です。
 

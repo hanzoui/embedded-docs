@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Veo3VideoGenerationNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Veo3VideoGenerationNode/ja.md)
 
 GoogleのVeo 3 APIを使用してテキストプロンプトから動画を生成します。このノードは、veo-3.0-generate-001とveo-3.0-fast-generate-001の2つのVeo 3モデルをサポートしています。ベースのVeoノードを拡張し、音声生成と固定8秒間の長さといったVeo 3固有の機能を含んでいます。
 

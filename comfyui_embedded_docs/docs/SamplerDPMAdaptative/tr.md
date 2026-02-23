@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMAdaptative/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMAdaptative/tr.md)
 
 SamplerDPMAdaptative düğümü, örnekleme süreci boyunca adım boyutlarını otomatik olarak ayarlayan uyarlamalı bir DPM (Diffusion Probabilistic Model) örnekleyici uygular. Hata kontrolü için tolerans tabanlı bir yaklaşım kullanarak, hesaplama verimliliği ile örnekleme doğruluğunu dengeleyen optimal adım boyutlarını belirler. Bu uyarlamalı yaklaşım, gerekli adım sayısını potansiyel olarak azaltırken kaliteyi korumaya yardımcı olur.
 

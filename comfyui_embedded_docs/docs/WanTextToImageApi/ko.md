@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanTextToImageApi/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanTextToImageApi/ko.md)
 
 Wan Text to Image 노드는 텍스트 설명을 기반으로 이미지를 생성합니다. AI 모델을 사용하여 글쓰기 프롬프트에서 시각적 콘텐츠를 생성하며, 영어 및 중국어 텍스트 입력을 모두 지원합니다. 이 노드는 출력 이미지 크기, 품질 및 스타일 선호도를 조정하기 위한 다양한 컨트롤을 제공합니다.
 

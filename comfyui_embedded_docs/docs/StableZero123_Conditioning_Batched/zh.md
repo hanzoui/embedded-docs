@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableZero123_Conditioning_Batched/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableZero123_Conditioning_Batched/zh.md)
 
 StableZero123_Conditioning_Batched 节点处理输入图像并生成用于 3D 模型生成的条件数据。它使用 CLIP 视觉和 VAE 模型对图像进行编码，然后根据仰角和方位角创建相机嵌入，以生成正向和负向条件数据以及用于批处理的潜在表示。
 

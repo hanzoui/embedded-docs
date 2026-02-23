@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPSubtract/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPSubtract/es.md)
 
 El nodo CLIPSubtract realiza una operación de sustracción entre dos modelos CLIP. Toma el primer modelo CLIP como base y resta los parches clave del segundo modelo CLIP, con un multiplicador opcional para controlar la intensidad de la sustracción. Esto permite una mezcla de modelos afinada al eliminar características específicas de un modelo utilizando otro.
 

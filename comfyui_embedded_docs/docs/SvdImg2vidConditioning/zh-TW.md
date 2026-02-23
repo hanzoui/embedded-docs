@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SvdImg2vidConditioning/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SvdImg2vidConditioning/zh-TW.md)
 
 此節點專為影片生成任務設計，用於產生條件化資料，特別針對 SVD_img2vid 模型進行優化。它接收包括初始影像、影片參數和 VAE 模型在內的多種輸入，以產生可用於引導影片影格生成的條件化資料。
 

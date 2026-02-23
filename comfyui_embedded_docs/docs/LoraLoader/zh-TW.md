@@ -1,6 +1,6 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraLoader/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraLoader/zh-TW.md)
 
-此節點會自動偵測位於 LoRA 資料夾（包含子資料夾）中的模型，對應的模型路徑為 `ComfyUI\models\loras`。更多資訊請參考安裝 LoRA 模型。
+此節點會自動偵測位於 LoRA 資料夾（包含子資料夾）中的模型，對應的模型路徑為 `Hanzo Studio\models\loras`。更多資訊請參考安裝 LoRA 模型。
 
 LoRA 載入器節點主要用於載入 LoRA 模型。您可以將 LoRA 模型視為濾鏡，能為您的影像賦予特定風格、內容和細節：
 

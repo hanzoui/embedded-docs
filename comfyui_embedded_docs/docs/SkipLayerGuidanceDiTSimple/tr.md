@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceDiTSimple/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceDiTSimple/tr.md)
 
 Gürültü giderme işlemi sırasında yalnızca koşulsuz geçişi değiştiren SkipLayerGuidanceDiT düğümünün basitleştirilmiş versiyonu. Bu düğüm, belirtilen zamanlama ve katman parametrelerine dayanarak koşulsuz geçiş sırasında belirli katmanları seçici bir şekilde atlayarak DiT (Diffusion Transformer) modellerindeki belirli transformer katmanlarına skip layer guidance uygular.
 

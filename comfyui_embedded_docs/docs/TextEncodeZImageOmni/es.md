@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeZImageOmni/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeZImageOmni/es.md)
 
 El nodo TextEncodeZImageOmni es un nodo de acondicionamiento avanzado que codifica un *prompt* de texto junto con imágenes de referencia opcionales en un formato de acondicionamiento adecuado para modelos de generación de imágenes. Puede procesar hasta tres imágenes, codificándolas opcionalmente con un codificador visual y/o un VAE para producir latentes de referencia, e integra estas referencias visuales con el *prompt* de texto utilizando una estructura de plantilla específica.
 

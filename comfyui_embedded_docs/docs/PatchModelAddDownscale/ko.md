@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PatchModelAddDownscale/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PatchModelAddDownscale/ko.md)
 
 PatchModelAddDownscale 노드는 Kohya Deep Shrink 기능을 구현하여 모델의 특정 블록에 다운스케일링 및 업스케일링 작업을 적용합니다. 이 노드는 처리 중간에 특징맵의 해상도를 낮춘 후 원래 크기로 복원하여 품질을 유지하면서 성능을 향상시킬 수 있습니다. 이 노드를 사용하면 모델 실행 중 이러한 스케일링 작업이 언제, 어떻게 발생할지 정밀하게 제어할 수 있습니다.
 

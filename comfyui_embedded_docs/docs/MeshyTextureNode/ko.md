@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyTextureNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyTextureNode/ko.md)
 
 Meshy: Texture 노드는 AI 생성 텍스처를 3D 모델에 적용합니다. 이전 Meshy 3D 생성 또는 변환 노드에서 얻은 작업 ID를 받아 텍스트 설명이나 참조 이미지를 사용하여 모델에 새로운 텍스처를 생성합니다. 이 노드는 텍스처가 적용된 모델을 GLB 및 FBX 파일 형식으로 출력합니다.
 

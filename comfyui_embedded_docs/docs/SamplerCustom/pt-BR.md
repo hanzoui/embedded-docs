@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerCustom/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerCustom/pt-BR.md)
 
 O nó SamplerCustom é projetado para fornecer um mecanismo de amostragem flexível e personalizável para diversas aplicações. Ele permite que os usuários selecionem e configurem diferentes estratégias de amostragem adaptadas às suas necessidades específicas, aumentando a adaptabilidade e a eficiência do processo de amostragem.
 

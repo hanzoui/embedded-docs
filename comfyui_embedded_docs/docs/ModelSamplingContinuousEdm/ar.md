@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingContinuousEDM/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingContinuousEDM/ar.md)
 
 تم تصميم هذه العقدة لتعزيز قدرات النمذجة في النموذج من خلال دمج تقنيات أخذ العينات المستمرة باستخدام نماذج الانتشار القائمة على الطاقة (EDM). تتيح هذه العقدة الضبط الديناميكي لمستويات الضوضاء ضمن عملية أخذ العينات في النموذج، مما يوفر تحكمًا أكثر دقة في جودة التنوع الناتج.
 

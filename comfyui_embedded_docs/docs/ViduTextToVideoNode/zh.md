@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduTextToVideoNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduTextToVideoNode/zh.md)
 
 Vidu 文本转视频生成节点能够根据文本描述创建视频。它使用多种视频生成模型，将您的文本提示转换为视频内容，并提供可自定义的时长、宽高比和视觉风格设置。
 

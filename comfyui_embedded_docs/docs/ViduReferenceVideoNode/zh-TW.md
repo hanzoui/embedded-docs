@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduReferenceVideoNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduReferenceVideoNode/zh-TW.md)
 
 Vidu 參考影片節點可根據多個參考圖片和文字提示生成影片。它使用 AI 模型，根據提供的圖片和描述來建立一致的影片內容。此節點支援多種影片設定，包括持續時間、長寬比、解析度和動態控制。
 

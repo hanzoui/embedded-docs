@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VeoVideoGenerationNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VeoVideoGenerationNode/tr.md)
 
 Metin açıklamalarını kullanarak Google'ın Veo API'si aracılığıyla video oluşturur. Bu düğüm, metin açıklamalarından ve isteğe bağlı görüntü girdilerinden video oluşturabilir; en-boy oranı, süre ve daha fazlası gibi parametreler üzerinde kontrol sağlar.
 

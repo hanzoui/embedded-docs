@@ -1,21 +1,21 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanFunControlToVideo/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanFunControlToVideo/tr.md)
 
-Bu düğüm, video oluşturma için Alibaba Wan Fun Control modelini desteklemek amacıyla eklendi ve [bu commit](https://github.com/comfyanonymous/ComfyUI/commit/3661c833bcc41b788a7c9f0e7bc48524f8ee5f82) sonrasında eklendi.
+Bu düğüm, video oluşturma için Alibaba Wan Fun Control modelini desteklemek amacıyla eklendi ve [bu commit](https://github.com/hanzoai/studio/commit/3661c833bcc41b788a7c9f0e7bc48524f8ee5f82) sonrasında eklendi.
 
 - **Amaç:** Wan 2.1 Fun Control modelini kullanarak video oluşturma için gerekli olan koşullandırma bilgisini hazırlamak.
 
-WanFunControlToVideo düğümü, video oluşturma için Wan Fun Control modellerini desteklemek üzere tasarlanmış bir ComfyUI eklentisidir ve amacı video oluşturmada WanFun kontrolünü kullanmaktır.
+WanFunControlToVideo düğümü, video oluşturma için Wan Fun Control modellerini desteklemek üzere tasarlanmış bir Hanzo Studio eklentisidir ve amacı video oluşturmada WanFun kontrolünü kullanmaktır.
 
 Bu düğüm, temel koşullandırma bilgisi için bir hazırlık noktası görevi görür ve gizli uzayın merkez noktasını başlatarak, Wan 2.1 Fun modeli kullanılarak yapılacak sonraki video oluşturma sürecine rehberlik eder. Düğümün adı işlevini açıkça belirtir: çeşitli girdileri kabul eder ve bunları WanFun çerçevesi içinde video oluşturmayı kontrol etmek için uygun bir formata dönüştürür.
 
-Düğümün ComfyUI düğüm hiyerarşisindeki konumu, video oluşturma işlem hattının erken aşamalarında çalıştığını, video karelerinin gerçek örneklemesi veya kod çözme işleminden önce koşullandırma sinyallerini manipüle etmeye odaklandığını gösterir.
+Düğümün Hanzo Studio düğüm hiyerarşisindeki konumu, video oluşturma işlem hattının erken aşamalarında çalıştığını, video karelerinin gerçek örneklemesi veya kod çözme işleminden önce koşullandırma sinyallerini manipüle etmeye odaklandığını gösterir.
 
 ## Girdiler
 
 | Parametre Adı      | Gerekli  | Veri Türü          | Açıklama                                                  | Varsayılan Değer |
 |:-------------------|:---------|:-------------------|:-------------------------------------------------------------|:-------------|
-| `pozitif`           | Evet     | CONDITIONING       | Genellikle bir "CLIP Text Encode" düğümünden gelen standart ComfyUI pozitif koşullandırma verisi. Pozitif prompt, kullanıcının oluşturulacak video için öngördüğü içeriği, konuyu ve sanatsal stili tanımlar. | Yok  |
-| `negatif`           | Evet     | CONDITIONING       | Genellikle bir "CLIP Text Encode" düğümü tarafından oluşturulan standart ComfyUI negatif koşullandırma verisi. Negatif prompt, kullanıcının oluşturulan videoda kaçınmak istediği öğeleri, stilleri veya artefaktları belirtir. | Yok  |
+| `pozitif`           | Evet     | CONDITIONING       | Genellikle bir "CLIP Text Encode" düğümünden gelen standart Hanzo Studio pozitif koşullandırma verisi. Pozitif prompt, kullanıcının oluşturulacak video için öngördüğü içeriği, konuyu ve sanatsal stili tanımlar. | Yok  |
+| `negatif`           | Evet     | CONDITIONING       | Genellikle bir "CLIP Text Encode" düğümü tarafından oluşturulan standart Hanzo Studio negatif koşullandırma verisi. Negatif prompt, kullanıcının oluşturulan videoda kaçınmak istediği öğeleri, stilleri veya artefaktları belirtir. | Yok  |
 | `vae`                | Evet     | VAE                | Wan 2.1 Fun model ailesi ile uyumlu, görüntü/video verilerini kodlamak ve kodunu çözmek için kullanılan bir VAE (Varyasyonel Otokodlayıcı) modeli gerektirir. | Yok  |
 | `genişlik`              | Evet     | INT                | Piksel cinsinden çıktı video karelerinin istenen genişliği. Varsayılan değer 832, minimum değer 16, maksimum değer `nodes.MAX_RESOLUTION` tarafından belirlenir ve adım boyutu 16'dır. | 832  |
 | `yükseklik`             | Evet     | INT                | Piksel cinsinden çıktı video karelerinin istenen yüksekliği. Varsayılan değer 480, minimum değer 16, maksimum değer `nodes.MAX_RESOLUTION` tarafından belirlenir ve adım boyutu 16'dır. | 480  |

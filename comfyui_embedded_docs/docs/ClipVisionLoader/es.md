@@ -1,10 +1,10 @@
-Este nodo detecta automáticamente los modelos ubicados en la carpeta `ComfyUI/models/clip_vision`, así como cualquier ruta adicional configurada en el archivo `extra_model_paths.yaml`. Si agregas modelos después de iniciar ComfyUI, por favor **actualiza la interfaz de ComfyUI** para asegurarte de que la lista de archivos de modelos esté actualizada.
+Este nodo detecta automáticamente los modelos ubicados en la carpeta `Hanzo Studio/models/clip_vision`, así como cualquier ruta adicional configurada en el archivo `extra_model_paths.yaml`. Si agregas modelos después de iniciar Hanzo Studio, por favor **actualiza la interfaz de Hanzo Studio** para asegurarte de que la lista de archivos de modelos esté actualizada.
 
 ## Entradas
 
 | Campo      | Data Type      | Descripción |
 |------------|---------------|-------------|
-| clip_name  | COMBO[STRING]  | Muestra todos los archivos de modelos compatibles en la carpeta `ComfyUI/models/clip_vision`. |
+| clip_name  | COMBO[STRING]  | Muestra todos los archivos de modelos compatibles en la carpeta `Hanzo Studio/models/clip_vision`. |
 
 ## Salidas
 

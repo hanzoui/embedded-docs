@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CosmosImageToVideoLatent/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CosmosImageToVideoLatent/ja.md)
 
 CosmosImageToVideoLatentノードは、入力画像から動画の潜在表現を作成します。このノードは空の動画潜在表現を生成し、オプションで開始画像や終了画像を動画シーケンスの先頭フレームや末尾フレームにエンコードします。画像が提供された場合は、生成プロセスにおいて潜在表現のどの部分を保持すべきかを示す対応するノイズマスクも作成します。
 

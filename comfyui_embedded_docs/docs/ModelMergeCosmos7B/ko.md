@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmos7B/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmos7B/ko.md)
 
 ModelMergeCosmos7B 노드는 두 개의 AI 모델을 특정 구성 요소의 가중치 혼합을 통해 결합합니다. 위치 임베딩, 트랜스포머 블록, 최종 레이어 등 각 부분에 대한 개별 가중치를 조정하여 모델의 다양한 부분이 어떻게 결합되는지 세밀하게 제어할 수 있습니다.
 

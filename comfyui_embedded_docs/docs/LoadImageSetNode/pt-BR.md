@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageSetNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageSetNode/pt-BR.md)
 
 O LoadImageSetNode carrega múltiplas imagens do diretório de entrada para fins de processamento em lote e treinamento. Ele suporta vários formatos de imagem e pode, opcionalmente, redimensionar as imagens usando diferentes métodos. Este nó processa todas as imagens selecionadas como um lote e as retorna como um único tensor.
 

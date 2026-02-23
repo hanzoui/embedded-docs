@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyTextToModelNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyTextToModelNode/ko.md)
 
 Meshy: 텍스트에서 모델로 노드는 Meshy API를 사용하여 텍스트 설명으로부터 3D 모델을 생성합니다. 사용자의 프롬프트와 설정을 API에 요청으로 보낸 후, 생성이 완료될 때까지 기다린 다음 결과 모델 파일을 다운로드합니다.
 

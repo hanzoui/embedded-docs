@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSubtract/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSubtract/zh-TW.md)
 
 此節點專為進階模型合併操作設計，特別用於根據指定的乘數將一個模型的參數從另一個模型中減去。它透過調整一個模型參數對另一個模型的影響程度，實現模型行為的客製化，有助於創建新的混合模型。
 

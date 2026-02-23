@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SetClipHooks/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SetClipHooks/ko.md)
 
 SetClipHooks 노드를 사용하면 CLIP 모델에 사용자 정의 훅을 적용하여 고급 동작 수정이 가능합니다. 이 노드는 조건화 출력에 훅을 적용하고, 선택적으로 클립 스케줄링 기능을 활성화할 수 있습니다. 입력된 CLIP 모델의 복제본을 생성하여 지정된 훅 설정을 적용합니다.
 

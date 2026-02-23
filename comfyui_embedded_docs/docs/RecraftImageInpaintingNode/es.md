@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftImageInpaintingNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftImageInpaintingNode/es.md)
 
 Este nodo modifica imágenes basándose en un texto descriptivo y una máscara. Utiliza la API de Recraft para editar inteligentemente áreas específicas de una imagen que defines con una máscara, manteniendo el resto de la imagen sin cambios.
 

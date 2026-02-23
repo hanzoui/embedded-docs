@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetAreaPercentage/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetAreaPercentage/pt-BR.md)
 
 O nó ConditioningSetAreaPercentage é especializado em ajustar a área de influência de elementos de condicionamento com base em valores percentuais. Ele permite especificar as dimensões e a posição da área como porcentagens do tamanho total da imagem, juntamente com um parâmetro de força para modular a intensidade do efeito de condicionamento.
 

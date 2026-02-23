@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ComfySoftSwitchNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ComfySoftSwitchNode/ar.md)
 
 يختار عُقدة Soft Switch بين قيمتي إدخال محتملتين بناءً على شرط منطقي. تُخرج القيمة من إدخال `on_true` عندما يكون `switch` صحيحًا، والقيمة من إدخال `on_false` عندما يكون `switch` خاطئًا. تم تصميم هذه العُقدة لتكون كسولة (lazy)، مما يعني أنها تُقيّم فقط الإدخال المطلوب بناءً على حالة المفتاح.
 

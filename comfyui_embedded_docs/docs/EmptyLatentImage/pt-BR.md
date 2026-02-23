@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyLatentImage/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyLatentImage/pt-BR.md)
 
 O nó `EmptyLatentImage` é projetado para gerar uma representação em branco do espaço latente com dimensões e tamanho de lote especificados. Este nó serve como uma etapa fundamental na geração ou manipulação de imagens no espaço latente, fornecendo um ponto de partida para processos posteriores de síntese ou modificação de imagem.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GrowMask/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GrowMask/zh-TW.md)
 
 `GrowMask` 節點旨在修改給定遮罩的大小，可擴展或收縮，並可選擇性地對角落應用錐形效果。此功能在影像處理任務中對於動態調整遮罩邊界至關重要，能對感興趣區域提供更靈活且精確的控制。
 

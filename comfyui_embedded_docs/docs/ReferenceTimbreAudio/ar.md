@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ReferenceTimbreAudio/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ReferenceTimbreAudio/ar.md)
 
 يُحدِّد هذا العقدة نغمة صوت مرجعية للاستخدام في عملية "ace step 1.5". يعمل العقدة عن طريق أخذ مُدخل توجيهي وتمثيل كامن اختياري للصوت، ثم يُرفق تلك البيانات الكامنة بالتوجيه لاستخدامها من قبل العقد اللاحقة في سير العمل.
 

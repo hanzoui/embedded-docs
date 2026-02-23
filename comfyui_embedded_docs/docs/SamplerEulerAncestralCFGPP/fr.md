@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerEulerAncestralCFGPP/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerEulerAncestralCFGPP/fr.md)
 
 Le nœud SamplerEulerAncestralCFGPP crée un échantillonneur spécialisé pour générer des images en utilisant la méthode Euler Ancestral avec un guidage sans classifieur. Cet échantillonneur combine des techniques d'échantillonnage ancestral avec un conditionnement par guidage pour produire des variations d'images diversifiées tout en maintenant la cohérence. Il permet un réglage fin du processus d'échantillonnage grâce à des paramètres qui contrôlent le bruit et les ajustements de la taille des pas.
 

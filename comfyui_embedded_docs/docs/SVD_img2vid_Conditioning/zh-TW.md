@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SVD_img2vid_Conditioning/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SVD_img2vid_Conditioning/zh-TW.md)
 
 SVD_img2vid_Conditioning 節點用於為 Stable Video Diffusion 影片生成準備條件資料。它接收初始圖像，並透過 CLIP 視覺和 VAE 編碼器進行處理，以建立正向和負向條件對，同時生成用於影片生成的空白潛在空間。此節點設定了控制生成影片中運動、幀率和增強等級的必要參數。
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduStartEndToVideoNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduStartEndToVideoNode/en.md)
 
 The Vidu Start End To Video Generation node creates a video by generating frames between a starting frame and an ending frame. It uses a text prompt to guide the video generation process and supports various video models with different resolution and movement settings. The node validates that the start and end frames have compatible aspect ratios before processing.
 

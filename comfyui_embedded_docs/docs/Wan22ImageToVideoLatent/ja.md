@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Wan22ImageToVideoLatent/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Wan22ImageToVideoLatent/ja.md)
 
 Wan22ImageToVideoLatentノードは、画像から動画の潜在表現を作成します。指定された次元で空の動画潜在空間を生成し、オプションで開始画像シーケンスを最初のフレームにエンコードすることができます。開始画像が提供された場合、画像を潜在空間にエンコードし、インペイント領域に対応するノイズマスクを作成します。
 

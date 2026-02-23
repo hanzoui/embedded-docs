@@ -1,6 +1,6 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAELoader/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAELoader/zh-TW.md)
 
-此節點會偵測位於 `ComfyUI/models/vae` 資料夾中的模型，同時也會從 extra_model_paths.yaml 檔案中設定的其他路徑讀取模型。有時您可能需要**重新整理 ComfyUI 介面**，才能讓它從相應的資料夾讀取模型檔案。
+此節點會偵測位於 `Hanzo Studio/models/vae` 資料夾中的模型，同時也會從 extra_model_paths.yaml 檔案中設定的其他路徑讀取模型。有時您可能需要**重新整理 Hanzo Studio 介面**，才能讓它從相應的資料夾讀取模型檔案。
 
 VAELoader 節點專為載入變分自編碼器（VAE）模型而設計，特別針對標準和近似 VAE 進行了優化處理。它支援按名稱載入 VAE，包含對 'taesd' 和 'taesdxl' 模型的特殊處理，並會根據 VAE 的具體配置進行動態調整。
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SplitSigmas/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SplitSigmas/zh-TW.md)
 
 SplitSigmas 節點專為根據指定步驟將 sigma 值序列分割成兩部分而設計。此功能對於需要對 sigma 序列的初始部分和後續部分進行不同處理或操作的任務至關重要，從而實現對這些值更靈活且具針對性的操控。
 

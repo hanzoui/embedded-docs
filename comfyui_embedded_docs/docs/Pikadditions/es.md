@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Pikadditions/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Pikadditions/es.md)
 
 El nodo Pikadditions te permite agregar cualquier objeto o imagen a tu video. Subes un video y especificas lo que deseas agregar para crear un resultado perfectamente integrado. Este nodo utiliza la API de Pika para insertar imágenes en videos con una integración de aspecto natural.
 

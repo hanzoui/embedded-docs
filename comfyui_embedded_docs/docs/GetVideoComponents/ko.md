@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GetVideoComponents/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GetVideoComponents/ko.md)
 
 Get Video Components 노드는 비디오 파일에서 모든 주요 요소를 추출합니다. 비디오를 개별 프레임으로 분리하고, 오디오 트랙을 추출하며, 비디오의 프레임 속도 정보를 제공합니다. 이를 통해 각 구성 요소를 독립적으로 처리하거나 분석할 수 있습니다.
 

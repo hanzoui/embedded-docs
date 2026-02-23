@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingVideoExtendNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingVideoExtendNode/ar.md)
 
 يسمح لك عقد تمديد فيديو Kling بتمديد مقاطع الفيديو المنشأة بواسطة عُقد Kling الأخرى. يأخذ العقد فيديو موجودًا معرفًا بواسطة معرّفه ويُنشئ محتوى إضافيًا بناءً على نصوصك التوجيهية. يعمل العقد من خلال إرسال طلب التمديد إلى واجهة برمجة تطبيقات Kling وإرجاع الفيديو الممتد مع معرّفه الجديد ومدة تشغيله.
 

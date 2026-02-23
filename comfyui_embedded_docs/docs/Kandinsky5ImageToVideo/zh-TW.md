@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Kandinsky5ImageToVideo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Kandinsky5ImageToVideo/zh-TW.md)
 
 Kandinsky5ImageToVideo 節點為使用 Kandinsky 模型進行影片生成準備條件設定和潛在空間資料。它會建立一個空的影片潛在張量，並可選擇性地編碼起始圖像以引導生成影片的初始幀，從而相應地修改正向和負向條件設定。
 

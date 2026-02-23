@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoMultiviewToModelNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoMultiviewToModelNode/zh-TW.md)
 
 此節點使用 Tripo 的 API 同步生成 3D 模型，透過處理最多四張顯示物件不同視角的圖片。它需要一張正面圖片以及至少一張額外的視角圖片（左側、背面或右側），以建立一個包含紋理和材質選項的完整 3D 模型。
 

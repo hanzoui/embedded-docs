@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VeoVideoGenerationNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VeoVideoGenerationNode/ko.md)
 
 Google의 Veo API를 사용하여 텍스트 프롬프트에서 비디오를 생성합니다. 이 노드는 텍스트 설명과 선택적 이미지 입력을 통해 비디오를 생성할 수 있으며, 화면비, 지속 시간 등의 매개변수를 제어할 수 있습니다.
 

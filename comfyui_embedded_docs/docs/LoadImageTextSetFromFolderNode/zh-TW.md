@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageTextSetFromFolderNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageTextSetFromFolderNode/zh-TW.md)
 
 從指定目錄載入一批影像及其對應的文字描述，用於訓練目的。此節點會自動搜尋影像檔案及其關聯的文字描述檔案，根據指定的調整大小設定處理影像，並使用提供的 CLIP 模型對文字描述進行編碼。
 

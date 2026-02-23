@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioMerge/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioMerge/ja.md)
 
 AudioMergeノードは、2つのオーディオトラックを波形を重ね合わせて結合します。両方のオーディオ入力のサンプルレートを自動的に一致させ、長さを等しく調整してからマージを行います。このノードは、オーディオ信号を結合するためのいくつかの数学的手法を提供し、出力が許容可能な音量レベル内に収まるようにします。
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeSD3/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeSD3/zh.md)
 
 CLIPTextEncodeSD3 节点通过使用不同的 CLIP 模型对多个文本提示进行编码，为 Stable Diffusion 3 模型处理文本输入。它处理三个独立的文本输入（clip_g、clip_l 和 t5xxl），并提供管理空文本填充的选项。该节点确保不同文本输入之间的正确令牌对齐，并返回适用于 SD3 生成流程的条件数据。
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Mahiro/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Mahiro/ko.md)
 
 Mahiro 노드는 긍정 프롬프트와 부정 프롬프트 간의 차이보다는 긍정 프롬프트의 방향에 더 집중하도록 guidance 함수를 수정합니다. 이 노드는 정규화된 조건부 및 비조건부 노이즈 제거 출력 간의 코사인 유사도를 사용하여 맞춤형 guidance 스케일링 접근 방식을 적용하는 패치된 모델을 생성합니다. 이 실험적 노드는 생성 과정을 긍정 프롬프트의 의도된 방향으로 더 강력하게 조종하는 데 도움을 줍니다.
 

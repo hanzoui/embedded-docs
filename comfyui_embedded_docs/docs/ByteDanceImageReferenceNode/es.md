@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageReferenceNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageReferenceNode/es.md)
 
 El nodo ByteDance Image Reference genera videos utilizando un texto descriptivo y de una a cuatro imágenes de referencia. Envía las imágenes y el texto a un servicio API externo que crea un video que coincide con tu descripción mientras incorpora el estilo visual y el contenido de tus imágenes de referencia. El nodo proporciona varios controles para la resolución del video, relación de aspecto, duración y otros parámetros de generación.
 

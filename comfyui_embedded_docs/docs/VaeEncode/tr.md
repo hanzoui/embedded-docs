@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEEncode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEEncode/tr.md)
 
 Bu düğüm, belirli bir VAE modeli kullanarak görüntüleri gizli (latent) uzay temsillerine kodlamak için tasarlanmıştır. Kodlama sürecinin karmaşıklığını soyutlayarak, görüntülerin gizli temsillerine dönüştürülmesi için basit bir yol sağlar.
 

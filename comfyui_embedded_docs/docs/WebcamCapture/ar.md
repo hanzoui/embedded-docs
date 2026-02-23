@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WebcamCapture/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WebcamCapture/ar.md)
 
 ## المدخلات
 
@@ -15,4 +15,4 @@
 
 | اسم المخرج | نوع البيانات | الوصف |
 |-------------|-----------|-------------|
-| `IMAGE` | IMAGE | صورة الكاميرا الملتقطة المحولة إلى تنسيق الصور الخاص بـ ComfyUI |
+| `IMAGE` | IMAGE | صورة الكاميرا الملتقطة المحولة إلى تنسيق الصور الخاص بـ Hanzo Studio |

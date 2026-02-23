@@ -1,8 +1,8 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DualCLIPLoader/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DualCLIPLoader/pt-BR.md)
 
 O nó DualCLIPLoader foi projetado para carregar dois modelos CLIP simultaneamente, facilitando operações que exigem a integração ou comparação de características de ambos os modelos.
 
-Este nó detectará modelos localizados na pasta `ComfyUI/models/text_encoders`.
+Este nó detectará modelos localizados na pasta `Hanzo Studio/models/text_encoders`.
 
 ## Entradas
 

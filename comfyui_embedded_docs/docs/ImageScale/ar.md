@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageScale/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageScale/ar.md)
 
 تم تصميم عقدة ImageScale لتغيير حجم الصور إلى أبعاد محددة، مع تقديم مجموعة مختارة من طرق التكبير وإمكانية اقتص الصورة المعاد تحجيمها. إنها تجرد تعقيدات تكبير الصور واقتصها، وتوفر واجهة مباشرة لتعديل أبعاد الصور وفقًا للمعاملات المحددة من قبل المستخدم.
 

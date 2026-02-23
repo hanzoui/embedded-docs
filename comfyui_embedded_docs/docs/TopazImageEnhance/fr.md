@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TopazImageEnhance/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TopazImageEnhance/fr.md)
 
 Le nœud Topaz Image Enhance offre un suréchantillonnage et une amélioration d'image de qualité industrielle. Il traite une seule image d'entrée en utilisant un modèle d'IA basé sur le cloud pour améliorer la qualité, les détails et la résolution. Le nœud propose un contrôle précis du processus d'amélioration, avec des options pour le guidage créatif, la mise au point sur le sujet et la préservation des visages.
 

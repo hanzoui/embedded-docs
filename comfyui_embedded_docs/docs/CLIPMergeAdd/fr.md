@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPMergeAdd/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPMergeAdd/fr.md)
 
 Le nœud CLIPMergeAdd combine deux modèles CLIP en ajoutant des patches du second modèle au premier modèle. Il crée une copie du premier modèle CLIP et incorpore sélectivement les patches clés du second modèle, en excluant les identifiants de position et les paramètres d'échelle logit. Cela vous permet de fusionner des composants de modèles CLIP tout en préservant la structure du modèle de base.
 

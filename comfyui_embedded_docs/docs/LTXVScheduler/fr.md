@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVScheduler/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVScheduler/fr.md)
 
 Le nœud LTXVScheduler génère des valeurs sigma pour les processus d'échantillonnage personnalisés. Il calcule les paramètres de planification du bruit en fonction du nombre de tokens dans le latent d'entrée et applique une transformation sigmoïde pour créer la planification d'échantillonnage. Le nœud peut optionnellement étirer les sigmas résultants pour correspondre à une valeur terminale spécifiée.
 

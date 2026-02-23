@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPMergeSubtract/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPMergeSubtract/zh-TW.md)
 
 此節點透過從一個 CLIP 模型中減去另一個 CLIP 模型的權重來執行模型合併。它會複製第一個模型，然後減去第二個模型的關鍵修補程式，並透過可調整的乘數來控制減去強度，從而創建一個新的 CLIP 模型。這使得可以透過從基礎模型中移除特定特徵來進行微調的模型混合。
 

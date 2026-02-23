@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanInfiniteTalkToVideo/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanInfiniteTalkToVideo/pt-BR.md)
 
 O nó WanInfiniteTalkToVideo gera sequências de vídeo a partir de uma entrada de áudio. Ele utiliza um modelo de difusão de vídeo, condicionado por características de áudio extraídas de um ou dois falantes, para produzir uma representação latente de um vídeo de "talking head". O nó pode gerar uma nova sequência ou estender uma existente usando quadros anteriores como contexto de movimento.
 

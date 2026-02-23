@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerCustomAdvanced/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerCustomAdvanced/zh.md)
 
 SamplerCustomAdvanced 节点使用自定义噪声、引导和采样配置执行高级潜空间采样。该节点通过可自定义噪声生成和 sigma 调度的引导采样过程处理潜像，生成最终采样输出，并在可用时提供去噪版本。
 

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SetClipHooks/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SetClipHooks/fr.md)
 
 Le nœud SetClipHooks permet d'appliquer des crochets personnalisés à un modèle CLIP, permettant des modifications avancées de son comportement. Il peut appliquer des crochets aux sorties de conditionnement et optionnellement activer la fonctionnalité de planification CLIP. Ce nœud crée une copie clonée du modèle CLIP d'entrée avec les configurations de crochets spécifiées appliquées.
 

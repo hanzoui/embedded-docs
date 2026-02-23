@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanInfiniteTalkToVideo/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanInfiniteTalkToVideo/en.md)
 
 The WanInfiniteTalkToVideo node generates video sequences from audio input. It uses a video diffusion model, conditioned on audio features extracted from one or two speakers, to produce a latent representation of a talking head video. The node can generate a new sequence or extend an existing one using previous frames for motion context.
 

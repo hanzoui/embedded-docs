@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Hunyuan3Dv2ConditioningMultiView/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Hunyuan3Dv2ConditioningMultiView/pt-BR.md)
 
 O nó Hunyuan3Dv2ConditioningMultiView processa embeddings de visão CLIP de múltiplas vistas para geração de vídeo 3D. Ele recebe embeddings opcionais das vistas frontal, esquerda, traseira e direita e os combina com codificação posicional para criar dados de condicionamento para modelos de vídeo. O nó gera tanto o condicionamento positivo a partir dos embeddings combinados quanto o condicionamento negativo com valores zero.
 

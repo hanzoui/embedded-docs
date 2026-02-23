@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TencentImageToModelNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TencentImageToModelNode/fr.md)
 
 Ce nœud utilise l'API Hunyuan3D Pro de Tencent pour générer un modèle 3D à partir d'une ou plusieurs images d'entrée. Il traite les images, les envoie à l'API et renvoie les fichiers du modèle 3D généré aux formats GLB et OBJ.
 

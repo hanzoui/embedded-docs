@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraLoaderBypassModelOnly/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraLoaderBypassModelOnly/es.md)
 
 Este nodo aplica un LoRA (Adaptación de Bajo Rango) a un modelo para modificar su comportamiento, pero solo afecta al componente del modelo en sí. Carga un archivo LoRA específico y ajusta los pesos del modelo con una intensidad dada, dejando sin cambios otros componentes como el codificador de texto CLIP.
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PrimitiveString/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PrimitiveString/ja.md)
 
 Stringノードは、ワークフロー内でテキストデータを入力および受け渡すためのシンプルな方法を提供します。テキスト文字列を入力として受け取り、同じ文字列を変更せずに出力するため、文字列パラメータを必要とする他のノードにテキスト入力を提供する際に便利です。
 

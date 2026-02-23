@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MinimaxTextToVideoNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MinimaxTextToVideoNode/tr.md)
 
 Verilen metin istemine ve isteğe bağlı parametrelere dayanarak MiniMax'in API'sini kullanarak videoları senkronize bir şekilde oluşturur. Bu düğüm, MiniMax'in metinden videoya hizmetine bağlanarak metin açıklamalarından video içeriği oluşturur.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RebatchImages/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RebatchImages/ar.md)
 
 تم تصميم عقدة RebatchImages لإعادة تنظيم مجموعة من الصور إلى تكوين دفعة جديد، مع ضبط حجم الدفعة كما هو محدد. تُعد هذه العملية أساسية لإدارة وتحسين معالجة بيانات الصور في العمليات المجمعة، مما يضمن تجميع الصور وفقًا لحجم الدفعة المطلوب للمعالجة الفعالة.
 

@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/T5TokenizerOptions/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/T5TokenizerOptions/es.md)
 
 El nodo T5TokenizerOptions permite configurar los ajustes del tokenizador para varios tipos de modelos T5. Establece parámetros de relleno mínimo y longitud mínima para múltiples variantes de modelos T5 incluyendo t5xxl, pile_t5xl, t5base, mt5xl y umt5xxl. El nodo toma una entrada CLIP y devuelve un CLIP modificado con las opciones de tokenizador especificadas aplicadas.
 

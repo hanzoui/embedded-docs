@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanAnimateToVideo/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanAnimateToVideo/pt-BR.md)
 
 O nó WanAnimateToVideo gera conteúdo de vídeo combinando múltiplas entradas de condicionamento, incluindo referências de pose, expressões faciais e elementos de fundo. Ele processa várias entradas de vídeo para criar sequências animadas coerentes, mantendo a consistência temporal entre os quadros. O nó lida com operações no espaço latente e pode estender vídeos existentes continuando os padrões de movimento.
 

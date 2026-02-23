@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Morphology/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Morphology/ko.md)
 
 Morphology 노드는 이미지에 다양한 모폴로지 연산을 적용하는 노드로, 이미지 내 형태를 처리하고 분석하는 데 사용되는 수학적 연산입니다. 침식, 팽창, 열기, 닫기 등 다양한 연산을 사용자 정의 가능한 커널 크기로 수행하여 효과의 강도를 조절할 수 있습니다.
 

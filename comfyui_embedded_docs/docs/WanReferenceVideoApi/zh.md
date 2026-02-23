@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanReferenceVideoApi/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanReferenceVideoApi/zh.md)
 
 Wan Reference to Video 节点利用一个或多个输入参考视频的视觉外观和语音，结合文本提示词，生成新的视频内容。它在保持与参考素材中角色一致性的同时，根据您的描述创造新的内容。
 

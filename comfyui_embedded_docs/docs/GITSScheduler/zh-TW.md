@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GITSScheduler/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GITSScheduler/zh-TW.md)
 
 GITSScheduler 節點為 GITS（生成式迭代時間步長）取樣方法生成噪聲調度 sigma 值。它根據係數參數和步數計算 sigma 值，並帶有一個可選的去噪因子，可以減少使用的總步數。該節點使用預定義的噪聲水平和插值法來創建最終的 sigma 調度。
 

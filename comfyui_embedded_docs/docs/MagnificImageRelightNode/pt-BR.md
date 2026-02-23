@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageRelightNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageRelightNode/pt-BR.md)
 
 O nó Magnific Image Relight ajusta a iluminação de uma imagem de entrada. Ele pode aplicar iluminação estilística com base em um prompt de texto ou transferir as características de iluminação de uma imagem de referência opcional. O nó oferece vários controles para ajustar fino do brilho, contraste e do clima geral da saída final.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduMultiFrameVideoNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduMultiFrameVideoNode/pt-BR.md)
 
 Este nó gera um vídeo criando transições entre múltiplos *keyframes*. Ele parte de uma imagem inicial e anima através de uma sequência de imagens finais e *prompts* definidos pelo usuário, produzindo um único arquivo de vídeo como saída.
 

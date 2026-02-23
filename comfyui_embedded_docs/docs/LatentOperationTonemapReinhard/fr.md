@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentOperationTonemapReinhard/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentOperationTonemapReinhard/fr.md)
 
 Le nœud LatentOperationTonemapReinhard applique un mappage de ton Reinhard aux vecteurs latents. Cette technique normalise les vecteurs latents et ajuste leur magnitude en utilisant une approche statistique basée sur la moyenne et l'écart-type, avec l'intensité contrôlée par un paramètre multiplicateur.
 

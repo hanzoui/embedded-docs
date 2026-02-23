@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyAnimateModelNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyAnimateModelNode/zh.md)
 
 此节点对已使用 Meshy 服务完成骨骼绑定的 3D 角色模型应用特定动画。它接收先前骨骼绑定操作的任务 ID 和一个动作 ID，用于从动画库中选择所需的动画。随后节点会处理请求，并以 GLB 和 FBX 两种文件格式返回带动画的模型。
 

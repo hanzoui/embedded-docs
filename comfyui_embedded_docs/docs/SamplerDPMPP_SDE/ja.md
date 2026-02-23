@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMPP_SDE/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMPP_SDE/ja.md)
 
 SamplerDPMPP_SDEノードは、サンプリング処理で使用するDPM++ SDE（確率微分方程式）サンプラーを作成します。このサンプラーは、ノイズパラメータとデバイス選択を設定可能な確率的サンプリング手法を提供します。サンプリングパイプラインで使用できるサンプラーオブジェクトを返します。
 

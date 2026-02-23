@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RunwayFirstLastFrameNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RunwayFirstLastFrameNode/ar.md)
 
 ```markdown
 عُقْدَة Runway First-Last-Frame to Video تُنشئ مقاطع فيديو من خلال رفع إطارات مفتاحية أولية ونهائية مع نص توجيهي. تقوم بإنشاء انتقالات سلسة بين الإطارات المُقدمة للبداية والنهاية باستخدام نموذج Runway's Gen-3. يُعد هذا مفيدًا بشكل خاص للانتقالات المعقدة حيث يختلف الإطار النهائي بشكل كبير عن الإطار الأولي.

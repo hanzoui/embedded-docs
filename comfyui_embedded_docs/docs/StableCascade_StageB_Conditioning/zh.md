@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableCascade_StageB_Conditioning/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableCascade_StageB_Conditioning/zh.md)
 
 StableCascade_StageB_Conditioning 节点通过将现有条件信息与来自 Stage C 的先验潜在表示相结合，为 Stable Cascade Stage B 生成准备条件数据。该节点会修改条件数据以包含来自 Stage C 的潜在样本，使生成过程能够利用先验信息来获得更连贯的输出。
 

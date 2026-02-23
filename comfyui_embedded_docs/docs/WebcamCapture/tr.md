@@ -1,6 +1,6 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WebcamCapture/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WebcamCapture/tr.md)
 
-WebcamCapture düğümü, bir web kamerası cihazından görüntü yakalar ve ComfyUI iş akışları içinde kullanılabilecek bir formata dönüştürür. LoadImage düğümünden türetilmiştir ve yakalama boyutları ile zamanlamayı kontrol etmek için seçenekler sağlar. Etkinleştirildiğinde, düğüm iş akışı kuyruğu her işlendiğinde yeni görüntüler yakalayabilir.
+WebcamCapture düğümü, bir web kamerası cihazından görüntü yakalar ve Hanzo Studio iş akışları içinde kullanılabilecek bir formata dönüştürür. LoadImage düğümünden türetilmiştir ve yakalama boyutları ile zamanlamayı kontrol etmek için seçenekler sağlar. Etkinleştirildiğinde, düğüm iş akışı kuyruğu her işlendiğinde yeni görüntüler yakalayabilir.
 
 ## Girdiler
 
@@ -17,4 +17,4 @@ WebcamCapture düğümü, bir web kamerası cihazından görüntü yakalar ve Co
 
 | Çıktı Adı | Veri Türü | Açıklama |
 |-------------|-----------|-------------|
-| `IMAGE` | IMAGE | ComfyUI'nin görüntü formatına dönüştürülmüş yakalanan web kamerası görüntüsü |
+| `IMAGE` | IMAGE | Hanzo Studio'nin görüntü formatına dönüştürülmüş yakalanan web kamerası görüntüsü |

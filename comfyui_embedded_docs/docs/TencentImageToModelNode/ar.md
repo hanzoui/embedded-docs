@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TencentImageToModelNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TencentImageToModelNode/ar.md)
 
 يستخدم هذا العقد واجهة برمجة تطبيقات Tencent Hunyuan3D Pro لإنشاء نموذج ثلاثي الأبعاد من صورة أو أكثر من الصور المدخلة. يقوم بمعالجة الصور وإرسالها إلى واجهة برمجة التطبيقات وإرجاع ملفات النموذج ثلاثي الأبعاد المُنشأة بصيغتي GLB و OBJ.
 

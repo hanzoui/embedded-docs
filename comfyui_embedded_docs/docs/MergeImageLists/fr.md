@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MergeImageLists/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MergeImageLists/fr.md)
 
 Le nœud Merge Image Lists combine plusieurs listes d'images distinctes en une seule liste continue. Il fonctionne en prenant toutes les images de chaque entrée connectée et en les concaténant dans l'ordre où elles sont reçues. Cela est utile pour organiser ou regrouper des images provenant de différentes sources en vue d'un traitement ultérieur.
 

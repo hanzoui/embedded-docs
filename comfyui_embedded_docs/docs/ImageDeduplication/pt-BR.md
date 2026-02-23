@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageDeduplication/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageDeduplication/pt-BR.md)
 
 Este nó remove imagens duplicadas ou muito similares de um lote. Ele funciona criando um hash perceptual para cada imagem — uma impressão digital numérica simples baseada em seu conteúdo visual — e então comparando-os. Imagens cujos hashes são mais similares do que um limite definido são consideradas duplicadas e filtradas.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVSeparateAVLatent/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVSeparateAVLatent/tr.md)
 
 LTXVSeparateAVLatent düğümü, birleşik bir görsel-işitsel gizli temsili alır ve onu iki ayrı parçaya böler: biri video, diğeri ses için. Girdi gizli temsilinden örnekleri ve varsa gürültü maskelerini ayırarak iki yeni gizli nesne oluşturur.
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TrimVideoLatent/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TrimVideoLatent/ko.md)
 
 TrimVideoLatent 노드는 비디오 잠재 표현의 시작 부분에서 프레임을 제거합니다. 이 노드는 잠재 비디오 샘플을 입력받아 시작 부분에서 지정된 수의 프레임을 잘라내고, 나머지 비디오 부분을 반환합니다. 이를 통해 초기 프레임을 제거하여 비디오 시퀀스를 단축할 수 있습니다.
 

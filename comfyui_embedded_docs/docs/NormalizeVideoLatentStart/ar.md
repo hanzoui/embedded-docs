@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/NormalizeVideoLatentStart/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/NormalizeVideoLatentStart/ar.md)
 
 يضبط هذا العقد الإطارات القليلة الأولى من الفيديو الكامن لجعلها تبدو أكثر تشابهاً مع الإطارات اللاحقة. حيث يحسب المتوسط والتباين من مجموعة من الإطارات المرجعية اللاحقة في الفيديو ويطبق نفس هذه الخصائص على الإطارات الأولية. يساعد هذا في إنشاء انتقال بصري أكثر سلاسة واتساقاً في بداية الفيديو.
 

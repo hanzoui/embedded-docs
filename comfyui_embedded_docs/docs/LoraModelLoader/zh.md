@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraModelLoader/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraModelLoader/zh.md)
 
 LoraModelLoader 节点将训练好的 LoRA（低秩自适应）权重应用于扩散模型。它通过从训练好的 LoRA 模型加载权重并调整其影响强度来修改基础模型。这使您能够定制扩散模型的行为，而无需从头开始重新训练。
 

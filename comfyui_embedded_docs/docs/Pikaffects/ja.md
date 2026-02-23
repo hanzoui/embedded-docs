@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Pikaffects/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Pikaffects/ja.md)
 
 Pikaffectsノードは、入力画像にさまざまなビジュアルエフェクトを適用して動画を生成します。このノードはPikaの動画生成APIを使用し、静止画像を、溶ける、爆発する、浮遊するなどの特定のエフェクトが適用されたアニメーション動画に変換します。ノードを使用するには、PikaサービスにアクセスするためのAPIキーと認証トークンが必要です。
 

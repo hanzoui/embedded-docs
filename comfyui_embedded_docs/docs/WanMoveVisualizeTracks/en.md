@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveVisualizeTracks/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveVisualizeTracks/en.md)
 
 The WanMoveVisualizeTracks node overlays motion tracking data onto a sequence of images or video frames. It draws visual representations of tracked points, including their movement paths and current positions, making the motion data visible and easier to analyze.
 

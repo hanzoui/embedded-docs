@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Wan22ImageToVideoLatent/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Wan22ImageToVideoLatent/ko.md)
 
 Wan22ImageToVideoLatent 노드는 이미지에서 비디오 잠재 표현을 생성합니다. 지정된 차원으로 빈 비디오 잠재 공간을 생성하며, 선택적으로 시작 이미지 시퀀스를 초기 프레임에 인코딩할 수 있습니다. 시작 이미지가 제공되면 이미지를 잠재 공간으로 인코딩하고 인페인팅 영역에 해당하는 노이즈 마스크를 생성합니다.
 

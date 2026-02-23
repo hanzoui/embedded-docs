@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TomePatchModel/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TomePatchModel/fr.md)
 
 Le nœud TomePatchModel applique la fusion de tokens (ToMe) à un modèle de diffusion pour réduire les exigences computationnelles lors de l'inférence. Il fonctionne en fusionnant sélectivement les tokens similaires dans le mécanisme d'attention, permettant au modèle de traiter moins de tokens tout en maintenant la qualité de l'image. Cette technique aide à accélérer la génération sans perte de qualité significative.
 

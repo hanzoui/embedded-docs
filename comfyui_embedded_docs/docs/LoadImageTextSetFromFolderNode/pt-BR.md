@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageTextSetFromFolderNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageTextSetFromFolderNode/pt-BR.md)
 
 Carrega um lote de imagens e suas legendas de texto correspondentes de um diretório especificado para fins de treinamento. O nó busca automaticamente arquivos de imagem e seus arquivos de texto de legenda associados, processa as imagens de acordo com as configurações de redimensionamento especificadas e codifica as legendas usando o modelo CLIP fornecido.
 

@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftImageToImageNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftImageToImageNode/es.md)
 
 Este nodo modifica una imagen existente basándose en un texto descriptivo y un parámetro de intensidad. Utiliza la API de Recraft para transformar la imagen de entrada de acuerdo con la descripción proporcionada, manteniendo cierto grado de similitud con la imagen original según la configuración de intensidad.
 

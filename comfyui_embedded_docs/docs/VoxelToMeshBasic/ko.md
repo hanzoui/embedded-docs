@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VoxelToMeshBasic/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VoxelToMeshBasic/ko.md)
 
 VoxelToMeshBasic 노드는 3D 복셀 데이터를 메시 지오메트리로 변환합니다. 이 노드는 복셀 볼륨을 처리하여 임계값을 적용하여 볼륨의 어떤 부분이 결과 메시에서 고체 표면이 될지 결정합니다. 노드는 3D 렌더링 및 모델링에 사용할 수 있는 정점과 면을 포함한 완전한 메시 구조를 출력합니다.
 

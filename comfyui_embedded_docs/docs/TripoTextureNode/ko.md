@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoTextureNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoTextureNode/ko.md)
 
 TripoTextureNode는 Tripo API를 사용하여 텍스처가 적용된 3D 모델을 생성합니다. 모델 작업 ID를 입력받아 PBR 재질, 텍스처 품질 설정, 정렬 방법 등 다양한 옵션을 포함한 텍스처 생성을 적용합니다. 이 노드는 Tripo API와 통신하여 텍스처 생성 요청을 처리하고 결과 모델 파일과 작업 ID를 반환합니다.
 

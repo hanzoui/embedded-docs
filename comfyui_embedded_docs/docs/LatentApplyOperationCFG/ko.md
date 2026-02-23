@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentApplyOperationCFG/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentApplyOperationCFG/ko.md)
 
 LatentApplyOperationCFG 노드는 모델의 조건부 지도 과정을 수정하기 위해 잠재 연산을 적용하는 노드입니다. 이 노드는 분류기 없는 지도(CFG) 샘플링 과정 중에 조건부 출력을 가로채고, 생성에 사용되기 전에 지정된 연산을 잠재 표현에 적용하는 방식으로 작동합니다.
 

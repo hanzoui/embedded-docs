@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioConcat/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioConcat/en.md)
 
 The AudioConcat node combines two audio inputs by joining them together. It takes two audio inputs and connects them in the order you specify, either placing the second audio before or after the first audio. The node automatically handles different audio formats by converting mono audio to stereo and matching sample rates between the two inputs.
 

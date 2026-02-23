@@ -1,6 +1,6 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveImageDataSetToFolder/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImageDataSetToFolder/ko.md)
 
-이 노드는 이미지 목록을 ComfyUI 출력 디렉토리 내 지정된 폴더에 저장합니다. 여러 이미지를 입력으로 받아 사용자 정의 가능한 파일명 접두사를 사용하여 디스크에 기록합니다.
+이 노드는 이미지 목록을 Hanzo Studio 출력 디렉토리 내 지정된 폴더에 저장합니다. 여러 이미지를 입력으로 받아 사용자 정의 가능한 파일명 접두사를 사용하여 디스크에 기록합니다.
 
 ## 입력
 

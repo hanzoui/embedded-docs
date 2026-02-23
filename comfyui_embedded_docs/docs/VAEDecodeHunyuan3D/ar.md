@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeHunyuan3D/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeHunyuan3D/ar.md)
 
 ```markdown
 عقدة VAEDecodeHunyuan3D تقوم بتحويل التمثيلات الكامنة إلى بيانات مكعبات ثلاثية الأبعاد باستخدام وحدة فك تشفير VAE. تقوم هذه العقدة بمعالجة العينات الكامنة عبر نموذج VAE مع إعدادات قابلة للتكوين للتقسيم إلى قطع ودقة النتاج لإنشاء بيانات حجومية مناسبة للتطبيقات ثلاثية الأبعاد.

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RescaleCFG/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RescaleCFG/zh-TW.md)
 
 RescaleCFG 節點旨在根據指定的乘數調整模型輸出的條件化與非條件化比例，以實現更平衡且受控的生成過程。該節點透過重新縮放模型輸出來修改條件化與非條件化組件的影響力，從而可能提升模型效能或輸出品質。
 

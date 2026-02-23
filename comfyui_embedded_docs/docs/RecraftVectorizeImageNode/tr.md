@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftVectorizeImageNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftVectorizeImageNode/tr.md)
 
 Girdi görüntüsünden SVG'yi eşzamanlı olarak oluşturur. Bu düğüm, piksel tabanlı görüntüleri vektör grafik formatına dönüştürür; girdi grubundaki her görüntüyü işler ve sonuçları tek bir SVG çıktısında birleştirir.
 

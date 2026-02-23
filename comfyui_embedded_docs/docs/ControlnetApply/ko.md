@@ -1,7 +1,7 @@
 이 문서는 원래의 `Apply ControlNet(Advanced)` 노드에 대한 것입니다. 가장 오래된 `Apply ControlNet` 노드는 `Apply ControlNet(Old)`로 이름이 변경되었습니다. 호환성을 위해 comfyui.org에서 다운로드한 많은 워크플로우 폴더에서 `Apply ControlNet(Old)` 노드를 볼 수 있지만, 검색이나 노드 목록에서는 더 이상 `Apply ControlNet(Old)` 노드를 찾을 수 없습니다. 대신 `Apply ControlNet` 노드를 사용하세요.
 이 노드는 주어진 이미지와 컨디셔닝에 ControlNet을 적용하여 Depth, OpenPose, Canny, HED 등과 같은 컨트롤 네트워크의 매개변수와 지정된 강도에 따라 이미지의 속성을 조정합니다.
 
-ControlNet을 사용하려면 입력 이미지의 전처리가 필요합니다. ComfyUI 초기 노드에는 전처리기와 ControlNet 모델이 포함되어 있지 않으므로, 먼저 ContrlNet 전처리기[전처리기 다운로드](https://github.com/Fannovel16/comfy_controlnet_preprocessors)와 해당하는 ControlNet 모델을 설치하세요.
+ControlNet을 사용하려면 입력 이미지의 전처리가 필요합니다. Hanzo Studio 초기 노드에는 전처리기와 ControlNet 모델이 포함되어 있지 않으므로, 먼저 ContrlNet 전처리기[전처리기 다운로드](https://github.com/Fannovel16/comfy_controlnet_preprocessors)와 해당하는 ControlNet 모델을 설치하세요.
 
 ## 입력
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMAdaptative/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMAdaptative/ja.md)
 
 SamplerDPMAdaptativeノードは、サンプリングプロセス中にステップサイズを自動調整する適応型DPM（Diffusion Probabilistic Model）サンプラーを実装しています。許容誤差ベースのエラー制御を使用して最適なステップサイズを決定し、計算効率とサンプリング精度のバランスを取ります。この適応型アプローチは、必要なステップ数を削減しつつ品質を維持するのに役立ちます。
 

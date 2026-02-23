@@ -1,6 +1,6 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WebcamCapture/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WebcamCapture/pt-BR.md)
 
-O nó WebcamCapture captura imagens de um dispositivo de webcam e as converte em um formato que pode ser usado nos fluxos de trabalho do ComfyUI. Ele herda do nó LoadImage e fornece opções para controlar as dimensões e o momento da captura. Quando habilitado, o nó pode capturar novas imagens sempre que a fila de processamento do fluxo de trabalho é executada.
+O nó WebcamCapture captura imagens de um dispositivo de webcam e as converte em um formato que pode ser usado nos fluxos de trabalho do Hanzo Studio. Ele herda do nó LoadImage e fornece opções para controlar as dimensões e o momento da captura. Quando habilitado, o nó pode capturar novas imagens sempre que a fila de processamento do fluxo de trabalho é executada.
 
 ## Entradas
 
@@ -17,4 +17,4 @@ O nó WebcamCapture captura imagens de um dispositivo de webcam e as converte em
 
 | Nome da Saída | Tipo de Dado | Descrição |
 |-------------|-----------|-------------|
-| `IMAGE` | IMAGE | A imagem da webcam capturada, convertida para o formato de imagem do ComfyUI |
+| `IMAGE` | IMAGE | A imagem da webcam capturada, convertida para o formato de imagem do Hanzo Studio |

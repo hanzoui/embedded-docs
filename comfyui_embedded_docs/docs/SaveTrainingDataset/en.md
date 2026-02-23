@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveTrainingDataset/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveTrainingDataset/en.md)
 
 This node saves a prepared training dataset to your computer's hard drive. It takes encoded data, which includes image latents and their corresponding text conditioning, and organizes them into multiple smaller files called shards for easier management. The node automatically creates a folder in your output directory and saves both the data files and a metadata file describing the dataset.
 

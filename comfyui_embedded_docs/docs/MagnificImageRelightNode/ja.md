@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageRelightNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageRelightNode/ja.md)
 
 Magnific Image Relightノードは、入力画像の照明を調整します。テキストプロンプトに基づいたスタイル的な照明を適用したり、オプションの参照画像から照明の特性を転写したりすることができます。このノードは、最終出力の明るさ、コントラスト、全体的な雰囲気を微調整するための様々なコントロールを提供します。
 

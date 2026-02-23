@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMAdaptative/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMAdaptative/pt-BR.md)
 
 O nó SamplerDPMAdaptative implementa um amostrador DPM (Modelo Probabilístico de Difusão) adaptativo que ajusta automaticamente os tamanhos dos passos durante o processo de amostragem. Ele utiliza um controle de erro baseado em tolerância para determinar os tamanhos de passo ideais, equilibrando eficiência computacional com precisão da amostragem. Esta abordagem adaptativa ajuda a manter a qualidade enquanto potencialmente reduz o número de passos necessários.
 

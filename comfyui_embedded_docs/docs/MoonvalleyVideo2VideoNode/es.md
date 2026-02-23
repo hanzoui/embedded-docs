@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MoonvalleyVideo2VideoNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MoonvalleyVideo2VideoNode/es.md)
 
 El nodo Moonvalley Marey Video a Video transforma un video de entrada en un nuevo video basado en una descripción textual. Utiliza la API de Moonvalley para generar videos que coincidan con tu *prompt* mientras preserva las características de movimiento o pose del video original. Puedes controlar el estilo y contenido del video de salida a través de *prompts* de texto y varios parámetros de generación.
 

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/UNetCrossAttentionMultiply/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UNetCrossAttentionMultiply/fr.md)
 
 Le nœud UNetCrossAttentionMultiply applique des facteurs de multiplication au mécanisme d'attention croisée dans un modèle UNet. Il vous permet de mettre à l'échelle les composantes de requête, clé, valeur et de sortie des couches d'attention croisée pour expérimenter avec différents comportements et effets d'attention.
 

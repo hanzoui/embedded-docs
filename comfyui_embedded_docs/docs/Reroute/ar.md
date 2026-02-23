@@ -1,7 +1,7 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Reroute/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Reroute/ar.md)
 
 اسم العقدة: عقدة إعادة التوجيه  
-الغرض من العقدة: تُستخدم بشكل أساسي لتنظيم منطق خطوط الاتصال الطويلة جدًا في سير عمل ComfyUI.
+الغرض من العقدة: تُستخدم بشكل أساسي لتنظيم منطق خطوط الاتصال الطويلة جدًا في سير عمل Hanzo Studio.
 
 ## كيفية استخدام عقد إعادة التوجيه
 

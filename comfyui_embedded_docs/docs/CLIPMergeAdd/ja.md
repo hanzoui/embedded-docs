@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPMergeAdd/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPMergeAdd/ja.md)
 
 CLIPMergeAddノードは、2つのCLIPモデルを結合し、2番目のモデルのパッチを最初のモデルに追加します。このノードは最初のCLIPモデルのコピーを作成し、2番目のモデルから位置IDとロジットスケールパラメータを除いた主要なパッチを選択的に組み込みます。これにより、ベースモデルの構造を維持しながらCLIPモデルのコンポーネントを統合することができます。
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GenerateTracks/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GenerateTracks/ja.md)
 
 `GenerateTracks`ノードは、ビデオ生成用の複数の平行なモーションパス（トラック）を作成します。開始点から終了点への主なパスを定義し、そのパスに対して平行で均等に間隔をあけた一連のトラックを生成します。パスの形状（直線またはベジェ曲線）、パスに沿った移動速度、トラックが表示されるフレームを制御できます。
 

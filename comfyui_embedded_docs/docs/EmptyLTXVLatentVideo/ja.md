@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyLTXVLatentVideo/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyLTXVLatentVideo/ja.md)
 
 EmptyLTXVLatentVideoノードは、ビデオ処理用の空の潜在テンソルを作成します。指定された次元で空白の開始点を生成し、ビデオ生成ワークフローの入力として使用できます。このノードは、設定された幅、高さ、長さ、バッチサイズを持つゼロで埋められた潜在表現を生成します。
 

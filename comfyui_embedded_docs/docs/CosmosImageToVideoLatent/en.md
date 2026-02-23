@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CosmosImageToVideoLatent/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CosmosImageToVideoLatent/en.md)
 
 The CosmosImageToVideoLatent node creates video latent representations from input images. It generates a blank video latent and optionally encodes start and/or end images into the beginning and/or end frames of the video sequence. When images are provided, it also creates corresponding noise masks to indicate which parts of the latent should be preserved during generation.
 

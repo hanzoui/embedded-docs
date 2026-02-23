@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaTextToVideoNode2_2/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaTextToVideoNode2_2/ko.md)
 
 Pika Text2Video v2.2 노드는 텍스트 프롬프트를 Pika API 버전 2.2로 전송하여 비디오를 생성합니다. 이 노드는 사용자의 텍스트 설명을 Pika의 AI 비디오 생성 서비스를 이용해 비디오로 변환합니다. 비디오 생성 과정의 다양한 측면, 예를 들어 화면비, 지속 시간, 해상도 등을 사용자 정의할 수 있습니다.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeQwenImageEditPlus/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeQwenImageEditPlus/tr.md)
 
 TextEncodeQwenImageEditPlus düğümü, metin istemlerini ve isteğe bağlı görüntüleri işleyerek görüntü oluşturma veya düzenleme görevleri için koşullandırma verileri üretir. Girdi görüntülerini analiz etmek ve metin talimatlarının bu görüntüleri nasıl değiştirmesi gerektiğini anlamak için özel bir şablon kullanır, ardından bu bilgiyi sonraki oluşturma adımlarında kullanılmak üzere kodlar. Düğüm en fazla üç girdi görüntüsünü işleyebilir ve bir VAE sağlandığında isteğe bağlı olarak referans latents (gizli temsiller) üretebilir.
 

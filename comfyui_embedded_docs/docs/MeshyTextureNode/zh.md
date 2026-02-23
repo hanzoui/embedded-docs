@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyTextureNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyTextureNode/zh.md)
 
 Meshy: Texture 节点将 AI 生成的纹理应用到 3D 模型上。它接收来自先前 Meshy 3D 生成或转换节点的任务 ID，并使用文本描述或参考图像为模型创建新纹理。该节点以 GLB 和 FBX 文件格式输出带纹理的模型。
 

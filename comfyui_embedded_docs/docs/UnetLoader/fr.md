@@ -1,7 +1,7 @@
 
 Le nœud UNETLoader est conçu pour charger des modèles U-Net par nom, facilitant l'utilisation des architectures U-Net pré-entraînées au sein du système.
 
-Ce nœud détectera les modèles situés dans le dossier `ComfyUI/models/diffusion_models`.
+Ce nœud détectera les modèles situés dans le dossier `Hanzo Studio/models/diffusion_models`.
 
 ## Entrées - Guide du Chargeur UNET | Charger le Modèle de Diffusion
 
@@ -20,5 +20,5 @@ Ce nœud détectera les modèles situés dans le dossier `ComfyUI/models/diffusi
 
 1. Installez les modèles UNET
 2. Téléchargez le fichier de flux de travail
-3. Importez le flux de travail dans ComfyUI
+3. Importez le flux de travail dans Hanzo Studio
 4. Choisissez le modèle UNET et exécutez le flux de travail

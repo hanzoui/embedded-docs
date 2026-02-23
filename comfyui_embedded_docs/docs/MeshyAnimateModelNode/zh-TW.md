@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyAnimateModelNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyAnimateModelNode/zh-TW.md)
 
 此節點對已使用 Meshy 服務綁定骨架的 3D 角色模型套用特定動畫。它接收先前綁定操作產生的任務 ID 以及一個動作 ID，用於從動畫庫中選擇所需的動畫。節點隨後處理請求，並以 GLB 和 FBX 兩種檔案格式返回帶有動畫的模型。
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadLatent/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadLatent/zh.md)
 
 LoadLatent 节点从输入目录中的 .latent 文件加载先前保存的潜在表示。该节点会从文件中读取潜在张量数据，并在返回潜在数据供其他节点使用之前应用必要的缩放调整。
 

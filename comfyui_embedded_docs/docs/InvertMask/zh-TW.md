@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/InvertMask/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/InvertMask/zh-TW.md)
 
 InvertMask 節點專門用於反轉指定遮罩的數值，有效翻轉遮罩與非遮罩區域。這項操作在需要將關注焦點在前景與背景之間切換的影像處理任務中至關重要。
 

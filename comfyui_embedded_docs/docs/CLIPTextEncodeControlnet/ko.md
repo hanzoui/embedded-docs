@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeControlnet/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeControlnet/ko.md)
 
 CLIPTextEncodeControlnet 노드는 CLIP 모델을 사용하여 텍스트 입력을 처리하고 기존 조건화 데이터와 결합하여 controlnet 애플리케이션을 위한 향상된 조건화 출력을 생성합니다. 입력 텍스트를 토큰화하고 CLIP 모델을 통해 인코딩한 후, 결과 임베딩을 제공된 조건화 데이터에 cross-attention controlnet 매개변수로 추가합니다.
 

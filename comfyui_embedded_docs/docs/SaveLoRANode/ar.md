@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveLoRANode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveLoRANode/ar.md)
 
 ```markdown
 # SaveLoRA
@@ -10,7 +10,7 @@
 | المعامل      | نوع البيانات | مطلوب | النطاق | الوصف |
 |--------------|---------------|--------|--------|---------|
 | `lora`       | LORA_MODEL    | نعم    | -      | نموذج LoRA المطلوب حفظه. لا تستخدم النموذج مع طبقات LoRA. |
-| `prefix`     | STRING        | نعم    | -      | البادئة المستخدمة لملف LoRA المحفوظ (القيمة الافتراضية: "loras/ComfyUI_trained_lora"). |
+| `prefix`     | STRING        | نعم    | -      | البادئة المستخدمة لملف LoRA المحفوظ (القيمة الافتراضية: "loras/Hanzo Studio_trained_lora"). |
 | `steps`      | INT           | لا     | -      | اختياري: عدد خطوات التدريب التي مر بها نموذج LoRA، يُستخدم لتسمية الملف المحفوظ. |
 
 ## المخرجات

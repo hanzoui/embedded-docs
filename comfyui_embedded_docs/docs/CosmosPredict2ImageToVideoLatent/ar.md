@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CosmosPredict2ImageToVideoLatent/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CosmosPredict2ImageToVideoLatent/ar.md)
 
 تُنشئ عقدة CosmosPredict2ImageToVideoLatent تمثيلات كامنة للفيديو انطلاقًا من الصور لتوليد الفيديو. يمكنها إنشاء فيديو كامن فارغ أو دمج صور بداية ونهاية لإنشاء تسلسلات فيديو بأبعاد ومدة محددة. تتعامل العقدة مع ترميز الصور إلى تنسيق المساحة الكامنة المناسب لمعالجة الفيديو.
 

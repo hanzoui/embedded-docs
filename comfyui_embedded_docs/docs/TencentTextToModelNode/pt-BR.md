@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TencentTextToModelNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TencentTextToModelNode/pt-BR.md)
 
 Este nó utiliza a API Hunyuan3D Pro da Tencent para gerar um modelo 3D a partir de uma descrição textual. Ele envia uma solicitação para criar uma tarefa de geração, consulta periodicamente o resultado e faz o download dos arquivos finais do modelo nos formatos GLB e OBJ.
 

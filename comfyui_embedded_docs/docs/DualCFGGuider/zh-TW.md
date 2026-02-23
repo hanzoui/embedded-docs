@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DualCFGGuider/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DualCFGGuider/zh-TW.md)
 
 DualCFGGuider 節點建立了一個用於雙重無分類器引導採樣的引導系統。它將兩個正向條件輸入與一個負向條件輸入相結合，對每個條件配對應用不同的引導縮放比例，以控制每個提示詞對生成輸出的影響程度。
 

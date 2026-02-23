@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanReferenceVideoApi/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanReferenceVideoApi/ja.md)
 
 Wan Reference to Video ノードは、1つ以上の入力参照動画の視覚的な外観と音声、およびテキストプロンプトを使用して、新しい動画を生成します。参照素材のキャラクターとの一貫性を保ちながら、あなたの説明に基づいて新しいコンテンツを作成します。
 

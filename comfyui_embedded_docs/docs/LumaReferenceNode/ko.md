@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LumaReferenceNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LumaReferenceNode/ko.md)
 
 이 노드는 Luma Generate Image 노드와 함께 사용하기 위해 이미지와 가중치 값을 보유합니다. 참조 체인을 생성하여 다른 Luma 노드에 전달하여 이미지 생성에 영향을 미칠 수 있습니다. 이 노드는 새로운 참조 체인을 시작하거나 기존 체인에 추가할 수 있습니다.
 

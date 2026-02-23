@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingTextToVideoNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingTextToVideoNode/pt-BR.md)
 
 O nó Kling Text to Video converte descrições de texto em conteúdo de vídeo. Ele recebe prompts de texto e gera sequências de vídeo correspondentes com base nas configurações especificadas. O nó suporta diferentes proporções de tela e modos de geração para produzir vídeos de durações e qualidades variadas.
 

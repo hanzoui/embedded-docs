@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanCameraEmbedding/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanCameraEmbedding/zh-TW.md)
 
 WanCameraEmbedding 節點使用基於攝影機運動參數的 Plücker 嵌入來生成攝影機軌跡嵌入。它會創建一系列模擬不同攝影機運動的攝影機姿態，並將其轉換為適合影片生成流程的嵌入張量。
 

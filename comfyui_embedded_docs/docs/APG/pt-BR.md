@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/APG/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/APG/pt-BR.md)
 
 O nó APG (Adaptive Projected Guidance, ou Orientação por Projeção Adaptativa) modifica o processo de amostragem ajustando a forma como a orientação (guidance) é aplicada durante a difusão. Ele separa o vetor de orientação em componentes paralelos e ortogonais em relação à saída condicional, permitindo uma geração de imagem mais controlada. O nó fornece parâmetros para dimensionar a orientação, normalizar sua magnitude e aplicar momentum para transições mais suaves entre os passos de difusão.
 

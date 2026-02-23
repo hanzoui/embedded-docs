@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveTracksFromCoords/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveTracksFromCoords/pt-BR.md)
 
 O nó WanMoveTracksFromCoords cria um conjunto de trilhas de movimento a partir de uma lista de pontos de coordenadas. Ele converte uma string formatada em JSON de coordenadas em um formato de tensor que pode ser usado por outros nós de processamento de vídeo e pode, opcionalmente, aplicar uma máscara para controlar a visibilidade das trilhas ao longo do tempo.
 

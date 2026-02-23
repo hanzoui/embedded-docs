@@ -1,4 +1,4 @@
-> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Veo3VideoGenerationNode/ru.md)
+> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Veo3VideoGenerationNode/ru.md)
 
 Генерирует видео из текстовых промтов с использованием API Google Veo 3. Этот узел поддерживает две модели Veo 3: veo-3.0-generate-001 и veo-3.0-fast-generate-001. Он расширяет базовый узел Veo функциями, специфичными для Veo 3, включая генерацию аудио и фиксированную продолжительность в 8 секунд.
 

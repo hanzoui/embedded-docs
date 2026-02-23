@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RegexMatch/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RegexMatch/ko.md)
 
 RegexMatch 노드는 텍스트 문자열이 지정된 정규 표현 패턴과 일치하는지 확인합니다. 입력 문자열에서 정규식 패턴의 발생을 검색하고 일치 항목이 발견되었는지 여부를 반환합니다. 대소문자 구분, 다중 행 모드, dotall 모드와 같은 다양한 정규식 플래그를 구성하여 패턴 매칭 동작을 제어할 수 있습니다.
 

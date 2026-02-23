@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableZero123_Conditioning_Batched/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableZero123_Conditioning_Batched/tr.md)
 
 StableZero123_Conditioning_Batched düğümü, bir giriş görüntüsünü işler ve 3B model oluşturma için koşullandırma verileri üretir. Görüntüyü CLIP vision ve VAE modellerini kullanarak kodlar, ardından yükseklik ve azimut açılarına dayalı kamera yerleştirmeleri oluşturarak toplu işleme için pozitif ve negatif koşullandırmanın yanı sıra gizli temsiller üretir.
 

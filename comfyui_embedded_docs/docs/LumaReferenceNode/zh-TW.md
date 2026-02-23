@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LumaReferenceNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LumaReferenceNode/zh-TW.md)
 
 此節點保存一個影像和權重值，供 Luma Generate Image 節點使用。它建立一個參考鏈，可傳遞給其他 Luma 節點以影響影像生成。該節點可以開始一個新的參考鏈，或添加到現有的參考鏈中。
 

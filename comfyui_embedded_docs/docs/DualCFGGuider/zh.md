@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DualCFGGuider/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DualCFGGuider/zh.md)
 
 DualCFGGuider 节点为双分类器自由引导采样创建了一个引导系统。它将两个正向条件输入与一个负向条件输入相结合，对每个条件对应用不同的引导尺度，以控制每个提示词对生成输出的影响程度。
 

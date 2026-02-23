@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BatchImagesMasksLatentsNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BatchImagesMasksLatentsNode/tr.md)
 
 Batch Images/Masks/Latents düğümü, aynı türdeki birden fazla girdiyi tek bir toplu işte (batch) birleştirir. Girdilerin görüntü, maske veya gizli gösterim (latent) olup olmadığını otomatik olarak algılar ve uygun toplu işleme yöntemini kullanır. Bu, toplu girdi kabul eden düğümler tarafından işlenmek üzere birden fazla öğeyi hazırlamak için kullanışlıdır.
 

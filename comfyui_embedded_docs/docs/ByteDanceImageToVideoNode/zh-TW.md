@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageToVideoNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageToVideoNode/zh-TW.md)
 
 ByteDance Image to Video 節點透過 API 使用 ByteDance 模型，根據輸入圖像和文字提示生成影片。它接收一個起始圖像幀，並根據提供的描述創建影片序列。該節點提供多種自訂選項，包括影片解析度、長寬比、時長和其他生成參數。
 

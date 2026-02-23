@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingContinuousEDM/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingContinuousEDM/zh-TW.md)
 
 此節點旨在透過整合連續 EDM（基於能量的擴散模型）取樣技術來增強模型的取樣能力。它允許在模型取樣過程中動態調整雜訊水平，從而對生成品質和多樣性提供更精細的控制。
 

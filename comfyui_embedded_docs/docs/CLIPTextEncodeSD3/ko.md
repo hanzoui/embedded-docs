@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeSD3/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeSD3/ko.md)
 
 CLIPTextEncodeSD3 노드는 여러 텍스트 프롬프트를 서로 다른 CLIP 모델을 사용하여 인코딩함으로써 Stable Diffusion 3 모델을 위한 텍스트 입력을 처리합니다. 세 가지 별도의 텍스트 입력(clip_g, clip_l, t5xxl)을 처리하며, 빈 텍스트 패딩을 관리하는 옵션을 제공합니다. 이 노드는 서로 다른 텍스트 입력 간의 적절한 토큰 정렬을 보장하고 SD3 생성 파이프라인에 적합한 조건화 데이터를 반환합니다.
 

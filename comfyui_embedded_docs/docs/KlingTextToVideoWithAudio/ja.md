@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingTextToVideoWithAudio/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingTextToVideoWithAudio/ja.md)
 
 Kling Text to Video with Audio ノードは、テキストの説明から短い動画を生成します。このノードは Kling AI サービスにリクエストを送信し、プロンプトを処理して動画ファイルを返します。また、テキストに基づいて動画に付随する音声を生成することもできます。
 

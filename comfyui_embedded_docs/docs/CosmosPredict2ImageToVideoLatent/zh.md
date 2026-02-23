@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CosmosPredict2ImageToVideoLatent/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CosmosPredict2ImageToVideoLatent/zh.md)
 
 CosmosPredict2ImageToVideoLatent 节点可从图像创建视频潜在表示以用于视频生成。它能够生成空白视频潜在表示，或结合起始和结束图像来创建具有指定尺寸和时长的视频序列。该节点负责将图像编码为适用于视频处理的潜在空间格式。
 

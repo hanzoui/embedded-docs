@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu3TextToVideoNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu3TextToVideoNode/pt-BR.md)
 
 O nó Vidu Q3 Text-to-Video Generation cria um vídeo a partir de uma descrição textual. Ele utiliza o modelo Vidu Q3 Pro para gerar conteúdo de vídeo com base no seu prompt, permitindo que você controle a duração, a resolução e a proporção de aspecto do vídeo.
 

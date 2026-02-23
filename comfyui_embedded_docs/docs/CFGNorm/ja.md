@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CFGNorm/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CFGNorm/ja.md)
 
 CFGNormノードは、拡散モデルにおけるClassifier-Free Guidance（CFG）プロセスに正規化技術を適用します。条件付き出力と無条件出力のノルムを比較してノイズ除去予測のスケールを調整し、効果を制御するための強度乗数を適用します。これにより、ガイダンススケーリングにおける極端な値を防ぎ、生成プロセスを安定化させるのに役立ちます。
 

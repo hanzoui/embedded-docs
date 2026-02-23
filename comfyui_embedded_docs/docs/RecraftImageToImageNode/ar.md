@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftImageToImageNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftImageToImageNode/ar.md)
 
 يقوم هذا العقدة بتعديل صورة موجودة بناءً على نص موجه ومعامل القوة. يستخدم واجهة برمجة تطبيقات Recraft لتحويل الصورة المدخلة وفقًا للوصف المقدم مع الحفاظ على بعض التشابه مع الصورة الأصلية بناءً على إعداد القوة.
 

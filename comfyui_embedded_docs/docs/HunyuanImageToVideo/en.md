@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanImageToVideo/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanImageToVideo/en.md)
 
 The HunyuanImageToVideo node converts images into video latent representations using the Hunyuan video model. It takes conditioning inputs and optional starting images to generate video latents that can be further processed by video generation models. The node supports different guidance types for controlling how the starting image influences the video generation process.
 

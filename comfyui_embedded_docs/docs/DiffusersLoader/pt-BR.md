@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DiffusersLoader/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DiffusersLoader/pt-BR.md)
 
 O nó DiffusersLoader carrega modelos pré-treinados no formato diffusers. Ele busca por diretórios de modelos diffusers válidos que contenham um arquivo model_index.json e os carrega como componentes MODEL, CLIP e VAE para uso no fluxo de trabalho. Este nó faz parte da categoria de carregadores obsoletos e fornece compatibilidade com modelos diffusers do Hugging Face.
 

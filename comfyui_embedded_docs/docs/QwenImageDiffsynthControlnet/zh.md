@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/QwenImageDiffsynthControlnet/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/QwenImageDiffsynthControlnet/zh.md)
 
 QwenImageDiffsynthControlnet 节点应用扩散合成控制网络补丁来修改基础模型的行为。它使用图像输入和可选遮罩，通过可调节的强度来指导模型的生成过程，创建一个融合了控制网络影响的修补后模型，以实现更受控的图像合成。
 

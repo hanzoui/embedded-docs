@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduImageToVideoNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduImageToVideoNode/fr.md)
 
 Le nœud Vidu Image To Video Generation crée des vidéos à partir d'une image de départ et d'une description textuelle optionnelle. Il utilise des modèles d'IA pour générer un contenu vidéo qui prolonge l'image fournie. Le nœud envoie l'image et les paramètres à un service externe et retourne la vidéo générée.
 

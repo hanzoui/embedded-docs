@@ -1,6 +1,6 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveImageDataSetToFolder/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImageDataSetToFolder/tr.md)
 
-Bu düğüm, ComfyUI'nin çıktı dizini içinde belirtilen bir klasöre bir görüntü listesi kaydeder. Birden fazla görüntüyü girdi olarak alır ve özelleştirilebilir bir dosya adı öneki ile diske yazar.
+Bu düğüm, Hanzo Studio'nin çıktı dizini içinde belirtilen bir klasöre bir görüntü listesi kaydeder. Birden fazla görüntüyü girdi olarak alır ve özelleştirilebilir bir dosya adı öneki ile diske yazar.
 
 ## Girdiler
 

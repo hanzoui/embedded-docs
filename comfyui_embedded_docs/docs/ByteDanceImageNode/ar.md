@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageNode/ar.md)
 
 ```markdown
 عُقْدة ByteDance Image تُنشئ الصور باستخدام نماذج ByteDance عبر واجهة برمجة التطبيقات (API) استنادًا إلى أوصاف نصية. تتيح لك اختيار نماذج مختلفة، وتحديد أبعاد الصورة، والتحكم في معاملات توليد متنوعة مثل البذرة (seed) ومعدل الإرشاد (guidance scale). تتصل العقدة بخدمة توليد الصور من ByteDance وتُرجع الصورة المُنشأة.

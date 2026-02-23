@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookKeyframesFromFloats/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookKeyframesFromFloats/es.md)
 
 Este nodo crea fotogramas clave de enlace a partir de una lista de valores de fuerza de punto flotante, distribuyéndolos uniformemente entre los porcentajes de inicio y fin especificados. Genera una secuencia de fotogramas clave donde cada valor de fuerza se asigna a una posición porcentual específica en la línea de tiempo de la animación. El nodo puede crear un nuevo grupo de fotogramas clave o agregar a uno existente, con una opción para imprimir los fotogramas clave generados con fines de depuración.
 

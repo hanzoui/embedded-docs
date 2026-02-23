@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SVD_img2vid_Conditioning/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SVD_img2vid_Conditioning/ar.md)
 
 تُعد عُقدة SVD_img2vid_Conditioning بيانات التكييف اللازمة لتوليد الفيديو باستخدام تقنية Stable Video Diffusion. تأخذ العُقدة صورة أولية وتعالجها عبر مُشفرات CLIP vision و VAE لإنشاء أزواج التكييف الإيجابية والسلبية، إلى جانب فضاء كامن فارغ لتوليد الفيديو. تُهيء هذه العُقدة المعاملات الضرورية للتحكم في الحركة ومعدل الأطر ومستويات التعزيز في الفيديو المُنتَج.
 

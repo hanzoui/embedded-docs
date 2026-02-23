@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ControlNetInpaintingAliMamaApply/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ControlNetInpaintingAliMamaApply/fr.md)
 
 Le nœud ControlNetInpaintingAliMamaApply applique un conditionnement ControlNet pour les tâches d'inpainting en combinant les conditionnements positif et négatif avec une image de contrôle et un masque. Il traite l'image d'entrée et le masque pour créer un conditionnement modifié qui guide le processus de génération, permettant un contrôle précis des zones de l'image à restaurer. Le nœud prend en charge l'ajustement de la force et des contrôles temporels pour affiner l'influence du ControlNet pendant les différentes étapes du processus de génération.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RebatchImages/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RebatchImages/pt-BR.md)
 
 O nó RebatchImages é projetado para reorganizar um lote de imagens em uma nova configuração de lote, ajustando o tamanho do lote conforme especificado. Este processo é essencial para gerenciar e otimizar o processamento de dados de imagem em operações em lote, garantindo que as imagens sejam agrupadas de acordo com o tamanho de lote desejado para um manuseio eficiente.
 

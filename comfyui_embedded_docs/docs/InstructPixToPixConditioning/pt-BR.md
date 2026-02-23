@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/InstructPixToPixConditioning/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/InstructPixToPixConditioning/pt-BR.md)
 
 O nó InstructPixToPixConditioning prepara dados de condicionamento para a edição de imagens InstructPix2Pix, combinando *prompts* de texto positivos e negativos com dados de imagem. Ele processa as imagens de entrada por meio de um codificador VAE para criar representações latentes e anexa esses latentes aos dados de condicionamento positivo e negativo. O nó ajusta automaticamente as dimensões da imagem recortando-as para múltiplos de 8 pixels, garantindo compatibilidade com o processo de codificação VAE.
 

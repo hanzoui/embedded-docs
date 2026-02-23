@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageDeduplication/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageDeduplication/ko.md)
 
 이 노드는 배치에서 중복되거나 매우 유사한 이미지를 제거합니다. 각 이미지에 대한 지각적 해시(시각적 내용을 기반으로 한 간단한 숫자 지문)를 생성한 후 비교하는 방식으로 작동합니다. 설정된 임계값보다 해시가 더 유사한 이미지는 중복으로 간주되어 필터링됩니다.
 

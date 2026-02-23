@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceFirstLastFrameNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceFirstLastFrameNode/ja.md)
 
 このノードは、テキストプロンプトと最初と最後のフレーム画像を使用して動画を生成します。あなたの説明と2つのキーフレームを受け取り、それらの間を遷移する完全な動画シーケンスを作成します。このノードは、動画の解像度、アスペクト比、長さ、およびその他の生成パラメータを制御するためのさまざまなオプションを提供します。
 

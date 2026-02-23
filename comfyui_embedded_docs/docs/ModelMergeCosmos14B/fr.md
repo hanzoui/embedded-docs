@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmos14B/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmos14B/fr.md)
 
 Le nœud ModelMergeCosmos14B fusionne deux modèles d'IA en utilisant une approche basée sur des blocs spécialement conçue pour l'architecture du modèle Cosmos 14B. Il vous permet de mélanger différents composants des modèles en ajustant les valeurs de poids entre 0.0 et 1.0 pour chaque bloc de modèle et couche d'incorporation.
 

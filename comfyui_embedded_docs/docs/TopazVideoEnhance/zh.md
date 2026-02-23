@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TopazVideoEnhance/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TopazVideoEnhance/zh.md)
 
 Topaz Video Enhance 节点使用外部 API 来提升视频质量。它可以放大视频分辨率、通过插值提高帧率，并应用压缩。该节点处理输入的 MP4 视频，并根据所选设置返回增强后的版本。
 

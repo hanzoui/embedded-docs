@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProTextToVideoNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProTextToVideoNode/pt-BR.md)
 
 Este nó utiliza o modelo Kling AI para gerar um vídeo a partir de uma descrição textual. Ele envia seu *prompt* para uma API remota e retorna o vídeo gerado. O nó permite controlar a duração, o formato e a qualidade do vídeo.
 

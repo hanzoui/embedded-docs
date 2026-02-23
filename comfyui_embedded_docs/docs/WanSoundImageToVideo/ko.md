@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanSoundImageToVideo/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanSoundImageToVideo/ko.md)
 
 WanSoundImageToVideo 노드는 이미지에서 비디오 콘텐츠를 생성하며, 선택적으로 오디오 조건을 적용할 수 있습니다. 긍정적 및 부정적 조건 프롬프트와 VAE 모델을 사용하여 비디오 잠재 표현을 생성하며, 참조 이미지, 오디오 인코딩, 제어 비디오 및 모션 참조를 통합하여 비디오 생성 과정을 안내할 수 있습니다.
 

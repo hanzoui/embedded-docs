@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeMochiPreview/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeMochiPreview/pt-BR.md)
 
 Este nó mescla dois modelos de IA usando uma abordagem baseada em blocos com controle refinado sobre diferentes componentes do modelo. Ele permite combinar modelos ajustando pesos de interpolação para seções específicas, incluindo frequências posicionais, camadas de incorporação (embeddings) e blocos individuais do transformador. O processo de mesclagem combina as arquiteturas e parâmetros de ambos os modelos de entrada de acordo com os valores de peso especificados.
 

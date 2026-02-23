@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageSharpen/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageSharpen/pt-BR.md)
 
 O nó ImageSharpen melhora a nitidez de uma imagem ao acentuar suas bordas e detalhes. Ele aplica um filtro de nitidez à imagem, cuja intensidade e raio podem ser ajustados, fazendo com que a imagem pareça mais definida e nítida.
 

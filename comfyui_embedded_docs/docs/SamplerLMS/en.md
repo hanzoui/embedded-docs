@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerLMS/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerLMS/en.md)
 
 The SamplerLMS node creates a Least Mean Squares (LMS) sampler for use in diffusion models. It generates a sampler object that can be used in the sampling process, allowing you to control the order of the LMS algorithm for numerical stability and accuracy.
 

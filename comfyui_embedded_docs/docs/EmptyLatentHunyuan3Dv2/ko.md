@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyLatentHunyuan3Dv2/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyLatentHunyuan3Dv2/ko.md)
 
 EmptyLatentHunyuan3Dv2 노드는 Hunyuan3Dv2 3D 생성 모델에 특화된 빈 잠재 텐서를 생성합니다. 이 노드는 Hunyuan3Dv2 아키텍처에 필요한 올바른 차원과 구조를 가진 빈 잠재 공간을 생성하여, 3D 생성 워크플로우를 처음부터 시작할 수 있도록 합니다. 이 노드는 후속 3D 생성 프로세스의 기초 역할을 하는 0으로 채워진 잠재 텐서를 생성합니다.
 

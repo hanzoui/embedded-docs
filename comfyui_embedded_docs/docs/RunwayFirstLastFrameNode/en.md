@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RunwayFirstLastFrameNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RunwayFirstLastFrameNode/en.md)
 
 The Runway First-Last-Frame to Video node generates videos by uploading first and last keyframes along with a text prompt. It creates smooth transitions between the provided start and end frames using Runway's Gen-3 model. This is particularly useful for complex transitions where the end frame differs significantly from the start frame.
 

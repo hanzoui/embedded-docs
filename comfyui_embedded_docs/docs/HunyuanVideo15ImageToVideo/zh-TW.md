@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanVideo15ImageToVideo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanVideo15ImageToVideo/zh-TW.md)
 
 HunyuanVideo15ImageToVideo 節點為基於 HunyuanVideo 1.5 模型的影片生成準備條件設定和潛在空間資料。它為影片序列創建初始的潛在表示，並可選擇性地整合起始圖像或 CLIP 視覺輸出來引導生成過程。
 

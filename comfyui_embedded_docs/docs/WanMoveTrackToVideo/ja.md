@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveTrackToVideo/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveTrackToVideo/ja.md)
 
 WanMoveTrackToVideoノードは、オプションのモーショントラッキング情報を組み込んで、ビデオ生成用のコンディショニングと潜在空間データを準備します。開始画像シーケンスを潜在表現にエンコードし、オブジェクトトラックからの位置データをブレンドして、生成されるビデオの動きをガイドすることができます。このノードは、修正されたポジティブおよびネガティブコンディショニングと、ビデオモデル用に準備された空の潜在テンソルを出力します。
 

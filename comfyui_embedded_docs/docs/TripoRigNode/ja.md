@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoRigNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoRigNode/ja.md)
 
 TripoRigNodeは、元のモデルのタスクIDからリギングされた3Dモデルを生成します。Tripo APIにリクエストを送信し、Tripo仕様を使用してGLB形式のアニメーションリグを作成し、リグ生成タスクが完了するまでAPIをポーリングします。
 

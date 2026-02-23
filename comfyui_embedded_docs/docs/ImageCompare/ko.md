@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageCompare/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageCompare/ko.md)
 
 Image Compare 노드는 드래그 가능한 슬라이더를 사용하여 두 이미지를 나란히 비교할 수 있는 시각적 인터페이스를 제공합니다. 이 노드는 출력 노드로 설계되었으며, 이는 다른 노드로 데이터를 전달하지 않고 대신 사용자 인터페이스에서 직접 이미지를 표시하여 검사할 수 있음을 의미합니다.
 
@@ -14,4 +14,4 @@ Image Compare 노드는 드래그 가능한 슬라이더를 사용하여 두 이
 
 ## 출력
 
-이 노드는 출력 노드이며, 다른 노드에서 사용할 수 있는 데이터 출력을 생성하지 않습니다. 이 노드의 기능은 제공된 이미지를 ComfyUI 인터페이스에 표시하는 것입니다.
+이 노드는 출력 노드이며, 다른 노드에서 사용할 수 있는 데이터 출력을 생성하지 않습니다. 이 노드의 기능은 제공된 이미지를 Hanzo Studio 인터페이스에 표시하는 것입니다.

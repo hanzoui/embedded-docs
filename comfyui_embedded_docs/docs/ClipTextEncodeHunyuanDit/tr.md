@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeHunyuanDiT/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeHunyuanDiT/tr.md)
 
 `CLIPTextEncodeHunyuanDiT` düğümünün temel işlevi, giriş metnini modelin anlayabileceği bir forma dönüştürmektir. Bu, HunyuanDiT modelinin çift metin kodlayıcı mimarisi için özel olarak tasarlanmış gelişmiş bir koşullandırma düğümüdür.
 Birincil rolü, bir çevirmen gibi, metin açıklamalarımızı AI modelinin anlayabileceği "makine diline" dönüştürmektir. `bert` ve `mt5xl` girişleri farklı türde prompt girdilerini tercih eder.

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningSetPropertiesAndCombine/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningSetPropertiesAndCombine/ko.md)
 
 PairConditioningSetPropertiesAndCombine 노드는 기존의 긍정적 및 부정적 조건 입력에 새로운 조건 데이터를 적용하여 조건 쌍을 수정하고 결합합니다. 적용되는 조건의 강도를 조정하고 조건 영역 설정 방식을 제어할 수 있습니다. 이 노드는 여러 조건 소스를 함께 혼합해야 하는 고급 조건 조작 워크플로우에서 특히 유용합니다.
 

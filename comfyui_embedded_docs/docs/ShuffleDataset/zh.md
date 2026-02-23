@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ShuffleDataset/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ShuffleDataset/zh.md)
 
 Shuffle Dataset 节点接收一个图像列表并随机改变它们的顺序。它使用种子值来控制随机性，确保可以重现相同的洗牌顺序。这在处理前对数据集中的图像序列进行随机化时非常有用。
 

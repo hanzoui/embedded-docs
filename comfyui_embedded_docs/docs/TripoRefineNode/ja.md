@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoRefineNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoRefineNode/ja.md)
 
 TripoRefineNodeは、特にv1.4 Tripoモデルによって作成されたドラフト3Dモデルを精緻化します。モデルタスクIDを受け取り、Tripo APIを通じて処理することで、モデルの改良版を生成します。このノードは、Tripo v1.4モデルによって生成されたドラフトモデル専用に設計されています。
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HitPawGeneralImageEnhance/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HitPawGeneralImageEnhance/ja.md)
 
 このノードは、低解像度の画像を高解像度にアップスケールし、アーティファクトやノイズを除去することで画質を向上させます。外部APIを使用して画像を処理し、処理制限内に収まるように入力サイズを自動調整できます。最大許容出力サイズは400万ピクセルです。
 

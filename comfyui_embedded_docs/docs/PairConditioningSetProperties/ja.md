@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningSetProperties/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningSetProperties/ja.md)
 
 PairConditioningSetPropertiesノードは、ポジティブとネガティブのコンディショニングペアのプロパティを同時に変更することができます。強度調整、コンディショニングエリア設定、オプションのマスクやタイミング制御を両方のコンディショニング入力に適用し、変更されたポジティブおよびネガティブのコンディショニングデータを返します。
 

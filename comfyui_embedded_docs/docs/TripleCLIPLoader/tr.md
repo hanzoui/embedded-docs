@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripleCLIPLoader/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripleCLIPLoader/tr.md)
 
 TripleCLIPLoader düğümü, üç farklı metin kodlayıcı modelini aynı anda yükler ve bunları tek bir CLIP modelinde birleştirir. Bu, clip-l, clip-g ve t5 modellerinin birlikte çalışmasını gerektiren SD3 iş akışları gibi, birden fazla metin kodlayıcının gerekli olduğu gelişmiş metin kodlama senaryolarında kullanışlıdır.
 

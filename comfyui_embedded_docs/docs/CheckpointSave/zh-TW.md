@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CheckpointSave/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CheckpointSave/zh-TW.md)
 
 `Save Checkpoint` 節點旨在將完整的 Stable Diffusion 模型（包含 UNet、CLIP 和 VAE 組件）儲存為 **.safetensors** 格式的檢查點檔案。
 
@@ -24,9 +24,9 @@
 
 ## 架構相容性
 
-- 目前完整支援：SDXL、SD3、SVD 及其他主流架構，請參閱[原始程式碼](https://github.com/comfyanonymous/ComfyUI/blob/master/comfy_extras/nodes_model_merging.py#L176-L189)
+- 目前完整支援：SDXL、SD3、SVD 及其他主流架構，請參閱[原始程式碼](https://github.com/hanzoai/studio/blob/master/comfy_extras/nodes_model_merging.py#L176-L189)
 - 基本支援：其他架構可以儲存但沒有標準化的元資料資訊
 
 ## 相關連結
 
-相關原始程式碼：[nodes_model_merging.py#L227](https://github.com/comfyanonymous/ComfyUI/blob/master/comfy_extras/nodes_model_merging.py#L227)
+相關原始程式碼：[nodes_model_merging.py#L227](https://github.com/hanzoai/studio/blob/master/comfy_extras/nodes_model_merging.py#L227)

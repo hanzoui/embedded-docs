@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanFirstLastFrameToVideo/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanFirstLastFrameToVideo/ko.md)
 
 WanFirstLastFrameToVideo 노드는 시작 프레임과 종료 프레임을 텍스트 프롬프트와 결합하여 비디오 조건화를 생성합니다. 이 노드는 첫 번째와 마지막 프레임을 인코딩하고, 생성 과정을 안내하기 위해 마스크를 적용하며, 사용 가능한 경우 CLIP 비전 특징을 통합하여 비디오 생성을 위한 잠재 표현을 생성합니다. 이 노드는 지정된 시작점과 종료점 사이에서 일관된 시퀀스를 생성하기 위해 비디오 모델에 대한 긍정적 및 부정적 조건화를 모두 준비합니다.
 

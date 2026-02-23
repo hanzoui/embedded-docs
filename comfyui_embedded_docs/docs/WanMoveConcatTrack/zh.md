@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveConcatTrack/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveConcatTrack/zh.md)
 
 WanMoveConcatTrack 节点将两组运动跟踪数据合并为一个更长的序列。它通过沿各自维度连接输入轨迹的路径和可见性遮罩来实现。如果只提供了一个轨迹输入，它会直接将该数据原样传递。
 

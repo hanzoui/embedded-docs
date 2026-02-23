@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanAnimateToVideo/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanAnimateToVideo/ja.md)
 
 WanAnimateToVideoノードは、ポーズ参照、顔の表情、背景要素など、複数の条件付け入力を組み合わせて動画コンテンツを生成します。様々な動画入力を処理し、フレーム間の時間的一貫性を維持しながら、首尾一貫したアニメーションシーケンスを作成します。このノードは潜在空間での操作を扱い、既存の動画をモーションパターンを継続することで拡張することができます。
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ShuffleDataset/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ShuffleDataset/pt-BR.md)
 
 O nó Shuffle Dataset recebe uma lista de imagens e altera aleatoriamente sua ordem. Ele utiliza um valor de `seed` para controlar a aleatoriedade, garantindo que a mesma ordem de embaralhamento possa ser reproduzida. Isso é útil para randomizar a sequência de imagens em um conjunto de dados antes do processamento.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxProDepthNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxProDepthNode/pt-BR.md)
 
 Este nó gera imagens usando uma imagem de controle de profundidade como guia. Ele recebe uma imagem de controle e um prompt de texto, então cria uma nova imagem que segue tanto as informações de profundidade da imagem de controle quanto a descrição no prompt. O nó se conecta a uma API externa para realizar o processo de geração de imagem.
 

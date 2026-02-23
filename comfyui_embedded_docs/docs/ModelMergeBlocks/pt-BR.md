@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeBlocks/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeBlocks/pt-BR.md)
 
 O ModelMergeBlocks é projetado para operações avançadas de fusão de modelos, permitindo a integração de dois modelos com proporções de mesclagem personalizáveis para diferentes partes dos modelos. Este nó facilita a criação de modelos híbridos ao mesclar seletivamente componentes de dois modelos de origem com base em parâmetros especificados.
 

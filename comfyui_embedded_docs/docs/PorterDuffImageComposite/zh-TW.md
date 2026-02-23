@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PorterDuffImageComposite/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PorterDuffImageComposite/zh-TW.md)
 
 PorterDuffImageComposite 節點專門用於執行基於 Porter-Duff 合成運算子的影像合成。它允許根據多種混合模式組合來源影像和目標影像，透過創意方式操控影像透明度和疊加影像來創造複雜的視覺效果。
 

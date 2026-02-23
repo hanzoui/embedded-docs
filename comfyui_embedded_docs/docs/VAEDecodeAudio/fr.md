@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeAudio/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeAudio/fr.md)
 
 Le nœud VAEDecodeAudio convertit les représentations latentes en formes d'onde audio en utilisant un Autoencodeur Variationnel. Il prend des échantillons audio encodés et les traite à travers le VAE pour reconstruire l'audio original, en appliquant une normalisation pour assurer des niveaux de sortie cohérents. L'audio résultant est retourné avec un taux d'échantillonnage standard de 44100 Hz.
 

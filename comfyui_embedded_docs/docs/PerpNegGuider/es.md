@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PerpNegGuider/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PerpNegGuider/es.md)
 
 El nodo PerpNegGuider crea un sistema de guía para controlar la generación de imágenes utilizando condicionamiento negativo perpendicular. Toma entradas de condicionamiento positivo, negativo y vacío, y aplica un algoritmo de guía especializado para dirigir el proceso de generación. Este nodo está diseñado para fines de prueba y proporciona un control preciso sobre la fuerza de guía y la escala negativa.
 

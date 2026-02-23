@@ -1,8 +1,8 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/UNETLoader/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UNETLoader/tr.md)
 
 UNETLoader düğümü, U-Net modellerini isimle yüklemek için tasarlanmış olup, sistem içinde önceden eğitilmiş U-Net mimarilerinin kullanımını kolaylaştırır.
 
-Bu düğüm, `ComfyUI/models/diffusion_models` klasöründe bulunan modelleri tespit edecektir.
+Bu düğüm, `Hanzo Studio/models/diffusion_models` klasöründe bulunan modelleri tespit edecektir.
 
 ## Girdiler
 

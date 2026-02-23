@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RegexExtract/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RegexExtract/zh.md)
 
 RegexExtract 节点使用正则表达式在文本中搜索模式。它可以查找第一个匹配项、所有匹配项、匹配项中的特定组，或多个匹配项中的所有组。该节点支持多种正则表达式标志，用于控制大小写敏感性、多行匹配和 dotall 行为。
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CustomCombo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CustomCombo/zh-TW.md)
 
 Custom Combo 節點允許您使用自定義的文字選項列表來創建一個自定義的下拉選單。這是一個前端導向的節點，它提供了一個後端表示，以確保在工作流程中的兼容性。當您從下拉選單中選擇一個選項時，該節點會將該文字作為字串輸出。
 

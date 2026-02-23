@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftCreateStyleNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftCreateStyleNode/zh.md)
 
 此节点通过上传参考图像来创建用于图像生成的自定义风格。您可以上传1到5张图像来定义新风格，节点将返回一个唯一的风格ID，可用于其他Recraft节点。所有上传图像的总文件大小不得超过5 MB。
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CosmosImageToVideoLatent/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CosmosImageToVideoLatent/ko.md)
 
 CosmosImageToVideoLatent 노드는 입력 이미지로부터 비디오 잠재 표현을 생성합니다. 이 노드는 빈 비디오 잠재 공간을 생성하고, 선택적으로 시작 이미지와/또는 종료 이미지를 비디오 시퀀스의 시작 프레임과/또는 종료 프레임에 인코딩합니다. 이미지가 제공될 경우, 생성 과정에서 잠재 공간의 어떤 부분을 보존해야 하는지를 나타내는 해당 노이즈 마스크도 함께 생성합니다.
 

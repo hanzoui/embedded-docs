@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CFGZeroStar/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CFGZeroStar/tr.md)
 
 CFGZeroStar düğümü, difüzyon modellerine özel bir rehberlik ölçeklendirme tekniği uygular. Koşullu ve koşulsuz tahminler arasındaki farka dayalı olarak optimize edilmiş bir ölçek faktörü hesaplayarak, sınıflandırıcısız rehberlik sürecini değiştirir. Bu yaklaşım, model kararlılığını korurken, oluşturma süreci üzerinde gelişmiş kontrol sağlamak için son çıktıyı ayarlar.
 

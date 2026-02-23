@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageFromBatch/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageFromBatch/tr.md)
 
 `ImageFromBatch` düğümü, bir grup resimden belirli bir bölümü sağlanan indeks ve uzunluk değerlerine göre çıkarmak için tasarlanmıştır. Toplu haldeki resimler üzerinde daha ayrıntılı kontrol sağlayarak, daha büyük bir grup içindeki tek tek resimler veya resim alt kümeleri üzerinde işlemler yapılmasına olanak tanır.
 

@@ -1,6 +1,6 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveImageDataSetToFolder/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImageDataSetToFolder/pt-BR.md)
 
-Este nó salva uma lista de imagens em uma pasta especificada dentro do diretório de saída do ComfyUI. Ele recebe múltiplas imagens como entrada e as grava no disco com um prefixo de nome de arquivo personalizável.
+Este nó salva uma lista de imagens em uma pasta especificada dentro do diretório de saída do Hanzo Studio. Ele recebe múltiplas imagens como entrada e as grava no disco com um prefixo de nome de arquivo personalizável.
 
 ## Entradas
 

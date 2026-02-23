@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentCut/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentCut/zh-TW.md)
 
 LatentCut 節點沿著選定的維度從潛在樣本中提取特定區段。它允許您透過指定維度（x、y 或 t）、起始位置和提取數量來擷取潛在表徵的一部分。該節點處理正向和負向索引，並自動調整提取數量以保持在可用範圍內。
 

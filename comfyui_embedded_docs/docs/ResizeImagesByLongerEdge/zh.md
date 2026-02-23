@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResizeImagesByLongerEdge/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResizeImagesByLongerEdge/zh.md)
 
 ## 概述
 Resize Images by Longer Edge 节点通过调整图像尺寸，使其最长边与指定的目标长度匹配。该节点会自动判断图像的宽度或高度哪一边更长，并按比例缩放另一维度以保持原始宽高比。此功能适用于基于图像最大维度进行尺寸标准化的场景。

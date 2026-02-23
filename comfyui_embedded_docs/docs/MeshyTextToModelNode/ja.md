@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyTextToModelNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyTextToModelNode/ja.md)
 
 Meshy: Text to Model ノードは、Meshy API を使用してテキストの説明から3Dモデルを生成します。プロンプトと設定をAPIにリクエストとして送信し、生成が完了するのを待って、結果のモデルファイルをダウンロードします。
 

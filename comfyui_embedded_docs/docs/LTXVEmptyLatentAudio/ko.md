@@ -1,6 +1,6 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVEmptyLatentAudio/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVEmptyLatentAudio/ko.md)
 
-LTXV Empty Latent Audio 노드는 빈(0으로 채워진) 잠재 오디오 텐서 배치를 생성합니다. 제공된 Audio VAE 모델의 구성을 사용하여 채널 수 및 주파수 빈(bin) 수와 같은 잠재 공간의 올바른 차원을 결정합니다. 이 빈 잠재 텐서는 ComfyUI 내에서 오디오 생성 또는 조작 워크플로우의 시작점으로 사용됩니다.
+LTXV Empty Latent Audio 노드는 빈(0으로 채워진) 잠재 오디오 텐서 배치를 생성합니다. 제공된 Audio VAE 모델의 구성을 사용하여 채널 수 및 주파수 빈(bin) 수와 같은 잠재 공간의 올바른 차원을 결정합니다. 이 빈 잠재 텐서는 Hanzo Studio 내에서 오디오 생성 또는 조작 워크플로우의 시작점으로 사용됩니다.
 
 ## 입력
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BatchImagesMasksLatentsNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BatchImagesMasksLatentsNode/ko.md)
 
 Batch Images/Masks/Latents 노드는 동일한 타입의 여러 입력을 하나의 배치로 결합합니다. 입력이 이미지, 마스크, 잠재 표현 중 무엇인지를 자동으로 감지하고 적절한 배칭 방법을 사용합니다. 이는 배치 입력을 받는 노드에서 처리할 여러 항목을 준비하는 데 유용합니다.
 

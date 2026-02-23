@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageCompare/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageCompare/en.md)
 
 The Image Compare node provides a visual interface to compare two images side-by-side using a draggable slider. It is designed as an output node, meaning it does not pass data to other nodes but instead displays the images directly in the user interface for inspection.
 
@@ -14,4 +14,4 @@ The Image Compare node provides a visual interface to compare two images side-by
 
 ## Outputs
 
-This node is an output node and does not produce any data outputs for use in other nodes. Its function is to display the provided images in the ComfyUI interface.
+This node is an output node and does not produce any data outputs for use in other nodes. Its function is to display the provided images in the Hanzo Studio interface.

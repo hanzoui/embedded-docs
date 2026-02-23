@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageYUVToRGB/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageYUVToRGB/tr.md)
 
 ImageYUVToRGB düğümü, YUV renk uzayındaki görüntüleri RGB renk uzayına dönüştürür. Y (parlaklık), U (mavi çıkıntı) ve V (kırmızı çıkıntı) kanallarını temsil eden üç ayrı girdi görüntüsünü alır ve bunları renk uzayı dönüşümü kullanarak tek bir RGB görüntüsünde birleştirir.
 

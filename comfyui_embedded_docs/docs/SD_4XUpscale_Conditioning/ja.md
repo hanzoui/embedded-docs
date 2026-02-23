@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SD_4XUpscale_Conditioning/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SD_4XUpscale_Conditioning/ja.md)
 
 SD_4XUpscale_Conditioningノードは、拡散モデルを使用して画像をアップスケールするための条件付けデータを準備します。入力画像と条件付けデータを受け取り、スケーリングとノイズ拡張を適用して、アップスケールプロセスを導く修正された条件付けを作成します。このノードは、ポジティブ条件付けとネガティブ条件付け、およびアップスケール後の次元に合わせた潜在表現の両方を出力します。
 

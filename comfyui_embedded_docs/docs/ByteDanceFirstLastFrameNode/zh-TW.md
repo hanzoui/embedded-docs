@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceFirstLastFrameNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceFirstLastFrameNode/zh-TW.md)
 
 此節點使用文字提示以及首尾幀圖像來生成影片。它會根據您的描述和兩個關鍵幀，創建一個完整的影片序列，在兩者之間進行過渡。該節點提供多種選項來控制影片的解析度、長寬比、持續時間和其他生成參數。
 

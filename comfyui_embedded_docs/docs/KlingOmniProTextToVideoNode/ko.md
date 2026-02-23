@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProTextToVideoNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProTextToVideoNode/ko.md)
 
 이 노드는 Kling AI 모델을 사용하여 텍스트 설명으로부터 비디오를 생성합니다. 사용자의 프롬프트를 원격 API로 전송하고 생성된 비디오를 반환합니다. 이 노드를 통해 비디오의 길이, 형태, 품질을 제어할 수 있습니다.
 

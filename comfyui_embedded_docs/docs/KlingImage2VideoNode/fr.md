@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingImage2VideoNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingImage2VideoNode/fr.md)
 
 Le nœud Kling Image to Video génère du contenu vidéo à partir d'une image de départ en utilisant des invites textuelles. Il prend une image de référence et crée une séquence vidéo basée sur les descriptions textuelles positives et négatives fournies, avec diverses options de configuration pour la sélection du modèle, la durée et le format d'image.
 

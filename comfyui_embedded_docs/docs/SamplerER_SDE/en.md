@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerER_SDE/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerER_SDE/en.md)
 
 The SamplerER_SDE node provides specialized sampling methods for diffusion models, offering different solver types including ER-SDE, Reverse-time SDE, and ODE approaches. It allows control over the stochastic behavior and computational stages of the sampling process. The node automatically adjusts parameters based on the selected solver type to ensure proper functionality.
 

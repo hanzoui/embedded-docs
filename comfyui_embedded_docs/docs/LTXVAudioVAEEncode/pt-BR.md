@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVAudioVAEEncode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVAudioVAEEncode/pt-BR.md)
 
 O nó **LTXV Audio VAE Encode** recebe uma entrada de áudio e a comprime em uma representação latente menor usando um modelo de Audio VAE especificado. Este processo é essencial para gerar ou manipular áudio em um fluxo de trabalho de espaço latente, pois converte os dados brutos de áudio em um formato que outros nós no *pipeline* podem entender e processar.
 

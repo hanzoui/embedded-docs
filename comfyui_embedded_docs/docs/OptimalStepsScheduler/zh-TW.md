@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OptimalStepsScheduler/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OptimalStepsScheduler/zh-TW.md)
 
 OptimalStepsScheduler 節點根據所選模型類型和步數配置，為擴散模型計算噪聲調度 sigma 值。它會根據降噪參數調整總步數，並對噪聲級別進行插值以匹配請求的步數。該節點返回一個 sigma 值序列，用於決定擴散採樣過程中的噪聲級別。
 

@@ -1,8 +1,8 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DualCLIPLoader/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DualCLIPLoader/tr.md)
 
 DualCLIPLoader düğümü, iki CLIP modelini aynı anda yüklemek için tasarlanmıştır ve her iki modelin özelliklerinin entegrasyonunu veya karşılaştırılmasını gerektiren işlemleri kolaylaştırır.
 
-Bu düğüm, `ComfyUI/models/text_encoders` klasöründe bulunan modelleri tespit edecektir.
+Bu düğüm, `Hanzo Studio/models/text_encoders` klasöründe bulunan modelleri tespit edecektir.
 
 ## Girdiler
 

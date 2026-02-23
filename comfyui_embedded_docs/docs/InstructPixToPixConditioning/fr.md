@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/InstructPixToPixConditioning/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/InstructPixToPixConditioning/fr.md)
 
 Le nœud InstructPixToPixConditioning prépare les données de conditionnement pour l'édition d'image InstructPix2Pix en combinant les prompts texte positifs et négatifs avec les données d'image. Il traite les images d'entrée via un encodeur VAE pour créer des représentations latentes et attache ces latences aux données de conditionnement positives et négatives. Le nœud gère automatiquement les dimensions de l'image en recadrant aux multiples de 8 pixels pour assurer la compatibilité avec le processus d'encodage VAE.
 

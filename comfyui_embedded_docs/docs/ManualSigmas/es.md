@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ManualSigmas/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ManualSigmas/es.md)
 
 El nodo ManualSigmas permite definir manualmente una secuencia personalizada de niveles de ruido (sigmas) para el proceso de muestreo. Se introduce una lista de números como una cadena de texto, y el nodo los convierte en un tensor que puede ser utilizado por otros nodos de muestreo. Esto es útil para pruebas o para crear programaciones de ruido específicas.
 

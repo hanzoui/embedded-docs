@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingDualCharacterVideoEffectNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingDualCharacterVideoEffectNode/fr.md)
 
 Le nœud Kling Dual Character Video Effect crée des vidéos avec des effets spéciaux basés sur la scène sélectionnée. Il prend deux images et positionne la première image sur le côté gauche et la deuxième image sur le côté droit de la vidéo composite. Différents effets visuels sont appliqués en fonction de la scène d'effet choisie.
 

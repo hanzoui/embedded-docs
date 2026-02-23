@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PrimitiveStringMultiline/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PrimitiveStringMultiline/ar.md)
 
 يوفر عُقدة PrimitiveStringMultiline حقل إدخال نصي متعدد الأسطر لإدخال قيم نصية وتمريرها عبر سير العمل الخاص بك. تقبل هذه العُقدة إدخال نصي يتضمن أسطرًا متعددة وتخرج نفس القيمة النصية دون تغيير. تكون هذه العُقدة مفيدة عندما تحتاج إلى إدخال محتوى نصي طويل أو نص منسق يمتد عبر عدة أسطر.
 

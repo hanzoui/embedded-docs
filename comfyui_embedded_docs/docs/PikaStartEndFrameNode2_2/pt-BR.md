@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaStartEndFrameNode2_2/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaStartEndFrameNode2_2/pt-BR.md)
 
 O nó PikaFrames v2.2 gera vídeos combinando seu primeiro e último quadro. Você faz upload de duas imagens para definir os pontos inicial e final, e a IA cria uma transição suave entre elas para produzir um vídeo completo.
 

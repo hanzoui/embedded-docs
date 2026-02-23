@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVCropGuides/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVCropGuides/pt-BR.md)
 
 O nó LTXVCropGuides processa condicionamentos e entradas latentes para geração de vídeo, removendo informações de quadros-chave e ajustando as dimensões latentes. Ele recorta a imagem latente e a máscara de ruído para excluir seções de quadros-chave, enquanto limpa os índices de quadros-chave dos condicionamentos positivo e negativo. Isso prepara os dados para fluxos de trabalho de geração de vídeo que não requerem orientação por quadros-chave.
 

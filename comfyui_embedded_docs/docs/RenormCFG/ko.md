@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RenormCFG/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RenormCFG/ko.md)
 
 RenormCFG 노드는 분산 모델에서 분류자 없는 지도(CFG) 과정을 조건부 스케일링 및 정규화를 적용하여 수정합니다. 이 노드는 지정된 타임스텝 임계값과 재정규화 계수를 기반으로 노이즈 제거 과정을 조정하여 이미지 생성 중 조건부 예측과 무조건부 예측의 영향을 제어합니다.
 

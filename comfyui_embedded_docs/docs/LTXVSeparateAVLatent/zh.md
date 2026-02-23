@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVSeparateAVLatent/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVSeparateAVLatent/zh.md)
 
 LTXVSeparateAVLatent 节点接收一个组合的视听潜在表示，并将其拆分为两个独立的部分：一部分用于视频，另一部分用于音频。它会从输入的潜在表示中分离出样本，如果存在噪声掩码，也会一并分离，从而创建两个新的潜在对象。
 

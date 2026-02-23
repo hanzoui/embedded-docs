@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RescaleCFG/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RescaleCFG/pt-BR.md)
 
 O nó RescaleCFG foi projetado para ajustar as escalas de condicionamento e não condicionamento da saída de um modelo com base em um multiplicador especificado, visando alcançar um processo de geração mais equilibrado e controlado. Ele opera reescalonando a saída do modelo para modificar a influência dos componentes condicionados e não condicionados, potencialmente melhorando assim o desempenho ou a qualidade da saída do modelo.
 

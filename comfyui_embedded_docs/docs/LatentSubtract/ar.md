@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentSubtract/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentSubtract/ar.md)
 
 تم تصميم العقدة LatentSubtract لطرح تمثيل كامن من آخر. يمكن استخدام هذه العملية للتلاعب بخصائص مخرجات النماذج التوليدية أو تعديلها من خلال إزالة الميزات أو السمات الممثلة في فضاء كامن من فضاء آخر.
 

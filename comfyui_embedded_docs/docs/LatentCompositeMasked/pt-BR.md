@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentCompositeMasked/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentCompositeMasked/pt-BR.md)
 
 O nó LatentCompositeMasked é projetado para mesclar duas representações latentes em coordenadas especificadas, opcionalmente usando uma máscara para uma composição mais controlada. Este nó permite a criação de imagens latentes complexas sobrepondo partes de uma imagem em outra, com a capacidade de redimensionar a imagem de origem para um encaixe perfeito.
 

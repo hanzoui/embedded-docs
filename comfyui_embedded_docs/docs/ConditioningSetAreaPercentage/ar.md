@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetAreaPercentage/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetAreaPercentage/ar.md)
 
 يتخصص عقد ConditioningSetAreaPercentage في ضبط منطقة تأثير عناصر التكييف بناءً على قيم النسب المئوية. يسمح بتحديد أبعاد المنطقة وموقعها كنسب مئوية من إجمالي حجم الصورة، إلى جانب معامل القوة لتعديل شدة تأثير التكييف.
 

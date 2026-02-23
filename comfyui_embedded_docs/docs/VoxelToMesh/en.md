@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VoxelToMesh/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VoxelToMesh/en.md)
 
 The VoxelToMesh node converts 3D voxel data into mesh geometry using different algorithms. It processes voxel grids and generates vertices and faces that form a 3D mesh representation. The node supports multiple conversion algorithms and allows adjusting the threshold value to control the surface extraction.
 

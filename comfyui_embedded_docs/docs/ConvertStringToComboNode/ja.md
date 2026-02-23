@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConvertStringToComboNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConvertStringToComboNode/ja.md)
 
 Convert String to Combo ノードは、入力されたテキスト文字列を受け取り、それを Combo データ型に変換します。これにより、Combo 入力を必要とする他のノードの選択肢として、テキスト値を使用できるようになります。このノードは文字列の値を変更せずにそのまま通過させますが、データ型を変更します。
 

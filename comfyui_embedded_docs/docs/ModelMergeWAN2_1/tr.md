@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeWAN2_1/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeWAN2_1/tr.md)
 
 ModelMergeWAN2_1 düğümü, iki modelin bileşenlerini ağırlıklı ortalamalar kullanarak birleştirir. 30 blok içeren 1.3B modelleri ve 40 blok içeren 14B modelleri dahil olmak üzere farklı model boyutlarını destekler; ek bir görüntü gömme bileşeni içeren görüntüden videoya modeller için özel bir işleme sahiptir. Modellerin her bir bileşeni, iki giriş modeli arasındaki karıştırma oranını kontrol etmek için bağımsız olarak ağırlıklandırılabilir.
 

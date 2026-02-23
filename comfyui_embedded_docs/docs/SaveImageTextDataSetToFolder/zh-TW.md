@@ -1,6 +1,6 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveImageTextDataSetToFolder/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImageTextDataSetToFolder/zh-TW.md)
 
-此節點將圖像列表及其對應的文字描述儲存到 ComfyUI 輸出目錄內的指定資料夾中。對於每個儲存為 PNG 檔案的圖像，都會建立一個具有相同基礎名稱的匹配文字檔案來儲存其描述。這對於建立生成圖像及其描述的有組織資料集非常有用。
+此節點將圖像列表及其對應的文字描述儲存到 Hanzo Studio 輸出目錄內的指定資料夾中。對於每個儲存為 PNG 檔案的圖像，都會建立一個具有相同基礎名稱的匹配文字檔案來儲存其描述。這對於建立生成圖像及其描述的有組織資料集非常有用。
 
 ## 輸入參數
 

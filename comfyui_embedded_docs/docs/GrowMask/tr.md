@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GrowMask/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GrowMask/tr.md)
 
 `GrowMask` düğümü, bir maskenin boyutunu genişletmek veya daraltmak için tasarlanmıştır ve isteğe bağlı olarak köşelere kademeli bir efekt uygulayabilir. Bu işlevsellik, görüntü işleme görevlerinde maske sınırlarını dinamik olarak ayarlamak için çok önemlidir ve ilgilenilen alan üzerinde daha esnek ve hassas kontrol sağlar.
 

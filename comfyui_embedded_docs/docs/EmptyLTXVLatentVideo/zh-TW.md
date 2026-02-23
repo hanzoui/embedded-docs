@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyLTXVLatentVideo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyLTXVLatentVideo/zh-TW.md)
 
 EmptyLTXVLatentVideo 節點用於建立影片處理所需的空潛在張量。它會生成具有指定尺寸的空白起始點，可作為影片生成工作流程的輸入。該節點會產生一個以零填充的潛在表示，並具有配置的寬度、高度、長度和批次大小。
 

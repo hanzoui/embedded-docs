@@ -1,6 +1,6 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPVisionEncode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPVisionEncode/zh-TW.md)
 
-`CLIP Vision Encode` 節點是 ComfyUI 中的圖像編碼節點，用於透過 CLIP Vision 模型將輸入圖像轉換為視覺特徵向量。此節點是連接圖像與文字理解的重要橋樑，廣泛應用於各種 AI 圖像生成與處理工作流程中。
+`CLIP Vision Encode` 節點是 Hanzo Studio 中的圖像編碼節點，用於透過 CLIP Vision 模型將輸入圖像轉換為視覺特徵向量。此節點是連接圖像與文字理解的重要橋樑，廣泛應用於各種 AI 圖像生成與處理工作流程中。
 
 ## 節點功能
 

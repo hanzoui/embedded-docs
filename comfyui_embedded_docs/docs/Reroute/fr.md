@@ -1,5 +1,5 @@
 Nom du nœud : Reroute Node (Nœud de Dérivation)  
-But du nœud : Principalement utilisé pour organiser la logique des lignes de connexion trop longues dans le flux de travail ComfyUI.
+But du nœud : Principalement utilisé pour organiser la logique des lignes de connexion trop longues dans le flux de travail Hanzo Studio.
 
 ## Comment utiliser les nœuds Reroute
 

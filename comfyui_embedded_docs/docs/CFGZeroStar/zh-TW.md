@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CFGZeroStar/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CFGZeroStar/zh-TW.md)
 
 CFGZeroStar 節點對擴散模型應用了一種專門的引導縮放技術。它透過根據條件預測與無條件預測之間的差異計算最佳化的縮放因子，來修改無分類器引導過程。這種方法調整最終輸出，在保持模型穩定性的同時，提供對生成過程的增強控制。
 

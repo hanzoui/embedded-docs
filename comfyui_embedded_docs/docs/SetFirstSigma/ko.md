@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SetFirstSigma/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SetFirstSigma/ko.md)
 
 SetFirstSigma 노드는 시그마 값 시퀀스의 첫 번째 시그마 값을 사용자 지정 값으로 교체하여 수정합니다. 기존 시그마 시퀀스와 새로운 시그마 값을 입력으로 받아, 다른 모든 시그마 값은 변경하지 않고 첫 번째 요소만 변경된 새로운 시그마 시퀀스를 반환합니다.
 

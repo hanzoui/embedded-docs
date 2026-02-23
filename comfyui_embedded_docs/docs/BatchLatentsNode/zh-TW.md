@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BatchLatentsNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BatchLatentsNode/zh-TW.md)
 
 此節點將多個潛在輸入合併為單一批次。它接收可變數量的潛在樣本，並沿批次維度將它們合併，使其能在後續節點中一同處理。這對於在單一操作中生成或處理多張影像非常有用。
 

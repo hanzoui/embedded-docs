@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RunwayImageToVideoNodeGen4/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RunwayImageToVideoNodeGen4/en.md)
 
 The Runway Image to Video (Gen4 Turbo) node generates a video from a single starting frame using Runway's Gen4 Turbo model. It takes a text prompt and an initial image frame, then creates a video sequence based on the provided duration and aspect ratio settings. The node handles uploading the starting frame to Runway's API and returns the generated video.
 

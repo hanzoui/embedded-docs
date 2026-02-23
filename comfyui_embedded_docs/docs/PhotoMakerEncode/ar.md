@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PhotoMakerEncode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PhotoMakerEncode/ar.md)
 
 يقوم عقد PhotoMakerEncode بمعالجة الصور والنصوص لتوليد بيانات توجيهية (conditioning) لتوليد الصور بالذكاء الاصطناعي. يأخذ العقد صورة مرجعية وموجه نصي، ثم ينشئ تضمينات (embeddings) يمكن استخدامها لتوجيه توليد الصور بناءً على الخصائص البصرية للصورة المرجعية. يبحث العقد تحديدًا عن رمز "photomaker" في النص لتحديد مكان تطبيق التوجيه القائم على الصورة.
 

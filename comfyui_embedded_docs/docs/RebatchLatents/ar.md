@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RebatchLatents/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RebatchLatents/ar.md)
 
 عُقدة RebatchLatents مصممة لإعادة تنظيم مجموعة من التمثيلات الكامنة إلى تكوين مجموعة جديد، استنادًا إلى حجم مجموعة محدد. تضمن هذه العُقدة تجميع العينات الكامنة بشكل مناسب، مع التعامل مع الاختلافات في الأبعاد والأحجام، لتسهيل المزيد من المعالجة أو الاستدلال للنموذج.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingMotionControl/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingMotionControl/tr.md)
 
 Kling Motion Control düğümü, bir referans videodaki hareketi, ifadeleri ve kamera hareketlerini, bir referans görseli ve metin istemiyle tanımlanan bir karaktere uygulayarak video oluşturur. Karakterin son yöneliminin referans videodan mı yoksa referans görselinden mi geleceğini kontrol etmenizi sağlar.
 

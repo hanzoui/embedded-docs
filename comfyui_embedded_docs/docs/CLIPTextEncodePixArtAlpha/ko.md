@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodePixArtAlpha/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodePixArtAlpha/ko.md)
 
 텍스트를 인코딩하고 PixArt Alpha의 해상도 조건을 설정합니다. 이 노드는 텍스트 입력을 처리하고 너비와 높이 정보를 추가하여 PixArt Alpha 모델에 특화된 조건 데이터를 생성합니다. PixArt Sigma 모델에는 적용되지 않습니다.
 

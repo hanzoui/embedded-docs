@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerLMS/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerLMS/ja.md)
 
 SamplerLMSノードは、拡散モデルで使用する最小平均二乗法（LMS）サンプラーを作成します。このノードはサンプリングプロセスで使用できるサンプラーオブジェクトを生成し、数値的安定性と精度のためにLMSアルゴリズムの次数を制御することができます。
 

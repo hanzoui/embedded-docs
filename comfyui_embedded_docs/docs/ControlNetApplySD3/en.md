@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ControlNetApplySD3/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ControlNetApplySD3/en.md)
 
 This node applies ControlNet guidance to Stable Diffusion 3 conditioning. It takes positive and negative conditioning inputs along with a ControlNet model and image, then applies the control guidance with adjustable strength and timing parameters to influence the generation process.
 

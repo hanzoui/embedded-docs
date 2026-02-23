@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PreviewAudio/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PreviewAudio/tr.md)
 
 PreviewAudio düğümü, arayüzde görüntülenebilen geçici bir ses önizleme dosyası oluşturur. SaveAudio düğümünden türetilmiştir ancak dosyaları rastgele bir dosya adı öneki ile geçici bir dizine kaydeder. Bu, kullanıcıların kalıcı dosyalar oluşturmadan ses çıktılarını hızlıca önizlemesine olanak tanır.
 

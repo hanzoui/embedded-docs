@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LtxvApiTextToVideo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LtxvApiTextToVideo/zh-TW.md)
 
 LTXV Text To Video 節點能根據文字描述生成專業品質的影片。它透過連接外部 API 來建立影片，並可自訂影片的持續時間、解析度和幀率。您還可以選擇為影片添加 AI 生成的音訊。
 

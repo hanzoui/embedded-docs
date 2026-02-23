@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoRetargetNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoRetargetNode/zh-TW.md)
 
 TripoRetargetNode 透過重新定向動作資料，將預先定義的動畫套用至 3D 角色模型。此節點會讀取先前處理過的 3D 模型，並套用多種預設動畫之一，最終生成一個帶有動畫的 3D 模型檔案作為輸出。該節點透過與 Tripo API 進行通訊來處理動畫重新定向操作。
 

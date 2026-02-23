@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VoxelToMeshBasic/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VoxelToMeshBasic/pt-BR.md)
 
 O nó VoxelToMeshBasic converte dados de voxel 3D em geometria de malha. Ele processa volumes de voxel aplicando um valor de limite para determinar quais partes do volume se tornam superfícies sólidas na malha resultante. O nó gera uma estrutura de malha completa com vértices e faces que pode ser usada para renderização e modelagem 3D.
 

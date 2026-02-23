@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableCascade_StageC_VAEEncode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableCascade_StageC_VAEEncode/ja.md)
 
 StableCascade_StageC_VAEEncodeノードは、画像をVAEエンコーダーで処理し、Stable Cascadeモデル用の潜在表現を生成します。入力画像を受け取り、指定されたVAEモデルを使用して圧縮し、2つの潜在表現を出力します。1つはステージC用、もう1つはステージB用のプレースホルダーです。compressionパラメータは、エンコード前の画像の縮小率を制御します。
 

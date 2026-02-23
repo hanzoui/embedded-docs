@@ -1,4 +1,4 @@
-Este nodo detecta automáticamente los modelos ubicados en la carpeta LoRA (incluyendo subcarpetas) con la ruta del modelo correspondiente `ComfyUI\models\loras`.
+Este nodo detecta automáticamente los modelos ubicados en la carpeta LoRA (incluyendo subcarpetas) con la ruta del modelo correspondiente `Hanzo Studio\models\loras`.
 
 El nodo Cargador LoRA se utiliza principalmente para cargar modelos LoRA. Puede pensar en los modelos LoRA como filtros que pueden dar a sus imágenes estilos, contenidos y detalles específicos:
 

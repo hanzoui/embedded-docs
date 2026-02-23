@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ZImageFunControlnet/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ZImageFunControlnet/ar.md)
 
 تطبق عقدة ZImageFunControlnet شبكة تحكم متخصصة للتأثير على عملية توليد الصور أو تحريرها. تستخدم نموذجًا أساسيًا، وترقيع نموذج، و VAE، مما يسمح لك بضبط قوة تأثير التحكم. يمكن لهذه العقدة العمل مع صورة أساسية، وصورة ترميم، وقناع لإجراء تحريرات أكثر استهدافًا.
 

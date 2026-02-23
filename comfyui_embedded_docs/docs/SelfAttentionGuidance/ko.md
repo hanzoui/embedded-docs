@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SelfAttentionGuidance/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SelfAttentionGuidance/ko.md)
 
 Self-Attention Guidance 노드는 샘플링 과정에서 어텐션 메커니즘을 수정하여 확산 모델에 guidance를 적용합니다. 이 노드는 무조건부 노이즈 제거 단계에서 어텐션 점수를 캡처하고, 이를 사용하여 최종 출력에 영향을 미치는 흐림 guidance 맵을 생성합니다. 이 기법은 모델 자체의 어텐션 패턴을 활용하여 생성 과정을 유도하는 데 도움을 줍니다.
 

@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanImageToImageApi/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanImageToImageApi/es.md)
 
 El nodo Wan Image to Image genera una imagen a partir de una o dos imágenes de entrada y un mensaje de texto. Transforma tus imágenes de entrada basándose en la descripción que proporciones, creando una nueva imagen que mantiene la relación de aspecto de tu entrada original. La imagen de salida tiene un tamaño fijo de 1.6 megapíxeles independientemente del tamaño de entrada.
 

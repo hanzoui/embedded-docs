@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeAuraflow/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeAuraflow/en.md)
 
 The ModelMergeAuraflow node allows you to blend two different models together by adjusting specific blending weights for various model components. It provides fine-grained control over how different parts of the models are merged, from initial layers to final outputs. This node is particularly useful for creating custom model combinations with precise control over the merging process.
 

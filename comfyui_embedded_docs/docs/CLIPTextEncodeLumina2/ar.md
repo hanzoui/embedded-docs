@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeLumina2/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeLumina2/ar.md)
 
 عُقدة تشفير نص CLIP لـ Lumina2 تقوم بتشفير موجه النظام وموجه المستخدم باستخدام نموذج CLIP إلى تضمين يمكنه توجيه نموذج الانتشار لتوليد صور محددة. تقوم بدمج موجه نظام مُعد مسبقًا مع موجه النص المخصص الخاص بك وتعالجهم من خلال نموذج CLIP لإنشاء بيانات تكييف لتوليد الصور.
 

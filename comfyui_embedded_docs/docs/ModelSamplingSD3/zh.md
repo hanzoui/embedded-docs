@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingSD3/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingSD3/zh.md)
 
 ModelSamplingSD3 节点将 Stable Diffusion 3 采样参数应用于模型。该节点通过调整控制采样分布特性的偏移参数，来修改模型的采样行为。它会创建一个应用了指定采样配置的输入模型副本。
 

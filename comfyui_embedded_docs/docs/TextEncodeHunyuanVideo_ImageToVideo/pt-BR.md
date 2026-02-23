@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeHunyuanVideo_ImageToVideo/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeHunyuanVideo_ImageToVideo/pt-BR.md)
 
 O nó TextEncodeHunyuanVideo_ImageToVideo cria dados de condicionamento para geração de vídeo combinando prompts de texto com incorporações de imagem. Ele utiliza um modelo CLIP para processar tanto a entrada de texto quanto as informações visuais de uma saída de visão CLIP, gerando tokens que mesclam essas duas fontes de acordo com a configuração especificada de intercalação de imagem.
 

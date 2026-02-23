@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MinimaxTextToVideoNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MinimaxTextToVideoNode/fr.md)
 
 Génère des vidéos de manière synchrone à partir d'une description textuelle et de paramètres optionnels en utilisant l'API de MiniMax. Ce nœud crée du contenu vidéo à partir de descriptions textuelles en se connectant au service de génération de vidéo à partir de texte de MiniMax.
 

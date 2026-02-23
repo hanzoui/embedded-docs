@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateList/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateList/en.md)
 
 The Create List node combines multiple inputs into a single, sequential list. It takes any number of inputs of the same data type and concatenates them in the order they are connected. This node is useful for preparing batches of data, such as images or text, to be processed by other nodes in a workflow.
 

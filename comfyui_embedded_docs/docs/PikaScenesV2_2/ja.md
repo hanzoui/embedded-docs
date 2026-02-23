@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaScenesV2_2/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaScenesV2_2/ja.md)
 
 PikaScenes v2.2ノードは、複数の画像を組み合わせて、すべての入力画像からオブジェクトを取り込んだ動画を作成します。最大5つの異なる画像を素材としてアップロードし、それらをシームレスにブレンドした高品質の動画を生成できます。
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIChatNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIChatNode/en.md)
 
 This node generates text responses from an OpenAI model. It allows you to have conversations with the AI model by sending text prompts and receiving generated responses. The node supports multi-turn conversations where it can remember previous context, and it can also process images and files as additional context for the model.
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageGrid/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageGrid/ja.md)
 
 Image Gridノードは、複数の画像を1つの整理されたグリッドまたはコラージュに結合します。画像のリストを受け取り、指定された列数に配置し、各画像を定義されたセルサイズに合わせてリサイズし、オプションでパディングを追加します。結果は、グリッドレイアウトで全ての入力画像を含む単一の新しい画像です。
 

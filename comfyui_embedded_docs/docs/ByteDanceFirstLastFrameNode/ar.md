@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceFirstLastFrameNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceFirstLastFrameNode/ar.md)
 
 يُنشئ هذا العقد فيديو باستخدام نص وصفي (prompt) إلى جانب صور الإطار الأول والإطار الأخير. يأخذ العقد وصفك واللقطتين الرئيسيتين لينشئ تسلسل فيديو كاملاً ينتقل بينهما. يوفر العقد خيارات متنوعة للتحكم في دقة الفيديو، ونسبة العرض إلى الارتفاع، والمدة، ومعاملات توليد أخرى.
 

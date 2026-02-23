@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MergeTextLists/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MergeTextLists/ko.md)
 
 이 노드는 여러 텍스트 목록을 하나의 통합된 목록으로 병합합니다. 텍스트 입력을 목록 형태로 받아들이고 이를 연결하는 방식으로 설계되었습니다. 노드는 병합된 목록의 총 텍스트 수를 기록합니다.
 

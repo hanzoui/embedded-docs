@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/T5TokenizerOptions/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/T5TokenizerOptions/zh.md)
 
 T5TokenizerOptions 节点允许您为各种 T5 模型类型配置分词器设置。它为多个 T5 模型变体（包括 t5xxl、pile_t5xl、t5base、mt5xl 和 umt5xxl）设置最小填充和最小长度参数。该节点接收 CLIP 输入，并返回应用了指定分词器选项的修改后 CLIP 模型。
 

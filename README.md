@@ -1,31 +1,31 @@
-# comfyui_embedded_docs
+# hanzo_studio_embedded_docs
 
 > [!NOTE]
-> This is only for core nodes. For embedded custom node documentation, please see <https://docs.comfy.org/custom-nodes/help_page>
+> This is only for core nodes. For embedded custom node documentation, please see <https://docs.hanzo.ai/custom-nodes/help_page>
 
 ## Updating Documentation
 
 Each core node should have a folder containing its node name, then a two letter locale.md, and potentially any assets along with it in the same folder.
 
-See [FluxProUltraImageNode](https://github.com/Comfy-Org/embedded-docs/tree/main/docs/FluxProUltraImageNode) as an example.
+See [FluxProUltraImageNode](https://github.com/hanzoui/embedded-docs/tree/main/docs/FluxProUltraImageNode) as an example.
 
 > [!NOTE]
 > A fallback is simply docs/NodeName.md, but this is discouraged.
 
 ## Previewing Changes Locally
 
-To preview your documentation changes in ComfyUI:
+To preview your documentation changes in Hanzo Studio:
 
 1. **Install editable version (optional but recommended):**
 
    ```bash
-   # If you have one, activate your ComfyUI virtual environment first
-   pip uninstall comfyui-embedded-docs  # Remove existing PyPI version
+   # If you have one, activate your Hanzo Studio virtual environment first
+   pip uninstall hanzo-studio-embedded-docs  # Remove existing PyPI version
    pip install -e /path/to/embedded-docs/  # Install editable version
    ```
 
 2. **Launch and preview:**
-   - Start ComfyUI
+   - Start Hanzo Studio
    - Refresh the frontend tab after making documentation changes
 
 > [!TIP]
@@ -58,7 +58,7 @@ npm install -g markdownlint-cli
 bash fix_markdown.sh
 
 # Fix linting issues for a specific node's documentation
-bash fix_markdown.sh ClipLoader  # This will only check files in comfyui_embedded_docs/docs/ClipLoader/
+bash fix_markdown.sh ClipLoader  # This will only check files in hanzo_studio_embedded_docs/docs/ClipLoader/
 
 # Or fix linting issues in markdown files, using powershell script (Windows)
 powershell -ExecutionPolicy Bypass -File fix_markdown.ps1

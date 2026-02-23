@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/UNetCrossAttentionMultiply/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UNetCrossAttentionMultiply/pt-BR.md)
 
 O nó UNetCrossAttentionMultiply aplica fatores de multiplicação ao mecanismo de atenção cruzada em um modelo UNet. Ele permite que você escale os componentes de consulta, chave, valor e saída das camadas de atenção cruzada para experimentar diferentes comportamentos e efeitos de atenção.
 

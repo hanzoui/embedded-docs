@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanPhantomSubjectToVideo/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanPhantomSubjectToVideo/ja.md)
 
 WanPhantomSubjectToVideoノードは、コンディショニング入力とオプションの参照画像を処理することで、動画コンテンツを生成します。動画生成のための潜在表現を作成し、入力画像が提供された場合はそこからの視覚的ガイダンスを取り込むことができます。このノードは、動画モデル向けに時間次元の連結を行ったコンディショニングデータを準備し、修正されたコンディショニングと生成された潜在動画データを出力します。
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageUpscaleWithModel/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageUpscaleWithModel/pt-BR.md)
 
 Este nó foi projetado para aumentar a escala de imagens usando um modelo de upscale especificado. Ele gerencia o processo de upscaling de forma eficiente, ajustando a imagem para o dispositivo apropriado, otimizando o uso de memória e aplicando o modelo de upscale de maneira segmentada (em blocos) para evitar possíveis erros de falta de memória.
 

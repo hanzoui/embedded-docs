@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LtxvApiImageToVideo/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LtxvApiImageToVideo/ja.md)
 
 LTXV Image To Videoノードは、単一の開始画像からプロ品質の動画を生成します。外部APIを使用して、テキストプロンプトに基づいた動画シーケンスを作成し、動画の長さ、解像度、フレームレートをカスタマイズできます。
 

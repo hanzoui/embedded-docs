@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceSD3/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceSD3/en.md)
 
 The SkipLayerGuidanceSD3 node enhances guidance towards detailed structure by applying an additional set of classifier-free guidance with skipped layers. This experimental implementation is inspired by Perturbed Attention Guidance and works by selectively bypassing certain layers during the negative conditioning process to improve structural details in the generated output.
 

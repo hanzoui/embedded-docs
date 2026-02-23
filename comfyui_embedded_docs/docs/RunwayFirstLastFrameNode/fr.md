@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RunwayFirstLastFrameNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RunwayFirstLastFrameNode/fr.md)
 
 Le nœud Runway First-Last-Frame to Video génère des vidéos en chargeant des images clés de début et de fin accompagnées d'une invite textuelle. Il crée des transitions fluides entre les images de départ et de fin fournies en utilisant le modèle Gen-3 de Runway. Ceci est particulièrement utile pour les transitions complexes où l'image de fin diffère significativement de l'image de départ.
 

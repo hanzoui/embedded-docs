@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingLipSyncAudioToVideoNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingLipSyncAudioToVideoNode/ar.md)
 
 ```markdown
 عُقْدة "Kling Lip Sync Audio to Video" تقوم بمزامنة حركات الفم في ملف فيديو لتتوافق مع المحتوى الصوتي لملف صوتي. تقوم هذه العقدة بتحليل الأنماط الصوتية في الملف الصوتي وتعديل الحركات الوجهية في الفيديو لإنشاء مزامنة شفاه واقعية. تتطلب هذه العملية وجود فيديو يحتوي على وجه واضح وملف صوتي يحتوي على أصوات يمكن تمييزها بوضوح.

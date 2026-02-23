@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveAnimatedPNG/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveAnimatedPNG/zh-TW.md)
 
 SaveAnimatedPNG 節點專為從影格序列建立並儲存動態 PNG 影像而設計。它能將個別影像影格組合成連貫的動畫，並允許自訂影格持續時間、循環播放和元數據包含功能。
 

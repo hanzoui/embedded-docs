@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentFromBatch/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentFromBatch/zh-TW.md)
 
 此節點設計用於根據指定的批次索引和長度，從給定的批次中提取特定的潛在樣本子集。它允許對潛在樣本進行選擇性處理，便於對批次中的較小區段進行操作以提高效率或實現針對性處理。
 

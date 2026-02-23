@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIChatNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIChatNode/tr.md)
 
 Bu düğüm, bir OpenAI modelinden metin yanıtları oluşturur. Metin istemleri göndererek ve oluşturulan yanıtları alarak AI modeliyle konuşma yapmanıza olanak tanır. Düğüm, önceki bağlamı hatırlayabildiği çok turlu konuşmaları destekler ve ayrıca model için ek bağlam olarak görselleri ve dosyaları işleyebilir.
 

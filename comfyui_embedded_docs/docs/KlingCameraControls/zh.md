@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingCameraControls/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingCameraControls/zh.md)
 
 Kling Camera Controls 节点允许您配置各种摄像机移动和旋转参数，用于在视频生成中创建运动控制效果。它提供摄像机定位、旋转和缩放控制，以模拟不同的摄像机运动。
 

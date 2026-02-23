@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingImageToVideoWithAudio/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingImageToVideoWithAudio/ar.md)
 
 يستخدم عقد Kling Image(First Frame) to Video with Audio نموذج Kling AI لتوليد مقطع فيديو قصير من صورة بداية واحدة وموجه نصي. يقوم بإنشاء تسلسل فيديو يبدأ بالصورة المقدمة ويمكن أن يتضمن اختياريًا صوتًا مولَّدًا بالذكاء الاصطناعي لمرافقة المشاهد المرئية.
 

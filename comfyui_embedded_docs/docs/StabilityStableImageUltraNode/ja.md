@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityStableImageUltraNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityStableImageUltraNode/ja.md)
 
 プロンプトと解像度に基づいて画像を同期的に生成します。このノードはStability AIのStable Image Ultraモデルを使用して画像を作成し、テキストプロンプトを処理して指定されたアスペクト比とスタイルに対応する画像を生成します。
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LtxvApiImageToVideo/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LtxvApiImageToVideo/ko.md)
 
 LTXV Image To Video 노드는 단일 시작 이미지에서 전문적인 품질의 동영상을 생성합니다. 외부 API를 사용하여 텍스트 프롬프트를 기반으로 동영상 시퀀스를 생성하며, 지속 시간, 해상도 및 프레임 속도를 사용자 정의할 수 있습니다.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeWAN2_1/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeWAN2_1/pt-BR.md)
 
 O nó ModelMergeWAN2_1 mescla dois modelos combinando seus componentes usando médias ponderadas. Ele suporta diferentes tamanhos de modelo, incluindo modelos de 1.3B com 30 blocos e modelos de 14B com 40 blocos, com tratamento especial para modelos de imagem para vídeo que incluem um componente extra de incorporação de imagem. Cada componente dos modelos pode ser ponderado individualmente para controlar a proporção de mesclagem entre os dois modelos de entrada.
 

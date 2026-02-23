@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingVideoExtendNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingVideoExtendNode/tr.md)
 
 Kling Video Extend Node, diğer Kling düğümleri tarafından oluşturulan videoları genişletmenize olanak tanır. Video ID'si ile tanımlanan mevcut bir videoyu alır ve metin prompt'larınıza dayalı olarak ek içerik oluşturur. Düğüm, genişletme isteğinizi Kling API'sine göndererek genişletilmiş videoyu ve yeni ID'si ile süresini döndürür.
 

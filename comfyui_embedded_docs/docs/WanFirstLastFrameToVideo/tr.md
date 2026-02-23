@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanFirstLastFrameToVideo/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanFirstLastFrameToVideo/tr.md)
 
 WanFirstLastFrameToVideo düğümü, başlangıç ve bitiş karelerini metin istemleriyle birleştirerek video koşullandırma oluşturur. İlk ve son kareleri kodlayarak, üretim sürecini yönlendirmek için maskeler uygulayarak ve mevcut olduğunda CLIP görsel özelliklerini dahil ederek video üretimi için gizli bir temsil oluşturur. Bu düğüm, video modellerinin belirtilen başlangıç ve bitiş noktaları arasında tutarlı diziler oluşturması için hem pozitif hem de negatif koşullandırmayı hazırlar.
 

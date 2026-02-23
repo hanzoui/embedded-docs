@@ -1,6 +1,6 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeFlux/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeFlux/pt-BR.md)
 
-`CLIPTextEncodeFlux` é um nó avançado de codificação de texto no ComfyUI, projetado especificamente para a arquitetura Flux. Ele utiliza um mecanismo de codificador duplo (CLIP-L e T5XXL) para processar tanto palavras-chave estruturadas quanto descrições detalhadas em linguagem natural, fornecendo ao modelo Flux uma compreensão de texto mais precisa e abrangente para melhorar a qualidade da geração de imagem a partir de texto.
+`CLIPTextEncodeFlux` é um nó avançado de codificação de texto no Hanzo Studio, projetado especificamente para a arquitetura Flux. Ele utiliza um mecanismo de codificador duplo (CLIP-L e T5XXL) para processar tanto palavras-chave estruturadas quanto descrições detalhadas em linguagem natural, fornecendo ao modelo Flux uma compreensão de texto mais precisa e abrangente para melhorar a qualidade da geração de imagem a partir de texto.
 
 Este nó é baseado em um mecanismo de colaboração de codificadores duplos:
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVConditioning/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVConditioning/zh-TW.md)
 
 LTXVConditioning 節點會為影片生成模型的正向與負向條件輸入添加幀率資訊。它接收現有的條件資料，並將指定的幀率值應用到兩組條件資料上，使其適用於影片模型處理。
 

@@ -1,6 +1,6 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveImageDataSetToFolder/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImageDataSetToFolder/ar.md)
 
-يحفظ هذا العقد قائمة من الصور في مجلد محدد داخل دليل الإخراج الخاص بـ ComfyUI. يأخذ العقد عدة صور كمدخلات ويكتبها على القرص مع بادئة اسم ملف قابلة للتخصيص.
+يحفظ هذا العقد قائمة من الصور في مجلد محدد داخل دليل الإخراج الخاص بـ Hanzo Studio. يأخذ العقد عدة صور كمدخلات ويكتبها على القرص مع بادئة اسم ملف قابلة للتخصيص.
 
 ## المدخلات
 

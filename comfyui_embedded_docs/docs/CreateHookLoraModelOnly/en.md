@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookLoraModelOnly/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookLoraModelOnly/en.md)
 
 This node creates a LoRA (Low-Rank Adaptation) hook that applies only to the model component, allowing you to modify model behavior without affecting the CLIP component. It loads a LoRA file and applies it with a specified strength to the model while keeping the CLIP component unchanged. The node can be chained with previous hooks to create complex modification pipelines.
 

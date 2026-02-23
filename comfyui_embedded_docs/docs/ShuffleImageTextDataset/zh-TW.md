@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ShuffleImageTextDataset/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ShuffleImageTextDataset/zh-TW.md)
 
 此節點會將圖片清單與文字清單一起隨機打亂，同時保持它們的配對關係。它使用隨機種子來決定打亂順序，確保每次使用相同種子時，相同的輸入清單都會以相同方式被打亂。
 

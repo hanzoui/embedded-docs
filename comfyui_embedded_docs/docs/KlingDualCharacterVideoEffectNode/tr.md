@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingDualCharacterVideoEffectNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingDualCharacterVideoEffectNode/tr.md)
 
 Kling Dual Character Video Effect Node, seçilen sahneye dayalı özel efektler içeren videolar oluşturur. İki görüntü alır ve ilk görüntüyü kompozit videonun sol tarafına, ikinci görüntüyü ise sağ tarafına konumlandırır. Seçilen efekt sahnesine bağlı olarak farklı görsel efektler uygulanır.
 

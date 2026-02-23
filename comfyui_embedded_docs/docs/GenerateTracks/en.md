@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GenerateTracks/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GenerateTracks/en.md)
 
 The `GenerateTracks` node creates multiple parallel motion paths for video generation. It defines a primary path from a start point to an end point, then generates a set of tracks that run parallel to this path, spaced evenly apart. You can control the shape of the path (straight line or Bezier curve), the speed of movement along it, and which frames the tracks are visible in.
 

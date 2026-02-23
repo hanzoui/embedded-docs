@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanContextWindowsManual/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanContextWindowsManual/en.md)
 
 The WAN Context Windows (Manual) node allows you to manually configure context windows for WAN-like models with 2-dimensional processing. It applies custom context window settings during sampling by specifying the window length, overlap, scheduling method, and fusion technique. This gives you precise control over how the model processes information across different context regions.
 

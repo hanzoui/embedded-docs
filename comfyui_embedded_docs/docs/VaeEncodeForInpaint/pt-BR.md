@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEEncodeForInpaint/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEEncodeForInpaint/pt-BR.md)
 
 Este nó foi projetado para codificar imagens em uma representação latente adequada para tarefas de inpainting, incorporando etapas adicionais de pré-processamento para ajustar a imagem de entrada e a máscara para uma codificação ideal pelo modelo VAE.
 

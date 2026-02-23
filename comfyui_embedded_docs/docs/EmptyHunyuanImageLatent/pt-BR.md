@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyHunyuanImageLatent/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyHunyuanImageLatent/pt-BR.md)
 
 O nó EmptyHunyuanImageLatent cria um tensor latente vazio com dimensões específicas para uso com modelos de geração de imagem Hunyuan. Ele gera um ponto de partida em branco que pode ser processado por nós subsequentes no fluxo de trabalho. O nó permite especificar a largura, altura e tamanho do lote do espaço latente.
 

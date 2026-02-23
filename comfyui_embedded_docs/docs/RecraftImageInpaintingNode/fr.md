@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftImageInpaintingNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftImageInpaintingNode/fr.md)
 
 Ce nœud modifie des images en fonction d'une instruction textuelle et d'un masque. Il utilise l'API Recraft pour éditer intelligemment des zones spécifiques d'une image que vous définissez avec un masque, tout en laissant le reste de l'image inchangé.
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringTrim/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringTrim/ja.md)
 
 StringTrimノードは、テキスト文字列の先頭、末尾、または両側から空白文字を削除します。文字列の左側、右側、または両側からトリミングすることを選択できます。不要なスペース、タブ、改行文字を削除することで、テキスト入力をクリーンアップするのに役立ちます。
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoRefineNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoRefineNode/ar.md)
 
 يعمل TripoRefineNode على تحسين نماذج ثلاثية الأبعاد المسودة المُنشأة خصيصًا بواسطة نماذج Tripo الإصدار 1.4. يأخذ المُعرف الخاص بمهمة النموذج ويعالجه عبر واجهة Tripo البرمجية لتوليد نسخة محسنة من النموذج. صُمم هذا العقد للعمل حصريًا مع نماذج المسودة المُنتجة بواسطة نماذج Tripo الإصدار 1.4.
 

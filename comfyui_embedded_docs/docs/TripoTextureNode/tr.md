@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoTextureNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoTextureNode/tr.md)
 
 TripoTextureNode, Tripo API'sini kullanarak dokulu 3B modeller oluşturur. Bir model görev kimliği alır ve PBR malzemeleri, doku kalitesi ayarları ve hizalama yöntemleri dahil olmak üzere çeşitli seçeneklerle doku oluşturmayı uygular. Düğüm, doku oluşturma isteğini işlemek için Tripo API'si ile iletişim kurar ve ortaya çıkan model dosyasını ve görev kimliğini döndürür.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIInputFiles/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIInputFiles/ar.md)
 
 ```markdown
 يقوم بتحميل وتنسيق ملفات الإدخال لواجهة برمجة تطبيقات OpenAI. يُعِد هذا العقد ملفات النصوص وملفات PDF لتضمينها كمدخلات سياقية لعقد محادثة OpenAI. سيتم قراءة الملفات من قبل نموذج OpenAI عند إنشاء الردود. يمكن ربط عدة عقد لملفات الإدخال معًا لتضمين عدة ملفات في رسالة واحدة.

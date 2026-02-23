@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SetHookKeyframes/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SetHookKeyframes/en.md)
 
 The Set Hook Keyframes node allows you to apply keyframe scheduling to existing hook groups. It takes a hook group and optionally applies keyframe timing information to control when different hooks are executed during the generation process. When keyframes are provided, the node clones the hook group and sets the keyframe timing on all hooks within the group.
 

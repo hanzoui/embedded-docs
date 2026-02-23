@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageOnlyCheckpointSave/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageOnlyCheckpointSave/ar.md)
 
 يحفظ العقدة ImageOnlyCheckpointSave ملف نقطة فحص يحتوي على نموذج، ومرمِّز رؤية CLIP، و VAE. تقوم بإنشاء ملف safetensors ببادئة اسم الملف المحددة وتخزينه في دليل الإخراج. تم تصميم هذه العقدة خصيصًا لحفظ مكونات النماذج المتعلقة بالصور معًا في ملف نقطة فحص واحد.
 
@@ -9,7 +9,7 @@
 | `النموذج` | MODEL | نعم | - | النموذج المراد حفظه في نقطة الفحص |
 | `رؤية Clip` | CLIP_VISION | نعم | - | مرمِّز رؤية CLIP المراد حفظه في نقطة الفحص |
 | `VAE` | VAE | نعم | - | VAE (المشفر التلقائي التبايني) المراد حفظه في نقطة الفحص |
-| `بادئة اسم الملف` | STRING | نعم | - | البادئة لاسم ملف الإخراج (الافتراضي: "checkpoints/ComfyUI") |
+| `بادئة اسم الملف` | STRING | نعم | - | البادئة لاسم ملف الإخراج (الافتراضي: "checkpoints/Hanzo Studio") |
 | `prompt` | PROMPT | لا | - | معامل مخفي لبيانات موجه سير العمل |
 | `extra_pnginfo` | EXTRA_PNGINFO | لا | - | معامل مخفي لبيانات PNG إضافية |
 

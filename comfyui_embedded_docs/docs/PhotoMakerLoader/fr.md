@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PhotoMakerLoader/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PhotoMakerLoader/fr.md)
 
 Le nœud PhotoMakerLoader charge un modèle PhotoMaker à partir des fichiers de modèles disponibles. Il lit le fichier de modèle spécifié et prépare l'encodeur d'identité PhotoMaker pour une utilisation dans les tâches de génération d'images basées sur l'identité. Ce nœud est marqué comme expérimental et est destiné à des fins de test.
 

@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateVideo/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateVideo/es.md)
 
 El nodo Create Video genera un archivo de video a partir de una secuencia de imágenes. Puedes especificar la velocidad de reproducción usando fotogramas por segundo y opcionalmente añadir audio al video. El nodo combina tus imágenes en un formato de video que puede reproducirse con la velocidad de fotogramas especificada.
 

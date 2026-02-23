@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DCTestNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DCTestNode/tr.md)
 
 DCTestNode, kullanıcının dinamik bir birleşik giriş kutusundan yaptığı seçime bağlı olarak farklı veri türleri döndüren bir mantık düğümüdür. Seçilen seçeneğin hangi giriş alanının etkin olacağını ve düğümün ne tür bir değer çıktılayacağını belirlediği bir koşullu yönlendirici gibi çalışır.
 

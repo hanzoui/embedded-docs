@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageSkinEnhancerNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageSkinEnhancerNode/ar.md)
 
 يُطبق عقد Magnific Image Skin Enhancer معالجة ذكاء اصطناعي متخصصة على صور البورتريه لتحسين مظهر البشرة. ويقدم ثلاثة أوضاع متميزة لأهداف تحسين مختلفة: الوضع الإبداعي للتأثيرات الفنية، والوضع الأمين للحفاظ على المظهر الأصلي، والوضع المرن للتحسينات المستهدفة مثل الإضاءة أو الواقعية. يرفع العقد الصورة إلى واجهة برمجة تطبيقات خارجية للمعالجة ويعيد النتيجة المحسنة.
 

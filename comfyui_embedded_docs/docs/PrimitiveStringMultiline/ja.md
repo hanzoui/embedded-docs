@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PrimitiveStringMultiline/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PrimitiveStringMultiline/ja.md)
 
 PrimitiveStringMultilineノードは、ワークフローを通じて文字列値を入力および渡すための複数行テキスト入力フィールドを提供します。このノードは複数行にわたるテキスト入力を受け付け、同じ文字列値を変更せずに出力します。長いテキストコンテンツや複数行にわたるフォーマット済みテキストを入力する必要がある場合に便利です。
 

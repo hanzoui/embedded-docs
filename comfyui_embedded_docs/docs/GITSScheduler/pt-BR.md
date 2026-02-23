@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GITSScheduler/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GITSScheduler/pt-BR.md)
 
 O nó GITSScheduler gera um cronograma de sigmas de ruído para o método de amostragem GITS (Generative Iterative Time Steps). Ele calcula os valores de sigma com base em um parâmetro de coeficiente e no número de etapas, com um fator de remoção de ruído opcional que pode reduzir o total de etapas utilizadas. O nó utiliza níveis de ruído predefinidos e interpolação para criar o cronograma de sigmas final.
 

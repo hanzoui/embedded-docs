@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaTextToVideoNode2_2/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaTextToVideoNode2_2/ar.md)
 
 عُقْدة Pika Text2Video الإصدار 2.2 تُرسل نص وصف إلى واجهة برمجة تطبيقات Pika الإصدار 2.2 لتوليد فيديو. تقوم بتحويل وصفك النصي إلى فيديو باستخدام خدمة توليد الفيديو بالذكاء الاصطناعي من Pika. تتيح لك العُقْدة تخصيص جوانب مختلفة من عملية توليد الفيديو بما في ذلك نسبة الأبعاد، والمدة، والدقة.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageRelightNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageRelightNode/zh-TW.md)
 
 Magnific Image Relight 節點可調整輸入圖像的照明效果。它能根據文字提示應用風格化照明，或從可選的參考圖像中轉移照明特性。此節點提供多種控制選項，用於微調最終輸出的亮度、對比度和整體氛圍。
 

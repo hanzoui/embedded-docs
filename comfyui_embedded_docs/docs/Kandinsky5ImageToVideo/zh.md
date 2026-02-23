@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Kandinsky5ImageToVideo/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Kandinsky5ImageToVideo/zh.md)
 
 Kandinsky5ImageToVideo 节点为使用 Kandinsky 模型生成视频准备条件数据和潜在空间数据。它会创建一个空的视频潜在张量，并可选择性地编码起始图像以引导生成视频的初始帧，同时相应地修改正向和负向条件数据。
 

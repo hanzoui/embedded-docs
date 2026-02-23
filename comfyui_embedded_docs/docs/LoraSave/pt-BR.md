@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraSave/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraSave/pt-BR.md)
 
 O nó LoraSave extrai e salva arquivos LoRA (Low-Rank Adaptation) a partir de diferenças entre modelos. Ele pode processar diferenças do modelo de difusão, diferenças do codificador de texto ou ambos, convertendo-os para o formato LoRA com um *rank* e tipo especificados. O arquivo LoRA resultante é salvo no diretório de saída para uso posterior.
 
@@ -6,7 +6,7 @@ O nó LoraSave extrai e salva arquivos LoRA (Low-Rank Adaptation) a partir de di
 
 | Parâmetro | Tipo de Dados | Obrigatório | Intervalo | Descrição |
 |-----------|-----------|----------|-------|-------------|
-| `filename_prefix` | STRING | Sim | - | O prefixo para o nome do arquivo de saída (padrão: "loras/ComfyUI_extracted_lora") |
+| `filename_prefix` | STRING | Sim | - | O prefixo para o nome do arquivo de saída (padrão: "loras/Hanzo Studio_extracted_lora") |
 | `rank` | INT | Sim | 1-4096 | O valor de *rank* para o LoRA, controlando o tamanho e a complexidade (padrão: 8) |
 | `lora_type` | COMBO | Sim | Múltiplas opções disponíveis | O tipo de LoRA a ser criado, com várias opções disponíveis |
 | `bias_diff` | BOOLEAN | Sim | - | Se deve incluir diferenças de *bias* no cálculo do LoRA (padrão: True) |

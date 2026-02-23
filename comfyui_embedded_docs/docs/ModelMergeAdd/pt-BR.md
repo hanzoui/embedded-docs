@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeAdd/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeAdd/pt-BR.md)
 
 O nó ModelMergeAdd é projetado para mesclar dois modelos adicionando patches-chave de um modelo a outro. Este processo envolve clonar o primeiro modelo e, em seguida, aplicar patches do segundo modelo, permitindo a combinação de características ou comportamentos de ambos os modelos.
 

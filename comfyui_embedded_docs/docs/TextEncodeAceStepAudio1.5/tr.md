@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeAceStepAudio1.5/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeAceStepAudio1.5/tr.md)
 
 TextEncodeAceStepAudio1.5 düğümü, AceStepAudio 1.5 modeliyle kullanılmak üzere metin ve sesle ilgili meta verileri hazırlar. Betimleyici etiketleri, şarkı sözlerini ve müzikal parametreleri alır, ardından bunları ses üretimi için uygun bir koşullandırma formatına dönüştürmek için bir CLIP modeli kullanır.
 

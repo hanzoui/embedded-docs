@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RunwayImageToVideoNodeGen3a/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RunwayImageToVideoNodeGen3a/ja.md)
 
 Runway Image to Video (Gen3a Turbo) ノードは、RunwayのGen3a Turboモデルを使用して、単一の開始フレームから動画を生成します。テキストプロンプトと初期画像フレームを受け取り、指定された再生時間とアスペクト比に基づいて動画シーケンスを作成します。このノードはRunwayのAPIに接続し、リモートで生成処理を行います。
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanTrackToVideo/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanTrackToVideo/pt-BR.md)
 
 O nó WanTrackToVideo converte dados de rastreamento de movimento em sequências de vídeo, processando pontos de rastreamento e gerando os quadros de vídeo correspondentes. Ele recebe coordenadas de rastreamento como entrada e produz condicionamentos de vídeo e representações latentes que podem ser usadas para geração de vídeo. Quando nenhum rastreamento é fornecido, ele recorre à conversão padrão de imagem para vídeo.
 

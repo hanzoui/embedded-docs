@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeControlnet/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeControlnet/pt-BR.md)
 
 O nó CLIPTextEncodeControlnet processa uma entrada de texto usando um modelo CLIP e a combina com dados de condicionamento existentes para criar uma saída de condicionamento aprimorada para aplicações de controlnet. Ele tokeniza o texto de entrada, o codifica através do modelo CLIP e adiciona os *embeddings* resultantes aos dados de condicionamento fornecidos como parâmetros de controlnet de atenção cruzada.
 

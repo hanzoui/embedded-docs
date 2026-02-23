@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ShuffleDataset/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ShuffleDataset/ar.md)
 
 يأخذ عقد Shuffle Dataset قائمة من الصور ويغير ترتيبها عشوائيًا. يستخدم قيمة بذرة للتحكم في العشوائية، مما يضمن إمكانية إعادة إنتاج نفس ترتيب الخلط. يكون هذا مفيدًا لعشوائية تسلسل الصور في مجموعة البيانات قبل المعالجة.
 

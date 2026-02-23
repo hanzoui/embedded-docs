@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingContinuousV/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingContinuousV/es.md)
 
 El nodo ModelSamplingContinuousV modifica el comportamiento de muestreo de un modelo aplicando parámetros de muestreo continuo de predicción-V. Crea un clon del modelo de entrada y lo configura con ajustes personalizados de rango sigma para un control avanzado del muestreo. Esto permite a los usuarios ajustar finamente el proceso de muestreo con valores sigma mínimos y máximos específicos.
 

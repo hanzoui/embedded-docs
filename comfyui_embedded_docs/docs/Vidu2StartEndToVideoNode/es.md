@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu2StartEndToVideoNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu2StartEndToVideoNode/es.md)
 
 Este nodo genera un vídeo interpolando entre un fotograma inicial y un final proporcionados, guiado por un texto descriptivo. Utiliza un modelo Vidu especificado para crear una transición suave entre las dos imágenes durante una duración establecida.
 

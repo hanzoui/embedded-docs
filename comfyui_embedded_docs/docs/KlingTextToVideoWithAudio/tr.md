@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingTextToVideoWithAudio/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingTextToVideoWithAudio/tr.md)
 
 Kling Text to Video with Audio düğümü, bir metin açıklamasından kısa bir video oluşturur. Kling AI servisine bir istek gönderir; servis, prompt'u işler ve bir video dosyası döndürür. Düğüm ayrıca, metne dayalı olarak videoya eşlik eden bir ses de oluşturabilir.
 

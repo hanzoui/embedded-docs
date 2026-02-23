@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyAceStepLatentAudio/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyAceStepLatentAudio/zh-TW.md)
 
 EmptyAceStepLatentAudio 節點可建立指定時長的空白潛在音訊樣本。它會生成一批靜音的潛在音訊，內容全為零值，其長度是根據輸入的秒數和音訊處理參數計算得出。此節點對於需要初始化潛在表徵的音訊處理工作流程非常實用。
 

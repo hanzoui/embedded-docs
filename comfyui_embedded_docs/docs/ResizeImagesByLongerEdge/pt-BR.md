@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResizeImagesByLongerEdge/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResizeImagesByLongerEdge/pt-BR.md)
 
 O nó **Redimensionar Imagens pela Borda Mais Longa** redimensiona uma ou mais imagens para que seu lado mais longo corresponda a um comprimento alvo especificado. Ele determina automaticamente se a largura ou a altura é maior e dimensiona a outra dimensão proporcionalmente para preservar a proporção original da imagem. Isso é útil para padronizar tamanhos de imagem com base em sua maior dimensão.
 

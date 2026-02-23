@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVImgToVideo/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVImgToVideo/ko.md)
 
 LTXVImgToVideo 노드는 입력 이미지를 비디오 생성 모델을 위한 비디오 잠재 표현으로 변환합니다. 단일 이미지를 가져와 VAE 인코더를 사용하여 프레임 시퀀스로 확장한 후, 비디오 생성 과정에서 원본 이미지 콘텐츠가 보존되는 정도와 수정되는 정도를 결정하는 강도 제어를 통해 조건화를 적용합니다.
 

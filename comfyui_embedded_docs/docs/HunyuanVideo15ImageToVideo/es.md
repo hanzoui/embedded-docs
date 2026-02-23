@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanVideo15ImageToVideo/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanVideo15ImageToVideo/es.md)
 
 El nodo HunyuanVideo15ImageToVideo prepara los datos de condicionamiento y espacio latente para la generación de video basada en el modelo HunyuanVideo 1.5. Crea una representación latente inicial para una secuencia de video y puede integrar opcionalmente una imagen de inicio o una salida de visión CLIP para guiar el proceso de generación.
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveAudioOpus/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveAudioOpus/ko.md)
 
 SaveAudioOpus 노드는 오디오 데이터를 Opus 형식 파일로 저장합니다. 오디오 입력을 받아 압축된 Opus 파일로 내보내며, 품질 설정을 구성할 수 있습니다. 이 노드는 파일 이름 지정을 자동으로 처리하고 지정된 출력 디렉토리에 결과를 저장합니다.
 
@@ -7,7 +7,7 @@ SaveAudioOpus 노드는 오디오 데이터를 Opus 형식 파일로 저장합�
 | 매개변수 | 데이터 타입 | 필수 | 범위 | 설명 |
 |-----------|-----------|----------|-------|-------------|
 | `audio` | AUDIO | 예 | - | Opus 파일로 저장할 오디오 데이터 |
-| `filename_prefix` | STRING | 아니오 | - | 출력 파일 이름의 접두사 (기본값: "audio/ComfyUI") |
+| `filename_prefix` | STRING | 아니오 | - | 출력 파일 이름의 접두사 (기본값: "audio/Hanzo Studio") |
 | `quality` | COMBO | 아니오 | "64k"<br>"96k"<br>"128k"<br>"192k"<br>"320k" | Opus 파일의 오디오 품질 설정 (기본값: "128k") |
 
 ## 출력

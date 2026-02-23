@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RunwayImageToVideoNodeGen3a/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RunwayImageToVideoNodeGen3a/es.md)
 
 El nodo Runway Image to Video (Gen3a Turbo) genera un video a partir de una única imagen inicial utilizando el modelo Gen3a Turbo de Runway. Toma un texto descriptivo y una imagen de inicio, luego crea una secuencia de video basada en la duración y relación de aspecto especificadas. Este nodo se conecta a la API de Runway para procesar la generación de forma remota.
 

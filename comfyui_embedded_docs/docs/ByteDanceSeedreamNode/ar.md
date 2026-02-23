@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceSeedreamNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceSeedreamNode/ar.md)
 
 يوفر عقد ByteDance Seedream 4 إمكانيات موحدة لتحويل النص إلى صورة وتحرير دقيق للجمل المفردة بدقة تصل إلى 4K. يمكنه إنشاء صور جديدة من نصوص الأوامر أو تحرير الصور الحالية باستخدام تعليمات نصية. يدور العقد كلًا من إنشاء الصور المفردة والتوليد المتسلسل للصور المتعددة ذات الصلة.
 

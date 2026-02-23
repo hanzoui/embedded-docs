@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Rodin3D_Gen2/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Rodin3D_Gen2/ko.md)
 
 Rodin3D_Gen2 노드는 Rodin API를 사용하여 3D 에셋을 생성합니다. 입력 이미지를 받아 다양한 재질 유형과 폴리곤 수를 가진 3D 모델로 변환합니다. 이 노드는 작업 생성, 상태 폴링, 파일 다운로드를 포함한 전체 생성 과정을 자동으로 처리합니다.
 

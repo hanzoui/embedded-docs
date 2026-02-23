@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ComfySoftSwitchNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ComfySoftSwitchNode/fr.md)
 
 Le nœud Soft Switch sélectionne entre deux valeurs d'entrée possibles en fonction d'une condition booléenne. Il renvoie la valeur de l'entrée `on_true` lorsque l'interrupteur (`switch`) est vrai, et la valeur de l'entrée `on_false` lorsque l'interrupteur est faux. Ce nœud est conçu pour être "paresseux" (lazy), ce qui signifie qu'il n'évalue que l'entrée nécessaire en fonction de l'état de l'interrupteur.
 

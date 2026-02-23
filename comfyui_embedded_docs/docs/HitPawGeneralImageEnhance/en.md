@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HitPawGeneralImageEnhance/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HitPawGeneralImageEnhance/en.md)
 
 This node enhances low-resolution images by upscaling them to super-resolution, removing artifacts and noise. It uses an external API to process the image and can automatically adjust the input size to stay within processing limits. The maximum allowed output size is 4 megapixels.
 

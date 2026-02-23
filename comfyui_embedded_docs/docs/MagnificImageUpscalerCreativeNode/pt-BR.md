@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageUpscalerCreativeNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageUpscalerCreativeNode/pt-BR.md)
 
 Este nó utiliza o serviço Magnific AI para ampliar e aprimorar criativamente uma imagem. Ele permite que você oriente o aprimoramento com um prompt de texto, escolha um estilo específico para otimizar e controle vários aspectos do processo criativo, como detalhe, semelhança com o original e força da estilização. O nó gera uma imagem ampliada no fator escolhido (2x, 4x, 8x ou 16x), com um tamanho máximo de saída de 25,3 megapixels.
 

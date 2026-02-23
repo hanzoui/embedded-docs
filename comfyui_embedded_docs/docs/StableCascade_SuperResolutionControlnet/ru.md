@@ -1,4 +1,4 @@
-> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableCascade_SuperResolutionControlnet/ru.md)
+> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableCascade_SuperResolutionControlnet/ru.md)
 
 Узел StableCascade_SuperResolutionControlnet подготавливает входные данные для обработки супер-разрешения Stable Cascade. Он принимает входное изображение и кодирует его с использованием VAE для создания входных данных controlnet, одновременно генерируя заполняющие латентные представления для стадии C и стадии B конвейера Stable Cascade.
 

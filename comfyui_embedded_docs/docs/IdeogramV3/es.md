@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/IdeogramV3/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/IdeogramV3/es.md)
 
 El nodo Ideogram V3 genera imágenes utilizando el modelo Ideogram V3. Soporta tanto la generación regular de imágenes a partir de prompts de texto como la edición de imágenes cuando se proporcionan tanto una imagen como una máscara. El nodo ofrece varios controles para la relación de aspecto, resolución, velocidad de generación e imágenes opcionales de referencia de personajes.
 

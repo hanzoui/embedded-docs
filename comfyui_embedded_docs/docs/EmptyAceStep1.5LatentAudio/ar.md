@@ -1,8 +1,8 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyAceStep1.5LatentAudio/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyAceStep1.5LatentAudio/ar.md)
 
 # Empty Ace Step 1.5 Latent Audio
 
-تُنشئ عُقدة Empty Ace Step 1.5 Latent Audio موترًا كامنًا (Latent) فارغًا مصممًا لمعالجة الصوت. تقوم بتوليد كامن صوتي صامت لمدة وحجم دفعة (Batch) محددين، والذي يمكن استخدامه كنقطة بداية لسير عمل توليد الصوت في ComfyUI. تحسب العُقدة طول الكامن بناءً على الثواني المُدخلة ومعدل أخذ العينات الثابت.
+تُنشئ عُقدة Empty Ace Step 1.5 Latent Audio موترًا كامنًا (Latent) فارغًا مصممًا لمعالجة الصوت. تقوم بتوليد كامن صوتي صامت لمدة وحجم دفعة (Batch) محددين، والذي يمكن استخدامه كنقطة بداية لسير عمل توليد الصوت في Hanzo Studio. تحسب العُقدة طول الكامن بناءً على الثواني المُدخلة ومعدل أخذ العينات الثابت.
 
 ## المدخلات
 

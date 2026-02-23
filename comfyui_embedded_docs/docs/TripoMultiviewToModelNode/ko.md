@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoMultiviewToModelNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoMultiviewToModelNode/ko.md)
 
 이 노드는 객체의 다양한 시점을 보여주는 최대 네 개의 이미지를 처리하여 Tripo의 API를 사용해 동기적으로 3D 모델을 생성합니다. 객체의 정면 이미지와 최소 하나 이상의 추가 시점(좌측, 후면, 또는 우측)이 필요하며, 텍스처 및 재질 옵션을 갖춘 완전한 3D 모델을 생성합니다.
 

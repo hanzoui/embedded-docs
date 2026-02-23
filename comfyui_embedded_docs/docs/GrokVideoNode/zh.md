@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GrokVideoNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GrokVideoNode/zh.md)
 
 Grok Video 节点能够根据文本描述生成短视频。它既可以通过提示词从头创建视频，也可以基于提示词对单张输入图像进行动画化处理。该节点会向外部 API 发送请求并返回生成的视频。
 

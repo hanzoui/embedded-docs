@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageScaleToMaxDimension/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageScaleToMaxDimension/fr.md)
 
 Le nœud ImageScaleToMaxDimension redimensionne les images pour qu'elles s'adaptent à une dimension maximale spécifiée tout en conservant le ratio d'aspect original. Il détermine si l'image est en orientation portrait ou paysage, puis met à l'échelle la plus grande dimension pour correspondre à la taille cible tout en ajustant proportionnellement la plus petite dimension. Le nœud prend en charge plusieurs méthodes de suréchantillonnage pour répondre à différents besoins de qualité et de performance.
 

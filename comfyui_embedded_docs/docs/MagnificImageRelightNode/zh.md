@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageRelightNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageRelightNode/zh.md)
 
 Magnific Image Relight 节点用于调整输入图像的照明效果。它可以根据文本提示应用风格化照明，或从可选的参考图像中转移照明特性。该节点提供多种控制选项，用于微调最终输出的亮度、对比度和整体氛围。
 

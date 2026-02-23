@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageInvert/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageInvert/pt-BR.md)
 
 O nó `ImageInvert` é projetado para inverter as cores de uma imagem, transformando efetivamente o valor de cor de cada pixel em sua cor complementar no círculo cromático. Esta operação é útil para criar imagens negativas ou para efeitos visuais que exigem inversão de cores.
 

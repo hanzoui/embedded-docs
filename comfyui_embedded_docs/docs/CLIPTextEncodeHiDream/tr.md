@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeHiDream/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeHiDream/tr.md)
 
 CLIPTextEncodeHiDream düğümü, birden fazla metin girişini farklı dil modelleri kullanarak işler ve bunları tek bir koşullandırma çıktısında birleştirir. Dört farklı kaynaktan (CLIP-L, CLIP-G, T5-XXL ve LLaMA) gelen metinleri tokenleştirir ve planlanmış bir kodlama yaklaşımı kullanarak bunları kodlar. Bu, birden fazla dil modelinden aynı anda yararlanarak daha karmaşık metin koşullandırmasına olanak tanır.
 

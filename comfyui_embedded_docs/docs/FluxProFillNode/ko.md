@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxProFillNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxProFillNode/ko.md)
 
 마스크와 프롬프트를 기반으로 이미지를 인페인팅합니다. 이 노드는 Flux.1 모델을 사용하여 마스크된 영역을 제공된 텍스트 설명에 따라 채우고, 주변 이미지와 일치하는 새로운 콘텐츠를 생성합니다.
 

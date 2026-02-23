@@ -1,6 +1,6 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CombineHooksEight/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CombineHooksEight/zh.md)
 
-组合钩子 [8] 节点可将最多八个不同的钩子组合并为一个统一的钩子组。它接收多个钩子输入，并使用 ComfyUI 的钩子组合功能将它们合并。这使您能够整合多个钩子配置，在高级工作流中实现简化处理。
+组合钩子 [8] 节点可将最多八个不同的钩子组合并为一个统一的钩子组。它接收多个钩子输入，并使用 Hanzo Studio 的钩子组合功能将它们合并。这使您能够整合多个钩子配置，在高级工作流中实现简化处理。
 
 ## 输入参数
 

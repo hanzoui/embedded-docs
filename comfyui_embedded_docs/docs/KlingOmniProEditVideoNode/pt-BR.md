@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProEditVideoNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProEditVideoNode/pt-BR.md)
 
 O nó Kling Omni Edit Video (Pro) utiliza um modelo de IA para editar um vídeo existente com base em uma descrição textual. Você fornece um vídeo de origem e um prompt, e o nó gera um novo vídeo com a mesma duração contendo as alterações solicitadas. Ele pode, opcionalmente, usar imagens de referência para orientar o estilo e manter o áudio original do vídeo de origem.
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProImageNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProImageNode/ja.md)
 
 Kling Omni Image (Pro) ノードは、Kling AI モデルを使用して画像を生成または編集します。テキストによる記述に基づいて画像を作成し、スタイルや内容をガイドするための参照画像を提供することができます。このノードは外部APIにリクエストを送信し、APIがタスクを処理して最終的な画像を返します。
 

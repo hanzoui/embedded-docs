@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftStyleV3RealisticImage/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftStyleV3RealisticImage/ar.md)
 
 يُنشئ هذا العقدة تكوين نمط الصورة الواقعية للاستخدام مع واجهة برمجة تطبيقات Recraft. يسمح لك باختيار النمط realistic_image واختيار من بين خيارات الأنماط الفرعية المختلفة لتخصيص مظهر المخرجات.
 

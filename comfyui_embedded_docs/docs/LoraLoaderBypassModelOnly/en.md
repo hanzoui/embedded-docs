@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraLoaderBypassModelOnly/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraLoaderBypassModelOnly/en.md)
 
 This node applies a LoRA (Low-Rank Adaptation) to a model to modify its behavior, but only affects the model component itself. It loads a specified LoRA file and adjusts the model's weights by a given strength, leaving other components like the CLIP text encoder unchanged.
 

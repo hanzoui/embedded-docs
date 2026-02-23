@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingLTXV/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingLTXV/en.md)
 
 The ModelSamplingLTXV node applies advanced sampling parameters to a model based on token count. It calculates a shift value using a linear interpolation between base and maximum shift values, with the calculation depending on the number of tokens in the input latent. The node then creates a specialized model sampling configuration and applies it to the input model.
 

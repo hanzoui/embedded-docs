@@ -1,6 +1,6 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveImageTextDataSetToFolder/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImageTextDataSetToFolder/pt-BR.md)
 
-O nó **Salvar Conjunto de Dados de Imagem e Texto em Pasta** salva uma lista de imagens e suas legendas de texto correspondentes em uma pasta especificada dentro do diretório de saída do ComfyUI. Para cada imagem salva como um arquivo PNG, um arquivo de texto correspondente com o mesmo nome base é criado para armazenar sua legenda. Isso é útil para criar conjuntos de dados organizados de imagens geradas e suas descrições.
+O nó **Salvar Conjunto de Dados de Imagem e Texto em Pasta** salva uma lista de imagens e suas legendas de texto correspondentes em uma pasta especificada dentro do diretório de saída do Hanzo Studio. Para cada imagem salva como um arquivo PNG, um arquivo de texto correspondente com o mesmo nome base é criado para armazenar sua legenda. Isso é útil para criar conjuntos de dados organizados de imagens geradas e suas descrições.
 
 ## Entradas
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Wan22ImageToVideoLatent/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Wan22ImageToVideoLatent/zh-TW.md)
 
 Wan22ImageToVideoLatent 節點從圖像創建影片潛在表示。它生成具有指定尺寸的空白影片潛在空間，並可選擇性地將起始圖像序列編碼到開頭幀中。當提供起始圖像時，它會將圖像編碼到潛在空間中，並為修復區域創建相應的噪聲遮罩。
 

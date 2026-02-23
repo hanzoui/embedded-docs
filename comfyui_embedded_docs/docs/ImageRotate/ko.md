@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageRotate/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageRotate/ko.md)
 
 ImageRotate 노드는 입력 이미지를 지정된 각도로 회전시킵니다. 회전 없음, 시계 방향 90도, 180도, 시계 방향 270도의 네 가지 회전 옵션을 지원합니다. 회전은 이미지 데이터 무결성을 유지하는 효율적인 텐서 연산을 사용하여 수행됩니다.
 

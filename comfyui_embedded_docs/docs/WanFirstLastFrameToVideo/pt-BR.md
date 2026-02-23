@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanFirstLastFrameToVideo/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanFirstLastFrameToVideo/pt-BR.md)
 
 O nó WanFirstLastFrameToVideo cria condicionamento de vídeo combinando quadros inicial e final com prompts de texto. Ele gera uma representação latente para geração de vídeo codificando o primeiro e o último quadro, aplicando máscaras para orientar o processo de geração e incorporando recursos de visão CLIP quando disponíveis. Este nó prepara condicionamentos positivo e negativo para modelos de vídeo gerarem sequências coerentes entre pontos inicial e final especificados.
 

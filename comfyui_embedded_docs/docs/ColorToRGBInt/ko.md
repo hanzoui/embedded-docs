@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ColorToRGBInt/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ColorToRGBInt/ko.md)
 
 ColorToRGBInt 노드는 16진수 형식으로 지정된 색상을 단일 정수 값으로 변환합니다. `#FF5733`과 같은 색상 문자열을 받아 빨강, 초록, 파랑 구성 요소를 결합하여 해당하는 RGB 정수를 계산합니다.
 

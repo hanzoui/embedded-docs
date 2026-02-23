@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GeminiNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GeminiNode/ja.md)
 
 このノードは、GoogleのGemini AIモデルと対話してテキスト応答を生成することができます。テキスト、画像、音声、動画、ファイルなど複数の種類の入力をコンテキストとして提供でき、モデルがより関連性の高い意味のある応答を生成するのに役立ちます。ノードはAPI通信と応答の解析を自動的に処理します。
 

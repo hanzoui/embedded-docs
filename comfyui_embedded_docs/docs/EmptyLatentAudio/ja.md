@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyLatentAudio/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyLatentAudio/ja.md)
 
 EmptyLatentAudioノードは、音声処理用の空の潜在テンソルを作成します。指定された時間とバッチサイズで、音声生成や処理ワークフローへの入力として使用できる空白の音声潜在表現を生成します。このノードは、音声の時間とサンプルレートに基づいて適切な潜在次元を計算します。
 

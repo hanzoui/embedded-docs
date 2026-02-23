@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageUpscalerPreciseV2Node/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageUpscalerPreciseV2Node/pt-BR.md)
 
 O nó Magnific Image Upscale (Precise V2) realiza o aumento de escala de imagens com alta fidelidade e controle preciso sobre nitidez, grão e realce de detalhes. Ele processa imagens por meio de uma API externa, suportando até uma resolução máxima de saída de 10060×10060 pixels. O nó oferece diferentes estilos de processamento e pode reduzir automaticamente a escala da entrada se o tamanho de saída solicitado exceder o tamanho máximo permitido.
 

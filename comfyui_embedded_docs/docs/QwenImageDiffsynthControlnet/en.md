@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/QwenImageDiffsynthControlnet/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/QwenImageDiffsynthControlnet/en.md)
 
 The QwenImageDiffsynthControlnet node applies a diffusion synthesis control network patch to modify a base model's behavior. It uses an image input and optional mask to guide the model's generation process with adjustable strength, creating a patched model that incorporates the control network's influence for more controlled image synthesis.
 

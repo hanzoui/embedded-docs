@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPMergeSubtract/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPMergeSubtract/en.md)
 
 The CLIPMergeSubtract node performs model merging by subtracting the weights of one CLIP model from another. It creates a new CLIP model by cloning the first model and then subtracting the key patches from the second model, with an adjustable multiplier to control the subtraction strength. This allows for fine-tuned model blending by removing specific characteristics from the base model.
 

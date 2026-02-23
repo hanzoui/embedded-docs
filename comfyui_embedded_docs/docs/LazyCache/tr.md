@@ -1,6 +1,6 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LazyCache/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LazyCache/tr.md)
 
-LazyCache, daha kolay bir uygulama sağlayan EasyCache'in ev yapımı bir versiyonudur. ComfyUI'deki herhangi bir modelle çalışır ve örnekleme sırasında hesaplamayı azaltmak için önbellekleme işlevselliği ekler. Genellikle EasyCache'ten daha düşük performans gösterse de, bazı nadir durumlarda daha etkili olabilir ve evrensel uyumluluk sunar.
+LazyCache, daha kolay bir uygulama sağlayan EasyCache'in ev yapımı bir versiyonudur. Hanzo Studio'deki herhangi bir modelle çalışır ve örnekleme sırasında hesaplamayı azaltmak için önbellekleme işlevselliği ekler. Genellikle EasyCache'ten daha düşük performans gösterse de, bazı nadir durumlarda daha etkili olabilir ve evrensel uyumluluk sunar.
 
 ## Girdiler
 

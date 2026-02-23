@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MakeTrainingDataset/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MakeTrainingDataset/ja.md)
 
 このノードは、画像とテキストをエンコードすることでトレーニング用のデータを準備します。画像のリストと対応するテキストキャプションのリストを受け取り、VAEモデルを使用して画像を潜在表現に変換し、CLIPモデルを使用してテキストをコンディショニングデータに変換します。結果として得られるペアリングされた潜在表現とコンディショニングはリストとして出力され、トレーニングワークフローで使用できる状態になります。
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MaskComposite/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MaskComposite/zh-TW.md)
 
 此節點專門透過多種操作（如加法、減法和邏輯運算）來組合兩個遮罩輸入，以產生新的修改後遮罩。它抽象地處理遮罩資料的操作，以實現複雜的遮罩效果，是基於遮罩的影像編輯和處理工作流程中的關鍵組件。
 

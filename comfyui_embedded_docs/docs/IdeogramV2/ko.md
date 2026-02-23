@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/IdeogramV2/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/IdeogramV2/ko.md)
 
 Ideogram V2 노드는 Ideogram V2 AI 모델을 사용하여 이미지를 생성합니다. 텍스트 프롬프트와 다양한 생성 설정을 입력받아 API 서비스를 통해 이미지를 생성합니다. 이 노드는 다양한 화면비, 해상도 및 스타일 옵션을 지원하여 출력 이미지를 사용자 정의할 수 있습니다.
 

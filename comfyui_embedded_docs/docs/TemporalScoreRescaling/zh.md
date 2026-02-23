@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TemporalScoreRescaling/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TemporalScoreRescaling/zh.md)
 
 此节点对扩散模型应用时序分数重缩放（TSR）。它通过在去噪过程中重新缩放预测的噪声或分数来修改模型的采样行为，从而引导生成输出的多样性。该功能以后置CFG（无分类器引导）函数的形式实现。
 

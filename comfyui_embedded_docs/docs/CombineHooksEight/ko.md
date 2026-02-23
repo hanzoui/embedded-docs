@@ -1,6 +1,6 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CombineHooksEight/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CombineHooksEight/ko.md)
 
-Combine Hooks [8] 노드는 최대 여덟 개의 서로 다른 후크 그룹을 단일 결합 후크 그룹으로 병합합니다. 여러 후크 입력을 받아 ComfyUI의 후크 결합 기능을 사용하여 통합합니다. 이를 통해 고급 워크플로에서 여러 후크 구성을 간소화된 처리로 통합할 수 있습니다.
+Combine Hooks [8] 노드는 최대 여덟 개의 서로 다른 후크 그룹을 단일 결합 후크 그룹으로 병합합니다. 여러 후크 입력을 받아 Hanzo Studio의 후크 결합 기능을 사용하여 통합합니다. 이를 통해 고급 워크플로에서 여러 후크 구성을 간소화된 처리로 통합할 수 있습니다.
 
 ## 입력
 

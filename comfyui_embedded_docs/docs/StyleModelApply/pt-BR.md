@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StyleModelApply/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StyleModelApply/pt-BR.md)
 
 Este nó aplica um modelo de estilo a um condicionamento fornecido, aprimorando ou alterando seu estilo com base na saída de um modelo de visão CLIP. Ele integra o condicionamento do modelo de estilo ao condicionamento existente, permitindo uma fusão perfeita de estilos no processo de geração.
 

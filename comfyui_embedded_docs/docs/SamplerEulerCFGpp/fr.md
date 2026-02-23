@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerEulerCFGpp/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerEulerCFGpp/fr.md)
 
 Le nœud SamplerEulerCFGpp fournit une méthode d'échantillonnage Euler CFG++ pour générer des sorties. Ce nœud propose deux versions d'implémentation différentes de l'échantillonneur Euler CFG++ qui peuvent être sélectionnées selon les préférences de l'utilisateur.
 

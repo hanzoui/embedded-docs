@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadVideo/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadVideo/ar.md)
 
 يقوم عُقدة Load Video بتحميل ملفات الفيديو من دليل الإدخال ويجعلها متاحة للمعالجة في سير العمل. يقرأ العُقد ملفات الفيديو من المجلد المُدخل المخصص ويُخرجها كبيانات فيديو يمكن توصيلها بعُقد معالجة الفيديو الأخرى.
 

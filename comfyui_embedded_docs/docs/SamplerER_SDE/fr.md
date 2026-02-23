@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerER_SDE/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerER_SDE/fr.md)
 
 Le nœud SamplerER_SDE fournit des méthodes d'échantillonnage spécialisées pour les modèles de diffusion, offrant différents types de solveurs incluant les approches ER-SDE, SDE à temps inverse et ODE. Il permet de contrôler le comportement stochastique et les étapes computationnelles du processus d'échantillonnage. Le nœud ajuste automatiquement les paramètres en fonction du type de solveur sélectionné pour assurer un fonctionnement approprié.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DeprecatedCheckpointLoader/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DeprecatedCheckpointLoader/tr.md)
 
 CheckpointLoader düğümü, gelişmiş yükleme işlemleri için tasarlanmış olup özellikle model kontrol noktalarını konfigürasyonlarıyla birlikte yüklemeyi amaçlar. Modelin başlatılması ve çalıştırılması için gerekli olan model bileşenlerinin, belirtilen dizinlerden konfigürasyonlar ve kontrol noktaları dahil olmak üzere alınmasını sağlar.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeBlocks/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeBlocks/zh-TW.md)
 
 ModelMergeBlocks 專為進階模型融合操作而設計，允許以可自訂的混合比例整合兩個模型的不同部分。此節點透過根據指定參數選擇性地合併兩個來源模型的組件，協助建立混合模型。
 

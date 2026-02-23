@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RegexExtract/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RegexExtract/ja.md)
 
 RegexExtractノードは、正規表現を使用してテキスト内のパターンを検索します。最初の一致、すべての一致、一致から特定のグループ、または複数の一致にわたるすべてのグループを見つけることができます。このノードは、大文字小文字の区別、複数行マッチング、dotall動作のためのさまざまな正規表現フラグをサポートしています。
 

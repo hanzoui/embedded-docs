@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PhotoMakerLoader/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PhotoMakerLoader/zh-TW.md)
 
 PhotoMakerLoader 節點會從可用的模型檔案中載入 PhotoMaker 模型。它會讀取指定的模型檔案，並準備好用於基於身份識別的影像生成任務的 PhotoMaker ID 編碼器。此節點標記為實驗性，僅供測試用途。
 

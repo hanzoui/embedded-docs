@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeQwenImage/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeQwenImage/ar.md)
 
 تُدمج عقدة ModelMergeQwenImage نموذجين للذكاء الاصطناعي من خلال دمج مكوناتهما بأوزان قابلة للتعديل. تتيح لك هذه العقدة مزج أجزاء محددة من نماذج Qwen للصور، بما في ذلك كتل المحولات (transformer blocks)، وحقول التضمين الموضعية (positional embeddings)، ومكونات معالجة النصوص. يمكنك التحكم في درجة تأثير كل نموذج على الأقسام المختلفة للنتيجة المدمجة.
 

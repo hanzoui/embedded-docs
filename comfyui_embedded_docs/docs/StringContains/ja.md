@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringContains/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringContains/ja.md)
 
 StringContainsノードは、指定された文字列に特定の部分文字列が含まれているかどうかをチェックします。大文字と小文字を区別するマッチングと区別しないマッチングのいずれかでこのチェックを実行でき、部分文字列がメイン文字列内で見つかったかどうかを示すブール値の結果を返します。
 

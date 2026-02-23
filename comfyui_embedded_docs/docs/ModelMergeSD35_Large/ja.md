@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSD35_Large/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSD35_Large/ja.md)
 
 ModelMergeSD35_Largeノードは、2つのStable Diffusion 3.5 Largeモデルをブレンドする機能を提供します。異なるモデルコンポーネントの影響度を調整することで、2番目のモデルの各部分が最終的なマージ済みモデルにどの程度寄与するかを精密に制御できます。埋め込み層からジョイントブロック、最終層までを細かく調整することが可能です。
 

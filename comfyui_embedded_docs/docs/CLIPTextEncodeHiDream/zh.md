@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeHiDream/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeHiDream/zh.md)
 
 CLIPTextEncodeHiDream 节点使用不同的语言模型处理多个文本输入，并将它们组合成单一的条件输出。该节点对来自四个不同来源（CLIP-L、CLIP-G、T5-XXL 和 LLaMA）的文本进行标记化，并使用调度编码方法对它们进行编码。通过同时利用多个语言模型，这允许进行更复杂的文本条件控制。
 

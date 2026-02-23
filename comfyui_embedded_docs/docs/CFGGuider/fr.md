@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CFGGuider/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CFGGuider/fr.md)
 
 Le nœud CFGGuider crée un système de guidage pour contrôler le processus d'échantillonnage dans la génération d'images. Il prend un modèle ainsi que des conditionnements positifs et négatifs en entrée, puis applique une échelle de guidage sans classificateur pour orienter la génération vers le contenu souhaité tout en évitant les éléments indésirables. Ce nœud produit en sortie un objet guideur qui peut être utilisé par les nœuds d'échantillonnage pour contrôler la direction de la génération d'images.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerSEEDS2/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerSEEDS2/tr.md)
 
 Bu düğüm, görüntü oluşturmak için yapılandırılabilir bir örnekleyici sağlar. SEEDS-2 algoritmasını uygular; bu, stokastik bir diferansiyel denklem (SDE) çözücüsüdür. Parametrelerini ayarlayarak, `seeds_2`, `exp_heun_2_x0` ve `exp_heun_2_x0_sde` dahil olmak üzere birkaç özel örnekleyici gibi davranacak şekilde yapılandırabilirsiniz.
 

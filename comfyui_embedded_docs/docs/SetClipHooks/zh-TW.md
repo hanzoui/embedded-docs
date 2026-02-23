@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SetClipHooks/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SetClipHooks/zh-TW.md)
 
 SetClipHooks 節點允許您對 CLIP 模型應用自定義掛鉤，從而實現對其行為的高級修改。它可以將掛鉤應用於條件輸出，並可選擇啟用 CLIP 排程功能。此節點會建立輸入 CLIP 模型的克隆副本，並應用指定的掛鉤配置。
 

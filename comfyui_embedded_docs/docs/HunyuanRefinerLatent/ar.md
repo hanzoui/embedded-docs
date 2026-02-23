@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanRefinerLatent/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanRefinerLatent/ar.md)
 
 يقوم عقد HunyuanRefinerLatent بمعالجة مدخلات التكييف والبيانات الكامنة من أجل عمليات التحسين. يطبق العقد زيادة الضوضاء على كل من تكييف الإشارات الإيجابية والسلبية مع دمج بيانات الصورة الكامنة، وينشئ مخرجًا كامنًا جديدًا بأبعاد محددة لمزيد من المعالجة.
 

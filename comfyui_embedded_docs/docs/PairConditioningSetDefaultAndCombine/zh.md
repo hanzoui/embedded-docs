@@ -1,8 +1,8 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningSetDefaultAndCombine/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningSetDefaultAndCombine/zh.md)
 
 ## 概述
 
-PairConditioningSetDefaultAndCombine 节点用于设置默认的条件化数值并将其与输入的条件化数据相结合。该节点接收正向和负向条件化输入及其对应的默认值，然后通过 ComfyUI 的钩子系统进行处理，最终生成包含默认值的条件化输出结果。
+PairConditioningSetDefaultAndCombine 节点用于设置默认的条件化数值并将其与输入的条件化数据相结合。该节点接收正向和负向条件化输入及其对应的默认值，然后通过 Hanzo Studio 的钩子系统进行处理，最终生成包含默认值的条件化输出结果。
 
 ## 输入
 

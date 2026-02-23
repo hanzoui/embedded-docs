@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TorchCompileModel/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TorchCompileModel/en.md)
 
 The TorchCompileModel node applies PyTorch compilation to a model to optimize its performance. It creates a copy of the input model and wraps it with PyTorch's compilation functionality using the specified backend. This can improve the model's execution speed during inference.
 

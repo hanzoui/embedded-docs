@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingVideoExtendNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingVideoExtendNode/pt-BR.md)
 
 O nó Kling Video Extend permite estender vídeos criados por outros nós Kling. Ele recebe um vídeo existente identificado pelo seu ID de vídeo e gera conteúdo adicional com base nos seus prompts de texto. O nó funciona enviando sua solicitação de extensão para a API Kling e retornando o vídeo estendido junto com seu novo ID e duração.
 

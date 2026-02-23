@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceDiTSimple/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceDiTSimple/es.md)
 
 Versión simplificada del nodo SkipLayerGuidanceDiT que solo modifica la pasada incondicional durante el proceso de eliminación de ruido. Este nodo aplica guía de capa de salto a capas específicas del transformador en modelos DiT (Diffusion Transformer) omitiendo selectivamente ciertas capas durante la pasada incondicional según los parámetros de tiempo y capa especificados.
 

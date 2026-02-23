@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeHunyuan3D/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeHunyuan3D/tr.md)
 
 VAEDecodeHunyuan3D düğümü, gizli temsilleri bir VAE kod çözücü kullanarak 3B voksel verilerine dönüştürür. Gizli örnekleri, 3B uygulamalar için uygun hacimsel veri üretmek üzere yapılandırılabilir parçalama ve çözünürlük ayarlarıyla VAE modeli üzerinden işler.
 

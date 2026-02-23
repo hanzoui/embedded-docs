@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/IdeogramV1/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/IdeogramV1/ko.md)
 
 IdeogramV1 노드는 API를 통해 Ideogram V1 모델을 사용하여 이미지를 생성합니다. 텍스트 프롬프트와 다양한 생성 설정을 입력받아 사용자의 입력을 기반으로 하나 이상의 이미지를 생성합니다. 이 노드는 다양한 화면 비율과 생성 모드를 지원하여 출력을 사용자 정의할 수 있습니다.
 

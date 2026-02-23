@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSD3_2B/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSD3_2B/fr.md)
 
 Le nœud ModelMergeSD3_2B permet de fusionner deux modèles Stable Diffusion 3 2B en mélangeant leurs composants avec des pondérations ajustables. Il offre un contrôle individuel sur les couches d'embedding et les blocs transformeurs, permettant des combinaisons de modèles finement réglées pour des tâches de génération spécialisées.
 

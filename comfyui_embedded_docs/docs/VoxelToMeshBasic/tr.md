@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VoxelToMeshBasic/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VoxelToMeshBasic/tr.md)
 
 VoxelToMeshBasic düğümü, 3B voksel verilerini mesh geometrisine dönüştürür. Voksel hacimlerini işleyerek, hacmin hangi kısımlarının ortaya çıkan mesh içinde katı yüzeyler haline geleceğini belirlemek için bir eşik değeri uygular. Düğüm, 3B renderlama ve modelleme için kullanılabilecek köşe ve yüzler içeren eksiksiz bir mesh yapısı çıktısını verir.
 

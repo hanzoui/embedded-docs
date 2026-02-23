@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraLoaderBypassModelOnly/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraLoaderBypassModelOnly/zh-TW.md)
 
 此節點將 LoRA（低秩適應）應用於模型以修改其行為，但僅影響模型元件本身。它會載入指定的 LoRA 檔案，並根據給定的強度調整模型的權重，同時保持其他元件（如 CLIP 文字編碼器）不變。
 

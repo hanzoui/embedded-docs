@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIGPTImage1/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIGPTImage1/pt-BR.md)
 
 Gera imagens de forma síncrona através do endpoint GPT Image 1 da OpenAI. Este nó pode criar novas imagens a partir de prompts de texto ou editar imagens existentes quando fornecida uma imagem de entrada e uma máscara opcional.
 

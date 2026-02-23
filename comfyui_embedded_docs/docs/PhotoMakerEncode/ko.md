@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PhotoMakerEncode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PhotoMakerEncode/ko.md)
 
 PhotoMakerEncode 노드는 이미지와 텍스트를 처리하여 AI 이미지 생성을 위한 조건화 데이터를 생성합니다. 참조 이미지와 텍스트 프롬프트를 입력받아 참조 이미지의 시각적 특성을 기반으로 이미지 생성을 안내하는 데 사용할 수 있는 임베딩을 생성합니다. 이 노드는 특히 텍스트에서 "photomaker" 토큰을 찾아 이미지 기반 조건화를 적용할 위치를 결정합니다.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LumaConceptsNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LumaConceptsNode/pt-BR.md)
 
 Armazena um ou mais Conceitos de Câmera para uso com os nós Luma Text to Video e Luma Image to Video. Este nó permite selecionar até quatro conceitos de câmera e, opcionalmente, combiná-los com cadeias de conceitos existentes.
 

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduReferenceVideoNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduReferenceVideoNode/fr.md)
 
 Le nœud Vidu Reference Video génère des vidéos à partir de plusieurs images de référence et d'une description textuelle. Il utilise des modèles d'IA pour créer un contenu vidéo cohérent basé sur les images fournies et la description. Le nœud prend en charge divers paramètres vidéo incluant la durée, le format d'image, la résolution et le contrôle du mouvement.
 

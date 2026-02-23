@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AdjustContrast/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AdjustContrast/ar.md)
 
 يُعدِّل عقدة Adjust Contrast مستوى التباين في الصورة المدخلة. يعمل عن طريق ضبط الفرق بين المناطق المضيئة والمظلمة في الصورة. عامل التباين 1.0 يترك الصورة دون تغيير، والقيم الأقل من 1.0 تقلل التباين، والقيم الأعلى من 1.0 تزيده.
 

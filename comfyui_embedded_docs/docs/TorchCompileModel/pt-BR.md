@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TorchCompileModel/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TorchCompileModel/pt-BR.md)
 
 O nó TorchCompileModel aplica a compilação PyTorch a um modelo para otimizar seu desempenho. Ele cria uma cópia do modelo de entrada e o encapsula com a funcionalidade de compilação do PyTorch usando o *backend* especificado. Isso pode melhorar a velocidade de execução do modelo durante a inferência.
 

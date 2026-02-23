@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaImageToVideoNode2_2/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaImageToVideoNode2_2/ko.md)
 
 Pika Image to Video 노드는 이미지와 텍스트 프롬프트를 Pika API 버전 2.2로 전송하여 비디오를 생성합니다. 제공된 설명과 설정을 기반으로 입력 이미지를 비디오 형식으로 변환합니다. 이 노드는 API 통신을 처리하고 생성된 비디오를 출력으로 반환합니다.
 

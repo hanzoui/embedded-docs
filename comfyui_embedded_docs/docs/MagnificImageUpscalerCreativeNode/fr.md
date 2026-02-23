@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageUpscalerCreativeNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageUpscalerCreativeNode/fr.md)
 
 Ce nœud utilise le service Magnific AI pour suréchantillonner et améliorer créativement une image. Il vous permet de guider l'amélioration avec une invite textuelle, de choisir un style spécifique à optimiser, et de contrôler divers aspects du processus créatif comme le détail, la ressemblance à l'original et la force de stylisation. Le nœud produit une image suréchantillonnée selon le facteur choisi (2x, 4x, 8x ou 16x), avec une taille de sortie maximale de 25,3 mégapixels.
 

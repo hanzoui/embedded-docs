@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MoonvalleyImg2VideoNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MoonvalleyImg2VideoNode/pt-BR.md)
 
 O nó Moonvalley Marey Image to Video transforma uma imagem de referência em um vídeo usando a API Moonvalley. Ele recebe uma imagem de entrada e um prompt de texto para gerar um vídeo com resolução, configurações de qualidade e controles criativos especificados. O nó gerencia todo o processo, desde o upload da imagem até a geração e download do vídeo.
 

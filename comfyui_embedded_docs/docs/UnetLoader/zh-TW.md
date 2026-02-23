@@ -1,8 +1,8 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/UNETLoader/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UNETLoader/zh-TW.md)
 
 UNETLoader 節點專為透過名稱載入 U-Net 模型而設計，便於在系統中使用預訓練的 U-Net 架構。
 
-此節點會偵測位於 `ComfyUI/models/diffusion_models` 資料夾中的模型。
+此節點會偵測位於 `Hanzo Studio/models/diffusion_models` 資料夾中的模型。
 
 ## 輸入參數
 

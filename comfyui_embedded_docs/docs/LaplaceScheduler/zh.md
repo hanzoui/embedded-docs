@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LaplaceScheduler/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LaplaceScheduler/zh.md)
 
 LaplaceScheduler 节点遵循拉普拉斯分布生成一系列 sigma 值，用于扩散采样过程。它创建了一个从最大值逐渐递减至最小值的噪声级别调度表，通过拉普拉斯分布参数来控制衰减进程。该调度器常用于自定义采样工作流中，为扩散模型定义噪声调度方案。
 

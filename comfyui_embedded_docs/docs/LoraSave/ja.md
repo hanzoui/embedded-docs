@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraSave/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraSave/ja.md)
 
 LoraSaveノードは、モデルの差分からLoRA（Low-Rank Adaptation）ファイルを抽出して保存します。拡散モデルの差分、テキストエンコーダーの差分、またはその両方を処理し、指定されたランクとタイプでLoRA形式に変換することができます。生成されたLoRAファイルは出力ディレクトリに保存され、後で使用することができます。
 
@@ -6,7 +6,7 @@ LoraSaveノードは、モデルの差分からLoRA（Low-Rank Adaptation）フ�
 
 | パラメータ | データ型 | 必須 | 範囲 | 説明 |
 |-----------|-----------|----------|-------|-------------|
-| `ファイル名のプレフィックス` | STRING | はい | - | 出力ファイル名のプレフィックス（デフォルト: "loras/ComfyUI_extracted_lora"） |
+| `ファイル名のプレフィックス` | STRING | はい | - | 出力ファイル名のプレフィックス（デフォルト: "loras/Hanzo Studio_extracted_lora"） |
 | `ランク` | INT | はい | 1-4096 | LoRAのランク値。サイズと複雑さを制御します（デフォルト: 8） |
 | `lora_type` | COMBO | はい | 複数のオプションが利用可能 | 作成するLoRAのタイプ。様々なオプションが利用できます |
 | `バイアスの差` | BOOLEAN | はい | - | LoRA計算にバイアスの差分を含めるかどうか（デフォルト: True） |

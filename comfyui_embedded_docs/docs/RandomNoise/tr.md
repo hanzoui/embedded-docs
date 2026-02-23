@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RandomNoise/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RandomNoise/tr.md)
 
 RandomNoise düğümü, bir seed değerine dayalı olarak rastgele gürültü desenleri oluşturur. Yeniden üretilebilir gürültü oluşturur ve bu, çeşitli görüntü işleme ve oluşturma görevleri için kullanılabilir. Aynı seed değeri her zaman aynı gürültü desenini üretecektir, bu da birden fazla çalıştırma arasında tutarlı sonuçlar elde edilmesini sağlar.
 

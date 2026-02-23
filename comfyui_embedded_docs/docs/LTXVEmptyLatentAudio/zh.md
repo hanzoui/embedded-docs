@@ -1,6 +1,6 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVEmptyLatentAudio/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVEmptyLatentAudio/zh.md)
 
-LTXV Empty Latent Audio 节点创建一批空（零填充）的潜在音频张量。它使用提供的 Audio VAE 模型的配置来确定潜在空间的正确维度，例如通道数和频率仓的数量。这个空的潜在张量可作为 ComfyUI 内音频生成或处理工作流的起点。
+LTXV Empty Latent Audio 节点创建一批空（零填充）的潜在音频张量。它使用提供的 Audio VAE 模型的配置来确定潜在空间的正确维度，例如通道数和频率仓的数量。这个空的潜在张量可作为 Hanzo Studio 内音频生成或处理工作流的起点。
 
 ## 输入参数
 

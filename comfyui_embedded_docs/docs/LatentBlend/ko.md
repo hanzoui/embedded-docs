@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentBlend/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentBlend/ko.md)
 
 LatentBlend 노드는 두 개의 잠재 샘플을 지정된 혼합 비율을 사용하여 결합합니다. 두 개의 잠재 입력을 받아 첫 번째 샘플은 혼합 비율로 가중치가 적용되고, 두 번째 샘플은 그 역수로 가중치가 적용된 새로운 출력을 생성합니다. 입력 샘플의 형태가 다른 경우, 두 번째 샘플은 첫 번째 샘플의 차원에 맞게 자동으로 크기가 조정됩니다.
 

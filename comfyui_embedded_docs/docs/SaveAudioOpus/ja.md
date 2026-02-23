@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveAudioOpus/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveAudioOpus/ja.md)
 
 SaveAudioOpusノードは、音声データをOpus形式のファイルとして保存します。音声入力を受け取り、設定可能な品質設定で圧縮されたOpusファイルとしてエクスポートします。このノードはファイル名の自動処理を行い、指定された出力ディレクトリに出力を保存します。
 
@@ -7,7 +7,7 @@ SaveAudioOpusノードは、音声データをOpus形式のファイルとして
 | パラメータ | データ型 | 必須 | 範囲 | 説明 |
 |-----------|-----------|----------|-------|-------------|
 | `audio` | AUDIO | はい | - | Opusファイルとして保存する音声データ |
-| `filename_prefix` | STRING | いいえ | - | 出力ファイル名のプレフィックス（デフォルト: "audio/ComfyUI"） |
+| `filename_prefix` | STRING | いいえ | - | 出力ファイル名のプレフィックス（デフォルト: "audio/Hanzo Studio"） |
 | `quality` | COMBO | いいえ | "64k"<br>"96k"<br>"128k"<br>"192k"<br>"320k" | Opusファイルの音声品質設定（デフォルト: "128k"） |
 
 ## 出力

@@ -1,6 +1,6 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningSetDefaultAndCombine/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningSetDefaultAndCombine/tr.md)
 
-PairConditioningSetDefaultAndCombine düğümü, varsayılan koşullandırma değerlerini ayarlar ve bunları giriş koşullandırma verileriyle birleştirir. Pozitif ve negatif koşullandırma girişlerini ve bunların varsayılan karşılıklarını alır, ardından ComfyUI'nin kanca sistemi aracılığıyla bunları işleyerek varsayılan değerleri içeren nihai koşullandırma çıktıları üretir.
+PairConditioningSetDefaultAndCombine düğümü, varsayılan koşullandırma değerlerini ayarlar ve bunları giriş koşullandırma verileriyle birleştirir. Pozitif ve negatif koşullandırma girişlerini ve bunların varsayılan karşılıklarını alır, ardından Hanzo Studio'nin kanca sistemi aracılığıyla bunları işleyerek varsayılan değerleri içeren nihai koşullandırma çıktıları üretir.
 
 ## Girişler
 

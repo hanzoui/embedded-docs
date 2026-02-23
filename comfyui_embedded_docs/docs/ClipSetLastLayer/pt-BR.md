@@ -1,6 +1,6 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPSetLastLayer/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPSetLastLayer/pt-BR.md)
 
-`CLIP Set Last Layer` é um nó central no ComfyUI para controlar a profundidade de processamento dos modelos CLIP. Ele permite aos usuários controlar com precisão onde o codificador de texto CLIP para de processar, afetando tanto a profundidade da compreensão do texto quanto o estilo das imagens geradas.
+`CLIP Set Last Layer` é um nó central no Hanzo Studio para controlar a profundidade de processamento dos modelos CLIP. Ele permite aos usuários controlar com precisão onde o codificador de texto CLIP para de processar, afetando tanto a profundidade da compreensão do texto quanto o estilo das imagens geradas.
 
 Imagine o modelo CLIP como um cérebro inteligente de 24 camadas:
 

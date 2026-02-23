@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookKeyframesFromFloats/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookKeyframesFromFloats/zh.md)
 
 该节点根据一系列浮点数强度值创建钩子关键帧，并将这些关键帧均匀分布在指定的起始百分比和结束百分比之间。它会生成一个关键帧序列，其中每个强度值都被分配到动画时间轴中的特定百分比位置。该节点可以创建新的关键帧组，也可以添加到现有的关键帧组中，并提供了一个选项用于打印生成的关键帧以便调试。
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RandomCropImages/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RandomCropImages/tr.md)
 
 Random Crop Images düğümü, her bir girdi görüntüsünden rastgele bir dikdörtgen bölüm seçer ve bunu belirtilen genişlik ve yüksekliğe kırpar. Bu, genellikle eğitim görüntülerinin çeşitlemelerini oluşturmak için veri artırma amacıyla kullanılır. Kırpma için rastgele konum, bir `seed` değeri tarafından belirlenir, böylece aynı kırpma işlemi tekrarlanabilir.
 

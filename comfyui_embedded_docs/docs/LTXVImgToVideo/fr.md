@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVImgToVideo/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVImgToVideo/fr.md)
 
 Le nœud LTXVImgToVideo convertit une image d'entrée en une représentation latente vidéo pour les modèles de génération vidéo. Il prend une seule image et l'étend en une séquence de trames à l'aide de l'encodeur VAE, puis applique un conditionnement avec un contrôle de l'intensité pour déterminer dans quelle mesure le contenu original de l'image est préservé ou modifié pendant la génération vidéo.
 

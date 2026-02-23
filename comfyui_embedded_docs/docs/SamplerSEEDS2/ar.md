@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerSEEDS2/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerSEEDS2/ar.md)
 
 يوفر هذا العقدة مُعينًا قابلًا للتكوين لإنشاء الصور. ينفذ خوارزمية SEEDS-2، وهي حل لمعادلة تفاضلية عشوائية (SDE). من خلال ضبط معاملاته، يمكنك تكوينه ليتصرف مثل عدة معينات محددة، بما في ذلك `seeds_2`، و`exp_heun_2_x0`، و`exp_heun_2_x0_sde`.
 

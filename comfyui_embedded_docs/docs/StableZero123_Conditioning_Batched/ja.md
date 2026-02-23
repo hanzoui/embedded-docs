@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableZero123_Conditioning_Batched/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableZero123_Conditioning_Batched/ja.md)
 
 StableZero123_Conditioning_Batchedノードは、入力画像を処理し、3Dモデル生成用のコンディショニングデータを生成します。CLIP VisionモデルとVAEモデルを使用して画像をエンコードし、仰角と方位角に基づいてカメラ埋め込みを作成することで、バッチ処理用のポジティブおよびネガティブなコンディショニングと潜在表現を生成します。
 

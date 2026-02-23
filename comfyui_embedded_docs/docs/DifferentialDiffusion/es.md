@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DifferentialDiffusion/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DifferentialDiffusion/es.md)
 
 El nodo Differential Diffusion modifica el proceso de eliminación de ruido aplicando una máscara binaria basada en umbrales de paso de tiempo. Crea una máscara que combina entre la máscara de eliminación de ruido original y una máscara binaria basada en umbrales, permitiendo un ajuste controlado de la fuerza del proceso de difusión.
 

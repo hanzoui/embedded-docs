@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SplitSigmas/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SplitSigmas/tr.md)
 
 SplitSigmas düğümü, bir sigma değerleri dizisini belirtilen bir adıma göre iki parçaya bölmek için tasarlanmıştır. Bu işlevsellik, sigma dizisinin başlangıç ve sonraki kısımlarının farklı şekilde işlenmesini veya işleme tabi tutulmasını gerektiren operasyonlar için çok önemlidir ve bu değerlerin daha esnek ve hedeflenen bir şekilde manipüle edilmesine olanak tanır.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PerpNegGuider/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PerpNegGuider/tr.md)
 
 PerpNegGuider düğümü, dik negatif koşullandırma kullanarak görüntü oluşturmayı kontrol etmek için bir kılavuzluk sistemi oluşturur. Pozitif, negatif ve boş koşullandırma girdilerini alır ve oluşturma sürecini yönlendirmek için özelleştirilmiş bir kılavuzluk algoritması uygular. Bu düğüm test amaçları için tasarlanmıştır ve kılavuzluk gücü ile negatif ölçeklendirme üzerinde hassas kontrol sağlar.
 

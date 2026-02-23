@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResizeImagesByLongerEdge/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResizeImagesByLongerEdge/en.md)
 
 The Resize Images by Longer Edge node resizes one or more images so that their longest side matches a specified target length. It automatically determines whether the width or height is longer and scales the other dimension proportionally to preserve the original aspect ratio. This is useful for standardizing image sizes based on their largest dimension.
 

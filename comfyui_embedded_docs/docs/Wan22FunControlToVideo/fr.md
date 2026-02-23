@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Wan22FunControlToVideo/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Wan22FunControlToVideo/fr.md)
 
 Le nœud Wan22FunControlToVideo prépare les conditionnements et les représentations latentes pour la génération vidéo en utilisant l'architecture de modèle vidéo Wan. Il traite les entrées de conditionnement positives et négatives ainsi que les images de référence et les vidéos de contrôle optionnelles pour créer les représentations d'espace latent nécessaires à la synthèse vidéo. Le nœud gère la mise à l'échelle spatiale et les dimensions temporelles pour générer des données de conditionnement appropriées pour les modèles vidéo.
 

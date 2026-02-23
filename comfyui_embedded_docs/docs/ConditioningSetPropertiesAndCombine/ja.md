@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetPropertiesAndCombine/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetPropertiesAndCombine/ja.md)
 
 ConditioningSetPropertiesAndCombineノードは、新しいコンディショニング入力から既存のコンディショニング入力にプロパティを適用することで、コンディショニングデータを変更します。2つのコンディショニングセットを結合しながら、新しいコンディショニングの強度を制御し、コンディショニング領域の適用方法を指定します。
 

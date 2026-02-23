@@ -1,6 +1,6 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CombineHooksFour/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CombineHooksFour/es.md)
 
-El nodo Combinar Hooks [4] fusiona hasta cuatro grupos de hooks separados en un único grupo de hooks combinado. Toma cualquier combinación de las cuatro entradas de hooks disponibles y las combina utilizando el sistema de combinación de hooks de ComfyUI. Esto permite consolidar múltiples configuraciones de hooks para un procesamiento optimizado en flujos de trabajo avanzados.
+El nodo Combinar Hooks [4] fusiona hasta cuatro grupos de hooks separados en un único grupo de hooks combinado. Toma cualquier combinación de las cuatro entradas de hooks disponibles y las combina utilizando el sistema de combinación de hooks de Hanzo Studio. Esto permite consolidar múltiples configuraciones de hooks para un procesamiento optimizado en flujos de trabajo avanzados.
 
 ## Entradas
 

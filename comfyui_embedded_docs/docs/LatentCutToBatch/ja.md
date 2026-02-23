@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentCutToBatch/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentCutToBatch/ja.md)
 
 LatentCutToBatchノードは、潜在表現を受け取り、指定された次元に沿って複数のスライスに分割します。これらのスライスは新しいバッチ次元に積み上げられ、単一の潜在サンプルをより小さな潜在サンプルのバッチに効果的に変換します。これは潜在空間の異なる部分を独立して処理する際に有用です。
 

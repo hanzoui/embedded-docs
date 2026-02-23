@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TrimVideoLatent/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TrimVideoLatent/ja.md)
 
 TrimVideoLatentノードは、ビデオの潜在表現から先頭のフレームを削除します。このノードは潜在ビデオサンプルを受け取り、指定された数のフレームを先頭から切り取り、残りの部分を返します。これにより、初期フレームを削除してビデオシーケンスを短縮することができます。
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu2TextToVideoNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu2TextToVideoNode/ar.md)
 
 تتيح عقدة توليد الفيديو من النص Vidu2 إنشاء فيديو من وصف نصي. تتصل العقدة بواجهة برمجة تطبيقات خارجية لتوليد محتوى فيديو بناءً على المطالبة النصية المقدمة، مما يسمح لك بالتحكم في طول الفيديو وأسلوبه البصري وتنسيقه.
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMPP_2M_SDE/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMPP_2M_SDE/ja.md)
 
 SamplerDPMPP_2M_SDE ノードは、拡散モデル用の DPM++ 2M SDE サンプラーを作成します。このサンプラーは、確率微分方程式を用いた二次の微分方程式ソルバーを使用してサンプルを生成します。サンプリングプロセスを制御するための異なるソルバータイプとノイズ処理オプションを提供します。
 

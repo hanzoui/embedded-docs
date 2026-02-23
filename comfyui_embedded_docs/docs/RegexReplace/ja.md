@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RegexReplace/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RegexReplace/ja.md)
 
 RegexReplaceノードは、正規表現パターンを使用して文字列内のテキストを検索および置換します。テキストパターンを検索して新しいテキストに置き換えることができ、大文字小文字の区別、複数行マッチング、置換回数の制限など、パターンマッチングの動作を制御するオプションが用意されています。
 

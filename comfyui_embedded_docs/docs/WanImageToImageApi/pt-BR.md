@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanImageToImageApi/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanImageToImageApi/pt-BR.md)
 
 O nó Wan Image to Image gera uma imagem a partir de uma ou duas imagens de entrada e um prompt de texto. Ele transforma suas imagens de entrada com base na descrição fornecida, criando uma nova imagem que mantém a proporção de aspecto da sua entrada original. A imagem de saída tem uma resolução fixa de 1,6 megapixels, independentemente do tamanho da entrada.
 

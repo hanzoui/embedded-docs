@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetPropertiesAndCombine/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetPropertiesAndCombine/ko.md)
 
 ConditioningSetPropertiesAndCombine 노드는 새로운 조건화 입력의 속성을 기존 조건화 입력에 적용하여 조건화 데이터를 수정합니다. 두 조건화 세트를 결합하면서 새로운 조건화의 강도를 제어하고 조건화 영역이 적용되는 방식을 지정합니다.
 

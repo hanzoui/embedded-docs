@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Sd4xupscaleConditioning/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Sd4xupscaleConditioning/pt-BR.md)
 
 Este nó é especializado em aprimorar a resolução de imagens por meio de um processo de super-resolução 4x, incorporando elementos de condicionamento para refinar a saída. Ele utiliza técnicas de difusão para aumentar a escala das imagens, permitindo o ajuste da razão de escala e da amplificação de ruído para afinar o processo de aprimoramento.
 

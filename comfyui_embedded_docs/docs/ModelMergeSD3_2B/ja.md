@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSD3_2B/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSD3_2B/ja.md)
 
 ModelMergeSD3_2Bノードは、2つのStable Diffusion 3 2Bモデルを、調整可能な重みでコンポーネントをブレンドしながら統合することができます。埋め込み層とトランスフォーマーブロックを個別に制御できるため、特殊な生成タスクに向けた微調整されたモデル組み合わせが可能になります。
 

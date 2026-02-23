@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/IdeogramV2/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/IdeogramV2/fr.md)
 
 Le nœud Ideogram V2 génère des images en utilisant le modèle d'IA Ideogram V2. Il prend des invites textuelles et divers paramètres de génération pour créer des images via un service API. Le nœud prend en charge différents ratios d'aspect, résolutions et options de style pour personnaliser les images générées.
 

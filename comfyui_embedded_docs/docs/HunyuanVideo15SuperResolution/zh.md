@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanVideo15SuperResolution/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanVideo15SuperResolution/zh.md)
 
 HunyuanVideo15SuperResolution 节点为视频超分辨率处理准备条件数据。它接收视频的潜在表示，并可选择性地接收起始图像，然后将它们与噪声增强和 CLIP 视觉数据一起打包成可供模型用于生成更高分辨率输出的格式。
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PerpNeg/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PerpNeg/pt-BR.md)
 
 O nó PerpNeg aplica orientação negativa perpendicular ao processo de amostragem de um modelo. Este nó modifica a função de configuração do modelo para ajustar as previsões de ruído usando condicionamento negativo e fatores de escala. Ele foi descontinuado e substituído pelo nó PerpNegGuider para melhor funcionalidade.
 

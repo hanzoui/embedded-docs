@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/UNetCrossAttentionMultiply/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UNetCrossAttentionMultiply/tr.md)
 
 UNetCrossAttentionMultiply düğümü, bir UNet modelindeki çapraz dikkat mekanizmasına çarpım faktörleri uygular. Çapraz dikkat katmanlarının sorgu, anahtar, değer ve çıktı bileşenlerini ölçeklendirerek farklı dikkat davranışları ve etkileri denemenize olanak tanır.
 

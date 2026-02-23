@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringTrim/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringTrim/pt-BR.md)
 
 O nó StringTrim remove caracteres de espaço em branco do início, do final ou de ambos os lados de uma string de texto. Você pode escolher aparar do lado esquerdo, direito ou de ambos os lados da string. Isso é útil para limpar entradas de texto, removendo espaços, tabulações ou caracteres de nova linha indesejados.
 

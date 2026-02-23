@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ComfySwitchNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ComfySwitchNode/en.md)
 
 The Switch node selects between two possible inputs based on a boolean condition. It outputs the `on_true` input when the `switch` is enabled, and the `on_false` input when the `switch` is disabled. This allows you to create conditional logic and choose different data paths in your workflow.
 

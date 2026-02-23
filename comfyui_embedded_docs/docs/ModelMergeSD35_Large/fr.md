@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSD35_Large/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSD35_Large/fr.md)
 
 Le nœud ModelMergeSD35_Large vous permet de fusionner deux modèles Stable Diffusion 3.5 Large en ajustant l'influence des différents composants du modèle. Il offre un contrôle précis sur la contribution de chaque partie du second modèle dans le modèle fusionné final, des couches d'embedding aux blocs joints et aux couches finales.
 

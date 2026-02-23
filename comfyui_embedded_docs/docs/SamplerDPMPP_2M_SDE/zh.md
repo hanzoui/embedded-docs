@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMPP_2M_SDE/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMPP_2M_SDE/zh.md)
 
 SamplerDPMPP_2M_SDE 节点为扩散模型创建 DPM++ 2M SDE 采样器。该采样器使用带有随机微分方程的二阶微分方程求解器来生成样本。它提供不同的求解器类型和噪声处理选项以控制采样过程。
 

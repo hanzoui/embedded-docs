@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ReferenceTimbreAudio/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ReferenceTimbreAudio/zh-TW.md)
 
 此節點設定參考音色，用於「ace step 1.5」流程。它接收一個條件輸入，並可選擇性地接收一個音訊的潛在表示，然後將該潛在資料附加到條件資料上，供工作流程中的後續節點使用。
 

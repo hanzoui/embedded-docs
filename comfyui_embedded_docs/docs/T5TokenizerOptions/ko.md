@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/T5TokenizerOptions/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/T5TokenizerOptions/ko.md)
 
 T5TokenizerOptions 노드는 다양한 T5 모델 유형에 대한 토크나이저 설정을 구성할 수 있게 해줍니다. 이 노드는 t5xxl, pile_t5xl, t5base, mt5xl, umt5xxl 등 여러 T5 모델 변형에 대한 최소 패딩 및 최소 길이 매개변수를 설정합니다. CLIP 입력을 받아 지정된 토크나이저 옵션이 적용된 수정된 CLIP을 반환합니다.
 

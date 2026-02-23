@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/QwenImageDiffsynthControlnet/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/QwenImageDiffsynthControlnet/tr.md)
 
 QwenImageDiffsynthControlnet düğümü, bir temel modelin davranışını değiştirmek için bir difüzyon sentez kontrol ağı yaması uygular. Görüntü girişi ve isteğe bağlı bir maske kullanarak modelin üretim sürecini ayarlanabilir güçle yönlendirir ve kontrol ağının etkisini dahil eden yamalı bir model oluşturur, böylece daha kontrollü görüntü sentezi sağlar.
 

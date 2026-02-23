@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxProDepthNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxProDepthNode/ko.md)
 
 이 노드는 깊이 제어 이미지를 지침으로 사용하여 이미지를 생성합니다. 제어 이미지와 텍스트 프롬프트를 입력받아, 제어 이미지의 깊이 정보와 프롬프트의 설명을 모두 따르는 새로운 이미지를 생성합니다. 이 노드는 이미지 생성 과정을 수행하기 위해 외부 API에 연결됩니다.
 

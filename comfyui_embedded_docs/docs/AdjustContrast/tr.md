@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AdjustContrast/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AdjustContrast/tr.md)
 
 Adjust Contrast düğümü, bir giriş görüntüsünün kontrast seviyesini değiştirir. Görüntünün aydınlık ve karanlık alanları arasındaki farkı ayarlayarak çalışır. 1.0 faktörü görüntüyü değiştirmeden bırakır, 1.0'ın altındaki değerler kontrastı azaltır ve 1.0'ın üzerindeki değerler kontrastı artırır.
 

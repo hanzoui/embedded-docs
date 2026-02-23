@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingImageToVideoWithAudio/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingImageToVideoWithAudio/zh.md)
 
 Kling Image(First Frame) to Video with Audio 节点使用 Kling AI 模型，从单张起始图像和文本提示生成短视频。它会创建一个以提供的图像为起始帧的视频序列，并可选择性地包含 AI 生成的音频来配合视觉效果。
 

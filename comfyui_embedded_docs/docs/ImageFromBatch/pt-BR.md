@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageFromBatch/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageFromBatch/pt-BR.md)
 
 O nó `ImageFromBatch` é projetado para extrair um segmento específico de imagens de um lote com base no índice e comprimento fornecidos. Ele permite um controle mais granular sobre as imagens em lote, possibilitando operações em imagens individuais ou subconjuntos dentro de um lote maior.
 

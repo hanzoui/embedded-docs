@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmos14B/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmos14B/zh-TW.md)
 
 ModelMergeCosmos14B 節點使用基於區塊的方法合併兩個 AI 模型，該方法專為 Cosmos 14B 模型架構設計。它允許您透過調整每個模型區塊和嵌入層的權重值（範圍在 0.0 到 1.0 之間）來混合模型的不同組件。
 

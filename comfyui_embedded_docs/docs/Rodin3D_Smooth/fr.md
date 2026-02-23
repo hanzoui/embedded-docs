@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Rodin3D_Smooth/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Rodin3D_Smooth/fr.md)
 
 Le nœud Rodin 3D Smooth génère des actifs 3D en utilisant l'API Rodin en traitant des images d'entrée et en les convertissant en modèles 3D lissés. Il prend plusieurs images en entrée et produit un fichier de modèle 3D téléchargeable. Le nœud gère l'intégralité du processus de génération, incluant la création de tâches, la vérification du statut et le téléchargement des fichiers automatiquement.
 

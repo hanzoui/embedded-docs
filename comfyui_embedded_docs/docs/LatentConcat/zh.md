@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentConcat/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentConcat/zh.md)
 
 LatentConcat 节点沿着指定维度合并两个潜在样本。它接收两个潜在输入，并沿着选定的轴（x、y 或 t 维度）将它们连接在一起。在执行连接操作之前，该节点会自动调整第二个输入的批次大小以匹配第一个输入。
 

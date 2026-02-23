@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanCameraImageToVideo/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanCameraImageToVideo/fr.md)
 
 Le nœud WanCameraImageToVideo convertit des images en séquences vidéo en générant des représentations latentes pour la création vidéo. Il traite les entrées de conditionnement et les images de départ optionnelles pour créer des latents vidéo qui peuvent être utilisés avec des modèles vidéo. Le nœud prend en charge les conditions de caméra et les sorties de vision CLIP pour un contrôle amélioré de la génération vidéo.
 

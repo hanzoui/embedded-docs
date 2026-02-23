@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Pikadditions/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Pikadditions/zh-TW.md)
 
 Pikadditions 節點可讓您在影片中添加任何物件或圖像。您只需上傳影片並指定要添加的內容，即可創建無縫融合的結果。此節點使用 Pika API 將圖像插入影片中，實現自然逼真的融合效果。
 

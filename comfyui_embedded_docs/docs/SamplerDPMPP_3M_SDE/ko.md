@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMPP_3M_SDE/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMPP_3M_SDE/ko.md)
 
 SamplerDPMPP_3M_SDE 노드는 샘플링 과정에서 사용할 DPM++ 3M SDE 샘플러를 생성합니다. 이 샘플러는 구성 가능한 노이즈 매개변수를 가진 3차 다중단계 확률적 미분 방정식 방법을 사용합니다. 이 노드를 통해 노이즈 계산을 GPU에서 수행할지 CPU에서 수행할지 선택할 수 있습니다.
 

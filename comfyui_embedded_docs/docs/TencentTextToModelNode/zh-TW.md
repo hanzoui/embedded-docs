@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TencentTextToModelNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TencentTextToModelNode/zh-TW.md)
 
 此節點使用騰訊的 Hunyuan3D Pro API，根據文字描述生成 3D 模型。它會發送請求以創建生成任務，輪詢結果，並下載最終的 GLB 和 OBJ 格式模型檔案。
 

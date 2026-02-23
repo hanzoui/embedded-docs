@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ChromaRadianceOptions/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ChromaRadianceOptions/ja.md)
 
 ChromaRadianceOptionsノードを使用すると、Chroma Radianceモデルの高度な設定を構成できます。既存のモデルをラップし、シグマ値に基づいてデノイズプロセス中に特定のオプションを適用することで、NeRFタイルサイズやその他の放射関連パラメータをきめ細かく制御できます。
 

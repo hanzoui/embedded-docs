@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeTiled/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeTiled/fr.md)
 
 Le nœud VAEDecodeTiled décode les représentations latentes en images en utilisant une approche par tuiles pour traiter efficacement les grandes images. Il traite l'entrée en tuiles plus petites pour gérer l'utilisation de la mémoire tout en maintenant la qualité de l'image. Le nœud prend également en charge les VAE vidéo en traitant les trames temporelles par blocs avec un chevauchement pour des transitions fluides.
 

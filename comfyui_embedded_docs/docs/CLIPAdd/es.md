@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPAdd/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPAdd/es.md)
 
 El nodo CLIPAdd combina dos modelos CLIP fusionando sus parches clave. Crea una copia del primer modelo CLIP y luego añade la mayoría de los parches clave del segundo modelo, excluyendo los ID de posición y los parámetros de escala logit. Esto permite combinar características de diferentes modelos CLIP preservando la estructura del primer modelo.
 

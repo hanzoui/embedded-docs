@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanImageToVideo/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanImageToVideo/ko.md)
 
 HunyuanImageToVideo 노드는 Hunyuan 비디오 모델을 사용하여 이미지를 비디오 잠재 표현으로 변환합니다. 조건 입력과 선택적 시작 이미지를 받아 비디오 생성 모델에서 추가 처리할 수 있는 비디오 잠재 표현을 생성합니다. 이 노드는 시작 이미지가 비디오 생성 과정에 영향을 미치는 방식을 제어하기 위한 다양한 가이던스 유형을 지원합니다.
 

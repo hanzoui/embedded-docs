@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResizeImageMaskNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResizeImageMaskNode/ja.md)
 
 Resize Image/Maskノードは、入力画像またはマスクの寸法を変更するための複数の方法を提供します。倍率によるスケーリング、特定の寸法の設定、別の入力のサイズに合わせる、またはピクセル数に基づいて調整することができ、品質のために様々な補間方法を使用します。
 

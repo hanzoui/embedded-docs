@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ShuffleImageTextDataset/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ShuffleImageTextDataset/pt-BR.md)
 
 Este nó embaralha uma lista de imagens e uma lista de textos em conjunto, mantendo seus pares intactos. Ele usa uma semente aleatória para determinar a ordem do embaralhamento, garantindo que as mesmas listas de entrada sejam embaralhadas da mesma forma sempre que a semente for reutilizada.
 

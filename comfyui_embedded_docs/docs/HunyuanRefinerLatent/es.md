@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanRefinerLatent/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanRefinerLatent/es.md)
 
 El nodo HunyuanRefinerLatent procesa acondicionamientos y entradas latentes para operaciones de refinamiento. Aplica aumento de ruido tanto al acondicionamiento positivo como al negativo mientras incorpora datos de imagen latente, y genera una nueva salida latente con dimensiones específicas para su posterior procesamiento.
 

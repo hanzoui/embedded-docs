@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanVideo15LatentUpscaleWithModel/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanVideo15LatentUpscaleWithModel/fr.md)
 
 Le nœud Hunyuan Video 15 Latent Upscale With Model augmente la résolution d'une représentation d'image latente. Il procède d'abord à un suréchantillonnage des échantillons latents vers une taille spécifiée en utilisant une méthode d'interpolation choisie, puis affine le résultat suréchantillonné à l'aide d'un modèle de suréchantillonnage spécialisé Hunyuan Video 1.5 pour en améliorer la qualité.
 

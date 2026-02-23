@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Wan22ImageToVideoLatent/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Wan22ImageToVideoLatent/ar.md)
 
 ينشئ عقد Wan22ImageToVideoLatent تمثيلات كامنة للفيديو من الصور. يقوم بإنشاء مساحة كامنة لفيديو فارغ بأبعاد محددة ويمكنه اختيارياً تشفير تسلسل صورة بداية في الإطارات الأولى. عند توفير صورة بداية، يقوم بتشفير الصورة إلى المساحة الكامنة وإنشاء قناع ضوضاء مقابل للمناطق المراد ترميمها.
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSD1/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSD1/en.md)
 
 The ModelMergeSD1 node allows you to blend two Stable Diffusion 1.x models together by adjusting the influence of different model components. It provides individual control over time embedding, label embedding, and all input, middle, and output blocks, enabling fine-tuned model merging for specific use cases.
 

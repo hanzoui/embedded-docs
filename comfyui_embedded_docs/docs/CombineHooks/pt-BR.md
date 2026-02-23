@@ -1,6 +1,6 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CombineHooks/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CombineHooks/pt-BR.md)
 
-O nó Combine Hooks [2] mescla dois grupos de hooks em um único grupo de hooks combinado. Ele recebe duas entradas de hook opcionais e as combina usando a funcionalidade de combinação de hooks do ComfyUI. Isso permite consolidar múltiplas configurações de hooks para um processamento mais eficiente.
+O nó Combine Hooks [2] mescla dois grupos de hooks em um único grupo de hooks combinado. Ele recebe duas entradas de hook opcionais e as combina usando a funcionalidade de combinação de hooks do Hanzo Studio. Isso permite consolidar múltiplas configurações de hooks para um processamento mais eficiente.
 
 ## Entradas
 

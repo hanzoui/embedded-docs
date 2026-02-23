@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringContains/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringContains/ko.md)
 
 StringContains 노드는 주어진 문자열에 특정 부분 문자열이 포함되어 있는지 확인합니다. 대소문자를 구분하거나 구분하지 않는 검색을 수행할 수 있으며, 부분 문자열이 메인 문자열 내에서 발견되었는지 여부를 나타내는 불리언 결과를 반환합니다.
 

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxDisableGuidance/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxDisableGuidance/fr.md)
 
 Ce nœud désactive complètement la fonctionnalité d'intégration de guidage pour Flux et les modèles similaires. Il prend des données de conditionnement en entrée et supprime le composant de guidage en le définissant sur None, désactivant ainsi efficacement le conditionnement basé sur le guidage pour le processus de génération.
 

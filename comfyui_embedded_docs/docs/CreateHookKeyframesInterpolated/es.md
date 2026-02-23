@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookKeyframesInterpolated/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookKeyframesInterpolated/es.md)
 
 Crea una secuencia de fotogramas clave de enlace con valores de fuerza interpolados entre un punto de inicio y fin. Este nodo genera múltiples fotogramas clave que transicionan suavemente el parámetro de fuerza a través de un rango porcentual específico del proceso de generación, utilizando varios métodos de interpolación para controlar la curva de transición.
 

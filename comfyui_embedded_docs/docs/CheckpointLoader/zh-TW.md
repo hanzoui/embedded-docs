@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CheckpointLoader/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CheckpointLoader/zh-TW.md)
 
 此節點載入預訓練的模型檢查點及其設定檔。它接收一個設定檔和一個檢查點檔案作為輸入，並返回已載入的模型元件，包括主要模型、CLIP 模型和 VAE 模型，以供工作流程使用。
 

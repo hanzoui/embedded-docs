@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Wan22FunControlToVideo/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Wan22FunControlToVideo/tr.md)
 
 Wan22FunControlToVideo düğümü, Wan video model mimarisi kullanılarak video üretimi için koşullandırma ve gizli temsilleri hazırlar. Pozitif ve negatif koşullandırma girdilerini, isteğe bağlı referans görüntüler ve kontrol videoları ile birlikte işleyerek video sentezi için gerekli gizli uzay temsillerini oluşturur. Düğüm, video modelleri için uygun koşullandırma verisi oluşturmak üzere uzamsal ölçekleme ve zamansal boyutları işler.
 

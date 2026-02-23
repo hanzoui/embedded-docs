@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageSetNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageSetNode/ja.md)
 
 LoadImageSetNodeは、バッチ処理やトレーニングの目的で入力ディレクトリから複数の画像を読み込みます。様々な画像フォーマットをサポートし、オプションで異なる方法を使用して画像のサイズを変更することができます。このノードは選択されたすべての画像をバッチとして処理し、単一のテンソルとして返します。
 

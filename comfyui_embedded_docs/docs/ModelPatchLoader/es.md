@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelPatchLoader/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelPatchLoader/es.md)
 
 El nodo ModelPatchLoader carga parches de modelos especializados desde la carpeta model_patches. Detecta automáticamente el tipo de archivo de parche y carga la arquitectura de modelo correspondiente, luego lo envuelve en un ModelPatcher para su uso en el flujo de trabajo. Este nodo admite diferentes tipos de parches, incluyendo bloques controlnet y modelos de incrustación de características.
 

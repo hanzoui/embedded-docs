@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyRefineNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyRefineNode/ko.md)
 
 Meshy: Refine Draft Model 노드는 이전에 생성된 3D 드래프트 모델을 가져와 품질을 개선하고, 선택적으로 텍스처를 추가합니다. Meshy API에 리파인먼트 작업을 제출하고 처리가 완료되면 최종 3D 모델 파일을 반환합니다.
 

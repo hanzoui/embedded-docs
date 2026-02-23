@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceTextToVideoNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceTextToVideoNode/zh.md)
 
 字节跳动文生视频节点通过基于文本提示的 API 使用字节跳动模型生成视频。它接收文本描述和各种视频设置作为输入，然后创建符合所提供规格的视频。该节点负责处理 API 通信，并将生成的视频作为输出返回。
 

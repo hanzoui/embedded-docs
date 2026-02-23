@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingTextToVideoNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingTextToVideoNode/ja.md)
 
 Kling Text to Video ノードは、テキストの説明を動画コンテンツに変換します。テキストプロンプトを受け取り、指定された設定に基づいて対応する動画シーケンスを生成します。このノードは異なるアスペクト比と生成モードをサポートしており、様々な長さと品質の動画を生成することができます。
 

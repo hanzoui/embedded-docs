@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PrimitiveString/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PrimitiveString/zh.md)
 
 字符串节点提供了一种在您的工作流程中输入和传递文本数据的简单方式。它接收一个文本字符串作为输入，并输出未经更改的相同字符串，这对于向需要字符串参数的其他节点提供文本输入非常有用。
 

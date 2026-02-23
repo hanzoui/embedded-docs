@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Rodin3D_Regular/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Rodin3D_Regular/ja.md)
 
 Rodin 3D Regularノードは、Rodin APIを使用して3Dアセットを生成します。入力画像を受け取り、Rodinサービスを通じて処理することで3Dモデルを作成します。このノードは、タスクの作成から最終的な3Dモデルファイルのダウンロードまでのワークフロー全体を処理します。
 

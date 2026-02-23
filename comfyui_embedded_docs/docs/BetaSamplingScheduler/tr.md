@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BetaSamplingScheduler/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BetaSamplingScheduler/tr.md)
 
 BetaSamplingScheduler düğümü, beta zamanlama algoritmasını kullanarak örnekleme işlemi için bir gürültü seviyeleri (sigmas) dizisi oluşturur. Görüntü oluşturma sırasındaki gürültü giderme işlemini kontrol eden özelleştirilmiş bir gürültü zamanlaması oluşturmak için bir model ve yapılandırma parametrelerini alır. Bu zamanlayıcı, alfa ve beta parametreleri aracılığıyla gürültü azaltma yörüngesinin ince ayarına olanak tanır.
 

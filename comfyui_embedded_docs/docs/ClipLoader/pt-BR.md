@@ -1,12 +1,12 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPLoader/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPLoader/pt-BR.md)
 
 Este nó é usado principalmente para carregar modelos de codificador de texto CLIP de forma independente.
 Os arquivos de modelo podem ser detectados nos seguintes caminhos:
 
-- "ComfyUI/models/text_encoders/"
-- "ComfyUI/models/clip/"
+- "Hanzo Studio/models/text_encoders/"
+- "Hanzo Studio/models/clip/"
 
-> Se você salvar um modelo após o ComfyUI ter iniciado, será necessário atualizar a interface do ComfyUI para obter a lista mais recente de caminhos de arquivos de modelo.
+> Se você salvar um modelo após o Hanzo Studio ter iniciado, será necessário atualizar a interface do Hanzo Studio para obter a lista mais recente de caminhos de arquivos de modelo.
 
 Formatos de modelo suportados:
 
@@ -19,14 +19,14 @@ Formatos de modelo suportados:
 - `.pkl`
 - `.sft`
 
-Para mais detalhes sobre o carregamento mais recente de arquivos de modelo, consulte [folder_paths](https://github.com/comfyanonymous/ComfyUI/blob/master/folder_paths.py)
+Para mais detalhes sobre o carregamento mais recente de arquivos de modelo, consulte [folder_paths](https://github.com/hanzoai/studio/blob/master/folder_paths.py)
 
 ## Entradas
 
 | Parâmetro     | Tipo de Dados | Descrição |
 |---------------|---------------|-------------|
 | `clip_name`   | COMBO[STRING] | Especifica o nome do modelo CLIP a ser carregado. Este nome é usado para localizar o arquivo do modelo dentro de uma estrutura de diretórios predefinida. |
-| `type`        | COMBO[STRING] | Determina o tipo de modelo CLIP a ser carregado. Conforme o ComfyUI suporta mais modelos, novos tipos serão adicionados aqui. Por favor, verifique a definição da classe `CLIPLoader` em [node.py](https://github.com/comfyanonymous/ComfyUI/blob/master/nodes.py) para obter detalhes. |
+| `type`        | COMBO[STRING] | Determina o tipo de modelo CLIP a ser carregado. Conforme o Hanzo Studio suporta mais modelos, novos tipos serão adicionados aqui. Por favor, verifique a definição da classe `CLIPLoader` em [node.py](https://github.com/hanzoai/studio/blob/master/nodes.py) para obter detalhes. |
 | `device`      | COMBO[STRING] | Escolha o dispositivo para carregar o modelo CLIP. `default` executará o modelo na GPU, enquanto selecionar `CPU` forçará o carregamento na CPU. |
 
 ### Explicação das Opções de Dispositivo
@@ -61,7 +61,7 @@ Executar na CPU será muito mais lento do que na GPU, mas pode economizar valios
 | lumina2 | gemma 2 2B |
 | wan | umt5 xxl |
 
-Conforme o ComfyUI é atualizado, essas combinações podem se expandir. Para detalhes, consulte a definição da classe `CLIPLoader` em [node.py](https://github.com/comfyanonymous/ComfyUI/blob/master/nodes.py)
+Conforme o Hanzo Studio é atualizado, essas combinações podem se expandir. Para detalhes, consulte a definição da classe `CLIPLoader` em [node.py](https://github.com/hanzoai/studio/blob/master/nodes.py)
 
 ## Saídas
 
@@ -71,4 +71,4 @@ Conforme o ComfyUI é atualizado, essas combinações podem se expandir. Para de
 
 ## Notas Adicionais
 
-Os modelos CLIP desempenham um papel central como codificadores de texto no ComfyUI, responsáveis por converter prompts de texto em representações numéricas que os modelos de difusão podem entender. Você pode pensar neles como tradutores, responsáveis por traduzir seu texto para uma linguagem que os modelos grandes possam compreender. É claro que diferentes modelos têm seus próprios "dialetos", portanto, diferentes codificadores CLIP são necessários entre diferentes arquiteturas para completar o processo de codificação de texto.
+Os modelos CLIP desempenham um papel central como codificadores de texto no Hanzo Studio, responsáveis por converter prompts de texto em representações numéricas que os modelos de difusão podem entender. Você pode pensar neles como tradutores, responsáveis por traduzir seu texto para uma linguagem que os modelos grandes possam compreender. É claro que diferentes modelos têm seus próprios "dialetos", portanto, diferentes codificadores CLIP são necessários entre diferentes arquiteturas para completar o processo de codificação de texto.

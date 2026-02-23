@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityAudioInpaint/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityAudioInpaint/ko.md)
 
 텍스트 지시를 사용하여 기존 오디오 샘플의 일부를 변환합니다. 이 노드를 사용하면 설명형 프롬프트를 제공하여 오디오의 특정 구간을 수정할 수 있으며, 나머지 오디오는 보존한 채 선택된 부분을 효과적으로 "인페인팅"하거나 재생성합니다.
 

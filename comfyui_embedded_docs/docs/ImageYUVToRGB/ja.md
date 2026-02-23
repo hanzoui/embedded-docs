@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageYUVToRGB/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageYUVToRGB/ja.md)
 
 ImageYUVToRGBノードは、YUVカラースペースの画像をRGBカラースペースに変換します。Y（輝度）、U（青の射影）、V（赤の射影）の各チャンネルを表す3つの別々の入力画像を受け取り、カラースペース変換を使用して単一のRGB画像に結合します。
 

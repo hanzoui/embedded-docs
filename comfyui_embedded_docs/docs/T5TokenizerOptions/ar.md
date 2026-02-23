@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/T5TokenizerOptions/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/T5TokenizerOptions/ar.md)
 
 تتيح عقدة T5TokenizerOptions تكوين إعدادات المُعرِّف الرمزي (tokenizer) لأنواع مختلفة من نماذج T5. تقوم بتعيين معاملات الحشو الأدنى والطول الأدنى لعدة متغيرات من نماذج T5 تشمل t5xxl، وpile_t5xl، وt5base، وmt5xl، وumt5xxl. تأخذ العقدة إدخال CLIP وتعيد CLIP معدلاً مع تطبيق خيارات المُعرِّف الرمزي المحددة.
 

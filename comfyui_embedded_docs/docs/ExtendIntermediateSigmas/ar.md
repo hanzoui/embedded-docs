@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ExtendIntermediateSigmas/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ExtendIntermediateSigmas/ar.md)
 
 تأخذ عقدة ExtendIntermediateSigmas تسلسل قيم سيجما موجودًا وتقوم بإدراج قيم سيجما وسيطة إضافية بينها. تتيح لك تحديد عدد الخطوات الإضافية المراد إضافتها، وطريقة التباعد للاستيفاء، وحدود سيجما بداية ونهاية اختيارية للتحكم في مكان حدوث الامتداد ضمن تسلسل سيجما.
 

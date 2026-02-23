@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxKontextImageScale/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxKontextImageScale/tr.md)
 
 Bu düğüm, giriş görüntüsünün en-boy oranına dayanarak, Flux Kontext modeli eğitimi sırasında kullanılan optimal bir boyuta ölçeklendirir ve Lanczos algoritmasını kullanır. Bu düğüm, özellikle büyük boyutlu görüntüler girilirken kullanışlıdır, çünkü aşırı büyük girişler model çıktı kalitesinin düşmesine veya çıktıda birden fazla konunun belirmesi gibi sorunlara yol açabilir.
 

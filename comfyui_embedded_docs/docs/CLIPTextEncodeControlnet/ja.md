@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeControlnet/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeControlnet/ja.md)
 
 CLIPTextEncodeControlnetノードは、テキスト入力をCLIPモデルを使用して処理し、既存の調節データと組み合わせることで、controlnetアプリケーション向けの強化された調節出力を作成します。入力テキストをトークン化し、CLIPモデルを通じてエンコードし、結果の埋め込みを提供された調節データにcross-attention controlnetパラメータとして追加します。
 

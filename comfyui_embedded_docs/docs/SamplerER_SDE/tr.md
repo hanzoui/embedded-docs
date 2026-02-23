@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerER_SDE/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerER_SDE/tr.md)
 
 SamplerER_SDE düğümü, difüzyon modelleri için özel örnekleme yöntemleri sağlar ve ER-SDE, Ters-zamanlı SDE ve ODE yaklaşımları dahil olmak üzere farklı çözücü türleri sunar. Örnekleme sürecinin stokastik davranışını ve hesaplama aşamalarını kontrol etme olanağı tanır. Düğüm, uygun işlevselliği sağlamak için seçilen çözücü türüne bağlı olarak parametreleri otomatik olarak ayarlar.
 

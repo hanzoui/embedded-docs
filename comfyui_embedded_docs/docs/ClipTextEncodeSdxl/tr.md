@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeSDXL/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeSDXL/tr.md)
 
 Bu düğüm, SDXL mimarisi için özelleştirilmiş bir CLIP modeli kullanarak metin girişini kodlamak üzere tasarlanmıştır. Metin açıklamalarını işlemek için çift kodlayıcılı bir sistem (CLIP-L ve CLIP-G) kullanarak daha doğru görüntü oluşturma sağlar.
 

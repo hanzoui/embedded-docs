@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ThresholdMask/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ThresholdMask/tr.md)
 
 ThresholdMask düğümü, bir maskeyi bir eşik değeri uygulayarak ikili maskeye dönüştürür. Girdi maskesindeki her pikseli belirtilen eşik değeriyle karşılaştırır ve eşiğin üzerindeki piksellerin 1 (beyaz), eşiğin altında veya eşit olan piksellerin ise 0 (siyah) olduğu yeni bir maske oluşturur.
 

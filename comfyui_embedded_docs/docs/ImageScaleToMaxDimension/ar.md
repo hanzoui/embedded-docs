@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageScaleToMaxDimension/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageScaleToMaxDimension/ar.md)
 
 تقوم عقدة ImageScaleToMaxDimension بتغيير حجم الصور لتناسب أقصى بُعد مُحدد مع الحفاظ على نسبة الأبعاد الأصلية. تحسب العقدة ما إذا كانت الصورة ذات اتجاه عمودي أو أفقي، ثم تقوم بتحجيم البُعد الأكبر لمطابقة الحجم المستهدف مع ضبط البُعد الأصغر بشكل متناسب. تدعم العقدة طرق متعددة لتحسين الجودة لمتطلبات مختلفة من حيث الجودة والأداء.
 

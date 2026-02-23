@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TopazImageEnhance/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TopazImageEnhance/ko.md)
 
 Topaz Image Enhance 노드는 업계 표준 업스케일링 및 이미지 향상 기능을 제공합니다. 단일 입력 이미지를 클라우드 기반 AI 모델을 사용하여 처리하여 품질, 디테일 및 해상도를 개선합니다. 이 노드는 창의적 안내, 피사체 초점, 얼굴 보존 옵션을 포함한 향상 프로세스에 대한 세밀한 제어 기능을 제공합니다.
 

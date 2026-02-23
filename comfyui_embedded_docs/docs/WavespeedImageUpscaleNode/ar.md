@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WavespeedImageUpscaleNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WavespeedImageUpscaleNode/ar.md)
 
 يستخدم عقد WaveSpeed Image Upscale خدمة ذكاء اصطناعي خارجية لزيادة دقة وجودة الصورة. يأخذ صورة إدخال واحدة ويرفع دقتها إلى دقة مستهدفة أعلى، مثل 2K أو 4K أو 8K، لينتج نتيجة أكثر وضوحًا وتفصيلاً.
 

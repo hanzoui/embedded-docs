@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVImgToVideoInplace/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVImgToVideoInplace/tr.md)
 
 LTXVImgToVideoInplace düğümü, bir giriş görüntüsünü ilk karelerine kodlayarak bir video gizli temsilini koşullandırır. Görüntüyü gizli uzaya kodlamak için bir VAE kullanır ve ardından belirtilen bir güce dayalı olarak mevcut gizli örneklerle harmanlar. Bu, bir görüntünün video oluşturma için bir başlangıç noktası veya koşullandırma sinyali olarak hizmet etmesine olanak tanır.
 

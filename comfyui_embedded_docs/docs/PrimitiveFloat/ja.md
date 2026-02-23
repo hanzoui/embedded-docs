@@ -1,6 +1,6 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PrimitiveFloat/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PrimitiveFloat/ja.md)
 
-PrimitiveFloatノードは、ワークフロー内で使用できる浮動小数点数値を作成します。単一の数値入力を受け取り、同じ値を出力することで、ComfyUIパイプライン内の異なるノード間で浮動小数点値を定義して受け渡すことができます。
+PrimitiveFloatノードは、ワークフロー内で使用できる浮動小数点数値を作成します。単一の数値入力を受け取り、同じ値を出力することで、Hanzo Studioパイプライン内の異なるノード間で浮動小数点値を定義して受け渡すことができます。
 
 ## 入力
 

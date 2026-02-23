@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu2StartEndToVideoNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu2StartEndToVideoNode/ko.md)
 
 이 노드는 시작 프레임과 종료 프레임을 제공받아 텍스트 프롬프트의 지도 하에 두 이미지 사이를 보간하여 비디오를 생성합니다. 지정된 Vidu 모델을 사용하여 설정된 지속 시간 동안 두 이미지 간의 부드러운 전환을 만듭니다.
 

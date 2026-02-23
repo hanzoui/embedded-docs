@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentConcat/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentConcat/en.md)
 
 The LatentConcat node combines two latent samples along a specified dimension. It takes two latent inputs and concatenates them together along the chosen axis (x, y, or t dimension). The node automatically adjusts the batch size of the second input to match the first input before performing the concatenation operation.
 

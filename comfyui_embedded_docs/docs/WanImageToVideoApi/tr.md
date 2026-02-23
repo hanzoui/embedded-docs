@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanImageToVideoApi/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanImageToVideoApi/tr.md)
 
 Wan Image to Video düğümü, tek bir giriş görüntüsü ve bir metin isteminden başlayarak video içeriği oluşturur. Başlangıç karesini sağlanan açıklamaya göre genişleterek video dizileri oluşturur ve video kalitesi, süresi ve ses entegrasyonunu kontrol etme seçenekleri sunar.
 

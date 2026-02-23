@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LtxvApiTextToVideo/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LtxvApiTextToVideo/ko.md)
 
 LTXV 텍스트-비디오 노드는 텍스트 설명으로 전문가 수준의 품질을 가진 비디오를 생성합니다. 외부 API에 연결하여 사용자 정의 가능한 길이, 해상도 및 프레임 속도를 가진 비디오를 생성합니다. 또한 AI가 생성한 오디오를 비디오에 추가하도록 선택할 수도 있습니다.
 

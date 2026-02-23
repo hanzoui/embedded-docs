@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TemporalScoreRescaling/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TemporalScoreRescaling/ko.md)
 
 이 노드는 Temporal Score Rescaling(TSR)을 확산 모델에 적용합니다. 노이즈 제거 과정에서 예측된 노이즈나 스코어를 재조정하여 모델의 샘플링 동작을 수정하며, 이를 통해 생성된 출력의 다양성을 조절할 수 있습니다. 이는 CFG(Classifier-Free Guidance) 이후 함수로 구현됩니다.
 

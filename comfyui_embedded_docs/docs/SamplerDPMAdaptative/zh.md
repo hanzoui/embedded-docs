@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMAdaptative/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMAdaptative/zh.md)
 
 SamplerDPMAdaptative 节点实现了一种自适应 DPM（扩散概率模型）采样器，能够在采样过程中自动调整步长。它采用基于容差的误差控制机制来确定最优步长，在计算效率与采样精度之间取得平衡。这种自适应方法有助于保持生成质量，同时可能减少所需的采样步数。
 

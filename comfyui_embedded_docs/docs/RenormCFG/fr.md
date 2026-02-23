@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RenormCFG/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RenormCFG/fr.md)
 
 Le nœud RenormCFG modifie le processus de classifier-free guidance (CFG) dans les modèles de diffusion en appliquant une mise à l'échelle conditionnelle et une normalisation. Il ajuste le processus de débruitage en fonction de seuils d'étape de temps spécifiés et de facteurs de renormalisation pour contrôler l'influence des prédictions conditionnelles par rapport aux prédictions non conditionnelles pendant la génération d'image.
 

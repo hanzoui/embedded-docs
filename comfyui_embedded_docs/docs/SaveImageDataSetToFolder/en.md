@@ -1,6 +1,6 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveImageDataSetToFolder/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImageDataSetToFolder/en.md)
 
-This node saves a list of images to a specified folder within ComfyUI's output directory. It takes multiple images as input and writes them to disk with a customizable filename prefix.
+This node saves a list of images to a specified folder within Hanzo Studio's output directory. It takes multiple images as input and writes them to disk with a customizable filename prefix.
 
 ## Inputs
 

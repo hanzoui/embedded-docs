@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResizeAndPadImage/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResizeAndPadImage/fr.md)
 
 Le nœud ResizeAndPadImage redimensionne une image pour qu'elle s'adapte aux dimensions spécifiées tout en conservant son rapport d'aspect d'origine. Il réduit proportionnellement l'image pour qu'elle tienne dans la largeur et la hauteur cibles, puis ajoute un remplissage autour des bords pour combler l'espace restant. La couleur de remplissage et la méthode d'interpolation peuvent être personnalisées pour contrôler l'apparence des zones remplies et la qualité du redimensionnement.
 

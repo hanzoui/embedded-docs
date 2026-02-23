@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageSetFromFolderNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageSetFromFolderNode/ar.md)
 
 يقوم عُقدة LoadImageSetFromFolderNode بتحميل صور متعددة من مجلد محدد لأغراض التدريب. يكتشف العُقد تلقائيًا صيغ الصور الشائعة ويمكنه اختياريًا تغيير حجم الصور باستخدام طرق مختلفة قبل إرجاعها كدفعة.
 

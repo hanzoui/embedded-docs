@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIVideoSora2/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIVideoSora2/zh.md)
 
 OpenAIVideoSora2 节点使用 OpenAI 的 Sora 模型生成视频。它基于文本提示和可选的输入图像创建视频内容，然后返回生成的视频输出。该节点根据所选模型支持不同的视频时长和分辨率。
 

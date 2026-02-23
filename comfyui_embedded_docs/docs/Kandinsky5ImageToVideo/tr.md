@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Kandinsky5ImageToVideo/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Kandinsky5ImageToVideo/tr.md)
 
 Kandinsky5ImageToVideo düğümü, Kandinsky modelini kullanarak video üretimi için koşullandırma ve gizli uzay verilerini hazırlar. Boş bir video gizli tensörü oluşturur ve isteğe bağlı olarak bir başlangıç görüntüsünü kodlayarak üretilen videonun ilk karelerine rehberlik edebilir ve buna göre pozitif ve negatif koşullandırmayı değiştirir.
 

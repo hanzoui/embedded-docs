@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripleCLIPLoader/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripleCLIPLoader/en.md)
 
 The TripleCLIPLoader node loads three different text encoder models simultaneously and combines them into a single CLIP model. This is useful for advanced text encoding scenarios where multiple text encoders are needed, such as in SD3 workflows that require clip-l, clip-g, and t5 models working together.
 

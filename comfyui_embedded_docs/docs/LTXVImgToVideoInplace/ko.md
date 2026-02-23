@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVImgToVideoInplace/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVImgToVideoInplace/ko.md)
 
 LTXVImgToVideoInplace 노드는 입력 이미지를 초기 프레임으로 인코딩하여 비디오 잠재 표현(Latent Representation)에 조건을 부여합니다. VAE를 사용하여 이미지를 잠재 공간(Latent Space)으로 인코딩한 후, 지정된 강도(strength)에 따라 기존 잠재 샘플과 혼합하는 방식으로 작동합니다. 이를 통해 이미지를 비디오 생성의 시작점이나 조건 신호로 사용할 수 있습니다.
 

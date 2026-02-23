@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SDTurboScheduler/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SDTurboScheduler/tr.md)
 
 SDTurboScheduler, görüntü örneklemesi için bir sigma değerleri dizisi oluşturmak üzere tasarlanmıştır ve diziyi, belirtilen gürültü giderme seviyesi ve adım sayısına göre ayarlar. Görüntü oluşturma sırasında gürültü giderme işlemini kontrol etmek için çok önemli olan bu sigma değerlerini üretmek amacıyla belirli bir modelin örnekleme yeteneklerinden yararlanır.
 

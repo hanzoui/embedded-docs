@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanVaceToVideo/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanVaceToVideo/tr.md)
 
 WanVaceToVideo düğümü, video üretim modelleri için video koşullandırma verilerini işler. Pozitif ve negatif koşullandırma girişlerini video kontrol verileriyle birlikte alır ve video üretimi için gizli temsilleri hazırlar. Düğüm, video modelleri için uygun koşullandırma yapısını oluşturmak üzere video yükseltme, maskeleme ve VAE kodlama işlemlerini gerçekleştirir.
 

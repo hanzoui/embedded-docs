@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentRotate/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentRotate/zh-TW.md)
 
 LatentRotate 節點專為將圖片的潛在表徵按指定角度旋轉而設計。它抽象化了操作潛在空間以實現旋轉效果的複雜性，讓使用者能夠輕鬆地在生成模型的潛在空間中轉換圖片。
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageFromBatch/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageFromBatch/ar.md)
 
 عُقدة `ImageFromBatch` مُصممة لاستخراج جزء محدد من الصور من مجموعة الصور استنادًا إلى الفهرس والطول المُقدمين. تتيح هذه العُقدة تحكمًا أكثر تفصيلاً في مجموعات الصور، مما يُمكن من إجراء عمليات على صور فردية أو مجموعات فرعية من الصور داخل المجموعة الأكبر.
 

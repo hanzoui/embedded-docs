@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WavespeedImageUpscaleNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WavespeedImageUpscaleNode/pt-BR.md)
 
 O nó WaveSpeed Image Upscale utiliza um serviço externo de IA para aumentar a resolução e a qualidade de uma imagem. Ele recebe uma única foto de entrada e a amplia para uma resolução de destino mais alta, como 2K, 4K ou 8K, produzindo um resultado mais nítido e detalhado.
 

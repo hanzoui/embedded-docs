@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraLoaderBypass/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraLoaderBypass/ko.md)
 
 LoraLoaderBypass 노드는 LoRA(Low-Rank Adaptation)를 확산 모델과 CLIP 모델에 특별한 "바이패스" 모드로 적용합니다. 표준 LoRA 로더와 달리, 이 방법은 기본 모델의 가중치를 영구적으로 수정하지 않습니다. 대신, 모델의 정상적인 순전파 과정에 LoRA의 효과를 더하여 출력을 계산하는 방식으로, 모델 학습 시나 가중치가 오프로드된 모델을 작업할 때 유용합니다.
 

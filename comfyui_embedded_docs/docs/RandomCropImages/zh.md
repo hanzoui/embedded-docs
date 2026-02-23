@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RandomCropImages/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RandomCropImages/zh.md)
 
 随机裁剪图像节点会从每个输入图像中随机选择一个矩形区域，并将其裁剪至指定的宽度和高度。这通常用于数据增强，以创建训练图像的变体。裁剪的随机位置由种子值决定，确保可以复现相同的裁剪结果。
 

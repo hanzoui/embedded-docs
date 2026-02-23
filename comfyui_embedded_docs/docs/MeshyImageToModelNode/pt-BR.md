@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyImageToModelNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyImageToModelNode/pt-BR.md)
 
 O nó Meshy: Image to Model utiliza a API Meshy para gerar um modelo 3D a partir de uma única imagem de entrada. Ele faz o upload da sua imagem, submete uma tarefa de processamento e retorna os arquivos do modelo 3D gerado (GLB e FBX) junto com o ID da tarefa para referência.
 

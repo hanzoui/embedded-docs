@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeHunyuanVideo_ImageToVideo/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeHunyuanVideo_ImageToVideo/fr.md)
 
 Le nœud TextEncodeHunyuanVideo_ImageToVideo crée des données de conditionnement pour la génération vidéo en combinant des invites textuelles avec des embeddings d'image. Il utilise un modèle CLIP pour traiter à la fois l'entrée textuelle et les informations visuelles provenant d'une sortie vision CLIP, puis génère des tokens qui fusionnent ces deux sources selon le paramètre d'entrelacement d'image spécifié.
 

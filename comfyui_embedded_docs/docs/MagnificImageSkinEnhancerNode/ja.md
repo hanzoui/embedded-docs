@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageSkinEnhancerNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageSkinEnhancerNode/ja.md)
 
 Magnific Image Skin Enhancerノードは、ポートレート画像に特殊なAI処理を適用して肌の見た目を改善します。3つの異なるモードを提供し、それぞれ異なる目的に対応しています：クリエイティブ（芸術的な効果）、フェイスフル（元の見た目を保持）、フレキシブル（照明やリアリズムなど特定の改善を目的とした最適化）です。このノードは画像を外部APIにアップロードして処理を行い、強化された結果を返します。
 

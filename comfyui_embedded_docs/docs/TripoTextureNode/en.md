@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoTextureNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoTextureNode/en.md)
 
 The TripoTextureNode generates textured 3D models using the Tripo API. It takes a model task ID and applies texture generation with various options including PBR materials, texture quality settings, and alignment methods. The node communicates with the Tripo API to process the texture generation request and returns the resulting model file and task ID.
 

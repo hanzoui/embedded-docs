@@ -1,6 +1,6 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveImageTextDataSetToFolder/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImageTextDataSetToFolder/en.md)
 
-The Save Image and Text Dataset to Folder node saves a list of images and their corresponding text captions to a specified folder within ComfyUI's output directory. For each image saved as a PNG file, a matching text file with the same base name is created to store its caption. This is useful for creating organized datasets of generated images and their descriptions.
+The Save Image and Text Dataset to Folder node saves a list of images and their corresponding text captions to a specified folder within Hanzo Studio's output directory. For each image saved as a PNG file, a matching text file with the same base name is created to store its caption. This is useful for creating organized datasets of generated images and their descriptions.
 
 ## Inputs
 

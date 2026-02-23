@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookKeyframe/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookKeyframe/tr.md)
 
 Create Hook Keyframe düğümü, bir oluşturma sürecinde hook davranışının değiştiği belirli noktaları tanımlamanıza olanak sağlar. Oluşturma ilerlemesinin belirli yüzdeliklerinde hook gücünü değiştiren kare animasyonları oluşturur ve bu kare animasyonları karmaşık zamanlama desenleri oluşturmak için birbirine zincirlenebilir.
 

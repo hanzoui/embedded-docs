@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVScheduler/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVScheduler/pt-BR.md)
 
 O nó LTXVScheduler gera valores sigma para processos de amostragem personalizados. Ele calcula parâmetros de programação de ruído com base no número de tokens no latente de entrada e aplica uma transformação sigmoide para criar a programação de amostragem. O nó pode, opcionalmente, esticar os sigmas resultantes para corresponder a um valor terminal especificado.
 

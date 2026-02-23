@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetDefaultAndCombine/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetDefaultAndCombine/tr.md)
 
 Bu düğüm, kanca tabanlı bir sistem kullanarak koşullandırma verilerini varsayılan koşullandırma verileriyle birleştirir. Birincil koşullandırma girişi ve bir varsayılan koşullandırma girişi alır, ardından bunları belirtilen kanca yapılandırmasına göre birleştirir. Sonuç, her iki kaynağı da içeren tek bir koşullandırma çıktısıdır.
 

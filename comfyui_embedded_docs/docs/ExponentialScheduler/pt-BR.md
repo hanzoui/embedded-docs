@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ExponentialScheduler/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ExponentialScheduler/pt-BR.md)
 
 O nó `ExponentialScheduler` é projetado para gerar uma sequência de valores sigma seguindo um agendamento exponencial para processos de amostragem de difusão. Ele oferece uma abordagem personalizável para controlar os níveis de ruído aplicados em cada etapa do processo de difusão, permitindo um ajuste fino do comportamento de amostragem.
 

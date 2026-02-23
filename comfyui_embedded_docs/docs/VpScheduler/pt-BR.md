@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VPScheduler/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VPScheduler/pt-BR.md)
 
 O nó VPScheduler é projetado para gerar uma sequência de níveis de ruído (sigmas) com base no método de agendamento Variance Preserving (VP). Esta sequência é crucial para orientar o processo de remoção de ruído em modelos de difusão, permitindo a geração controlada de imagens ou outros tipos de dados.
 

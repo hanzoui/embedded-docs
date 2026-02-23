@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu3ImageToVideoNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu3ImageToVideoNode/ja.md)
 
 Vidu Q3 Image-to-Video Generation ノードは、入力画像から始まる動画シーケンスを生成します。Vidu Q3 Pro モデルを使用して画像をアニメーション化し、オプションでテキストプロンプトに基づいてガイドし、動画ファイルを出力します。
 

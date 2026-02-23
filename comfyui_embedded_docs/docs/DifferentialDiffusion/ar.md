@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DifferentialDiffusion/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DifferentialDiffusion/ar.md)
 
 عقدة Differential Diffusion تعدل عملية إزالة الضوضاء من خلال تطبيق قناع ثنائي بناءً على عتبات الخطوات الزمنية. تقوم بإنشاء قناع يمزج بين قناع إزالة الضوضاء الأصلي وقناع ثنائي قائم على العتبات، مما يسمح بضبط مُتحكَّم به لشدة عملية الانتشار.
 

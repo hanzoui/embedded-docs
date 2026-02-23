@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ScaleROPE/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ScaleROPE/zh-TW.md)
 
 ScaleROPE 節點允許您透過對模型的 X、Y 和 T（時間）分量分別應用縮放和偏移因子，來修改模型的旋轉位置嵌入（ROPE）。這是一個用於調整模型位置編碼行為的高級實驗性節點。
 

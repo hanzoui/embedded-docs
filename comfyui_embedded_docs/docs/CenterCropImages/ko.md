@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CenterCropImages/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CenterCropImages/ko.md)
 
 Center Crop Images 노드는 이미지를 중심에서 지정된 너비와 높이로 자릅니다. 입력 이미지의 중앙 영역을 계산하여 정의된 크기의 직사각형 영역을 추출합니다. 요청된 자르기 크기가 이미지보다 큰 경우, 자르기 영역은 이미지 경계 내로 제한됩니다.
 

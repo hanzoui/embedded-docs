@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentInterpolate/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentInterpolate/pt-BR.md)
 
 O nó LatentInterpolate é projetado para realizar a interpolação entre dois conjuntos de amostras latentes com base em uma proporção especificada, mesclando as características de ambos os conjuntos para produzir um novo conjunto intermediário de amostras latentes.
 

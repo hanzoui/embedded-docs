@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WavespeedFlashVSRNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WavespeedFlashVSRNode/ko.md)
 
 WavespeedFlashVSRNode는 빠르고 고품질의 비디오 업스케일러로, 저해상도나 흐릿한 영상의 해상도를 높이고 선명도를 복원합니다. 비디오 입력을 처리하여 사용자가 선택한 더 높은 해상도의 새로운 비디오를 출력합니다.
 

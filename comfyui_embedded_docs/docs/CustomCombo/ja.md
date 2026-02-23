@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CustomCombo/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CustomCombo/ja.md)
 
 Custom Comboノードを使用すると、独自のテキストオプションリストを含むカスタムドロップダウンメニューを作成できます。このノードはフロントエンドに焦点を当てたノードであり、ワークフロー内での互換性を確保するためのバックエンド表現を提供します。ドロップダウンからオプションを選択すると、ノードはそのテキストを文字列として出力します。
 

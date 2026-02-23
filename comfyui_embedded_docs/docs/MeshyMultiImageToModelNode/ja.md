@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyMultiImageToModelNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyMultiImageToModelNode/ja.md)
 
 このノードは、Meshy APIを使用して複数の入力画像から3Dモデルを生成します。提供された画像をアップロードし、処理タスクを送信して、結果の3Dモデルファイル（GLBおよびFBX）と参照用のタスクIDを返します。
 

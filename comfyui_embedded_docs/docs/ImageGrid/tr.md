@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageGrid/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageGrid/tr.md)
 
 Image Grid düğümü, birden fazla görüntüyü tek bir düzenli ızgara veya kolaj halinde birleştirir. Bir görüntü listesi alır ve bunları belirtilen sütun sayısına göre düzenler, her görüntüyü tanımlanmış bir hücre boyutuna sığacak şekilde yeniden boyutlandırır ve aralarına isteğe bağlı dolgu ekler. Sonuç, tüm girdi görüntülerini bir ızgara düzeninde içeren tek bir yeni görüntüdür.
 

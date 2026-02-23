@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingFlux/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingFlux/ja.md)
 
 ModelSamplingFluxノードは、画像の寸法に基づいてシフトパラメータを計算することで、指定されたモデルにFluxモデルサンプリングを適用します。このノードは、指定された幅、高さ、シフトパラメータに従ってモデルの動作を調整する特殊なサンプリング設定を作成し、新しいサンプリング設定が適用された修正済みモデルを返します。
 

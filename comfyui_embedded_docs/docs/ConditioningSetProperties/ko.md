@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetProperties/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetProperties/ko.md)
 
 ConditioningSetProperties 노드는 조건화 데이터의 속성을 강도, 영역 설정 조정 및 선택적 마스크나 타임스텝 범위 적용을 통해 수정합니다. 이 노드를 사용하면 이미지 생성 과정에서 조건화 데이터가 적용되는 방식을 영향을 미치는 특정 매개변수를 설정하여 조건화가 생성 과정에 미치는 영향을 제어할 수 있습니다.
 

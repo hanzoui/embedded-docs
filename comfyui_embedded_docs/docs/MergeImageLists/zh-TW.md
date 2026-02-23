@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MergeImageLists/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MergeImageLists/zh-TW.md)
 
 此節點將多個獨立的影像清單合併為一個連續的清單。其運作方式是將每個連接輸入中的所有影像，按照接收的順序附加在一起。這對於組織或批次處理來自不同來源的影像以進行後續處理非常有用。
 

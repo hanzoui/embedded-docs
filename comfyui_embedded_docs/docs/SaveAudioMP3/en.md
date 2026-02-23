@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveAudioMP3/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveAudioMP3/en.md)
 
 The SaveAudioMP3 node saves audio data as an MP3 file. It takes audio input and exports it to the specified output directory with customizable filename and quality settings. The node automatically handles file naming and format conversion to create a playable MP3 file.
 
@@ -7,7 +7,7 @@ The SaveAudioMP3 node saves audio data as an MP3 file. It takes audio input and 
 | Parameter | Data Type | Required | Range | Description |
 |-----------|-----------|----------|-------|-------------|
 | `audio` | AUDIO | Yes | - | The audio data to be saved as an MP3 file |
-| `filename_prefix` | STRING | No | - | The prefix for the output filename (default: "audio/ComfyUI") |
+| `filename_prefix` | STRING | No | - | The prefix for the output filename (default: "audio/Hanzo Studio") |
 | `quality` | STRING | No | "V0"<br>"128k"<br>"320k" | The audio quality setting for the MP3 file (default: "V0") |
 | `prompt` | PROMPT | No | - | Internal prompt data (automatically provided by the system) |
 | `extra_pnginfo` | EXTRA_PNGINFO | No | - | Additional PNG information (automatically provided by the system) |

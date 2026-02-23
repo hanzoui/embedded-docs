@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyFlux2LatentImage/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyFlux2LatentImage/tr.md)
 
 EmptyFlux2LatentImage düğümü, boş, sıfır dolu bir gizli (latent) temsil oluşturur. Sıfırlarla dolu bir tensör üretir ve bu, Flux modelinin gürültü giderme (denoising) işlemi için bir başlangıç noktası görevi görür. Gizli temsilin boyutları, girdi genişliği ve yüksekliğinin 16 faktörüne bölünmesiyle belirlenir.
 

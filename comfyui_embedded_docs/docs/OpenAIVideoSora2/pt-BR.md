@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIVideoSora2/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIVideoSora2/pt-BR.md)
 
 O nó OpenAIVideoSora2 gera vídeos utilizando os modelos Sora da OpenAI. Ele cria conteúdo de vídeo com base em prompts de texto e imagens de entrada opcionais, retornando o vídeo gerado. O nó suporta diferentes durações e resoluções de vídeo, dependendo do modelo selecionado.
 

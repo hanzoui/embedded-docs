@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CFGNorm/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CFGNorm/es.md)
 
 El nodo CFGNorm aplica una técnica de normalización al proceso de guía libre de clasificador (CFG) en modelos de difusión. Ajusta la escala de la predicción desruidificada comparando las normas de las salidas condicionales e incondicionales, y luego aplica un multiplicador de fuerza para controlar el efecto. Esto ayuda a estabilizar el proceso de generación previniendo valores extremos en el escalado de guía.
 

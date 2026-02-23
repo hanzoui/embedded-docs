@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Veo3VideoGenerationNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Veo3VideoGenerationNode/ar.md)
 
 ينشئ مقاطع فيديو من النصوص التوجيهية باستخدام واجهة برمجة تطبيقات Google's Veo 3. تدعم هذه العقدة نموذجين من Veo 3: veo-3.0-generate-001 و veo-3.0-fast-generate-001. وهي تُوسّع العقدة الأساسية Veo بميزات خاصة بـ Veo 3 تشمل إنشاء الصوت ومدة ثابتة قدرها 8 ثوانٍ.
 

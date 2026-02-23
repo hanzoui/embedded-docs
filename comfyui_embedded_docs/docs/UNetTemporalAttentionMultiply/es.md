@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/UNetTemporalAttentionMultiply/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UNetTemporalAttentionMultiply/es.md)
 
 El nodo UNetTemporalAttentionMultiply aplica factores de multiplicación a diferentes tipos de mecanismos de atención en un modelo UNet temporal. Modifica el modelo ajustando los pesos de las capas de auto-atención y atención cruzada, distinguiendo entre componentes estructurales y temporales. Esto permite un ajuste fino de cuánta influencia tiene cada tipo de atención en la salida del modelo.
 

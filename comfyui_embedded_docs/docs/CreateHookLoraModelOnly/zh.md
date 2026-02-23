@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookLoraModelOnly/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookLoraModelOnly/zh.md)
 
 此节点创建一个仅应用于模型组件的 LoRA（低秩适应）钩子，允许您修改模型行为而不影响 CLIP 组件。它会加载一个 LoRA 文件，并以指定的强度应用于模型，同时保持 CLIP 组件不变。该节点可以与先前的钩子链接，以创建复杂的修改流水线。
 

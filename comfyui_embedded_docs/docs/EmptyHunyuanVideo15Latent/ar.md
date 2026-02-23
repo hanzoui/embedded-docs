@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyHunyuanVideo15Latent/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyHunyuanVideo15Latent/ar.md)
 
 ينشئ هذا العقدة موترًا كامنًا فارغًا مُصممًا خصيصًا للاستخدام مع نموذج HunyuanVideo 1.5. فهو يُنشئ نقطة بداية فارغة لتوليد الفيديو من خلال تخصيص موتر من الأصفار بعدد القنوات والأبعاد المكانية الصحيحة لمساحة الكامن الخاصة بالنموذج.
 

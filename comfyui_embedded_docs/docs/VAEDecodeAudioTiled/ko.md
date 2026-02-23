@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeAudioTiled/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeAudioTiled/ko.md)
 
 이 노드는 변분 오토인코더(VAE)를 사용하여 압축된 오디오 표현(잠재 샘플)을 다시 오디오 파형으로 변환합니다. 메모리 사용량을 관리하기 위해 더 작고 겹치는 섹션(타일)으로 데이터를 처리하여 더 긴 오디오 시퀀스를 처리하는 데 적합합니다.
 

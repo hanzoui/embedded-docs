@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerEulerAncestralCFGPP/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerEulerAncestralCFGPP/zh-TW.md)
 
 SamplerEulerAncestralCFGPP 節點建立了一個專門的取樣器，使用 Euler Ancestral 方法搭配分類器自由引導來生成影像。此取樣器結合了祖先取樣技術與引導條件化，能在保持連貫性的同時產生多樣的影像變化。它允許透過控制噪聲和步長調整的參數來微調取樣過程。
 

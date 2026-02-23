@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProFirstLastFrameNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProFirstLastFrameNode/ko.md)
 
 이 노드는 Kling AI 모델을 사용하여 비디오를 생성합니다. 시작 이미지와 텍스트 프롬프트가 필요합니다. 선택적으로 종료 이미지 또는 최대 6개의 참조 이미지를 제공하여 비디오의 내용과 스타일을 안내할 수 있습니다. 이 노드는 이러한 입력을 처리하여 지정된 지속 시간과 해상도의 비디오를 생성합니다.
 

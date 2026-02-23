@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SV3D_Conditioning/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SV3D_Conditioning/zh.md)
 
 SV3D_Conditioning 节点用于为 SV3D 模型的 3D 视频生成准备条件数据。它接收初始图像，通过 CLIP 视觉编码器和 VAE 编码器进行处理，生成正向和负向条件数据以及潜在表示。该节点根据指定的视频帧数生成相机仰角和方位角序列，用于多帧视频生成。
 

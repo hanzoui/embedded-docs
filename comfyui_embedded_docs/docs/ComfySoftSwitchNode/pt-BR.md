@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ComfySoftSwitchNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ComfySoftSwitchNode/pt-BR.md)
 
 O nó Soft Switch seleciona entre dois valores de entrada possíveis com base em uma condição booleana. Ele emite o valor da entrada `on_true` quando o `switch` é verdadeiro, e o valor da entrada `on_false` quando o `switch` é falso. Este nó foi projetado para ser "lazy" (preguiçoso), o que significa que ele avalia apenas a entrada necessária com base no estado do switch.
 

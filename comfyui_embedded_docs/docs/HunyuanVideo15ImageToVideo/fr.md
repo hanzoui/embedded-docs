@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanVideo15ImageToVideo/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanVideo15ImageToVideo/fr.md)
 
 Le nœud HunyuanVideo15ImageToVideo prépare les données de conditionnement et d'espace latent pour la génération vidéo basée sur le modèle HunyuanVideo 1.5. Il crée une représentation latente initiale pour une séquence vidéo et peut intégrer en option une image de départ ou une sortie de vision CLIP pour guider le processus de génération.
 

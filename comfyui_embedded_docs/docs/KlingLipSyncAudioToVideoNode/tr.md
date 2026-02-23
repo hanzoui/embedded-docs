@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingLipSyncAudioToVideoNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingLipSyncAudioToVideoNode/tr.md)
 
 Kling Lip Sync Audio to Video Node, bir video dosyasındaki ağız hareketlerini bir ses dosyasının ses içeriğiyle senkronize eder. Bu düğüm, ses içindeki vokal kalıplarını analiz eder ve gerçekçi dudak senkronizasyonu oluşturmak için videodaki yüz hareketlerini ayarlar. Süreç, belirgin bir yüz içeren bir video ve net bir şekilde ayırt edilebilir vokallere sahip bir ses dosyası gerektirir.
 

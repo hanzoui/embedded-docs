@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SVD_img2vid_Conditioning/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SVD_img2vid_Conditioning/ko.md)
 
 SVD_img2vid_Conditioning 노드는 Stable Video Diffusion을 사용한 비디오 생성을 위한 조건화 데이터를 준비합니다. 초기 이미지를 가져와 CLIP vision 및 VAE 인코더를 통해 처리하여 긍정적 및 부정적 조건화 쌍과 비디오 생성을 위한 빈 잠재 공간을 생성합니다. 이 노드는 생성된 비디오에서 모션, 프레임 속도 및 증강 수준을 제어하는 데 필요한 매개변수를 설정합니다.
 

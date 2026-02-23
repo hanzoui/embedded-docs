@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMPP_2M_SDE/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMPP_2M_SDE/pt-BR.md)
 
 O nó SamplerDPMPP_2M_SDE cria um amostrador DPM++ 2M SDE para modelos de difusão. Este amostrador utiliza solucionadores de equações diferenciais de segunda ordem com equações diferenciais estocásticas para gerar amostras. Ele oferece diferentes tipos de solucionador e opções de manipulação de ruído para controlar o processo de amostragem.
 

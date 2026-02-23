@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VPScheduler/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VPScheduler/tr.md)
 
 VPScheduler düğümü, Varyans Koruma (VP) planlama yöntemine dayalı olarak bir gürültü seviyeleri dizisi (sigmas) oluşturmak için tasarlanmıştır. Bu dizi, difüzyon modellerinde gürültü giderme işlemini yönlendirmek için çok önemli olup, kontrollü bir şekilde görüntü veya diğer veri türlerinin oluşturulmasını sağlar.
 

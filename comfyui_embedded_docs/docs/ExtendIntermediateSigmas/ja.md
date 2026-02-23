@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ExtendIntermediateSigmas/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ExtendIntermediateSigmas/ja.md)
 
 ExtendIntermediateSigmasノードは、既存のシグマ値のシーケンスを受け取り、それらの間に追加の中間シグマ値を挿入します。追加するステップ数、補間の間隔方法、およびシグマシーケンス内で拡張が行われる場所を制御するためのオプションの開始・終了シグマ境界を指定できます。
 

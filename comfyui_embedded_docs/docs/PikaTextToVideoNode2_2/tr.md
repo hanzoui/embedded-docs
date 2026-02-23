@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaTextToVideoNode2_2/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaTextToVideoNode2_2/tr.md)
 
 Pika Text2Video v2.2 Düğümü, bir video oluşturmak için bir metin istemini Pika API sürüm 2.2'ye gönderir. Metin açıklamanızı Pika'nın AI video oluşturma hizmetini kullanarak bir videoya dönüştürür. Düğüm, en-boy oranı, süre ve çözünürlük dahil olmak üzere video oluşturma sürecinin çeşitli yönlerini özelleştirmenize olanak tanır.
 

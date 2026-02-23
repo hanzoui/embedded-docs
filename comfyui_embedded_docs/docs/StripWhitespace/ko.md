@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StripWhitespace/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StripWhitespace/ko.md)
 
 이 노드는 텍스트 문자열의 시작과 끝에 있는 추가 공백, 탭 또는 줄바꿈을 제거합니다. 텍스트 입력을 받아 앞뒤 공백이 제거된 정리된 버전을 반환합니다.
 

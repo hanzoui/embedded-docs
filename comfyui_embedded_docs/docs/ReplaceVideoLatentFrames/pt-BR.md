@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ReplaceVideoLatentFrames/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ReplaceVideoLatentFrames/pt-BR.md)
 
 O nó ReplaceVideoLatentFrames insere quadros de um vídeo latente de origem em um vídeo latente de destino, começando em um índice de quadro especificado. Se o latente de origem não for fornecido, o latente de destino é retornado inalterado. O nó lida com indexação negativa e emitirá um aviso se os quadros de origem não couberem dentro do destino.
 

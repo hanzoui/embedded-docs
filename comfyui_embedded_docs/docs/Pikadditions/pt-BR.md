@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Pikadditions/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Pikadditions/pt-BR.md)
 
 O nó Pikadditions permite adicionar qualquer objeto ou imagem ao seu vídeo. Você faz upload de um vídeo e especifica o que deseja adicionar para criar um resultado perfeitamente integrado. Este nó utiliza a API Pika para inserir imagens em vídeos com uma integração de aparência natural.
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/USOStyleReference/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/USOStyleReference/en.md)
 
 The USOStyleReference node applies style reference patches to models using encoded image features from CLIP vision output. It creates a modified version of the input model by incorporating style information extracted from visual inputs, enabling style transfer or reference-based generation capabilities.
 

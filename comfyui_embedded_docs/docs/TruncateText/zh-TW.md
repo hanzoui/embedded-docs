@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TruncateText/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TruncateText/zh-TW.md)
 
 此節點透過在指定的最大長度處截斷文字來縮短文字。它接收任何輸入文字，並僅返回您設定的字元數之前的第一部分。這是確保文字不超過特定大小的簡單方法。
 

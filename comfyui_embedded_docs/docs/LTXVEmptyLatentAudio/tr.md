@@ -1,6 +1,6 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVEmptyLatentAudio/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVEmptyLatentAudio/tr.md)
 
-LTXV Empty Latent Audio düğümü, boş (sıfırlarla doldurulmuş) gizli ses tensörlerinden oluşan bir toplu işlem oluşturur. Gizli uzay için doğru boyutları (örneğin kanal sayısı ve frekans bölmeleri) belirlemek üzere sağlanan bir Audio VAE modelinin yapılandırmasını kullanır. Bu boş gizli tensör, ComfyUI içindeki ses üretimi veya manipülasyon iş akışları için bir başlangıç noktası görevi görür.
+LTXV Empty Latent Audio düğümü, boş (sıfırlarla doldurulmuş) gizli ses tensörlerinden oluşan bir toplu işlem oluşturur. Gizli uzay için doğru boyutları (örneğin kanal sayısı ve frekans bölmeleri) belirlemek üzere sağlanan bir Audio VAE modelinin yapılandırmasını kullanır. Bu boş gizli tensör, Hanzo Studio içindeki ses üretimi veya manipülasyon iş akışları için bir başlangıç noktası görevi görür.
 
 ## Girdiler
 

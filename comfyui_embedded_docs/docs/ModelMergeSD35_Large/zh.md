@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSD35_Large/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSD35_Large/zh.md)
 
 ModelMergeSD35_Large 节点允许您通过调整不同模型组件的影响力，将两个 Stable Diffusion 3.5 Large 模型融合在一起。它提供了精确控制第二个模型的每个部分对最终合并模型的贡献程度，从嵌入层到联合块和最终层。
 

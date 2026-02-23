@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/JoinAudioChannels/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/JoinAudioChannels/ar.md)
 
 يقوم عُقدة Join Audio Channels بدمج مدخلين صوتيين أحاديي القناة منفصلين في مخرج صوتي ستيريو واحد. تأخذ القناة اليسرى والقناة اليمنى، وتضمن توافق معدلات العينات وأطوالها، ثم تدمجهما في شكل موجي صوتي ثنائي القنوات.
 

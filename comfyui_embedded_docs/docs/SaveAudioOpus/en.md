@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveAudioOpus/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveAudioOpus/en.md)
 
 The SaveAudioOpus node saves audio data to an Opus format file. It takes audio input and exports it as a compressed Opus file with configurable quality settings. The node automatically handles file naming and saves the output to the designated output directory.
 
@@ -7,7 +7,7 @@ The SaveAudioOpus node saves audio data to an Opus format file. It takes audio i
 | Parameter | Data Type | Required | Range | Description |
 |-----------|-----------|----------|-------|-------------|
 | `audio` | AUDIO | Yes | - | The audio data to be saved as an Opus file |
-| `filename_prefix` | STRING | No | - | The prefix for the output filename (default: "audio/ComfyUI") |
+| `filename_prefix` | STRING | No | - | The prefix for the output filename (default: "audio/Hanzo Studio") |
 | `quality` | COMBO | No | "64k"<br>"96k"<br>"128k"<br>"192k"<br>"320k" | The audio quality setting for the Opus file (default: "128k") |
 
 ## Outputs

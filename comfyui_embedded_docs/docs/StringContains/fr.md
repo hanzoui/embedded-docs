@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringContains/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringContains/fr.md)
 
 Le nœud StringContains vérifie si une chaîne de caractères donnée contient une sous-chaîne spécifiée. Il peut effectuer cette vérification avec une correspondance sensible ou insensible à la casse, renvoyant un résultat booléen indiquant si la sous-chaîne a été trouvée dans la chaîne principale.
 

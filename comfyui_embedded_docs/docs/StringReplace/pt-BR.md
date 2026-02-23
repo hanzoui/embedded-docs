@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringReplace/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringReplace/pt-BR.md)
 
 O nó StringReplace executa operações de substituição de texto em strings de entrada. Ele procura por uma substring especificada dentro do texto de entrada e substitui todas as ocorrências por uma substring diferente. Este nó retorna a string modificada com todas as substituições aplicadas.
 

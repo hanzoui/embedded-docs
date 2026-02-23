@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CenterCropImages/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CenterCropImages/es.md)
 
 El nodo Recortar Imágenes desde el Centro recorta una imagen desde su centro a un ancho y alto especificados. Calcula la región central de la imagen de entrada y extrae un área rectangular de las dimensiones definidas. Si el tamaño de recorte solicitado es mayor que la imagen, el recorte se limitará a los bordes de la imagen.
 

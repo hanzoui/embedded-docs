@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResolutionBucket/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResolutionBucket/zh-TW.md)
 
 此節點根據解析度整理潛在圖像及其對應的條件資料清單。它將具有相同高度和寬度的項目分組在一起，為每個獨特的解析度建立獨立的批次。這個過程對於準備高效訓練的資料非常有用，因為它允許模型同時處理多個相同尺寸的項目。
 

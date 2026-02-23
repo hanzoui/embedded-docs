@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/UNetSelfAttentionMultiply/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UNetSelfAttentionMultiply/ja.md)
 
 UNetSelfAttentionMultiplyノードは、UNetモデル内の自己注意機構のクエリ、キー、値、および出力コンポーネントに乗算係数を適用します。注意の重みがモデルの動作にどのように影響するかを実験するために、注意計算の異なる部分をスケーリングすることができます。
 

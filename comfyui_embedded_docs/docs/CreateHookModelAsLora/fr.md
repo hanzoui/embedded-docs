@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookModelAsLora/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookModelAsLora/fr.md)
 
 Ce nœud crée un modèle hook sous forme de LoRA (Adaptation Bas-Rang) en chargeant les poids d'un point de contrôle et en appliquant des ajustements de force aux composants du modèle et de CLIP. Il vous permet d'appliquer des modifications de style LoRA aux modèles existants via une approche basée sur les hooks, permettant un réglage fin et une adaptation sans modifications permanentes du modèle. Le nœud peut se combiner avec des hooks précédents et met en cache les poids chargés pour plus d'efficacité.
 

@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageFlip/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageFlip/es.md)
 
 El nodo ImageFlip voltea imágenes a lo largo de diferentes ejes. Puede voltear imágenes verticalmente a lo largo del eje x u horizontalmente a lo largo del eje y. El nodo utiliza operaciones torch.flip para realizar el volteo según el método seleccionado.
 

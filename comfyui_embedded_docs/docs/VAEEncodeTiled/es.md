@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEEncodeTiled/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEEncodeTiled/es.md)
 
 El nodo VAEEncodeTiled procesa imágenes dividiéndolas en mosaicos más pequeños y codificándolos mediante un Autoencoder Variacional. Este enfoque basado en mosaicos permite manejar imágenes grandes que de otro modo podrían exceder las limitaciones de memoria. El nodo admite tanto VAEs de imagen como de video, con controles de mosaico separados para dimensiones espaciales y temporales.
 

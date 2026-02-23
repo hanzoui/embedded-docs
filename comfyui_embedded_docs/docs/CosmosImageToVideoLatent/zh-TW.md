@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CosmosImageToVideoLatent/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CosmosImageToVideoLatent/zh-TW.md)
 
 CosmosImageToVideoLatent 節點可從輸入圖像創建影片潛在表徵。它會生成一個空白的影片潛在表徵，並可選擇性地將起始圖像和/或結束圖像編碼到影片序列的開頭和/或結尾幀中。當提供圖像時，它還會創建相應的噪聲遮罩，以指示在生成過程中應保留潛在表徵的哪些部分。
 

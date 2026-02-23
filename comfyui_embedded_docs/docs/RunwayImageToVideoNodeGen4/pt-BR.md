@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RunwayImageToVideoNodeGen4/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RunwayImageToVideoNodeGen4/pt-BR.md)
 
 O nó Runway Image to Video (Gen4 Turbo) gera um vídeo a partir de um único quadro inicial usando o modelo Gen4 Turbo da Runway. Ele recebe um prompt de texto e uma imagem de quadro inicial, e então cria uma sequência de vídeo com base nas configurações de duração e proporção de aspecto fornecidas. O nó gerencia o upload do quadro inicial para a API da Runway e retorna o vídeo gerado.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BatchMasksNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BatchMasksNode/zh-TW.md)
 
 此節點將多個獨立的遮罩輸入組合成單一批次。它接收可變數量的遮罩輸入，並將其輸出為單一批次化的遮罩張量，以便在後續節點中進行遮罩的批次處理。
 

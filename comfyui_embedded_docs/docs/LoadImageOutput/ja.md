@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageOutput/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageOutput/ja.md)
 
 LoadImageOutputノードは、出力フォルダから画像を読み込みます。更新ボタンをクリックすると、利用可能な画像のリストが更新され、最初の画像が自動的に選択されるため、生成した画像を簡単に反復処理できます。
 

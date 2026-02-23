@@ -1,6 +1,6 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyAceStep1.5LatentAudio/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyAceStep1.5LatentAudio/en.md)
 
-The Empty Ace Step 1.5 Latent Audio node creates an empty latent tensor designed for audio processing. It generates a silent audio latent of a specified duration and batch size, which can be used as a starting point for audio generation workflows in ComfyUI. The node calculates the latent length based on the input seconds and a fixed sample rate.
+The Empty Ace Step 1.5 Latent Audio node creates an empty latent tensor designed for audio processing. It generates a silent audio latent of a specified duration and batch size, which can be used as a starting point for audio generation workflows in Hanzo Studio. The node calculates the latent length based on the input seconds and a fixed sample rate.
 
 ## Inputs
 

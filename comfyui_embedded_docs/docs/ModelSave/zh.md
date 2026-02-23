@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSave/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSave/zh.md)
 
 ## 概述
 
@@ -9,7 +9,7 @@ ModelSave 节点可将训练或修改后的模型保存至计算机存储设备�
 | 参数 | 数据类型 | 必填 | 取值范围 | 描述 |
 |-----------|-----------|----------|-------|-------------|
 | `模型` | MODEL | 是 | - | 需要保存到磁盘的模型 |
-| `文件名前缀` | STRING | 是 | - | 保存模型文件的文件名和路径前缀（默认值："diffusion_models/ComfyUI"） |
+| `文件名前缀` | STRING | 是 | - | 保存模型文件的文件名和路径前缀（默认值："diffusion_models/Hanzo Studio"） |
 | `prompt` | PROMPT | 否 | - | 工作流提示信息（自动提供） |
 | `extra_pnginfo` | EXTRA_PNGINFO | 否 | - | 额外的工作流元数据（自动提供） |
 

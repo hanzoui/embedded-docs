@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeAudio/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeAudio/tr.md)
 
 VAEDecodeAudio düğümü, gizli temsilleri varyasyonel otokodlayıcı kullanarak ses dalga formlarına geri dönüştürür. Kodlanmış ses örneklerini alır ve bunları VAE üzerinden işleyerek orijinal sesi yeniden oluşturur, tutarlı çıkış seviyeleri sağlamak için normalleştirme uygular. Ortaya çıkan ses, 44100 Hz'lik standart örnekleme hızıyla döndürülür.
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyFlux2LatentImage/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyFlux2LatentImage/ko.md)
 
 EmptyFlux2LatentImage 노드는 비어 있는 빈 잠재 표현을 생성합니다. 이 노드는 0으로 채워진 텐서를 생성하며, 이는 Flux 모델의 노이즈 제거(denoising) 과정을 위한 시작점 역할을 합니다. 잠재 표현의 차원은 입력된 너비와 높이를 16으로 나눈 값에 의해 결정됩니다.
 

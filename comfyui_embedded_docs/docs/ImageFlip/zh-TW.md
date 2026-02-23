@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageFlip/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageFlip/zh-TW.md)
 
 ImageFlip 節點可沿不同軸線翻轉圖像。它能沿 x 軸垂直翻轉或沿 y 軸水平翻轉圖像。該節點根據所選方法使用 torch.flip 操作來執行翻轉。
 

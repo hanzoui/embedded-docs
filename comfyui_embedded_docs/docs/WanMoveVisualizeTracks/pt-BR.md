@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveVisualizeTracks/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveVisualizeTracks/pt-BR.md)
 
 O nó WanMoveVisualizeTracks sobrepõe dados de rastreamento de movimento a uma sequência de imagens ou quadros de vídeo. Ele desenha representações visuais dos pontos rastreados, incluindo seus caminhos de movimento e posições atuais, tornando os dados de movimento visíveis e mais fáceis de analisar.
 

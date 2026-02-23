@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DualCFGGuider/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DualCFGGuider/en.md)
 
 The DualCFGGuider node creates a guidance system for dual classifier-free guidance sampling. It combines two positive conditioning inputs with one negative conditioning input, applying different guidance scales to each conditioning pair to control the influence of each prompt on the generated output.
 

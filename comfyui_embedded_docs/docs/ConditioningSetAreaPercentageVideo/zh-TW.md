@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetAreaPercentageVideo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetAreaPercentageVideo/zh-TW.md)
 
 ConditioningSetAreaPercentageVideo 節點透過定義特定區域和時間範圍來修改條件資料，用於影片生成。它允許您使用相對於整體尺寸的百分比值來設定條件資料將應用區域的位置、大小和持續時間。這對於將生成過程聚焦在影片序列的特定部分非常有用。
 

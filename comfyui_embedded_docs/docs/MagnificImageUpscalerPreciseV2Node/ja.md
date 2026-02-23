@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageUpscalerPreciseV2Node/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageUpscalerPreciseV2Node/ja.md)
 
 Magnific Image Upscale (Precise V2) ノードは、シャープネス、グレイン、ディテール強調を精密に制御しながら、高忠実度の画像アップスケーリングを実行します。このノードは外部APIを通じて画像を処理し、最大10060×10060ピクセルの出力解像度をサポートします。異なる処理スタイルを提供し、要求された出力サイズが最大許容サイズを超える場合には、入力画像を自動的にダウンスケールすることができます。
 

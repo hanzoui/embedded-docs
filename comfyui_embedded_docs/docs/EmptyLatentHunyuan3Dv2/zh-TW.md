@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyLatentHunyuan3Dv2/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyLatentHunyuan3Dv2/zh-TW.md)
 
 此節點專門為 Hunyuan3Dv2 3D 生成模型建立格式化的空白潛在張量。它會生成符合 Hunyuan3Dv2 架構所需正確維度和結構的空潛在空間，讓您可以從頭開始 3D 生成工作流程。該節點產生填充零值的潛在張量，作為後續 3D 生成過程的基礎。
 

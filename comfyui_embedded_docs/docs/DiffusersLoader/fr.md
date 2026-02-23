@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DiffusersLoader/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DiffusersLoader/fr.md)
 
 Le nœud DiffusersLoader charge des modèles pré-entraînés au format diffusers. Il recherche les répertoires de modèles diffusers valides contenant un fichier model_index.json et les charge en tant que composants MODEL, CLIP et VAE pour une utilisation dans le pipeline. Ce nœud fait partie de la catégorie des chargeurs dépréciés et assure la compatibilité avec les modèles Hugging Face diffusers.
 

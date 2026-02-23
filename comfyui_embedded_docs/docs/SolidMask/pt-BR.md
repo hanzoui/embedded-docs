@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SolidMask/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SolidMask/pt-BR.md)
 
 O nó SolidMask gera uma máscara uniforme com um valor especificado em toda a sua área. Ele foi projetado para criar máscaras com dimensões e intensidade específicas, úteis em várias tarefas de processamento de imagem e mascaramento.
 

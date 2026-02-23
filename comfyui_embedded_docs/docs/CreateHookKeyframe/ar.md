@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookKeyframe/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookKeyframe/ar.md)
 
 تتيح لك عُقدة Create Hook Keyframe تعريف نقاط محددة في عملية التوليد حيث يتغير سلوك الخطافات (Hooks). تقوم بإنشاء إطارات مفتاحية (Keyframes) تعدل شدة الخطافات عند نسب مئوية معينة من تقدم عملية التوليد، ويمكن ربط هذه الإطارات المفتاحية معًا لإنشاء أنماط جدولة معقدة.
 

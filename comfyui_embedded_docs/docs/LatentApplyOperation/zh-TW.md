@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentApplyOperation/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentApplyOperation/zh-TW.md)
 
 LatentApplyOperation 節點對潛在樣本應用指定的操作。它接收潛在資料和一個操作作為輸入，使用提供的操作處理潛在樣本，並返回修改後的潛在資料。此節點允許您在工作流程中轉換或操作潛在表徵。
 

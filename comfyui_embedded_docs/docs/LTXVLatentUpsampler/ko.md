@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVLatentUpsampler/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVLatentUpsampler/ko.md)
 
 LTXVLatentUpsampler 노드는 비디오 잠재 표현의 공간 해상도를 2배로 증가시킵니다. 특수한 업스케일 모델을 사용하여 잠재 데이터를 처리하며, 이 데이터는 먼저 비정규화된 후 제공된 VAE의 채널 통계를 사용하여 재정규화됩니다. 이 노드는 잠재 공간 내 비디오 워크플로우를 위해 설계되었습니다.
 

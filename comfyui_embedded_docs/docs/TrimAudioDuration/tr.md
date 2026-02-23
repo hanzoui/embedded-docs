@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TrimAudioDuration/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TrimAudioDuration/tr.md)
 
 TrimAudioDuration düğümü, bir ses dosyasından belirli bir zaman dilimini kesmenize olanak tanır. Kırpma işleminin ne zaman başlayacağını ve sonuçta oluşacak ses klibinin ne kadar uzun olacağını belirtebilirsiniz. Düğüm, zaman değerlerini ses karesi konumlarına dönüştürerek ve ses dalga formunun ilgili bölümünü çıkararak çalışır.
 

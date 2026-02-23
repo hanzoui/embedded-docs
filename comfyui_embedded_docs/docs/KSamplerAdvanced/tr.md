@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KSamplerAdvanced/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KSamplerAdvanced/tr.md)
 
 KSamplerAdvanced düğümü, gelişmiş yapılandırmalar ve teknikler sağlayarak örnekleme sürecini geliştirmek üzere tasarlanmıştır. Temel KSampler işlevselliğini geliştirerek, bir modelden örnekler oluşturmak için daha sofistike seçenekler sunmayı amaçlar.
 

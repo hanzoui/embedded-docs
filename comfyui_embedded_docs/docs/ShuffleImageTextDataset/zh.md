@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ShuffleImageTextDataset/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ShuffleImageTextDataset/zh.md)
 
 此节点将图像列表和文本列表一起打乱，同时保持它们的配对关系不变。它使用随机种子来确定打乱顺序，确保相同的输入列表在每次重用种子时都会以相同的方式被打乱。
 

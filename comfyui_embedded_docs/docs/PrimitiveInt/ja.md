@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PrimitiveInt/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PrimitiveInt/ja.md)
 
 PrimitiveIntノードは、ワークフロー内で整数値を扱うためのシンプルな方法を提供します。整数入力を受け取り、同じ値を出力するため、ノード間で整数パラメータを渡したり、他の操作のために特定の数値を設定したりするのに便利です。
 

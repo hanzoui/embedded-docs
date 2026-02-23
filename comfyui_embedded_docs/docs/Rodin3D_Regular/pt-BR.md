@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Rodin3D_Regular/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Rodin3D_Regular/pt-BR.md)
 
 O nó Rodin 3D Regular gera ativos 3D usando a API Rodin. Ele recebe imagens de entrada e as processa através do serviço Rodin para criar modelos 3D. O nó gerencia todo o fluxo de trabalho, desde a criação da tarefa até o download dos arquivos finais do modelo 3D.
 

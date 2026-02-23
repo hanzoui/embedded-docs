@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyHunyuanLatentVideo/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyHunyuanLatentVideo/pt-BR.md)
 
 O nó `EmptyHunyuanLatentVideo` é semelhante ao nó `EmptyLatentImage`. Você pode considerá-lo como uma tela em branco para geração de vídeo, onde largura, altura e duração definem as propriedades da tela, e o tamanho do lote determina quantas telas serão criadas. Este nó cria telas vazias prontas para tarefas subsequentes de geração de vídeo.
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyHunyuanVideo15Latent/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyHunyuanVideo15Latent/zh.md)
 
 此节点创建一个专门为 HunyuanVideo 1.5 模型格式化的空潜在张量。它通过为模型潜在空间分配具有正确通道数和空间维度的零张量，为视频生成生成一个空白的起点。
 

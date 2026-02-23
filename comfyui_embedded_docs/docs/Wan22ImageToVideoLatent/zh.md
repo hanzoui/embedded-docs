@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Wan22ImageToVideoLatent/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Wan22ImageToVideoLatent/zh.md)
 
 Wan22ImageToVideoLatent 节点可从图像创建视频潜空间表示。它会生成具有指定尺寸的空白视频潜空间，并可选择性地将起始图像序列编码到起始帧中。当提供起始图像时，节点会将图像编码到潜空间中，并为修复区域创建相应的噪声遮罩。
 

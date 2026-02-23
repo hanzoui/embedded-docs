@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu2ReferenceVideoNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu2ReferenceVideoNode/zh.md)
 
 Vidu2 参考视频生成节点可根据文本提示词和多张参考图像创建视频。您可以定义最多七个主体，每个主体可提供一组参考图像，并在提示词中使用 `@subject{subject_id}` 来引用它们。该节点可生成时长、宽高比和运动幅度均可配置的视频。
 

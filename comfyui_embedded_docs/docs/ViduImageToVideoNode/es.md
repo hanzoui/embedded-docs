@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduImageToVideoNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduImageToVideoNode/es.md)
 
 El nodo Generación de Video a partir de Imagen Vidu crea videos a partir de una imagen inicial y una descripción de texto opcional. Utiliza modelos de IA para generar contenido de video que se extiende desde el fotograma de imagen proporcionado. El nodo envía la imagen y los parámetros a un servicio externo y devuelve el video generado.
 

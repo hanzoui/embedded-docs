@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Wan22FunControlToVideo/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Wan22FunControlToVideo/pt-BR.md)
 
 O nó Wan22FunControlToVideo prepara os condicionamentos e representações latentes para geração de vídeo usando a arquitetura do modelo de vídeo Wan. Ele processa entradas de condicionamento positivo e negativo, juntamente com imagens de referência e vídeos de controle opcionais, para criar as representações necessárias no espaço latente para a síntese de vídeo. O nó gerencia o dimensionamento espacial e as dimensões temporais para gerar dados de condicionamento apropriados para modelos de vídeo.
 

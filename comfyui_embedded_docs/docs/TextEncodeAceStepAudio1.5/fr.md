@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeAceStepAudio1.5/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeAceStepAudio1.5/fr.md)
 
 Le nœud TextEncodeAceStepAudio1.5 prépare le texte et les métadonnées liées à l'audio pour une utilisation avec le modèle AceStepAudio 1.5. Il prend des tags descriptifs, des paroles et des paramètres musicaux, puis utilise un modèle CLIP pour les convertir dans un format de conditionnement adapté à la génération audio.
 

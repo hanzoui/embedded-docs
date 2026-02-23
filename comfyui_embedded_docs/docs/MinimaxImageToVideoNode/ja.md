@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MinimaxImageToVideoNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MinimaxImageToVideoNode/ja.md)
 
 MiniMaxのAPIを使用して、画像とプロンプト、およびオプションパラメータに基づいて動画を同期的に生成します。このノードは入力画像とテキスト記述を受け取り、様々なモデルオプションと設定を使用して動画シーケンスを作成します。
 

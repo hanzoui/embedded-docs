@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/T5TokenizerOptions/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/T5TokenizerOptions/tr.md)
 
 T5TokenizerOptions düğümü, çeşitli T5 model türleri için tokenizer ayarlarını yapılandırmanıza olanak tanır. t5xxl, pile_t5xl, t5base, mt5xl ve umt5xxl dahil olmak üzere birden fazla T5 model varyantı için minimum dolgu ve minimum uzunluk parametrelerini ayarlar. Düğüm bir CLIP girişi alır ve belirtilen tokenizer seçenekleri uygulanmış şekilde değiştirilmiş bir CLIP döndürür.
 

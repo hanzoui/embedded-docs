@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableZero123_Conditioning_Batched/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableZero123_Conditioning_Batched/en.md)
 
 The StableZero123_Conditioning_Batched node processes an input image and generates conditioning data for 3D model generation. It encodes the image using CLIP vision and VAE models, then creates camera embeddings based on elevation and azimuth angles to produce positive and negative conditioning along with latent representations for batch processing.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TrainLoraNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TrainLoraNode/pt-BR.md)
 
 O TrainLoraNode cria e treina um modelo LoRA (Low-Rank Adaptation) em um modelo de difusão usando latentes e dados de condicionamento fornecidos. Ele permite ajustar um modelo com parâmetros de treinamento, otimizadores e funções de perda personalizados. O nó retorna o modelo treinado com o LoRA aplicado, os pesos do LoRA, métricas de perda de treinamento e o total de etapas de treinamento concluídas.
 

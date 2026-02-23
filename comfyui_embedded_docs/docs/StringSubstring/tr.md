@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringSubstring/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringSubstring/tr.md)
 
 StringSubstring düğümü, daha büyük bir metin dizisinden bir bölüm çıkarır. Çıkarmak istediğiniz bölümü tanımlamak için bir başlangıç pozisyonu ve bitiş pozisyonu alır, ardından bu iki pozisyon arasındaki metni döndürür.
 

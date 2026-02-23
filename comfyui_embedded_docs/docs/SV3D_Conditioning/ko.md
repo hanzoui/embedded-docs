@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SV3D_Conditioning/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SV3D_Conditioning/ko.md)
 
 SV3D_Conditioning 노드는 SV3D 모델을 사용한 3D 비디오 생성을 위한 조건 데이터를 준비합니다. 초기 이미지를 가져와 CLIP 비전 및 VAE 인코더를 통해 처리하여 긍정적 및 부정적 조건과 잠재 표현을 생성합니다. 이 노드는 지정된 비디오 프레임 수를 기반으로 다중 프레임 비디오 생성을 위한 카메라 고도 및 방위각 시퀀스를 생성합니다.
 

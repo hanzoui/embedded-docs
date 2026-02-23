@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LaplaceScheduler/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LaplaceScheduler/tr.md)
 
 LaplaceScheduler düğümü, difüzyon örneklemesi için Laplace dağılımını takip eden bir sigma değerleri dizisi oluşturur. Maksimum değerden minimum değere doğru kademeli olarak azalan gürültü seviyeleri programı oluşturur ve ilerlemeyi kontrol etmek için Laplace dağılımı parametrelerini kullanır. Bu programlayıcı, difüzyon modelleri için gürültü programını tanımlamak üzere özel örnekleme iş akışlarında yaygın olarak kullanılır.
 

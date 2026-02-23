@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaScenesV2_2/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaScenesV2_2/ko.md)
 
 PikaScenes v2.2 노드는 여러 이미지를 결합하여 모든 입력 이미지의 객체가 포함된 비디오를 생성합니다. 최대 다섯 개의 서로 다른 이미지를 재료로 업로드하고, 이를 매끄럽게 혼합한 고품질 비디오를 생성할 수 있습니다.
 

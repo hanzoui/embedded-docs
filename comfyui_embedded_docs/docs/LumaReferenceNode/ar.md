@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LumaReferenceNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LumaReferenceNode/ar.md)
 
 يحتوي هذا العقد على صورة وقيمة وزن لاستخدامها مع عقد توليد الصور Luma. يقوم بإنشاء سلسلة مرجعية يمكن تمريرها إلى عقد Luma الأخرى للتأثير على توليد الصور. يمكن للعقد إما بدء سلسلة مرجعية جديدة أو الإضافة إلى سلسلة موجودة.
 

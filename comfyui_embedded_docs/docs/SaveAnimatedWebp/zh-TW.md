@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveAnimatedWEBP/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveAnimatedWEBP/zh-TW.md)
 
 此節點專為將一系列影像儲存為動畫 WEBP 檔案而設計。它負責將個別影格匯聚成連貫的動畫，應用指定的元數據，並根據品質和壓縮設定優化輸出。
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImagePadForOutpaint/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImagePadForOutpaint/pt-BR.md)
 
 Este nó é projetado para preparar imagens para o processo de outpainting adicionando preenchimento (padding) ao redor delas. Ele ajusta as dimensões da imagem para garantir compatibilidade com algoritmos de outpainting, facilitando a geração de áreas estendidas da imagem além dos limites originais.
 

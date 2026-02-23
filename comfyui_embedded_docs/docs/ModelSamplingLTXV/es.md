@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingLTXV/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingLTXV/es.md)
 
 El nodo ModelSamplingLTXV aplica parámetros de muestreo avanzados a un modelo basándose en el recuento de tokens. Calcula un valor de desplazamiento utilizando una interpolación lineal entre los valores de desplazamiento base y máximo, donde el cálculo depende del número de tokens en el latente de entrada. Luego, el nodo crea una configuración de muestreo de modelo especializada y la aplica al modelo de entrada.
 

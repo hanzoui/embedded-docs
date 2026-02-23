@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateList/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateList/pt-BR.md)
 
 O nó Create List combina múltiplas entradas em uma única lista sequencial. Ele recebe qualquer número de entradas do mesmo tipo de dados e as concatena na ordem em que são conectadas. Este nó é útil para preparar lotes de dados, como imagens ou texto, para serem processados por outros nós em um fluxo de trabalho.
 

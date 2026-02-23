@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanHuMoImageToVideo/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanHuMoImageToVideo/en.md)
 
 The WanHuMoImageToVideo node converts images to video sequences by generating latent representations for video frames. It processes conditioning inputs and can incorporate reference images and audio embeddings to influence the video generation. The node outputs modified conditioning data and latent representations suitable for video synthesis.
 

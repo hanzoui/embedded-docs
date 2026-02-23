@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIInputFiles/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIInputFiles/tr.md)
 
 OpenAI API için giriş dosyalarını yükler ve biçimlendirir. Bu düğüm, OpenAI Chat Düğümü için bağlam girdisi olarak eklemek üzere metin ve PDF dosyalarını hazırlar. Dosyalar, yanıtlar oluşturulurken OpenAI modeli tarafından okunacaktır. Tek bir mesaja birden fazla dosya eklemek için birden fazla giriş dosyası düğümü birbirine zincirlenebilir.
 

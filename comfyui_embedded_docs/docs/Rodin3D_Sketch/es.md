@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Rodin3D_Sketch/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Rodin3D_Sketch/es.md)
 
 Este nodo genera recursos 3D utilizando la API de Rodin. Toma imágenes de entrada y las convierte en modelos 3D a través de un servicio externo. El nodo maneja todo el proceso desde la creación de la tarea hasta la descarga de los archivos finales del modelo 3D.
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringCompare/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringCompare/zh.md)
 
 StringCompare 节点使用不同的比较方法来比较两个文本字符串。它可以检查一个字符串是否以另一个字符串开头、是否以另一个字符串结尾，或者两个字符串是否完全相等。比较时可以选择是否考虑字母大小写差异。
 

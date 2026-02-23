@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MakeTrainingDataset/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MakeTrainingDataset/zh-TW.md)
 
 此節點透過編碼圖像和文字來準備訓練資料。它接收一個圖像列表和對應的文字描述列表，然後使用 VAE 模型將圖像轉換為潛在表示，並使用 CLIP 模型將文字轉換為條件資料。最終產生的配對潛在表示和條件資料會以列表形式輸出，可供訓練工作流程使用。
 

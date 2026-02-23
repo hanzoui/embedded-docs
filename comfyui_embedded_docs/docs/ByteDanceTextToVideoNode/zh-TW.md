@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceTextToVideoNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceTextToVideoNode/zh-TW.md)
 
 ByteDance Text to Video 節點透過 API 使用 ByteDance 模型，根據文字提示生成影片。它接收文字描述和各種影片設定作為輸入，然後創建符合提供規格的影片。該節點負責處理 API 通訊，並將生成的影片作為輸出返回。
 

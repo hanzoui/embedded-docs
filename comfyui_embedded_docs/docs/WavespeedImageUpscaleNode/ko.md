@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WavespeedImageUpscaleNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WavespeedImageUpscaleNode/ko.md)
 
 WaveSpeed Image Upscale 노드는 외부 AI 서비스를 사용하여 이미지의 해상도와 품질을 향상시킵니다. 단일 입력 사진을 받아 2K, 4K, 8K와 같은 더 높은 목표 해상도로 업스케일하여 더 선명하고 디테일한 결과물을 생성합니다.
 

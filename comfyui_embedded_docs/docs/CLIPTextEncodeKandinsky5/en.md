@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeKandinsky5/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeKandinsky5/en.md)
 
 The CLIPTextEncodeKandinsky5 node prepares text prompts for use with the Kandinsky 5 model. It takes two separate text inputs, tokenizes them using a provided CLIP model, and combines them into a single conditioning output. This output is used to guide the image generation process.
 

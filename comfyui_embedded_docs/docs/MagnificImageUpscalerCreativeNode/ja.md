@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageUpscalerCreativeNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageUpscalerCreativeNode/ja.md)
 
 このノードはMagnific AIサービスを使用して、画像をアップスケールし創造的に強化します。テキストプロンプトで強化をガイドしたり、最適化する特定のスタイルを選択したり、ディテール、元画像との類似性、スタイライゼーションの強さなど、創造的プロセスの様々な側面を制御することができます。このノードは、選択した倍率（2倍、4倍、8倍、16倍）でアップスケールされた画像を出力し、最大出力サイズは25.3メガピクセルです。
 

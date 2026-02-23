@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageUpscalerPreciseV2Node/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageUpscalerPreciseV2Node/en.md)
 
 The Magnific Image Upscale (Precise V2) node performs high-fidelity image upscaling with precise control over sharpness, grain, and detail enhancement. It processes images through an external API, supporting up to a maximum output resolution of 10060×10060 pixels. The node offers different processing styles and can automatically downscale the input if the requested output would exceed the maximum allowed size.
 

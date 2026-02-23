@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioConcat/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioConcat/ja.md)
 
 AudioConcatノードは、2つのオーディオ入力を結合して連結します。2つのオーディオ入力を受け取り、指定した順序で接続し、2番目のオーディオを1番目のオーディオの前または後に配置します。このノードは、モノラルオーディオをステレオに変換し、2つの入力間のサンプルレートを一致させることで、異なるオーディオフォーマットを自動的に処理します。
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MoonvalleyTxt2VideoNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MoonvalleyTxt2VideoNode/ar.md)
 
 يقوم عقد Moonvalley Marey Text to Video بتوليد محتوى فيديو من الأوصاف النصية باستخدام واجهة برمجة تطبيقات Moonvalley. يأخذ العقد نصًا توجيهيًا ويحوله إلى فيديو مع إعدادات قابلة للتخصيص للدقة والجودة والأسلوب. يتولى العقد العملية بأكملها بدءًا من إرسال طلب التوليد وحتى تنزيل مخرجات الفيديو النهائية.
 

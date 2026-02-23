@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FreSca/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FreSca/pt-BR.md)
 
 O nó FreSca aplica um escalonamento dependente de frequência ao guiamento durante o processo de amostragem. Ele separa o sinal de guiamento em componentes de baixa frequência e alta frequência usando filtragem de Fourier, aplica fatores de escala diferentes a cada faixa de frequência e, em seguida, os recombina. Isso permite um controle mais refinado sobre como o guiamento afeta diferentes aspectos da saída gerada.
 

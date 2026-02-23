@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanCameraEmbedding/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanCameraEmbedding/ar.md)
 
 يقوم عُقد WanCameraEmbedding بتوليد تضمينات مسار الكاميرا باستخدام تضمينات Plücker استنادًا إلى معاملات حركة الكاميرا. ينشئ سلسلة من أوضاع الكاميرا تحاكي حركات كاميرا مختلفة ويحولها إلى موترات تضمين مناسبة لأنابيب توليد الفيديو.
 

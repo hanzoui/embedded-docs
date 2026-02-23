@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeQwenImage/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeQwenImage/tr.md)
 
 ModelMergeQwenImage düğümü, iki yapay zeka modelini bileşenlerini ayarlanabilir ağırlıklarla birleştirerek birleştirir. Qwen görüntü modellerinin belirli bölümlerini (dönüştürücü blokları, konumsal yerleştirmeler ve metin işleme bileşenleri dahil) harmanlamanıza olanak tanır. Birleştirilmiş sonucun farklı bölümlerinde her bir modelin ne kadar etkili olacağını kontrol edebilirsiniz.
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PerpNegGuider/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PerpNegGuider/en.md)
 
 The PerpNegGuider node creates a guidance system for controlling image generation using perpendicular negative conditioning. It takes positive, negative, and empty conditioning inputs and applies a specialized guidance algorithm to steer the generation process. This node is designed for testing purposes and provides fine control over the guidance strength and negative scaling.
 

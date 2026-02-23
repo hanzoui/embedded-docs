@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GITSScheduler/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GITSScheduler/fr.md)
 
 Le nœud GITSScheduler génère des plannings de bruit sigmas pour la méthode d'échantillonnage GITS (Generative Iterative Time Steps). Il calcule les valeurs sigma basées sur un paramètre de coefficient et un nombre d'étapes, avec un facteur de débruitage optionnel qui peut réduire le nombre total d'étapes utilisées. Le nœud utilise des niveaux de bruit prédéfinis et une interpolation pour créer le planning sigma final.
 

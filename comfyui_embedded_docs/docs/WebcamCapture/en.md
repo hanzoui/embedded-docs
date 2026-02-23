@@ -1,6 +1,6 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WebcamCapture/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WebcamCapture/en.md)
 
-The WebcamCapture node captures images from a webcam device and converts them into a format that can be used within ComfyUI workflows. It inherits from the LoadImage node and provides options to control the capture dimensions and timing. When enabled, the node can capture new images each time the workflow queue is processed.
+The WebcamCapture node captures images from a webcam device and converts them into a format that can be used within Hanzo Studio workflows. It inherits from the LoadImage node and provides options to control the capture dimensions and timing. When enabled, the node can capture new images each time the workflow queue is processed.
 
 ## Inputs
 
@@ -17,4 +17,4 @@ The WebcamCapture node captures images from a webcam device and converts them in
 
 | Output Name | Data Type | Description |
 |-------------|-----------|-------------|
-| `IMAGE` | IMAGE | The captured webcam image converted to ComfyUI's image format |
+| `IMAGE` | IMAGE | The captured webcam image converted to Hanzo Studio's image format |

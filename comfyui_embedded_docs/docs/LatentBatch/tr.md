@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentBatch/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentBatch/tr.md)
 
 LatentBatch düğümü, iki farklı gizli örnek setini tek bir toplu işlemde birleştirmek üzere tasarlanmıştır ve birleştirme işleminden önce setlerden birinin boyutlarını diğerine uyacak şekilde yeniden boyutlandırabilir. Bu işlem, daha fazla işleme veya üretim görevleri için farklı gizli temsillerin birleştirilmesini kolaylaştırır.
 

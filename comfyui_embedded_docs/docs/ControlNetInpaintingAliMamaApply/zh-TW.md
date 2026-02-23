@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ControlNetInpaintingAliMamaApply/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ControlNetInpaintingAliMamaApply/zh-TW.md)
 
 ControlNetInpaintingAliMamaApply 節點透過結合正負向條件與控制圖像和遮罩，為修補任務應用 ControlNet 條件控制。它處理輸入圖像和遮罩以建立修改後的條件，引導生成過程，從而精確控制圖像中需要修補的區域。該節點支援強度調整和時序控制，可在生成過程的不同階段微調 ControlNet 的影響力。
 

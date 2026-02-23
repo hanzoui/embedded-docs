@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeQwenImage/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeQwenImage/zh.md)
 
 ModelMergeQwenImage 节点通过以可调节的权重组合两个 AI 模型的组件来合并它们。该节点允许您混合 Qwen 图像模型的特定部分，包括 Transformer 块、位置嵌入和文本处理组件。您可以控制每个模型在合并结果的不同部分中所具有的影响力。
 

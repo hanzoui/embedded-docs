@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveAudio/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveAudio/zh.md)
 
 SaveAudio 节点将音频数据以 FLAC 格式保存到文件中。它接收音频输入，并使用给定的文件名前缀将其写入指定的输出目录。该节点会自动处理文件命名，并确保音频被正确保存以供后续使用。
 
@@ -7,7 +7,7 @@ SaveAudio 节点将音频数据以 FLAC 格式保存到文件中。它接收音�
 | 参数 | 数据类型 | 必需 | 取值范围 | 描述 |
 |-----------|-----------|----------|-------|-------------|
 | `音频` | AUDIO | 是 | - | 需要保存的音频数据 |
-| `文件名前缀` | STRING | 否 | - | 输出文件名的前缀（默认为 "audio/ComfyUI"） |
+| `文件名前缀` | STRING | 否 | - | 输出文件名的前缀（默认为 "audio/Hanzo Studio"） |
 
 *注意：`prompt` 和 `extra_pnginfo` 参数为隐藏参数，由系统自动处理。*
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncode/zh.md)
 
 `CLIP Text Encode (CLIPTextEncode)` 节点充当翻译器的角色，将您的文本描述转换为 AI 能够理解的格式。这有助于 AI 理解您的输入并生成期望的图像。
 
@@ -23,10 +23,10 @@
 
 嵌入模型允许您应用特定的艺术效果或风格。支持的格式包括 `.safetensors`、`.pt` 和 `.bin`。要使用嵌入模型：
 
-1. 将文件放置在 `ComfyUI/models/embeddings` 文件夹中。
+1. 将文件放置在 `Hanzo Studio/models/embeddings` 文件夹中。
 2. 在您的文本中使用 `embedding:模型名称` 来引用它。
 
-示例：如果您在 `ComfyUI/models/embeddings` 文件夹中有一个名为 `EasyNegative.pt` 的模型，则可以像这样使用它：
+示例：如果您在 `Hanzo Studio/models/embeddings` 文件夹中有一个名为 `EasyNegative.pt` 的模型，则可以像这样使用它：
 
 ```
 worst quality, embedding:EasyNegative, bad quality

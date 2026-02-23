@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageRotate/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageRotate/tr.md)
 
 ImageRotate düğümü, bir giriş görüntüsünü belirtilen açılarla döndürür. Dört döndürme seçeneğini destekler: döndürme yok, 90 derece saat yönünde, 180 derece ve 270 derece saat yönünde. Döndürme işlemi, görüntü veri bütünlüğünü koruyan verimli tensör işlemleri kullanılarak gerçekleştirilir.
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyLTXVLatentVideo/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyLTXVLatentVideo/ko.md)
 
 EmptyLTXVLatentVideo 노드는 비디오 처리를 위한 빈 잠재 텐서를 생성합니다. 이 노드는 비디오 생성 워크플로우의 입력으로 사용될 수 있는 지정된 차원의 빈 시작점을 생성합니다. 구성된 너비, 높이, 길이 및 배치 크기를 가진 0으로 채워진 잠재 표현을 출력합니다.
 

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/QwenImageDiffsynthControlnet/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/QwenImageDiffsynthControlnet/fr.md)
 
 Le nœud QwenImageDiffsynthControlnet applique un correctif de réseau de contrôle par synthèse par diffusion pour modifier le comportement d'un modèle de base. Il utilise une image d'entrée et un masque optionnel pour guider le processus de génération du modèle avec une force ajustable, créant un modèle corrigé qui intègre l'influence du réseau de contrôle pour une synthèse d'image plus contrôlée.
 

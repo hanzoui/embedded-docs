@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GrokVideoEditNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GrokVideoEditNode/ar.md)
 
 يستخدم هذا العقدة واجهة برمجة تطبيقات Grok لتعديل فيديو موجود بناءً على نص موجه. يقوم برفع الفيديو الخاص بك، وإرسال طلب إلى نموذج الذكاء الاصطناعي لتعديله وفقًا لوصفك، وإرجاع الفيديو المُنشأ حديثًا.
 

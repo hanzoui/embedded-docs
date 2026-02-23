@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SolidMask/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SolidMask/tr.md)
 
 SolidMask düğümü, belirli bir değere sahip düzgün bir maske oluşturur. Belirli boyutlarda ve yoğunlukta maskeler oluşturmak için tasarlanmıştır ve çeşitli görüntü işleme ve maskeleme görevlerinde kullanışlıdır.
 

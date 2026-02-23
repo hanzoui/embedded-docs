@@ -1,6 +1,6 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WebcamCapture/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WebcamCapture/zh.md)
 
-WebcamCapture 节点可从网络摄像头设备捕获图像，并将其转换为可在 ComfyUI 工作流中使用的格式。该节点继承自 LoadImage 节点，并提供控制捕获尺寸和时机的选项。启用后，该节点可在每次处理工作流队列时捕获新图像。
+WebcamCapture 节点可从网络摄像头设备捕获图像，并将其转换为可在 Hanzo Studio 工作流中使用的格式。该节点继承自 LoadImage 节点，并提供控制捕获尺寸和时机的选项。启用后，该节点可在每次处理工作流队列时捕获新图像。
 
 ## 输入参数
 
@@ -17,4 +17,4 @@ WebcamCapture 节点可从网络摄像头设备捕获图像，并将其转换为
 
 | 输出名称 | 数据类型 | 描述 |
 |-------------|-----------|-------------|
-| `IMAGE` | IMAGE | 已转换为 ComfyUI 图像格式的捕获网络摄像头图像 |
+| `IMAGE` | IMAGE | 已转换为 Hanzo Studio 图像格式的捕获网络摄像头图像 |

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncode/ar.md)
 
 يعمل `CLIP Text Encode (CLIPTextEncode)` كمترجم، حيث يحول أوصافك النصية إلى تنسيق يمكن للذكاء الاصطناعي فهمه. وهذا يساعد الذكاء الاصطناعي على تفسير مدخلاتك وإنشاء الصورة المطلوبة.
 
@@ -23,10 +23,10 @@
 
 تسمح لك نماذج التضمين بتطبيق تأثيرات أو أنماط فنية محددة. التنسيقات المدعومة تشمل `.safetensors` و `.pt` و `.bin`. لاستخدام نموذج تضمين:
 
-1. ضع الملف في مجلد `ComfyUI/models/embeddings`.
+1. ضع الملف في مجلد `Hanzo Studio/models/embeddings`.
 2. أشر إليه في نصك باستخدام `embedding:اسم_النموذج`.
 
-مثال: إذا كان لديك نموذج باسم `EasyNegative.pt` في مجلد `ComfyUI/models/embeddings`، فيمكنك استخدامه هكذا:
+مثال: إذا كان لديك نموذج باسم `EasyNegative.pt` في مجلد `Hanzo Studio/models/embeddings`، فيمكنك استخدامه هكذا:
 
 ```
 worst quality, embedding:EasyNegative, bad quality

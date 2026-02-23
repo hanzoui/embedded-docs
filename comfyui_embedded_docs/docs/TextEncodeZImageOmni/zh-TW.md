@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeZImageOmni/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeZImageOmni/zh-TW.md)
 
 TextEncodeZImageOmni 節點是一個進階的條件控制節點，它能將文字提示詞與可選的參考圖像編碼成適合圖像生成模型的條件格式。它可以處理最多三張圖像，可選擇性地使用視覺編碼器和/或 VAE 對其進行編碼以產生參考潛在表示，並使用特定的模板結構將這些視覺參考與文字提示詞整合。
 

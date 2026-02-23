@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSD3_2B/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSD3_2B/en.md)
 
 The ModelMergeSD3_2B node allows you to merge two Stable Diffusion 3 2B models by blending their components with adjustable weights. It provides individual control over embedding layers and transformer blocks, enabling fine-tuned model combinations for specialized generation tasks.
 

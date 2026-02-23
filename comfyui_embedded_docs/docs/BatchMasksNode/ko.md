@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BatchMasksNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BatchMasksNode/ko.md)
 
 Batch Masks 노드는 여러 개별 마스크 입력을 단일 배치로 결합합니다. 가변 개수의 마스크 입력을 받아 단일 배치된 마스크 텐서로 출력하여, 후속 노드에서 마스크의 배치 처리를 가능하게 합니다.
 

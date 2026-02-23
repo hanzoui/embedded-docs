@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringReplace/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringReplace/zh-TW.md)
 
 此節點對輸入字串執行文字替換操作。它會在輸入文字中搜尋指定的子字串，並將所有匹配項替換為不同的子字串。此節點會返回已應用所有替換操作的修改後字串。
 

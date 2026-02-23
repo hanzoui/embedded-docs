@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioEncoderLoader/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioEncoderLoader/ar.md)
 
 يقوم عُقدة AudioEncoderLoader بتحميل نماذج تشفير الصوت من ملفات تشفير الصوت المتاحة لديك. يأخذ اسم ملف تشفير الصوت كمدخل ويعيد نموذج تشفير صوت محمّل يمكن استخدامه في مهام معالجة الصوت ضمن سير العمل الخاص بك.
 

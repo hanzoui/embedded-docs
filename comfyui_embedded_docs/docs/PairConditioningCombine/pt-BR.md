@@ -1,6 +1,6 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningCombine/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningCombine/pt-BR.md)
 
-O nó PairConditioningCombine combina dois pares de dados de condicionamento (positivo e negativo) em um único par. Ele recebe dois pares de condicionamento separados como entrada e os mescla usando a lógica interna de combinação de condicionamento do ComfyUI. Este nó é experimental e é usado principalmente em fluxos de trabalho avançados de manipulação de condicionamento.
+O nó PairConditioningCombine combina dois pares de dados de condicionamento (positivo e negativo) em um único par. Ele recebe dois pares de condicionamento separados como entrada e os mescla usando a lógica interna de combinação de condicionamento do Hanzo Studio. Este nó é experimental e é usado principalmente em fluxos de trabalho avançados de manipulação de condicionamento.
 
 ## Entradas
 

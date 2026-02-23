@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyCosmosLatentVideo/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyCosmosLatentVideo/tr.md)
 
 EmptyCosmosLatentVideo düğümü, belirtilen boyutlarda boş bir gizli video tensörü oluşturur. Video üretimi iş akışları için bir başlangıç noktası olarak kullanılabilecek, sıfırlarla doldurulmuş bir gizli temsil oluşturur ve yapılandırılabilir genişlik, yükseklik, uzunluk ve toplu iş boyutu parametrelerine sahiptir.
 

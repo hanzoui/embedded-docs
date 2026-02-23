@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanContextWindowsManual/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanContextWindowsManual/fr.md)
 
 Le nœud WAN Context Windows (Manual) vous permet de configurer manuellement les fenêtres de contexte pour les modèles de type WAN avec un traitement bidimensionnel. Il applique des paramètres personnalisés de fenêtre de contexte pendant l'échantillonnage en spécifiant la longueur de la fenêtre, le chevauchement, la méthode de planification et la technique de fusion. Cela vous donne un contrôle précis sur la façon dont le modèle traite l'information à travers différentes régions de contexte.
 

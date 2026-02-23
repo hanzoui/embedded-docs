@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeHiDream/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeHiDream/fr.md)
 
 Le nœud CLIPTextEncodeHiDream traite plusieurs entrées de texte en utilisant différents modèles de langage et les combine en une seule sortie de conditionnement. Il tokenise le texte provenant de quatre sources différentes (CLIP-L, CLIP-G, T5-XXL et LLaMA) et les encode en utilisant une approche d'encodage planifié. Cela permet un conditionnement de texte plus sophistiqué en exploitant simultanément plusieurs modèles de langage.
 

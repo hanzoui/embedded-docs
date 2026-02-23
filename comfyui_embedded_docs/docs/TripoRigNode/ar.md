@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoRigNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoRigNode/ar.md)
 
 يُولِّد عُقدة TripoRig نموذجًا ثلاثي الأبعاد مُجهزًا بهيكلة عظمية من معرف مهمة النموذج الأصلي. حيث تُرسل طلبًا إلى واجهة برمجة تطبيقات Tripo لإنشاء هيكلة عظمية مُتحركة بصيغة GLB باستخدام مواصفات Tripo، ثم تَسْتَنْتِج واجهة برمجة التطبيقات حتى اكتمال مهمة إنشاء الهيكلة العظمية.
 

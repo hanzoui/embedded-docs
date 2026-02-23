@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaStartEndFrameNode2_2/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaStartEndFrameNode2_2/zh-TW.md)
 
 PikaFrames v2.2 節點透過結合您的起始幀和結束幀來生成影片。您上傳兩張圖像來定義起始點和結束點，AI 會在它們之間創建平滑的過渡，從而產生完整的影片。
 

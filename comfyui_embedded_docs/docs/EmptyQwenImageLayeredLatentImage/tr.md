@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyQwenImageLayeredLatentImage/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyQwenImageLayeredLatentImage/tr.md)
 
 Empty Qwen Image Layered Latent düğümü, Qwen görüntü modelleriyle kullanılmak üzere boş, çok katmanlı bir latent temsili oluşturur. Belirtilen katman sayısı, toplu iş boyutu ve uzamsal boyutlarla yapılandırılmış, sıfırlarla dolu bir tensör üretir. Bu boş latent, sonraki görüntü oluşturma veya manipülasyon iş akışları için bir başlangıç noktası görevi görür.
 

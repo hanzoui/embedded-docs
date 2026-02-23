@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ThresholdMask/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ThresholdMask/pt-BR.md)
 
 O nó ThresholdMask converte uma máscara em uma máscara binária aplicando um valor de limiar. Ele compara cada pixel na máscara de entrada com o valor de limiar especificado e cria uma nova máscara onde os pixels acima do limiar se tornam 1 (branco) e os pixels abaixo ou iguais ao limiar se tornam 0 (preto).
 

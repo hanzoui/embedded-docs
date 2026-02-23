@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SD_4XUpscale_Conditioning/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SD_4XUpscale_Conditioning/en.md)
 
 The SD_4XUpscale_Conditioning node prepares conditioning data for upscaling images using diffusion models. It takes input images and conditioning data, then applies scaling and noise augmentation to create modified conditioning that guides the upscaling process. The node outputs both positive and negative conditioning along with latent representations for the upscaled dimensions.
 

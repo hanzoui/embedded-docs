@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SDTurboScheduler/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SDTurboScheduler/pt-BR.md)
 
 O SDTurboScheduler é projetado para gerar uma sequência de valores sigma para a amostragem de imagens, ajustando a sequência com base no nível de denoise e no número de etapas especificados. Ele aproveita as capacidades de amostragem de um modelo específico para produzir esses valores sigma, que são cruciais para controlar o processo de remoção de ruído durante a geração de imagens.
 

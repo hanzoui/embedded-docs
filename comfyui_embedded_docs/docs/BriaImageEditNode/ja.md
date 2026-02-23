@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BriaImageEditNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BriaImageEditNode/ja.md)
 
 Bria FIBO Image Edit ノードを使用すると、テキストによる指示に基づいて既存の画像を編集できます。このノードは画像とプロンプトを Bria API に送信し、FIBO モデルがリクエストに応じて新しい編集済み画像を生成します。また、特定の領域に編集を限定するためのマスクを提供することも可能です。
 

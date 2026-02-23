@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MinimaxImageToVideoNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MinimaxImageToVideoNode/zh-TW.md)
 
 基於輸入圖像和提示文字，以及可選參數，使用 MiniMax 的 API 同步生成影片。此節點接收輸入圖像和文字描述來創建影片序列，提供多種模型選項和配置設定。
 

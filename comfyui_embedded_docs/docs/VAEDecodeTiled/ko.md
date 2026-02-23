@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeTiled/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeTiled/ko.md)
 
 VAEDecodeTiled 노드는 타일 방식으로 잠재 표현을 이미지로 디코딩하여 대용량 이미지를 효율적으로 처리합니다. 메모리 사용량을 관리하면서 이미지 품질을 유지하기 위해 입력을 작은 타일로 처리합니다. 또한 이 노드는 비디오 VAE를 지원하며, 시간적 프레임을 오버랩과 함께 청크 단위로 처리하여 부드러운 전환을 구현합니다.
 

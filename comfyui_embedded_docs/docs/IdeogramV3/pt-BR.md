@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/IdeogramV3/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/IdeogramV3/pt-BR.md)
 
 O nó Ideogram V3 gera imagens usando o modelo Ideogram V3. Ele suporta tanto a geração regular de imagens a partir de prompts de texto quanto a edição de imagens quando tanto uma imagem quanto uma máscara são fornecidas. O nó oferece vários controles para proporção de tela, resolução, velocidade de geração e imagens de referência de personagens opcionais.
 

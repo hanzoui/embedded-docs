@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu2StartEndToVideoNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu2StartEndToVideoNode/ja.md)
 
 このノードは、提供された開始フレームと終了フレームの間を、テキストプロンプトの指示に従って補間することで動画を生成します。指定されたViduモデルを使用して、設定された時間内で2つの画像間の滑らかな遷移を作成します。
 

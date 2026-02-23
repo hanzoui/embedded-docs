@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVScheduler/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVScheduler/ko.md)
 
 LTXVScheduler 노드는 사용자 정의 샘플링 프로세스를 위한 시그마 값을 생성합니다. 입력 잠재 변수의 토큰 수를 기반으로 노이즈 스케줄 매개변수를 계산하고 시그모이드 변환을 적용하여 샘플링 스케줄을 생성합니다. 이 노드는 선택적으로 결과 시그마를 지정된 터미널 값과 일치하도록 늘릴 수 있습니다.
 

@@ -1,4 +1,4 @@
-`CLIPTextEncodeFlux` is an advanced text encoding node in ComfyUI, specifically designed for the Flux architecture. It uses a dual-encoder mechanism (CLIP-L and T5XXL) to process both structured keywords and detailed natural language descriptions, providing the Flux model with more accurate and comprehensive text understanding for improved text-to-image generation quality.
+`CLIPTextEncodeFlux` is an advanced text encoding node in Hanzo Studio, specifically designed for the Flux architecture. It uses a dual-encoder mechanism (CLIP-L and T5XXL) to process both structured keywords and detailed natural language descriptions, providing the Flux model with more accurate and comprehensive text understanding for improved text-to-image generation quality.
 
 This node is based on a dual-encoder collaboration mechanism:
 

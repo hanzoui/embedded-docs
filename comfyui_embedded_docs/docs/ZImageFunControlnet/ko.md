@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ZImageFunControlnet/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ZImageFunControlnet/ko.md)
 
 ZImageFunControlnet 노드는 이미지 생성 또는 편집 과정에 영향을 주기 위해 특수한 컨트롤 네트워크를 적용합니다. 기본 모델, 모델 패치, VAE를 사용하여 컨트롤 효과의 강도를 조정할 수 있습니다. 이 노드는 더욱 타겟팅된 편집을 위해 기본 이미지, 인페인팅 이미지 및 마스크와 함께 작동할 수 있습니다.
 

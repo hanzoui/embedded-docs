@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GITSScheduler/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GITSScheduler/tr.md)
 
 GITSScheduler düğümü, GITS (Generative Iterative Time Steps - Üretken Yinelemeli Zaman Adımları) örnekleme yöntemi için gürültü planı sigma değerlerini oluşturur. Bir katsayı parametresi ve adım sayısına dayalı olarak sigma değerlerini hesaplar ve kullanılan toplam adım sayısını azaltabilen isteğe bağlı bir gürültü giderme faktörü içerir. Düğüm, önceden tanımlanmış gürültü seviyelerini ve enterpolasyonu kullanarak nihai sigma planını oluşturur.
 

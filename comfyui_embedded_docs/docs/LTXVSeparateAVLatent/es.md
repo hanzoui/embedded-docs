@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVSeparateAVLatent/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVSeparateAVLatent/es.md)
 
 El nodo LTXVSeparateAVLatent toma una representación latente audiovisual combinada y la divide en dos partes distintas: una para video y otra para audio. Separa las muestras y, si está presente, las máscaras de ruido del latente de entrada, creando dos nuevos objetos latentes.
 

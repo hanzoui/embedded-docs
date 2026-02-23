@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ControlNetInpaintingAliMamaApply/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ControlNetInpaintingAliMamaApply/ar.md)
 
 يقوم عُقد ControlNetInpaintingAliMamaApply بتطبيق تكييف ControlNet لمهام التنضيد من خلال الجمع بين التكييف الإيجابي والسلبي مع صورة تحكم وقناع. يقوم العُقد بمعالجة صورة الإدخال والقناع لإنشاء تكييف معدل يوجه عملية التوليد، مما يسمح بالتحكم الدقيق في المناطق المراد تنضيدها في الصورة. يدعم العُقد ضبط القوة وضوابط التوقيت لضبط تأثير ControlNet بدقة خلال المراحل المختلفة من عملية التوليد.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CheckpointSave/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CheckpointSave/pt-BR.md)
 
 O nó `Save Checkpoint` é projetado para salvar um modelo completo do Stable Diffusion (incluindo os componentes UNet, CLIP e VAE) como um arquivo de checkpoint no formato **.safetensors**.
 
@@ -24,9 +24,9 @@ Este nó irá gerar um arquivo de checkpoint, e o caminho do arquivo de saída c
 
 ## Compatibilidade de Arquitetura
 
-- Atualmente totalmente suportado: SDXL, SD3, SVD e outras arquiteturas principais, consulte [código-fonte](https://github.com/comfyanonymous/ComfyUI/blob/master/comfy_extras/nodes_model_merging.py#L176-L189)
+- Atualmente totalmente suportado: SDXL, SD3, SVD e outras arquiteturas principais, consulte [código-fonte](https://github.com/hanzoai/studio/blob/master/comfy_extras/nodes_model_merging.py#L176-L189)
 - Suporte básico: Outras arquiteturas podem ser salvas, mas sem informações de metadados padronizadas
 
 ## Links Relacionados
 
-Código-fonte relacionado: [nodes_model_merging.py#L227](https://github.com/comfyanonymous/ComfyUI/blob/master/comfy_extras/nodes_model_merging.py#L227)
+Código-fonte relacionado: [nodes_model_merging.py#L227](https://github.com/hanzoai/studio/blob/master/comfy_extras/nodes_model_merging.py#L227)

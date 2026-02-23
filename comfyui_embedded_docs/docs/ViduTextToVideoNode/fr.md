@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduTextToVideoNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduTextToVideoNode/fr.md)
 
 Le nœud Vidu Text To Video Generation crée des vidéos à partir de descriptions textuelles. Il utilise divers modèles de génération vidéo pour transformer vos descriptions textuelles en contenu vidéo avec des paramètres personnalisables pour la durée, le format d'image et le style visuel.
 

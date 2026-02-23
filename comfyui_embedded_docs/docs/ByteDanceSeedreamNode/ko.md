@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceSeedreamNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceSeedreamNode/ko.md)
 
 ByteDance Seedream 4 노드는 최대 4K 해상도로 통합 텍스트-이미지 생성 및 정밀한 단일 문장 편집 기능을 제공합니다. 텍스트 프롬프트로 새 이미지를 생성하거나 텍스트 지시를 사용하여 기존 이미지를 편집할 수 있습니다. 이 노드는 단일 이미지 생성과 여러 관련 이미지의 순차적 생성을 모두 지원합니다.
 

@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Kandinsky5ImageToVideo/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Kandinsky5ImageToVideo/es.md)
 
 El nodo Kandinsky5ImageToVideo prepara los datos de condicionamiento y del espacio latente para la generación de vídeo utilizando el modelo Kandinsky. Crea un tensor latente de vídeo vacío y, opcionalmente, puede codificar una imagen inicial para guiar los primeros fotogramas del vídeo generado, modificando el condicionamiento positivo y negativo en consecuencia.
 

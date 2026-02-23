@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SetUnionControlNetType/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SetUnionControlNetType/es.md)
 
 El nodo SetUnionControlNetType permite especificar el tipo de red de control a utilizar para el condicionamiento. Toma una red de control existente y establece su tipo de control según su selección, creando una copia modificada de la red de control con la configuración de tipo especificada.
 

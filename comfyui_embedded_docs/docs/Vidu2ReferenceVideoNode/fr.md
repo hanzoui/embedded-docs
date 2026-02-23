@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu2ReferenceVideoNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu2ReferenceVideoNode/fr.md)
 
 Le nœud Vidu2 Reference-to-Video Generation crée une vidéo à partir d'une description textuelle et de plusieurs images de référence. Vous pouvez définir jusqu'à sept sujets, chacun avec son propre ensemble d'images de référence, et les référencer dans la description en utilisant `@subject{subject_id}`. Le nœud génère une vidéo avec une durée, un format d'image et un mouvement configurables.
 

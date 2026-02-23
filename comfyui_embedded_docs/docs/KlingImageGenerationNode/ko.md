@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingImageGenerationNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingImageGenerationNode/ko.md)
 
 Kling Image Generation Node는 텍스트 프롬프트에서 이미지를 생성하며, 참조 이미지를 사용하여 안내하는 옵션을 제공합니다. 이 노드는 사용자의 텍스트 설명과 참조 설정을 기반으로 하나 이상의 이미지를 생성한 후, 생성된 이미지를 출력으로 반환합니다.
 

@@ -1,4 +1,4 @@
-> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceDiT/ru.md)
+> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceDiT/ru.md)
 
 Улучшает направленность на детализированную структуру, используя другой набор негативного CFG с пропущенными слоями. Эта универсальная версия SkipLayerGuidance может использоваться на каждой модели DiT и вдохновлена Perturbed Attention Guidance. Оригинальная экспериментальная реализация была создана для SD3.
 

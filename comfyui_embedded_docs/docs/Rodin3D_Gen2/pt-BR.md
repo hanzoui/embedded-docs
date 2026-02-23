@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Rodin3D_Gen2/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Rodin3D_Gen2/pt-BR.md)
 
 O nó Rodin3D_Gen2 gera ativos 3D usando a API Rodin. Ele recebe imagens de entrada e as converte em modelos 3D com vários tipos de material e contagens de polígonos. O nó gerencia todo o processo de geração, incluindo a criação da tarefa, a verificação do status e o download dos arquivos, de forma automática.
 

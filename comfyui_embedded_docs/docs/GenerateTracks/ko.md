@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GenerateTracks/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GenerateTracks/ko.md)
 
 `GenerateTracks` 노드는 비디오 생성을 위해 여러 개의 병렬 모션 경로를 생성합니다. 시작점에서 끝점까지의 주 경로를 정의한 후, 이 경로와 평행하게 일정 간격으로 배치된 일련의 트랙들을 생성합니다. 경로의 모양(직선 또는 베지어 곡선), 경로를 따라 이동하는 속도, 그리고 트랙이 보이는 프레임을 제어할 수 있습니다.
 

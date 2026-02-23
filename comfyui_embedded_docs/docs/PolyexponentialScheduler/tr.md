@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PolyexponentialScheduler/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PolyexponentialScheduler/tr.md)
 
 PolyexponentialScheduler düğümü, poliyüstel gürültü zamanlamasına dayalı bir gürültü seviyeleri (sigmalar) dizisi oluşturmak için tasarlanmıştır. Bu zamanlama, sigma'nın logaritmasında polinom fonksiyonudur ve difüzyon süreci boyunca gürültü seviyelerinin esnek ve özelleştirilebilir bir ilerleyişine olanak tanır.
 

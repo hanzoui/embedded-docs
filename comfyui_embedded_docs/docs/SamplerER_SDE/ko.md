@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerER_SDE/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerER_SDE/ko.md)
 
 SamplerER_SDE 노드는 확산 모델을 위한 전문적인 샘플링 방법을 제공하며, ER-SDE, 역시간 SDE, ODE 접근법을 포함한 다양한 솔버 유형을 제공합니다. 이 노드는 샘플링 과정의 확률적 동작과 계산 단계를 제어할 수 있도록 합니다. 선택된 솔버 유형에 따라 매개변수를 자동으로 조정하여 올바른 기능을 보장합니다.
 

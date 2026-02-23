@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanHuMoImageToVideo/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanHuMoImageToVideo/ar.md)
 
 ```markdown
 عُقْدة WanHuMoImageToVideo تقوم بتحويل الصور إلى تسلسلات فيديو من خلال توليد تمثيلات كامنة لإطارات الفيديو. تقوم العقدة بمعالجة مدخلات التكييف ويمكنها دمج صور مرجعية وتضمينات صوتية للتأثير على توليد الفيديو. تُخرج العقدة بيانات تكييف معدلة وتمثيلات كامنة مناسبة لتوليف الفيديو.

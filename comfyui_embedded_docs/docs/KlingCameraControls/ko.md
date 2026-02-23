@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingCameraControls/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingCameraControls/ko.md)
 
 Kling Camera Controls 노드는 비디오 생성에서 모션 컨트롤 효과를 만들기 위해 다양한 카메라 이동 및 회전 매개변수를 구성할 수 있게 해줍니다. 카메라 위치 지정, 회전, 줌을 제어하여 다양한 카메라 움직임을 시뮬레이션합니다.
 

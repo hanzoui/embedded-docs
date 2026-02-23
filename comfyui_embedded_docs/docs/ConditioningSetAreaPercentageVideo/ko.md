@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetAreaPercentageVideo/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetAreaPercentageVideo/ko.md)
 
 ConditioningSetAreaPercentageVideo 노드는 비디오 생성을 위해 특정 영역과 시간적 범위를 정의하여 조건화 데이터를 수정합니다. 전체 차원에 대한 백분율 값을 사용하여 조건화가 적용될 영역의 위치, 크기, 지속 시간을 설정할 수 있습니다. 이는 비디오 시퀀스의 특정 부분에 생성을 집중시키는 데 유용합니다.
 

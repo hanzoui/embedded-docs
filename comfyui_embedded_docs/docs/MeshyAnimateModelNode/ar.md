@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyAnimateModelNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyAnimateModelNode/ar.md)
 
 يقوم هذا العقد بتطبيق حركة معينة على نموذج شخصية ثلاثية الأبعاد تم تجهيزه مسبقًا باستخدام خدمة Meshy. يأخذ العقد معرف مهمة من عملية تجهيز سابقة ومعرف حركة لاختيار الحركة المطلوبة من المكتبة. ثم يعالج العقد الطلب ويعيد النموذج المتحرك بصيغتي ملف GLB و FBX.
 

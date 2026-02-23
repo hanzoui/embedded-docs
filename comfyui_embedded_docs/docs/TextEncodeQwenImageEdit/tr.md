@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeQwenImageEdit/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeQwenImageEdit/tr.md)
 
 TextEncodeQwenImageEdit düğümü, metin istemlerini ve isteğe bağlı görselleri işleyerek görsel üretimi veya düzenlemesi için koşullandırma verileri oluşturur. Girdiyi tokenize etmek için bir CLIP modeli kullanır ve isteğe bağlı olarak referans görsellerini kodlamak için bir VAE kullanarak referans latents oluşturabilir. Bir görsel sağlandığında, tutarlı işleme boyutlarını korumak için görseli otomatik olarak yeniden boyutlandırır.
 

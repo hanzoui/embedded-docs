@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookKeyframesInterpolated/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookKeyframesInterpolated/ar.md)
 
 ينشئ سلسلة من إطارات الخطاف الرئيسية بقيم قوة متدرجة بين نقطة البداية والنهاية. يُنشئ العقدة عدة إطارات رئيسية تنتقل بسلاسة عبر معامل القوة عبر نطاق نسبة مئوية محدد من عملية التوليد، باستخدام طرق استيفاء متنوعة للتحكم في منحنى الانتقال.
 

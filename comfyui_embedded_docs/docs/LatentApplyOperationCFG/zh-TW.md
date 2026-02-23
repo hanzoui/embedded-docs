@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentApplyOperationCFG/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentApplyOperationCFG/zh-TW.md)
 
 LatentApplyOperationCFG 節點透過對潛在表示應用操作來修改模型中的條件引導過程。該節點在分類器自由引導（CFG）採樣過程中攔截條件輸出，並在潛在表示用於生成之前對其應用指定操作。
 

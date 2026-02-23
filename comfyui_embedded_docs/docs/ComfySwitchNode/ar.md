@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ComfySwitchNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ComfySwitchNode/ar.md)
 
 عقدة Switch تختار بين مدخلين محتملين بناءً على شرط منطقي. تُخرج المدخل `on_true` عندما يكون `switch` مفعلاً، وتُخرج المدخل `on_false` عندما يكون `switch` معطلاً. يتيح لك ذلك إنشاء منطق شرطي واختيار مسارات بيانات مختلفة في سير عملك.
 

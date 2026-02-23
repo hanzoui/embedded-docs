@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AlignYourStepsScheduler/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AlignYourStepsScheduler/en.md)
 
 The AlignYourStepsScheduler node generates sigma values for the denoising process based on different model types. It calculates appropriate noise levels for each step of the sampling process and adjusts the total number of steps according to the denoise parameter. This helps align the sampling steps with the specific requirements of different diffusion models.
 

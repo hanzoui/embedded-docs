@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveTrainingDataset/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveTrainingDataset/zh.md)
 
 此节点将准备好的训练数据集保存到计算机硬盘。它接收已编码的数据（包括图像潜变量及其对应的文本条件信息），并将其组织成多个称为分片的较小文件以便于管理。该节点会在输出目录中自动创建文件夹，并同时保存数据文件和描述数据集的元数据文件。
 

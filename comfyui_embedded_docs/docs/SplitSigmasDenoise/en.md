@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SplitSigmasDenoise/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SplitSigmasDenoise/en.md)
 
 The SplitSigmasDenoise node divides a sequence of sigma values into two parts based on a denoising strength parameter. It splits the input sigmas into high and low sigma sequences, where the split point is determined by multiplying the total steps by the denoise factor. This allows for separating the noise schedule into different intensity ranges for specialized processing.
 

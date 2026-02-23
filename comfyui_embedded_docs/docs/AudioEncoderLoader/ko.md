@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioEncoderLoader/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioEncoderLoader/ko.md)
 
 AudioEncoderLoader 노드는 사용 가능한 오디오 인코더 파일에서 오디오 인코더 모델을 불러옵니다. 오디오 인코더 파일 이름을 입력으로 받아, 워크플로우에서 오디오 처리 작업에 사용할 수 있는 불러온 오디오 인코더 모델을 반환합니다.
 

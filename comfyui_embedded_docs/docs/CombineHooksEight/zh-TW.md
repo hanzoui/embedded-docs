@@ -1,6 +1,6 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CombineHooksEight/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CombineHooksEight/zh-TW.md)
 
-Combine Hooks [8] 節點可將最多八個不同的掛鉤群組合併為單一的整合掛鉤群組。它接收多個掛鉤輸入，並使用 ComfyUI 的掛鉤組合功能將它們合併。這讓您能夠整合多個掛鉤配置，以便在進階工作流程中進行流線化處理。
+Combine Hooks [8] 節點可將最多八個不同的掛鉤群組合併為單一的整合掛鉤群組。它接收多個掛鉤輸入，並使用 Hanzo Studio 的掛鉤組合功能將它們合併。這讓您能夠整合多個掛鉤配置，以便在進階工作流程中進行流線化處理。
 
 ## 輸入參數
 

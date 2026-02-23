@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Rodin3D_Smooth/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Rodin3D_Smooth/ja.md)
 
 Rodin 3D Smoothノードは、Rodin APIを使用して3Dアセットを生成するノードです。入力画像を処理し、滑らかな3Dモデルに変換します。複数の画像を入力として受け取り、ダウンロード可能な3Dモデルファイルを出力します。このノードは、タスクの作成、ステータスのポーリング、ファイルのダウンロードを含む生成プロセス全体を自動的に処理します。
 

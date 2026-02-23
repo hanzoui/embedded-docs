@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ChromaRadianceOptions/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ChromaRadianceOptions/en.md)
 
 The ChromaRadianceOptions node allows you to configure advanced settings for the Chroma Radiance model. It wraps an existing model and applies specific options during the denoising process based on sigma values, enabling fine-tuned control over NeRF tile size and other radiance-related parameters.
 

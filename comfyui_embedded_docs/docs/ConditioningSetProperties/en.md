@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetProperties/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetProperties/en.md)
 
 The ConditioningSetProperties node modifies the properties of conditioning data by adjusting strength, area settings, and applying optional masks or timestep ranges. It allows you to control how conditioning influences the generation process by setting specific parameters that affect the application of conditioning data during image generation.
 

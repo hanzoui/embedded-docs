@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEEncodeAudio/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEEncodeAudio/ko.md)
 
 VAEEncodeAudio 노드는 변분 자동인코더(VAE)를 사용하여 오디오 데이터를 잠재 표현으로 변환합니다. 오디오 입력을 받아 VAE를 통해 처리하여 추가적인 오디오 생성 또는 조작 작업에 사용할 수 있는 압축된 잠재 샘플을 생성합니다. 이 노드는 인코딩 전에 필요한 경우 오디오를 44100 Hz로 자동 리샘플링합니다.
 

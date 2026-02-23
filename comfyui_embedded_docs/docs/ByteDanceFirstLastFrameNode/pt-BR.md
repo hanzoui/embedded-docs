@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceFirstLastFrameNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceFirstLastFrameNode/pt-BR.md)
 
 Este nó gera um vídeo usando um prompt de texto junto com imagens do primeiro e do último quadro. Ele utiliza sua descrição e os dois quadros-chave para criar uma sequência de vídeo completa que transita entre eles. O nó oferece várias opções para controlar a resolução, proporção de tela, duração e outros parâmetros de geração do vídeo.
 

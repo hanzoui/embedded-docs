@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MergeImageLists/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MergeImageLists/ar.md)
 
 عُقدة Merge Image Lists (دمج قوائم الصور) تجمع عدة قوائم منفصلة من الصور في قائمة واحدة متصلة. تعمل العُقدة بأخذ جميع الصور من كل مدخل متصل وإلحاقها معًا بالترتيب الذي تستقبله به. تُعد هذه العُقدة مفيدة لتنظيم الصور أو تجميعها من مصادر مختلفة للمعالجة اللاحقة.
 

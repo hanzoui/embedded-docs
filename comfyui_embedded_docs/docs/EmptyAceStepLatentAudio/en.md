@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyAceStepLatentAudio/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyAceStepLatentAudio/en.md)
 
 The EmptyAceStepLatentAudio node creates empty latent audio samples of a specified duration. It generates a batch of silent audio latents with zeros, where the length is calculated based on the input seconds and audio processing parameters. This node is useful for initializing audio processing workflows that require latent representations.
 

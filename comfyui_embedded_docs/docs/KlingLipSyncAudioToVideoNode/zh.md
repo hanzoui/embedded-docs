@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingLipSyncAudioToVideoNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingLipSyncAudioToVideoNode/zh.md)
 
 Kling Lip Sync Audio to Video 节点能够将视频文件中的口型动作与音频文件的内容进行同步。该节点通过分析音频中的人声模式，并调整视频中的面部动作，从而生成逼真的口型同步效果。此处理过程要求视频必须包含清晰可辨的人脸，且音频文件需包含明显可区分的人声。
 

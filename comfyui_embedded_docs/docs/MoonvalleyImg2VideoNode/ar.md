@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MoonvalleyImg2VideoNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MoonvalleyImg2VideoNode/ar.md)
 
 عُقْدَة Moonvalry Marey للتحويل من صورة إلى فيديو تقوم بتحويل صورة مرجعية إلى فيديو باستخدام واجهة برمجة تطبيقات Moonvalley. تأخذ العُقْدَة صورة إدخال ووصف نصي لتوليد فيديو بدقة محددة وإعدادات جودة وضوابط إبداعية. تتعامل العُقْدَة مع العملية بأكملها بدءًا من رفع الصورة وحتى توليد الفيديو وتنزيله.
 

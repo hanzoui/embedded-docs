@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeAceStepAudio/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeAceStepAudio/ko.md)
 
 TextEncodeAceStepAudio 노드는 태그와 가사를 토큰으로 결합하고 가사 강도를 조정하여 인코딩함으로써 오디오 조건화를 위한 텍스트 입력을 처리합니다. 이 노드는 CLIP 모델과 텍스트 설명 및 가사를 받아 함께 토큰화하고, 오디오 생성 작업에 적합한 조건화 데이터를 생성합니다. 가사의 영향을 미세 조정할 수 있도록 최종 출력에 대한 가사의 영향을 제어하는 강도 매개변수를 통해 가사의 영향을 조정할 수 있습니다.
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingImageToVideoWithAudio/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingImageToVideoWithAudio/ja.md)
 
 Kling Image(First Frame) to Video with Audio ノードは、Kling AI モデルを使用して、単一の開始画像とテキストプロンプトから短い動画を生成します。提供された画像から始まる動画シーケンスを作成し、オプションで視覚コンテンツに合わせたAI生成音声を含めることができます。
 

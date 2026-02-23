@@ -1,6 +1,6 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyAceStep1.5LatentAudio/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyAceStep1.5LatentAudio/ko.md)
 
-Empty Ace Step 1.5 Latent Audio 노드는 오디오 처리를 위해 설계된 빈 잠재 텐서를 생성합니다. 이 노드는 지정된 지속 시간과 배치 크기의 무음 오디오 잠재를 생성하며, ComfyUI에서 오디오 생성 워크플로우의 시작점으로 사용될 수 있습니다. 노드는 입력된 초(seconds)와 고정된 샘플링 레이트를 기반으로 잠재 길이를 계산합니다.
+Empty Ace Step 1.5 Latent Audio 노드는 오디오 처리를 위해 설계된 빈 잠재 텐서를 생성합니다. 이 노드는 지정된 지속 시간과 배치 크기의 무음 오디오 잠재를 생성하며, Hanzo Studio에서 오디오 생성 워크플로우의 시작점으로 사용될 수 있습니다. 노드는 입력된 초(seconds)와 고정된 샘플링 레이트를 기반으로 잠재 길이를 계산합니다.
 
 ## 입력
 

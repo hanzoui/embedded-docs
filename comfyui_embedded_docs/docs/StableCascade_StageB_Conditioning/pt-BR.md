@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableCascade_StageB_Conditioning/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableCascade_StageB_Conditioning/pt-BR.md)
 
 O nó StableCascade_StageB_Conditioning prepara os dados de condicionamento para a geração do Estágio B do Stable Cascade, combinando as informações de condicionamento existentes com as representações latentes anteriores do Estágio C. Ele modifica os dados de condicionamento para incluir as amostras latentes do Estágio C, permitindo que o processo de geração aproveite as informações anteriores para produzir resultados mais coerentes.
 

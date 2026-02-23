@@ -1,6 +1,6 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WebcamCapture/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WebcamCapture/zh-TW.md)
 
-WebcamCapture 節點從網路攝影機裝置擷取影像，並將其轉換為可在 ComfyUI 工作流程中使用的格式。它繼承自 LoadImage 節點，並提供控制擷取尺寸和時機的選項。啟用後，該節點可以在每次處理工作流程佇列時擷取新的影像。
+WebcamCapture 節點從網路攝影機裝置擷取影像，並將其轉換為可在 Hanzo Studio 工作流程中使用的格式。它繼承自 LoadImage 節點，並提供控制擷取尺寸和時機的選項。啟用後，該節點可以在每次處理工作流程佇列時擷取新的影像。
 
 ## 輸入參數
 
@@ -17,4 +17,4 @@ WebcamCapture 節點從網路攝影機裝置擷取影像，並將其轉換為可
 
 | 輸出名稱 | 資料類型 | 描述 |
 |-------------|-----------|-------------|
-| `IMAGE` | IMAGE | 已轉換為 ComfyUI 影像格式的擷取網路攝影機影像 |
+| `IMAGE` | IMAGE | 已轉換為 Hanzo Studio 影像格式的擷取網路攝影機影像 |

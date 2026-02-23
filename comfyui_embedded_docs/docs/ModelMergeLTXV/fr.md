@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeLTXV/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeLTXV/fr.md)
 
 Le nœud ModelMergeLTXV effectue des opérations avancées de fusion de modèles spécialement conçues pour les architectures de modèles LTXV. Il vous permet de mélanger deux modèles différents en ajustant les poids d'interpolation pour divers composants du modèle, y compris les blocs transformeurs, les couches de projection et d'autres modules spécialisés.
 

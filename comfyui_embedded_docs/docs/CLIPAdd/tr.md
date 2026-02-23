@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPAdd/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPAdd/tr.md)
 
 CLIPAdd düğümü, iki CLIP modelini anahtar yamalarını birleştirerek birleştirir. İlk CLIP modelinin bir kopyasını oluşturur ve ardından konum kimlikleri ve logit ölçek parametreleri hariç tutularak ikinci modelden gelen anahtar yamaların çoğunu ekler. Bu, ilk modelin yapısını korurken farklı CLIP modellerinden özellikleri harmanlamanıza olanak tanır.
 

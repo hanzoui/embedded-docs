@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DisableNoise/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DisableNoise/ar.md)
 
 يوفر عقدة DisableNoise إعداد ضوضاء فارغًا يمكن استخدامه لتعطيل توليد الضوضاء في عمليات أخذ العينات. تُرجع هذه العقدة كائن ضوضاء خاص لا يحتوي على أي بيانات ضوضاء، مما يسمح للعقد الأخرى بتخطي العمليات المتعلقة بالضوضاء عند الاتصال بهذا الخرج.
 

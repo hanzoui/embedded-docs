@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanImageToVideoApi/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanImageToVideoApi/ja.md)
 
 Wan Image to Videoノードは、単一の入力画像とテキストプロンプトから動画コンテンツを生成します。初期フレームを元に、指定された説明に従って動画シーケンスを作成し、動画の品質、長さ、音声の統合を制御するオプションを提供します。
 

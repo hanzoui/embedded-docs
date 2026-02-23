@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeQwenImageEditPlus/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeQwenImageEditPlus/ja.md)
 
 TextEncodeQwenImageEditPlusノードは、テキストプロンプトとオプションの画像を処理し、画像生成や編集タスクのためのコンディショニングデータを生成します。このノードは特殊なテンプレートを使用して入力画像を分析し、テキスト指示が画像をどのように変更すべきかを理解した後、後続の生成ステップで使用できるようにこの情報をエンコードします。最大3つの入力画像を処理でき、VAEが提供された場合は参照用の潜在変数を生成することもできます。
 

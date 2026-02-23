@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingContinuousEDM/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingContinuousEDM/pt-BR.md)
 
 Este nó foi projetado para aprimorar as capacidades de amostragem de um modelo através da integração de técnicas de amostragem contínua EDM (Modelos de Difusão Baseados em Energia). Ele permite o ajuste dinâmico dos níveis de ruído dentro do processo de amostragem do modelo, oferecendo um controle mais refinado sobre a qualidade e a diversidade da geração.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanHuMoImageToVideo/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanHuMoImageToVideo/tr.md)
 
 WanHuMoImageToVideo düğümü, görüntüleri video dizilerine dönüştürerek video kareleri için gizli temsiller oluşturur. Koşullandırma girdilerini işler ve video oluşturmayı etkilemek için referans görüntüler ve ses gömüleri içerebilir. Düğüm, video sentezi için uygun olan değiştirilmiş koşullandırma verilerini ve gizli temsilleri çıktı olarak verir.
 

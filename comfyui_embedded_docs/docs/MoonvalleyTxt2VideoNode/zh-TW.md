@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MoonvalleyTxt2VideoNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MoonvalleyTxt2VideoNode/zh-TW.md)
 
 Moonvalley Marey 文字轉影片節點使用 Moonvalley API，能根據文字描述生成影片內容。它接收文字提示並將其轉換為影片，同時提供解析度、品質和風格的自訂設定。此節點負責處理從發送生成請求到下載最終影片輸出的整個流程。
 

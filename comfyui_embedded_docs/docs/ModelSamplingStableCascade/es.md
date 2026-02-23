@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingStableCascade/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingStableCascade/es.md)
 
 El nodo ModelSamplingStableCascade aplica muestreo de cascada estable a un modelo ajustando los parámetros de muestreo con un valor de desplazamiento. Crea una versión modificada del modelo de entrada con configuración de muestreo personalizada para la generación de cascada estable.
 

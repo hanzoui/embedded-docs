@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanTrackToVideo/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanTrackToVideo/ko.md)
 
 WanTrackToVideo 노드는 모션 트래킹 데이터를 비디오 시퀀스로 변환합니다. 트랙 포인트를 처리하고 해당 비디오 프레임을 생성하여 동작 좌표를 입력으로 받아 비디오 생성에 사용할 수 있는 비디오 조건화 및 잠재 표현을 출력합니다. 트랙이 제공되지 않을 경우 표준 이미지-비디오 변환으로 폴백(fallback)합니다.
 

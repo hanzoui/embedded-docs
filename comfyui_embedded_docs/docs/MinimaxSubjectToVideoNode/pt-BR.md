@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MinimaxSubjectToVideoNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MinimaxSubjectToVideoNode/pt-BR.md)
 
 Gera vídeos de forma síncrona com base em uma imagem, um prompt e parâmetros opcionais usando a API da MiniMax. Este nó utiliza uma imagem de um assunto e uma descrição textual para criar um vídeo usando o serviço de geração de vídeo da MiniMax.
 

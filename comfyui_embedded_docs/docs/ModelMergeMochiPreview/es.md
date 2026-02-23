@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeMochiPreview/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeMochiPreview/es.md)
 
 Este nodo fusiona dos modelos de IA utilizando un enfoque basado en bloques con control detallado sobre diferentes componentes del modelo. Permite combinar modelos ajustando los pesos de interpolación para secciones específicas que incluyen frecuencias posicionales, capas de incrustación y bloques de transformadores individuales. El proceso de fusión combina las arquitecturas y parámetros de ambos modelos de entrada según los valores de peso especificados.
 

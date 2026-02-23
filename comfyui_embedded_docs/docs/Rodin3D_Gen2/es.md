@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Rodin3D_Gen2/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Rodin3D_Gen2/es.md)
 
 El nodo Rodin3D_Gen2 genera activos 3D utilizando la API de Rodin. Toma imágenes de entrada y las convierte en modelos 3D con varios tipos de materiales y recuentos de polígonos. El nodo maneja automáticamente todo el proceso de generación, incluyendo la creación de tareas, la verificación de estado y la descarga de archivos.
 

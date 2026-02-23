@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeQwenImageEditPlus/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeQwenImageEditPlus/zh.md)
 
 TextEncodeQwenImageEditPlus 节点处理文本提示和可选图像，为图像生成或编辑任务生成条件数据。它使用专用模板分析输入图像并理解文本指令应如何修改它们，然后将这些信息编码以供后续生成步骤使用。该节点最多可处理三个输入图像，并在提供 VAE 时可选生成参考潜在表示。
 

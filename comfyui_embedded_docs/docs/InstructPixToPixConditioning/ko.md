@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/InstructPixToPixConditioning/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/InstructPixToPixConditioning/ko.md)
 
 InstructPixToPixConditioning 노드는 긍정적 및 부정적 텍스트 프롬프트를 이미지 데이터와 결합하여 InstructPix2Pix 이미지 편집을 위한 조건부 데이터를 준비합니다. 입력 이미지를 VAE 인코더를 통해 처리하여 잠재 표현을 생성하고, 이러한 잠재 표현을 긍정적 및 부정적 조건부 데이터 모두에 첨부합니다. 이 노드는 VAE 인코딩 프로세스와의 호환성을 위해 이미지 크기를 8픽셀의 배수로 자동 조정하여 처리합니다.
 

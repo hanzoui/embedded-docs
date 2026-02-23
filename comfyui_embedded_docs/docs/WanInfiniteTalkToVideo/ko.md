@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanInfiniteTalkToVideo/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanInfiniteTalkToVideo/ko.md)
 
 WanInfiniteTalkToVideo 노드는 오디오 입력에서 비디오 시퀀스를 생성합니다. 이 노드는 하나 또는 두 명의 화자로부터 추출된 오디오 특징에 기반하여 조건화된 비디오 확산 모델을 사용하여, 토킹 헤드 비디오의 잠재적 표현을 생성합니다. 노드는 새로운 시퀀스를 생성하거나, 모션 컨텍스트를 위해 이전 프레임을 사용하여 기존 시퀀스를 확장할 수 있습니다.
 

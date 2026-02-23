@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeAceStepAudio1.5/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeAceStepAudio1.5/zh-TW.md)
 
 TextEncodeAceStepAudio1.5 節點負責為 AceStepAudio 1.5 模型準備文字和音訊相關的元數據。它接收描述性標籤、歌詞和音樂參數，然後使用 CLIP 模型將其轉換為適合音訊生成的條件化格式。
 

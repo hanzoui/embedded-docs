@@ -1,4 +1,4 @@
-> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookModelAsLoraModelOnly/ru.md)
+> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookModelAsLoraModelOnly/ru.md)
 
 Этот узел создаёт хук, который применяет модель LoRA (Low-Rank Adaptation) для изменения только компонента модели нейронной сети. Он загружает файл контрольной точки и применяет его с заданной силой к модели, оставляя компонент CLIP неизменным. Это экспериментальный узел, расширяющий функциональность базового класса CreateHookModelAsLora.
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BatchImagesMasksLatentsNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BatchImagesMasksLatentsNode/en.md)
 
 The Batch Images/Masks/Latents node combines multiple inputs of the same type into a single batch. It automatically detects whether the inputs are images, masks, or latent representations and uses the appropriate batching method. This is useful for preparing multiple items for processing by nodes that accept batched inputs.
 

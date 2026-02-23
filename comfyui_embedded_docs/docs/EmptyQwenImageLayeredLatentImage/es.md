@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyQwenImageLayeredLatentImage/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyQwenImageLayeredLatentImage/es.md)
 
 El nodo Empty Qwen Image Layered Latent crea una representación latente en blanco y multicapa para su uso con modelos de imagen Qwen. Genera un tensor lleno de ceros, estructurado con un número específico de capas, tamaño de lote y dimensiones espaciales. Este latente vacío sirve como punto de partida para flujos de trabajo posteriores de generación o manipulación de imágenes.
 

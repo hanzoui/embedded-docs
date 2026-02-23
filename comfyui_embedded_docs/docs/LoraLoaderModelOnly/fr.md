@@ -1,6 +1,6 @@
-Ce nœud détectera les modèles situés dans le dossier `ComfyUI/models/loras`,
+Ce nœud détectera les modèles situés dans le dossier `Hanzo Studio/models/loras`,
 et lira également les modèles des chemins supplémentaires que vous avez configurés dans le fichier extra_model_paths.yaml.
-Parfois, vous devrez **rafraîchir l'interface ComfyUI** pour qu'elle puisse lire les fichiers de modèle dans le dossier correspondant.
+Parfois, vous devrez **rafraîchir l'interface Hanzo Studio** pour qu'elle puisse lire les fichiers de modèle dans le dossier correspondant.
 
 Ce nœud est spécialisé dans le chargement d'un modèle LoRA sans nécessiter de modèle CLIP, en se concentrant sur l'amélioration ou la modification d'un modèle donné basé sur les paramètres LoRA. Il permet l'ajustement dynamique de la force du modèle via les paramètres LoRA, facilitant un contrôle précis du comportement du modèle.
 

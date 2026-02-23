@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Wan22FunControlToVideo/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Wan22FunControlToVideo/en.md)
 
 The Wan22FunControlToVideo node prepares conditioning and latent representations for video generation using the Wan video model architecture. It processes positive and negative conditioning inputs along with optional reference images and control videos to create the necessary latent space representations for video synthesis. The node handles spatial scaling and temporal dimensions to generate appropriate conditioning data for video models.
 

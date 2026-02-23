@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMPP_2M_SDE/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMPP_2M_SDE/ar.md)
 
 ```markdown
 عُقدة SamplerDPMPP_2M_SDE تُنشئ عيِّنًا من نوع DPM++ 2M SDE لنماذج الانتشار. يستخدم هذا العيِّن حلّالات المعادلات التفاضلية من الرتبة الثانية مع المعادلات التفاضلية العشوائية لتوليد العينات. يوفر أنواعًا مختلفة من الحلّالات وخيارات معالجة الضوضاء للتحكم في عملية أخذ العينات.

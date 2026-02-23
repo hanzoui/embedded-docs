@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookKeyframe/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookKeyframe/zh-TW.md)
 
 Create Hook Keyframe 節點允許您在生成過程中定義特定的行為切換點。它會建立關鍵幀，在生成進度的特定百分比處修改掛鉤的強度，這些關鍵幀可以串聯起來以建立複雜的排程模式。
 

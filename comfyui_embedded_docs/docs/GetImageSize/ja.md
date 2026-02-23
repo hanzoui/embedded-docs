@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GetImageSize/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GetImageSize/ja.md)
 
 GetImageSizeノードは、入力画像から寸法とバッチ情報を抽出します。画像の幅、高さ、バッチサイズを返すと同時に、この情報をノードインターフェース上で進捗テキストとして表示します。元の画像データは変更されずに通過します。
 

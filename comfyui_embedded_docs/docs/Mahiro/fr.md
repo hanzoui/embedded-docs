@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Mahiro/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Mahiro/fr.md)
 
 Le nœud Mahiro modifie la fonction de guidage pour se concentrer davantage sur la direction du prompt positif plutôt que sur la différence entre les prompts positif et négatif. Il crée un modèle modifié qui applique une approche personnalisée de mise à l'échelle du guidage utilisant la similarité cosinus entre les sorties débruitées normalisées conditionnelles et non conditionnelles. Ce nœud expérimental aide à orienter plus fortement la génération vers la direction souhaitée du prompt positif.
 

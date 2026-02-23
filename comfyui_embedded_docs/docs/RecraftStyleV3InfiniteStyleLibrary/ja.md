@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftStyleV3InfiniteStyleLibrary/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftStyleV3InfiniteStyleLibrary/ja.md)
 
 このノードを使用すると、既存のUUIDを使用してRecraftのInfinite Style Libraryからスタイルを選択できます。提供されたスタイル識別子に基づいてスタイル情報を取得し、他のRecraftノードで使用するために返します。
 

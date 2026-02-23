@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MinimaxImageToVideoNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MinimaxImageToVideoNode/ko.md)
 
 이미지와 프롬프트, 그리고 선택적 매개변수를 사용하여 MiniMax의 API를 통해 동기적으로 비디오를 생성합니다. 이 노드는 입력 이미지와 텍스트 설명을 사용하여 비디오 시퀀스를 생성하며, 다양한 모델 옵션과 구성 설정을 사용할 수 있습니다.
 

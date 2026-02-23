@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageNode/fr.md)
 
 Le nœud ByteDance Image génère des images en utilisant les modèles ByteDance via une API basée sur des invites textuelles. Il vous permet de sélectionner différents modèles, de spécifier les dimensions de l'image et de contrôler divers paramètres de génération comme la graine et l'échelle de guidage. Le nœud se connecte au service de génération d'images de ByteDance et renvoie l'image créée.
 

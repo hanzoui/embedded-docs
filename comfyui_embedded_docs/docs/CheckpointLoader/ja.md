@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CheckpointLoader/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CheckpointLoader/ja.md)
 
 CheckpointLoaderノードは、事前学習済みのモデルチェックポイントとその設定ファイルを読み込みます。設定ファイルとチェックポイントファイルを入力として受け取り、ワークフローで使用するためのメインモデル、CLIPモデル、VAEモデルを含む読み込まれたモデルコンポーネントを返します。
 

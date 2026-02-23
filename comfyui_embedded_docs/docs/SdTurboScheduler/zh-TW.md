@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SDTurboScheduler/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SDTurboScheduler/zh-TW.md)
 
 SDTurboScheduler 專為生成圖像採樣用的 sigma 值序列而設計，能根據指定的降噪等級和步驟數量調整序列。它利用特定模型的採樣能力來產生這些 sigma 值，這些值對於控制圖像生成過程中的降噪處理至關重要。
 

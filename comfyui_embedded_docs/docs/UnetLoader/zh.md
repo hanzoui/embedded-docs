@@ -1,7 +1,7 @@
 UNETLoader 节点旨在通过名称加载 U-Net 模型，方便在系统中使用预训练的 U-Net 架构。
 这个节点名称已更新为 `Load Diffusion Model`.
 
-该节点会自动检测位于 `ComfyUI/models/diffusion_models` 文件夹中的模型。
+该节点会自动检测位于 `Hanzo Studio/models/diffusion_models` 文件夹中的模型。
 
 ## 输入
 
@@ -22,5 +22,5 @@ fp8_e4m3fn和fp9_e5m2  表示不同精度和动态范围
 
 1. 安装 UNET 模型
 2. 下载工作流文件
-3. 在 ComfyUI 中导入工作流
+3. 在 Hanzo Studio 中导入工作流
 4. 选择 UNET 模型并运行工作流

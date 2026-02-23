@@ -4,7 +4,7 @@ on:
   pull_request:
     branches: [main]
     paths:
-      - "comfyui_embedded_docs/docs/**/*.md"
+      - "hanzo_studio_embedded_docs/docs/**/*.md"
 
 jobs:
   markdown-lint:
@@ -33,7 +33,7 @@ jobs:
         uses: tj-actions/changed-files@v44
         with:
           files: |
-            comfyui_embedded_docs/docs/**/*.md
+            hanzo_studio_embedded_docs/docs/**/*.md
 
       - name: Run markdown linting and fix on changed files
         if: steps.changed-files.outputs.any_changed == 'true'

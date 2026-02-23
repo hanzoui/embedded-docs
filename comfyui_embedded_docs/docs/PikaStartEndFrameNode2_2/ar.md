@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaStartEndFrameNode2_2/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaStartEndFrameNode2_2/ar.md)
 
 تولّد عُقدة PikaFrames الإصدار 2.2 مقاطع فيديو من خلال دمج الإطارين الأول والأخير. تقوم برفع صورتين لتحديد نقطتي البداية والنهاية، ثم ينشئ الذكاء الاصطناعي انتقالًا سلسًا بينهما لإنتاج فيديو كامل.
 

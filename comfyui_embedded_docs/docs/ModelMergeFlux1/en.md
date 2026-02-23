@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeFlux1/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeFlux1/en.md)
 
 The ModelMergeFlux1 node merges two diffusion models by blending their components using weighted interpolation. It allows fine-grained control over how different parts of the models are combined, including image processing blocks, time embedding layers, guidance mechanisms, vector inputs, text encoders, and various transformer blocks. This enables creating hybrid models with customized characteristics from two source models.
 

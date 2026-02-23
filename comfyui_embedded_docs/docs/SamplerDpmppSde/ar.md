@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDpmppSde/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDpmppSde/ar.md)
 
 هذه العُقدة مُصممة لتوليد مُعين (sampler) لنموذج DPM++ SDE (معادلة تفاضلية تصادفية). وهي تتكيف مع بيئتي التنفيذ لوحدة المعالجة المركزية ووحدة معالجة الرسومات، محسنةً تنفيذ المُعين بناءً على العتاد المتاح.
 

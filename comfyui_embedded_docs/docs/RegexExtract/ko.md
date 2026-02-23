@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RegexExtract/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RegexExtract/ko.md)
 
 RegexExtract 노드는 정규 표현식을 사용하여 텍스트에서 패턴을 검색합니다. 첫 번째 일치 항목, 모든 일치 항목, 일치 항목의 특정 그룹, 또는 여러 일치 항목에 걸친 모든 그룹을 찾을 수 있습니다. 이 노드는 대소문자 구분, 다중 행 매칭, dotall 동작을 위한 다양한 정규 표현식 플래그를 지원합니다.
 

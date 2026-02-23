@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeAuraflow/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeAuraflow/ar.md)
 
 تتيح عقدة ModelMergeAuraflow دمج نموذجين مختلفين معًا من خلال ضبط أوزان مزج محددة لمكونات النموذج المختلفة. توفر تحكمًا دقيقًا في كيفية دمج الأجزاء المختلفة للنماذج، من الطبقات الأولية إلى المخرجات النهائية. هذه العقدة مفيدة بشكل خاص لإنشاء مجموعات نماذج مخصصة مع تحكم دقيق في عملية الدمج.
 

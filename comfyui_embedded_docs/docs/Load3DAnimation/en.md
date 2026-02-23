@@ -1,4 +1,4 @@
-The Load3DAnimation node is a core node for loading and processing 3D model files. When loading the node, it automatically retrieves available 3D resources from `ComfyUI/input/3d/`. You can also upload supported 3D files for preview using the upload function.
+The Load3DAnimation node is a core node for loading and processing 3D model files. When loading the node, it automatically retrieves available 3D resources from `Hanzo Studio/input/3d/`. You can also upload supported 3D files for preview using the upload function.
 
 > - Most of the functions of this node are the same as the Load 3D node, but this node supports loading models with animations, and you can preview the corresponding animations in the node.
 > - The content of this documentation is the same as the Load3D node, because except for animation preview and playback, their capabilities are identical.
@@ -7,9 +7,9 @@ The Load3DAnimation node is a core node for loading and processing 3D model file
 Currently, this node supports multiple 3D file formats, including `.gltf`, `.glb`, `.obj`, `.fbx`, and `.stl`.
 
 **3D Node Preferences**
-Some related preferences for 3D nodes can be configured in ComfyUI's settings menu. Please refer to the following documentation for corresponding settings:
+Some related preferences for 3D nodes can be configured in Hanzo Studio's settings menu. Please refer to the following documentation for corresponding settings:
 
-[Settings Menu](https://docs.comfy.org/interface/settings/3d)
+[Settings Menu](https://docs.hanzo.ai/interface/settings/3d)
 
 Besides regular node outputs, Load3D has lots of 3D view-related settings in the canvas menu.
 
@@ -17,7 +17,7 @@ Besides regular node outputs, Load3D has lots of 3D view-related settings in the
 
 | Parameter Name | Type     | Description                     | Default | Range        |
 |---------------|----------|---------------------------------|---------|--------------|
-| model_file    | File Selection | 3D model file path, supports upload, defaults to reading model files from `ComfyUI/input/3d/` | - | Supported formats |
+| model_file    | File Selection | 3D model file path, supports upload, defaults to reading model files from `Hanzo Studio/input/3d/` | - | Supported formats |
 | width         | INT      | Canvas rendering width          | 1024    | 1-4096      |
 | height        | INT      | Canvas rendering height         | 1024    | 1-4096      |
 
@@ -58,7 +58,7 @@ The Load3D node's Canvas area contains numerous view operations, including:
 ### 1. View Operations
 
 <video controls width="640" height="360">
-  <source src="https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
   Your browser does not support video playback.
 </video>
 
@@ -71,7 +71,7 @@ View control operations:
 
 ### 2. Left Menu Functions
 
-![Menu](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu.webp)
+![Menu](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu.webp)
 
 In the canvas, some settings are hidden in the menu. Click the menu button to expand different menus
 
@@ -83,7 +83,7 @@ In the canvas, some settings are hidden in the menu. Click the menu button to ex
 
 #### Scene
 
-![scene menu](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_scene.webp)
+![scene menu](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_scene.webp)
 
 The Scene menu provides some basic scene setting functions
 
@@ -94,7 +94,7 @@ The Scene menu provides some basic scene setting functions
 
 #### Model
 
-![Menu_Scene](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_model.webp)
+![Menu_Scene](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_model.webp)
 
 The Model menu provides some model-related functions
 
@@ -103,7 +103,7 @@ The Model menu provides some model-related functions
 
 #### Camera
 
-![menu_modelmenu_camera](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_camera.webp)
+![menu_modelmenu_camera](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_camera.webp)
 
 This menu provides switching between orthographic and perspective views, and perspective angle size settings
 
@@ -112,13 +112,13 @@ This menu provides switching between orthographic and perspective views, and per
 
 #### Light
 
-![menu_modelmenu_camera](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_light.webp)
+![menu_modelmenu_camera](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_light.webp)
 
 Through this menu, you can quickly adjust the scene's global illumination intensity
 
 #### Export
 
-![menu_export](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_export.webp)
+![menu_export](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_export.webp)
 
 This menu provides the ability to quickly convert and export model formats
 

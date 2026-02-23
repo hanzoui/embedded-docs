@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/InstructPixToPixConditioning/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/InstructPixToPixConditioning/en.md)
 
 The InstructPixToPixConditioning node prepares conditioning data for InstructPix2Pix image editing by combining positive and negative text prompts with image data. It processes input images through a VAE encoder to create latent representations and attaches these latents to both positive and negative conditioning data. The node automatically handles image dimensions by cropping to multiples of 8 pixels for compatibility with the VAE encoding process.
 

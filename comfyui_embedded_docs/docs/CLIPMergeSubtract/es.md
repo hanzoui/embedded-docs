@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPMergeSubtract/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPMergeSubtract/es.md)
 
 El nodo CLIPMergeSubtract realiza una fusión de modelos restando los pesos de un modelo CLIP de otro. Crea un nuevo modelo CLIP clonando el primer modelo y luego restando los parches clave del segundo modelo, con un multiplicador ajustable para controlar la intensidad de la resta. Esto permite una mezcla de modelos afinada mediante la eliminación de características específicas del modelo base.
 

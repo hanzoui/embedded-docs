@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CaseConverter/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CaseConverter/en.md)
 
 The Case Converter node transforms text strings into different letter case formats. It takes an input string and converts it based on the selected mode, producing an output string with the specified case formatting applied. The node supports four different case conversion options to modify the capitalization of your text.
 

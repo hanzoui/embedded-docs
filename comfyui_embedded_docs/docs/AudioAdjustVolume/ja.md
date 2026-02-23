@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioAdjustVolume/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioAdjustVolume/ja.md)
 
 AudioAdjustVolumeノードは、デシベル単位で音量調整を適用することで、オーディオの音量を変更します。オーディオ入力を受け取り、指定された音量レベルに基づいてゲインファクターを適用します。正の値は音量を上げ、負の値は音量を下げます。このノードは、元のオーディオと同じサンプルレートで変更されたオーディオを返します。
 

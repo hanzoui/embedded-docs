@@ -1,4 +1,4 @@
-> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableCascade_EmptyLatentImage/ru.md)
+> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableCascade_EmptyLatentImage/ru.md)
 
 Узел StableCascade_EmptyLatentImage создает пустые латентные тензоры для моделей Stable Cascade. Он генерирует два отдельных латентных представления — одно для стадии C и другое для стадии B — с соответствующими размерностями на основе входного разрешения и настроек сжатия. Этот узел предоставляет отправную точку для конвейера генерации Stable Cascade.
 

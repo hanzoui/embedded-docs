@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingAuraFlow/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingAuraFlow/ar.md)
 
 يُطبق عقد ModelSamplingAuraFlow إعدادًا خاصًا لأخذ العينات على نماذج الانتشار، مُصمم خصيصًا لهياكل نماذج AuraFlow. يقوم بتعديل سلوك أخذ العينات للنموذج من خلال تطبيق معامل إزاحة يضبط توزيع أخذ العينات. يرث هذا العقد إطار عمل أخذ العينات لنموذج SD3 ويوفر تحكمًا دقيقًا في عملية أخذ العينات.
 

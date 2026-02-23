@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VideoLinearCFGGuidance/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VideoLinearCFGGuidance/zh-TW.md)
 
 VideoLinearCFGGuidance 節點對影片模型施加線性條件引導尺度調整，在指定範圍內調節條件化與非條件化組件的影響程度。此技術能實現生成過程的動態控制，讓使用者能根據所需的條件化程度對模型輸出進行細部調節。
 

@@ -1,6 +1,6 @@
 UNETLoaderノードは、U-Netモデルを名前でロードするために設計されており、システム内で事前訓練されたU-Netアーキテクチャの使用を容易にします。
 
-このノードは、`ComfyUI/models/diffusion_models` フォルダ内にあるモデルを自動的に検出します。
+このノードは、`Hanzo Studio/models/diffusion_models` フォルダ内にあるモデルを自動的に検出します。
 
 ## 入力
 
@@ -19,5 +19,5 @@ UNETLoaderノードは、U-Netモデルを名前でロードするために設�
 
 1. UNETモデルをインストール
 2. ワークフローファイルをダウンロード
-3. ComfyUIにワークフローをインポート
+3. Hanzo Studioにワークフローをインポート
 4. UNETモデルを選択し、ワークフローを実行

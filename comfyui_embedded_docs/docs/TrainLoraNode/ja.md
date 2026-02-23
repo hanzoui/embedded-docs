@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TrainLoraNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TrainLoraNode/ja.md)
 
 TrainLoraNodeは、提供された潜在変数と条件付けデータを使用して拡散モデル上でLoRA（Low-Rank Adaptation）モデルを作成およびトレーニングします。カスタムトレーニングパラメータ、オプティマイザ、損失関数を使用してモデルを微調整することができます。このノードは、LoRAが適用されたトレーニング済みモデル、LoRAの重み、トレーニング損失メトリクス、および完了した総トレーニングステップ数を出力します。
 

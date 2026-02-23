@@ -1,10 +1,10 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DualCLIPLoader/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DualCLIPLoader/zh-TW.md)
 
 # DualCLIPLoader 節點
 
 DualCLIPLoader 節點專為同時載入兩個 CLIP 模型而設計，便於需要整合或比較兩個模型特徵的操作。
 
-此節點會偵測位於 `ComfyUI/models/text_encoders` 資料夾中的模型。
+此節點會偵測位於 `Hanzo Studio/models/text_encoders` 資料夾中的模型。
 
 ## 輸入參數
 

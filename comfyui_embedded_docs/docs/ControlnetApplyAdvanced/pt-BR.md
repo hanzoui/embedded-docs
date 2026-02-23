@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ControlNetApplyAdvanced/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ControlNetApplyAdvanced/pt-BR.md)
 
 Este nó aplica transformações avançadas de rede de controle aos dados de condicionamento com base em uma imagem e um modelo de rede de controle. Ele permite ajustes refinados da influência da rede de controle sobre o conteúdo gerado, possibilitando modificações mais precisas e variadas ao condicionamento.
 

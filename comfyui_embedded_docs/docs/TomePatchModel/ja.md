@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TomePatchModel/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TomePatchModel/ja.md)
 
 TomePatchModelノードは、拡散モデルにToken Merging（ToMe）を適用し、推論時の計算リソースを削減します。この技術は、アテンションメカニズム内で類似したトークンを選択的に統合することで、画像品質を維持しながらより少ないトークンを処理できるようにします。この手法により、品質を大幅に損なうことなく生成速度を向上させることができます。
 

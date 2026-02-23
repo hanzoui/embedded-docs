@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageRGBToYUV/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageRGBToYUV/zh-TW.md)
 
 ImageRGBToYUV 節點將 RGB 彩色影像轉換為 YUV 色彩空間。它接收 RGB 影像作為輸入，並將其分離為三個不同的通道：Y（亮度）、U（藍色投影）和 V（紅色投影）。每個輸出通道均以獨立的灰階影像形式返回，代表對應的 YUV 分量。
 

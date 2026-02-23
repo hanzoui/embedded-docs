@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyRefineNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyRefineNode/zh-TW.md)
 
 Meshy: Refine Draft Model 節點接收先前生成的 3D 草稿模型並提升其品質，可選擇性地添加紋理。它會向 Meshy API 提交一個精煉任務，並在處理完成後返回最終的 3D 模型檔案。
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelComputeDtype/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelComputeDtype/zh.md)
 
 ModelComputeDtype 节点允许您在推理过程中更改模型使用的计算数据类型。它会创建输入模型的副本并应用指定的数据类型设置，这有助于根据硬件能力优化内存使用和性能。该节点在调试和测试不同精度设置时特别有用。
 

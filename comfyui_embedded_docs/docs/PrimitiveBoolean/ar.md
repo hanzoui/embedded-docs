@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PrimitiveBoolean/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PrimitiveBoolean/ar.md)
 
 تقدم عقدة Boolean طريقة بسيطة لتمرير القيم المنطقية (صواب/خطأ) عبر سير العمل الخاص بك. تأخذ العقدة قيمة منطقية مدخلة وتخرج نفس القيمة دون تغيير، مما يسمح لك بالتحكم في المعاملات المنطقية في العقد الأخرى.
 

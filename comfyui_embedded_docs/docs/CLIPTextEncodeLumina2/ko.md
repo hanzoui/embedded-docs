@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeLumina2/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeLumina2/ko.md)
 
 CLIP Text Encode for Lumina2 노드는 시스템 프롬프트와 사용자 프롬프트를 CLIP 모델을 사용하여 임베딩으로 인코딩하며, 이는 확산 모델이 특정 이미지를 생성하도록 안내하는 데 사용됩니다. 미리 정의된 시스템 프롬프트와 사용자 정의 텍스트 프롬프트를 결합하여 CLIP 모델을 통해 처리함으로써 이미지 생성을 위한 조건화 데이터를 생성합니다.
 

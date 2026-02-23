@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageScaleToMaxDimension/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageScaleToMaxDimension/pt-BR.md)
 
 O nó ImageScaleToMaxDimension redimensiona imagens para caberem dentro de uma dimensão máxima especificada, mantendo a proporção original. Ele calcula se a imagem está orientada no modo retrato ou paisagem e, em seguida, dimensiona a dimensão maior para corresponder ao tamanho alvo, ajustando proporcionalmente a dimensão menor. O nó suporta vários métodos de ampliação para diferentes requisitos de qualidade e desempenho.
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanHuMoImageToVideo/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanHuMoImageToVideo/ko.md)
 
 WanHuMoImageToVideo 노드는 비디오 프레임에 대한 잠재 표현을 생성하여 이미지를 비디오 시퀀스로 변환합니다. 조건 입력을 처리하며, 참조 이미지와 오디오 임베딩을 통합하여 비디오 생성에 영향을 줄 수 있습니다. 이 노드는 수정된 조건 데이터와 비디오 합성에 적합한 잠재 표현을 출력합니다.
 

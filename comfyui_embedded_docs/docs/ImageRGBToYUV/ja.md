@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageRGBToYUV/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageRGBToYUV/ja.md)
 
 ImageRGBToYUVノードは、RGBカラー画像をYUVカラー空間に変換します。RGB画像を入力として受け取り、3つの異なるチャンネル：Y（輝度）、U（青投影）、V（赤投影）に分離します。各出力チャンネルは、対応するYUV成分を表す個別のグレースケール画像として返されます。
 

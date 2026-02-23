@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanImageToImageApi/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanImageToImageApi/ko.md)
 
 Wan Image to Image 노드는 하나 또는 두 개의 입력 이미지와 텍스트 프롬프트를 기반으로 이미지를 생성합니다. 입력 이미지를 제공한 설명에 따라 변환하여 원본 입력의 종횡비를 유지하는 새로운 이미지를 만듭니다. 출력 이미지는 입력 크기와 관계없이 1.6 메가픽셀로 고정됩니다.
 

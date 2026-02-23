@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableCascade_SuperResolutionControlnet/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableCascade_SuperResolutionControlnet/es.md)
 
 El nodo StableCascade_SuperResolutionControlnet prepara las entradas para el procesamiento de superresolución de Stable Cascade. Toma una imagen de entrada y la codifica utilizando un VAE para crear la entrada del controlnet, mientras también genera representaciones latentes de marcador de posición para la etapa C y la etapa B de la canalización de Stable Cascade.
 

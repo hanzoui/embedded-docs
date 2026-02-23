@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Flux2Scheduler/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Flux2Scheduler/fr.md)
 
 Le nœud Flux2Scheduler génère une séquence de niveaux de bruit (sigmas) pour le processus de débruitage, spécifiquement adaptée au modèle Flux. Il calcule une planification basée sur le nombre d'étapes de débruitage et les dimensions de l'image cible, ce qui influence la progression de l'élimination du bruit pendant la génération d'image.
 

@@ -1,6 +1,6 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVEmptyLatentAudio/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVEmptyLatentAudio/ja.md)
 
-LTXV Empty Latent Audioノードは、空（ゼロ埋め）の潜在オーディオテンソルのバッチを作成します。提供されたAudio VAEモデルの設定を使用して、チャネル数や周波数ビン数など、潜在空間の正しい次元を決定します。この空の潜在表現は、ComfyUI内でのオーディオ生成や操作ワークフローの出発点として機能します。
+LTXV Empty Latent Audioノードは、空（ゼロ埋め）の潜在オーディオテンソルのバッチを作成します。提供されたAudio VAEモデルの設定を使用して、チャネル数や周波数ビン数など、潜在空間の正しい次元を決定します。この空の潜在表現は、Hanzo Studio内でのオーディオ生成や操作ワークフローの出発点として機能します。
 
 ## 入力
 

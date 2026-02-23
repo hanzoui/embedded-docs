@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RegexMatch/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RegexMatch/zh.md)
 
 RegexMatch 节点用于检查文本字符串是否与指定的正则表达式模式匹配。它会在输入字符串中搜索正则表达式模式的任何出现位置，并返回是否找到匹配项。您可以配置各种正则表达式标志，如大小写敏感性、多行模式和点号匹配模式，以控制模式匹配的行为方式。
 

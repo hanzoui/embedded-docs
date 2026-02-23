@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SplitSigmasDenoise/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SplitSigmasDenoise/zh-TW.md)
 
 此節點根據去噪強度參數將一組 sigma 值序列分割為兩部分。它將輸入的 sigma 值分割為高 sigma 序列和低 sigma 序列，其中分割點是透過將總步數乘以去噪因子來確定的。這允許將噪聲調度分離為不同強度範圍以進行專門處理。
 

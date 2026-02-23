@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RegexExtract/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RegexExtract/es.md)
 
 El nodo RegexExtract busca patrones en texto utilizando expresiones regulares. Puede encontrar la primera coincidencia, todas las coincidencias, grupos específicos de coincidencias o todos los grupos a través de múltiples coincidencias. El nodo soporta varios indicadores de regex para sensibilidad a mayúsculas/minúsculas, coincidencia multilínea y comportamiento dotall.
 

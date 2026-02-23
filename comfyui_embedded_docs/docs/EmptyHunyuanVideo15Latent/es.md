@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyHunyuanVideo15Latent/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyHunyuanVideo15Latent/es.md)
 
 Este nodo crea un tensor latente vacío específicamente formateado para su uso con el modelo HunyuanVideo 1.5. Genera un punto de partida en blanco para la generación de video al asignar un tensor de ceros con el recuento de canales y las dimensiones espaciales correctas para el espacio latente del modelo.
 

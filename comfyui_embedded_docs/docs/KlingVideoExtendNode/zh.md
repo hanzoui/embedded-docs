@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingVideoExtendNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingVideoExtendNode/zh.md)
 
 Kling 视频扩展节点允许您扩展由其他 Kling 节点创建的视频。该节点通过视频 ID 识别现有视频，并根据您的文本提示生成额外内容。该节点的工作原理是将您的扩展请求发送到 Kling API，并返回扩展后的视频及其新的 ID 和时长。
 

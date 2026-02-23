@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableCascade_StageB_Conditioning/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableCascade_StageB_Conditioning/ar.md)
 
 يُعد عُقدة StableCascade_StageB_Conditioning بيانات التكييف لتوليد المرحلة B من Stable Cascade من خلال دمج معلومات التكييف الحالية مع التمثيلات الكامنة السابقة من المرحلة C. تقوم هذه العُقدة بتعديل بيانات التكييف لتشمل العينات الكامنة من المرحلة C، مما يمكن عملية التوليد من الاستفادة من المعلومات السابقة لإنتاج مخرجات أكثر تماسكًا.
 

@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanTextToImageApi/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanTextToImageApi/es.md)
 
 El nodo Wan Text to Image genera imágenes basadas en descripciones de texto. Utiliza modelos de IA para crear contenido visual a partir de indicaciones escritas, admitiendo tanto texto en inglés como en chino como entrada. El nodo proporciona varios controles para ajustar el tamaño, la calidad y las preferencias de estilo de la imagen de salida.
 

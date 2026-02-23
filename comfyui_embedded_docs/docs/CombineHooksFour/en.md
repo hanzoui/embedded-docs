@@ -1,6 +1,6 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CombineHooksFour/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CombineHooksFour/en.md)
 
-The Combine Hooks [4] node merges up to four separate hook groups into a single combined hook group. It takes any combination of the four available hook inputs and combines them using ComfyUI's hook combination system. This allows you to consolidate multiple hook configurations for streamlined processing in advanced workflows.
+The Combine Hooks [4] node merges up to four separate hook groups into a single combined hook group. It takes any combination of the four available hook inputs and combines them using Hanzo Studio's hook combination system. This allows you to consolidate multiple hook configurations for streamlined processing in advanced workflows.
 
 ## Inputs
 

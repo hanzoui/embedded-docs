@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSubtract/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSubtract/ar.md)
 
 تم تصميم هذه العقدة لعمليات دمج النماذج المتقدمة، خصيصًا لطرح معاملات نموذج من آخر استنادًا إلى مضاعف محدد. تتيح تخصيص سلوكيات النماذج من خلال ضبط تأثير معاملات نموذج على آخر، مما يسهل إنشاء نماذج هجينة جديدة.
 

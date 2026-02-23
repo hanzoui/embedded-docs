@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningConcat/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningConcat/pt-BR.md)
 
 O nó ConditioningConcat é projetado para concatenar vetores de condicionamento, especificamente mesclando o vetor `conditioning_from` no vetor `conditioning_to`. Esta operação é fundamental em cenários onde as informações de condicionamento de duas fontes precisam ser combinadas em uma única representação unificada.
 

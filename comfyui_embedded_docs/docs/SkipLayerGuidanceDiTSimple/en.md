@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceDiTSimple/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceDiTSimple/en.md)
 
 Simple version of the SkipLayerGuidanceDiT node that only modifies the unconditional pass during the denoising process. This node applies skip layer guidance to specific transformer layers in DiT (Diffusion Transformer) models by selectively skipping certain layers during the unconditional pass based on specified timing and layer parameters.
 

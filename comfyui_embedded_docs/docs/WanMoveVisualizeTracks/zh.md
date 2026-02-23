@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveVisualizeTracks/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveVisualizeTracks/zh.md)
 
 WanMoveVisualizeTracks 节点将运动跟踪数据叠加到一系列图像或视频帧上。它会绘制跟踪点的可视化表示，包括其运动路径和当前位置，使运动数据可见且更易于分析。
 

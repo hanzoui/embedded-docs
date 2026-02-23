@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PerturbedAttentionGuidance/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PerturbedAttentionGuidance/ja.md)
 
 PerturbedAttentionGuidanceノードは、拡散モデルに摂動注意ガイダンスを適用して生成品質を向上させます。この技術は、サンプリング過程においてモデルの自己注意機構を、値射影に焦点を当てた簡略化されたバージョンに置き換えることで機能します。これにより、条件付きノイズ除去プロセスを調整することで、生成される画像の一貫性と品質が向上します。
 

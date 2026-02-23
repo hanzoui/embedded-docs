@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanVaceToVideo/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanVaceToVideo/en.md)
 
 The WanVaceToVideo node processes video conditioning data for video generation models. It takes positive and negative conditioning inputs along with video control data and prepares latent representations for video generation. The node handles video upscaling, masking, and VAE encoding to create the appropriate conditioning structure for video models.
 

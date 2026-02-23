@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResizeImageMaskNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResizeImageMaskNode/ar.md)
 
 تقدم عقدة Resize Image/Mask طرقًا متعددة لتغيير أبعاد صورة أو قناع إدخال. يمكنها التحجيم باستخدام مضاعف، أو تعيين أبعاد محددة، أو مطابقة حجم إدخال آخر، أو التعديل بناءً على عدد البكسل، باستخدام طرق استيفاء متنوعة للحفاظ على الجودة.
 

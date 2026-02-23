@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Wan22ImageToVideoLatent/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Wan22ImageToVideoLatent/tr.md)
 
 Wan22ImageToVideoLatent düğümü, görüntülerden video latent temsilleri oluşturur. Belirtilen boyutlarda boş bir video latent alanı oluşturur ve isteğe bağlı olarak bir başlangıç görüntü dizisini başlangıç karelerine kodlayabilir. Bir başlangıç görüntüsü sağlandığında, görüntüyü latent alana kodlar ve boyanan bölgeler için karşılık gelen bir gürültü maskesi oluşturur.
 

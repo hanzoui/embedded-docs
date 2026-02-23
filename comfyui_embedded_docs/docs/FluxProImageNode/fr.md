@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxProImageNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxProImageNode/fr.md)
 
 Génère des images de manière synchrone en fonction de l'invite et de la résolution. Ce nœud crée des images en utilisant le modèle Flux 1.1 Pro en envoyant des requêtes à un point de terminaison API et en attendant la réponse complète avant de renvoyer l'image générée.
 

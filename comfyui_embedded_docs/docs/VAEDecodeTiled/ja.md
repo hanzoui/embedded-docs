@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeTiled/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeTiled/ja.md)
 
 VAEDecodeTiledノードは、潜在表現を画像にデコードする際に、大きな画像を効率的に処理するためにタイル方式を使用します。メモリ使用量を管理しながら画像品質を維持するために、入力データを小さなタイルに分割して処理します。また、このノードはビデオVAEをサポートしており、時間的なフレームをオーバーラップ付きでチャンク処理することで、スムーズな遷移を実現します。
 

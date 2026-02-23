@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageColorToMask/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageColorToMask/tr.md)
 
 `ImageColorToMask` düğümü, bir görüntüde belirli bir rengi maske'ye dönüştürmek için tasarlanmıştır. Bir görüntüyü ve bir hedef rengi işler, belirtilen rengin vurgulandığı bir maske oluşturur ve renk tabanlı segmentasyon veya nesne izolasyonu gibi işlemleri kolaylaştırır.
 

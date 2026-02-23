@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ControlNetApplySD3/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ControlNetApplySD3/ja.md)
 
 このノードは、Stable Diffusion 3のコンディショニングにControlNetのガイダンスを適用します。ポジティブおよびネガティブなコンディショニング入力と、ControlNetモデルおよび画像を受け取り、調整可能な強度とタイミングパラメータで制御ガイダンスを適用し、生成プロセスに影響を与えます。
 

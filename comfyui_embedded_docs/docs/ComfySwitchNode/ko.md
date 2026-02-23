@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ComfySwitchNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ComfySwitchNode/ko.md)
 
 Switch 노드는 불리언 조건에 따라 두 가지 가능한 입력 중 하나를 선택합니다. `switch`가 활성화되면 `on_true` 입력을 출력하고, `switch`가 비활성화되면 `on_false` 입력을 출력합니다. 이를 통해 워크플로우에서 조건부 논리를 생성하고 다양한 데이터 경로를 선택할 수 있습니다.
 

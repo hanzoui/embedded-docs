@@ -1,12 +1,12 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadTrainingDataset/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadTrainingDataset/ja.md)
 
-このノードは、事前にディスクに保存されたエンコード済みトレーニングデータセットを読み込みます。ComfyUIの出力ディレクトリ内の指定されたフォルダからすべてのデータシャードファイルを検索して読み取り、トレーニングワークフローで使用するために結合された潜在ベクトルとコンディショニングデータを返します。
+このノードは、事前にディスクに保存されたエンコード済みトレーニングデータセットを読み込みます。Hanzo Studioの出力ディレクトリ内の指定されたフォルダからすべてのデータシャードファイルを検索して読み取り、トレーニングワークフローで使用するために結合された潜在ベクトルとコンディショニングデータを返します。
 
 ## 入力
 
 | パラメータ | データ型 | 必須 | 範囲 | 説明 |
 |-----------|-----------|----------|-------|-------------|
-| `folder_name` | STRING | いいえ | N/A | 保存されたデータセットを含むフォルダの名前です。ComfyUIの出力ディレクトリ内にあります（デフォルト: "training_dataset"）。 |
+| `folder_name` | STRING | いいえ | N/A | 保存されたデータセットを含むフォルダの名前です。Hanzo Studioの出力ディレクトリ内にあります（デフォルト: "training_dataset"）。 |
 
 ## 出力
 

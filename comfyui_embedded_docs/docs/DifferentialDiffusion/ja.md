@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DifferentialDiffusion/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DifferentialDiffusion/ja.md)
 
 Differential Diffusionノードは、タイムステップの閾値に基づいてバイナリマスクを適用することで、ノイズ除去プロセスを変更します。このノードは、元のノイズ除去マスクと閾値ベースのバイナリマスクの間をブレンドするマスクを作成し、拡散プロセスの強度を制御しながら調整できるようにします。
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookModelAsLoraModelOnly/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookModelAsLoraModelOnly/zh-TW.md)
 
 此節點建立一個掛鉤，該掛鉤應用 LoRA（低秩適應）模型來僅修改神經網路的模型組件。它載入一個檢查點檔案，並以指定的強度將其應用於模型，同時保持 CLIP 組件不變。這是一個實驗性節點，擴展了基礎 CreateHookModelAsLora 類別的功能。
 

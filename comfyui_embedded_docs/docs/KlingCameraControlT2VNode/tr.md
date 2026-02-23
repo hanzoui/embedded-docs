@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingCameraControlT2VNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingCameraControlT2VNode/tr.md)
 
 Kling Text to Video Camera Control Node, metni gerçek dünya sinematografisini taklit eden profesyonel kamera hareketlerine sahip sinematik videolara dönüştürür. Bu düğüm, orijinal metninize odaklanmayı korurken sanal kamera eylemlerini kontrol etmeyi destekler; bunlar yakınlaştırma, döndürme, kaydırma, eğme ve birinci şahıs görünümünü içerir. Süre, mod ve model adı sabit kodlanmıştır çünkü kamera kontrolü yalnızca pro modunda, kling-v1-5 modeli ve 5 saniyelik süre ile desteklenmektedir.
 

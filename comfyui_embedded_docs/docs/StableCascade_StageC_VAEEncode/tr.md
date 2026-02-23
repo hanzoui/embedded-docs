@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableCascade_StageC_VAEEncode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableCascade_StageC_VAEEncode/tr.md)
 
 StableCascade_StageC_VAEEncode düğümü, görüntüleri bir VAE kodlayıcı aracılığıyla işleyerek Stable Cascade modelleri için gizli temsiller oluşturur. Bir girdi görüntüsü alır ve belirtilen VAE modelini kullanarak sıkıştırır, ardından biri C aşaması ve diğeri B aşaması için bir yer tutucu olmak üzere iki gizli temsil çıktılar. Sıkıştırma parametresi, görüntünün kodlanmadan önce ne kadar küçültüleceğini kontrol eder.
 

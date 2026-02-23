@@ -1,4 +1,4 @@
-> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftCreativeUpscaleNode/ru.md)
+> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftCreativeUpscaleNode/ru.md)
 
 Узел Recraft Creative Upscale Image улучшает растровое изображение, увеличивая его разрешение. Он использует процесс "творческого апскейла", который фокусируется на улучшении мелких деталей и лиц на изображении. Эта операция выполняется синхронно через внешний API.
 

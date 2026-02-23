@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DualCFGGuider/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DualCFGGuider/ko.md)
 
 DualCFGGuider 노드는 이중 분류자 없는 지도(Classifier-Free Guidance) 샘플링을 위한 지도 시스템을 생성합니다. 두 개의 긍정적 조건 입력과 하나의 부정적 조건 입력을 결합하며, 각 조건 쌍에 서로 다른 지도 스케일을 적용하여 생성된 출력에 각 프롬프트의 영향을 제어합니다.
 

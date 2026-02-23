@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityAudioInpaint/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityAudioInpaint/tr.md)
 
 Mevcut bir ses örneğinin bir bölümünü metin talimatları kullanarak dönüştürür. Bu düğüm, açıklayıcı istemler sağlayarak sesin belirli bölümlerini değiştirmenize, sesin geri kalanını korurken seçilen kısımları "iç boyama" veya yeniden oluşturma yoluyla etkili bir şekilde değiştirmenize olanak tanır.
 

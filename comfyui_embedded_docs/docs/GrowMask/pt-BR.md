@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GrowMask/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GrowMask/pt-BR.md)
 
 O nó `GrowMask` é projetado para modificar o tamanho de uma máscara fornecida, expandindo-a ou contraindo-a, enquanto aplica opcionalmente um efeito afilado aos cantos. Essa funcionalidade é crucial para ajustar dinamicamente os limites da máscara em tarefas de processamento de imagem, permitindo um controle mais flexível e preciso sobre a área de interesse.
 

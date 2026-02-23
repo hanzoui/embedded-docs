@@ -4,7 +4,7 @@
 $scriptFolder = Split-Path -Parent $MyInvocation.MyCommand.Definition
 
 # Define the sibling folder containing markdown files
-$folderPath = Join-Path $scriptFolder ".\comfyui_embedded_docs\docs"
+$folderPath = Join-Path $scriptFolder ".\hanzo_studio_embedded_docs\docs"
 
 # Resolve the full path of the sibling folder
 $resolvedFolderPath = Resolve-Path $folderPath

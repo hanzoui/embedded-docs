@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIGPTImage1/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIGPTImage1/tr.md)
 
 OpenAI'nin GPT Image 1 uç noktası aracılığıyla görüntüleri eşzamanlı olarak oluşturur. Bu düğüm, metin istemlerinden yeni görüntüler oluşturabilir veya bir girdi görüntüsü ve isteğe bağlı bir maske sağlandığında mevcut görüntüleri düzenleyebilir.
 

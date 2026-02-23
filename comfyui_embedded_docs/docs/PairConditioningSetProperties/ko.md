@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningSetProperties/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningSetProperties/ko.md)
 
 PairConditioningSetProperties 노드는 양수와 음수 조건화 쌍의 속성을 동시에 수정할 수 있게 해줍니다. 강도 조정, 조건화 영역 설정, 그리고 선택적 마스킹 또는 타이밍 제어를 두 조건화 입력에 모두 적용하여 수정된 양수 및 음수 조건화 데이터를 반환합니다.
 

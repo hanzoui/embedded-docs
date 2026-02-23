@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerLCMUpscale/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerLCMUpscale/ar.md)
 
 يوفر عقد SamplerLCMUpscale أسلوبًا خاصًا لأخذ العينات يجمع بين أخذ عينات نموذج الاتساق الكامن (LCM) وإمكانيات تحجيم الصورة. يسمح لك بتحجيم الصور أثناء عملية أخذ العينات باستخدام طرق استيفاء مختلفة، مما يجعله مفيدًا لتوليد مخرجات بدقة أعلى مع الحفاظ على جودة الصورة.
 

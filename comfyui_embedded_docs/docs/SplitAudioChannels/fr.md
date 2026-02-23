@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SplitAudioChannels/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SplitAudioChannels/fr.md)
 
 Le nœud SplitAudioChannels sépare un audio stéréo en canaux gauche et droit individuels. Il prend en entrée un audio stéréo avec deux canaux et produit en sortie deux flux audio distincts, un pour le canal gauche et un pour le canal droit.
 

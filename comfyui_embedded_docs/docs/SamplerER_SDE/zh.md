@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerER_SDE/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerER_SDE/zh.md)
 
 SamplerER_SDE 节点为扩散模型提供专门的采样方法，提供不同的求解器类型，包括 ER-SDE、逆时 SDE 和 ODE 方法。它允许控制采样过程的随机行为和计算阶段。该节点会根据所选求解器类型自动调整参数以确保正常功能。
 

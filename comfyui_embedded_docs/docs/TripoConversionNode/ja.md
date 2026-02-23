@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoConversionNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoConversionNode/ja.md)
 
 TripoConversionNodeは、Tripo APIを使用して3Dモデルを異なるファイル形式間で変換します。前回のTripo操作で得られたタスクIDを受け取り、様々なエクスポートオプションを使用して結果のモデルを希望の形式に変換します。
 

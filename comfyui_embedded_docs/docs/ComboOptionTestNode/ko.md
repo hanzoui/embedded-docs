@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ComboOptionTestNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ComboOptionTestNode/ko.md)
 
 ComboOptionTestNode는 콤보 박스 선택을 테스트하고 통과시키기 위한 논리 노드입니다. 두 개의 콤보 박스 입력을 받으며, 각각 미리 정의된 옵션 세트를 가지고 있습니다. 선택된 값은 수정 없이 직접 출력됩니다.
 

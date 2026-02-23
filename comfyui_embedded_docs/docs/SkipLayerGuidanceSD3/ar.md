@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceSD3/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceSD3/ar.md)
 
 يعزز عقد SkipLayerGuidanceSD3 التوجيه نحو البنية التفصيلية من خلال تطبيق مجموعة إضافية من التوجيه الخالي من المصنف مع تخطي طبقات معينة. هذا التنفيذ التجريبي مستوحى من توجيه الانتباه المضطرب ويعمل عن طريق تجاوز طبقات محددة بشكل انتقائي أثناء عملية التكييف السلبي لتحسين التفاصيل الهيكلية في المخرجات المُنشأة.
 

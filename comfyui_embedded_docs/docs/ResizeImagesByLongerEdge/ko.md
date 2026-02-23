@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResizeImagesByLongerEdge/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResizeImagesByLongerEdge/ko.md)
 
 Resize Images by Longer Edge 노드는 하나 이상의 이미지를 가장 긴 변이 지정된 목표 길이와 일치하도록 크기를 조정합니다. 이미지의 너비와 높이 중 어느 쪽이 더 긴지 자동으로 판단하고 원래 종횡비를 유지하기 위해 다른 차원을 비례적으로 조정합니다. 이는 가장 큰 차원을 기준으로 이미지 크기를 표준화하는 데 유용합니다.
 

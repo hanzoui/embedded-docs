@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningZeroOut/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningZeroOut/pt-BR.md)
 
 Este nó zera elementos específicos dentro da estrutura de dados de condicionamento, neutralizando efetivamente sua influência nas etapas subsequentes de processamento. Ele foi projetado para operações avançadas de condicionamento onde é necessária a manipulação direta da representação interna do condicionamento.
 

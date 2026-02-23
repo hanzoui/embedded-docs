@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecordAudio/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecordAudio/pt-BR.md)
 
 O nó RecordAudio carrega arquivos de áudio que foram gravados ou selecionados através da interface de gravação de áudio. Ele processa o arquivo de áudio e o converte para um formato de forma de onda que pode ser utilizado por outros nós de processamento de áudio no fluxo de trabalho. O nó detecta automaticamente a taxa de amostragem e prepara os dados de áudio para manipulação posterior.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageFlip/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageFlip/tr.md)
 
 ImageFlip düğümü, görüntüleri farklı eksenler boyunca çevirir. Görüntüleri x ekseni boyunca dikey olarak veya y ekseni boyunca yatay olarak çevirebilir. Düğüm, seçilen yönteme bağlı olarak çevirme işlemini gerçekleştirmek için torch.flip işlemlerini kullanır.
 

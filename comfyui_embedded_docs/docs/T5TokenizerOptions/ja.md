@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/T5TokenizerOptions/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/T5TokenizerOptions/ja.md)
 
 T5TokenizerOptionsノードは、様々なT5モデルタイプのトークナイザー設定を構成することができます。t5xxl、pile_t5xl、t5base、mt5xl、umt5xxlを含む複数のT5モデルバリアントに対して、最小パディングと最小長のパラメータを設定します。このノードはCLIP入力を取り、指定されたトークナイザーオプションが適用された修正済みCLIPを返します。
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CFGNorm/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CFGNorm/ko.md)
 
 CFGNorm 노드는 확산 모델의 classifier-free guidance(CFG) 과정에 정규화 기법을 적용합니다. 조건부와 무조건부 출력의 노름(norm)을 비교하여 노이즈 제거 예측의 크기를 조정한 후, 효과를 제어하기 위해 강도 승수를 적용합니다. 이를 통해 guidance 스케일링에서 극단적인 값이 나타나는 것을 방지하여 생성 과정을 안정화하는 데 도움을 줍니다.
 

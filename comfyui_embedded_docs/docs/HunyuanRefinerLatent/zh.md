@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanRefinerLatent/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanRefinerLatent/zh.md)
 
 HunyuanRefinerLatent 节点用于处理精炼操作中的条件输入和潜空间输入。该节点对正负条件输入同时应用噪声增强，并结合潜空间图像数据，生成具有特定维度的新潜空间输出以供后续处理。
 

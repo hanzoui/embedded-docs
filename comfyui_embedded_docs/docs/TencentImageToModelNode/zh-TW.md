@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TencentImageToModelNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TencentImageToModelNode/zh-TW.md)
 
 此節點使用騰訊的 Hunyuan3D Pro API，從一張或多張輸入圖像生成 3D 模型。它會處理圖像，將其發送至 API，並以 GLB 和 OBJ 格式返回生成的 3D 模型檔案。
 

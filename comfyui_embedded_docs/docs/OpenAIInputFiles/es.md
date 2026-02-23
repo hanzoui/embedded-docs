@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIInputFiles/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIInputFiles/es.md)
 
 Carga y formatea archivos de entrada para la API de OpenAI. Este nodo prepara archivos de texto y PDF para incluirlos como entradas de contexto para el nodo OpenAI Chat. Los archivos serán leídos por el modelo de OpenAI al generar respuestas. Se pueden encadenar múltiples nodos de archivos de entrada para incluir varios archivos en un solo mensaje.
 

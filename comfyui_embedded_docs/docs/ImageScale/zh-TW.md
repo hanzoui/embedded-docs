@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageScale/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageScale/zh-TW.md)
 
 ImageScale 節點專為將影像調整至特定尺寸而設計，提供多種放大方法選擇以及裁剪調整後影像的功能。它封裝了影像放大和裁剪的複雜性，讓使用者能透過直觀的介面，根據自訂參數來修改影像尺寸。
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioMerge/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioMerge/zh-TW.md)
 
 AudioMerge 節點透過疊加波形的方式合併兩個音軌。它會自動匹配兩個音頻輸入的採樣率，並在合併前調整其長度使其相等。該節點提供多種數學方法來合併音頻信號，並確保輸出保持在可接受的音量水平內。
 

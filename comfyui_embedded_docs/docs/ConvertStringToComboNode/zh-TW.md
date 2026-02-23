@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConvertStringToComboNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConvertStringToComboNode/zh-TW.md)
 
 此節點接收文字字串作為輸入，並將其轉換為 COMBO 資料類型。這讓您能將文字值用作其他需要 COMBO 輸入的節點的選項。它僅會原封不動地傳遞字串值，但會改變其資料類型。
 

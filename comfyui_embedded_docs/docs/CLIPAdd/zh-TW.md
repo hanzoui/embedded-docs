@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPAdd/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPAdd/zh-TW.md)
 
 CLIPAdd 節點透過合併兩個 CLIP 模型的關鍵修補程式來組合它們。它會建立第一個 CLIP 模型的副本，然後添加第二個模型中的大部分關鍵修補程式（不包括位置 ID 和 logit 縮放參數）。這讓您能夠融合不同 CLIP 模型的特徵，同時保留第一個模型的結構。
 

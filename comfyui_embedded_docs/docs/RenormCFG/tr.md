@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RenormCFG/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RenormCFG/tr.md)
 
 RenormCFG düğümü, yayılım modellerinde sınıflandırıcısız kılavuzluk (CFG) sürecini, koşullu ölçeklendirme ve normalleştirme uygulayarak değiştirir. Görüntü oluşturma sırasında koşullu ve koşulsuz tahminlerin etkisini kontrol etmek için, belirtilen zaman adımı eşikleri ve yeniden normalleştirme faktörlerine dayalı olarak gürültü giderme işlemini ayarlar.
 

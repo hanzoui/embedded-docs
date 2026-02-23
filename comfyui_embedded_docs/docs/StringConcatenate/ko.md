@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringConcatenate/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringConcatenate/ko.md)
 
 StringConcatenate 노드는 두 개의 텍스트 문자열을 지정된 구분자로 결합하여 하나의 문자열로 만듭니다. 두 개의 입력 문자열과 구분자 문자 또는 문자열을 받아서, 두 입력 사이에 구분자를 삽입하여 연결된 단일 문자열을 출력합니다.
 

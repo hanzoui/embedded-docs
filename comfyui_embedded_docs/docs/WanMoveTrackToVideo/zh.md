@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveTrackToVideo/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveTrackToVideo/zh.md)
 
 WanMoveTrackToVideo 节点为视频生成准备条件数据和潜在空间数据，并可整合可选的运动跟踪信息。该节点将起始图像序列编码为潜在表示，并能融合来自对象轨迹的位置数据以引导生成视频中的运动。节点输出修改后的正向与负向条件数据，以及一个可供视频模型使用的空潜在张量。
 

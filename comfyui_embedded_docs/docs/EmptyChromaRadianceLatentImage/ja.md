@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyChromaRadianceLatentImage/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyChromaRadianceLatentImage/ja.md)
 
 EmptyChromaRadianceLatentImageノードは、クロマラディアンスワークフローで使用するための指定された寸法の空白の潜在画像を作成します。このノードは、潜在空間操作の出発点として機能するゼロで満たされたテンソルを生成します。空の潜在画像の幅、高さ、バッチサイズを定義することができます。
 

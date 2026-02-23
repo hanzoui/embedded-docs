@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIInputFiles/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIInputFiles/ko.md)
 
 OpenAI API용 입력 파일을 불러오고 형식을 지정합니다. 이 노드는 OpenAI Chat Node에 컨텍스트 입력으로 포함할 텍스트 및 PDF 파일을 준비합니다. 파일들은 응답 생성 시 OpenAI 모델에 의해 읽힙니다. 여러 입력 파일 노드를 함께 연결하여 단일 메시지에 여러 파일을 포함할 수 있습니다.
 

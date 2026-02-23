@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RunwayFirstLastFrameNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RunwayFirstLastFrameNode/ja.md)
 
 Runway First-Last-Frame to Video ノードは、最初と最後のキーフレームとテキストプロンプトをアップロードして動画を生成します。RunwayのGen-3モデルを使用して、提供された開始フレームと終了フレーム間の滑らかな遷移を作成します。これは、終了フレームが開始フレームと大きく異なる複雑な遷移に特に有用です。
 

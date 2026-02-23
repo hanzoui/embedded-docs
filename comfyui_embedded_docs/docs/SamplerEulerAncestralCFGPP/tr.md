@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerEulerAncestralCFGPP/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerEulerAncestralCFGPP/tr.md)
 
 SamplerEulerAncestralCFGPP düğümü, Euler Ata yöntemini sınıflandırıcısız kılavuzluk ile kullanarak görüntü oluşturmak için özelleştirilmiş bir örnekleyici oluşturur. Bu örnekleyici, ata örnekleme tekniklerini kılavuzluk koşullandırmasıyla birleştirerek, tutarlılığı korurken çeşitli görüntü varyasyonları üretir. Gürültü ve adım boyutu ayarlamalarını kontrol eden parametreler aracılığıyla örnekleme sürecinin ince ayar yapılmasına olanak tanır.
 

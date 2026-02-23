@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeTiled/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeTiled/zh-TW.md)
 
 VAEDecodeTiled 節點使用分塊方法將潛在表示解碼為圖像，能有效處理大型圖像。它通過將輸入處理成較小的圖塊來管理記憶體使用，同時保持圖像品質。該節點還支援影片 VAE，通過帶有重疊的幀塊處理時間幀以實現平滑過渡。
 

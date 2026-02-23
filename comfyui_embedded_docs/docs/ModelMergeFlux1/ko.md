@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeFlux1/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeFlux1/ko.md)
 
 ModelMergeFlux1 노드는 가중치 보간을 사용하여 두 개의 디퓨전 모델 구성 요소를 혼합하여 병합합니다. 이미지 처리 블록, 시간 임베딩 레이어, 가이던스 메커니즘, 벡터 입력, 텍스트 인코더 및 다양한 트랜스포머 블록을 포함한 모델의 서로 다른 부분들이 어떻게 결합되는지 세밀하게 제어할 수 있습니다. 이를 통해 두 소스 모델로부터 사용자 정의 특성을 가진 하이브리드 모델을 생성할 수 있습니다.
 

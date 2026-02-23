@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeAudio/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeAudio/zh.md)
 
 VAEDecodeAudio 节点使用变分自编码器将潜在表示转换回音频波形。它接收编码的音频样本，通过 VAE 进行处理以重建原始音频，并应用归一化来确保输出电平的一致性。生成的音频以 44100 Hz 的标准采样率返回。
 

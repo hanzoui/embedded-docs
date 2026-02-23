@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Kandinsky5ImageToVideo/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Kandinsky5ImageToVideo/ja.md)
 
 Kandinsky5ImageToVideoノードは、Kandinskyモデルを使用した動画生成のための条件付けと潜在空間データを準備します。空の動画潜在テンソルを作成し、オプションで開始画像をエンコードして生成動画の初期フレームをガイドし、それに応じてポジティブおよびネガティブな条件付けを変更します。
 

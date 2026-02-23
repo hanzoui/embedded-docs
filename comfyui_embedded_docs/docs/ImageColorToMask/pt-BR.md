@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageColorToMask/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageColorToMask/pt-BR.md)
 
 O nó `ImageColorToMask` é projetado para converter uma cor específica em uma imagem em uma máscara. Ele processa uma imagem e uma cor alvo, gerando uma máscara onde a cor especificada é destacada, facilitando operações como segmentação baseada em cor ou isolamento de objetos.
 

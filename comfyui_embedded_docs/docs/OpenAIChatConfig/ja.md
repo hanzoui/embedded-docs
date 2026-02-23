@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIChatConfig/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIChatConfig/ja.md)
 
 OpenAIChatConfigノードは、OpenAI Chatノードに追加の設定オプションを設定することを可能にします。このノードは、切り捨て動作、出力長の制限、カスタム指示など、モデルが応答を生成する方法を制御する高度な設定を提供します。
 

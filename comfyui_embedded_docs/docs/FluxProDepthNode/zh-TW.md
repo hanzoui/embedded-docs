@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxProDepthNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxProDepthNode/zh-TW.md)
 
 此節點使用深度控制影像作為引導來生成影像。它接收一個控制影像和文字提示，然後創建一個既遵循控制影像深度資訊又符合提示描述的新影像。該節點連接到外部 API 來執行影像生成過程。
 

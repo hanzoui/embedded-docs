@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CenterCropImages/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CenterCropImages/en.md)
 
 The Center Crop Images node crops an image from its center to a specified width and height. It calculates the central region of the input image and extracts a rectangular area of the defined dimensions. If the requested crop size is larger than the image, the crop will be constrained to the image's boundaries.
 

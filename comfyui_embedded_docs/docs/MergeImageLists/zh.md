@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MergeImageLists/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MergeImageLists/zh.md)
 
 此节点将多个独立的图像列表合并为一个连续的列表。其工作原理是接收每个已连接输入中的所有图像，并按照接收顺序将它们拼接在一起。这对于组织或批处理来自不同来源的图像以进行进一步处理非常有用。
 

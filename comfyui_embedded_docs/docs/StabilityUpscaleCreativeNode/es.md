@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityUpscaleCreativeNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityUpscaleCreativeNode/es.md)
 
 Escala imágenes con alteraciones mínimas a resolución 4K. Este nodo utiliza la tecnología de escalado creativo de Stability AI para mejorar la resolución de la imagen mientras preserva el contenido original y añade detalles creativos sutiles.
 

@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BatchMasksNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BatchMasksNode/es.md)
 
 El nodo Batch Masks combina múltiples entradas de máscaras individuales en un solo lote. Toma un número variable de entradas de máscaras y las emite como un único tensor de máscara en lote, permitiendo el procesamiento por lotes de máscaras en nodos posteriores.
 

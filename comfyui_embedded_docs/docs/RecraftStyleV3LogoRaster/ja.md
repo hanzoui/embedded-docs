@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftStyleV3LogoRaster/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftStyleV3LogoRaster/ja.md)
 
 このノードを使用すると、ロゴのラスタースタイルを選択し、利用可能なサブスタイルから選ぶことができます。ラスターベースのスタイリングオプションを使用したロゴデザインの生成に特化しており、ロゴ作成のための様々なビジュアル処理を提供します。
 

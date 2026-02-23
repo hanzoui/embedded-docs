@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanContextWindowsManual/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanContextWindowsManual/ko.md)
 
 WAN Context Windows (Manual) 노드를 사용하면 2차원 처리를 지원하는 WAN 유사 모델에 대한 컨텍스트 창을 수동으로 구성할 수 있습니다. 이 노드는 샘플링 과정에서 창 길이, 오버랩, 스케줄링 방법 및 퓨전 기술을 지정하여 사용자 정의 컨텍스트 창 설정을 적용합니다. 이를 통해 모델이 서로 다른 컨텍스트 영역에서 정보를 처리하는 방식을 정밀하게 제어할 수 있습니다.
 

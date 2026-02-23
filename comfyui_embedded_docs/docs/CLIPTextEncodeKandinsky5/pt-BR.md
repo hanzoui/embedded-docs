@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeKandinsky5/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeKandinsky5/pt-BR.md)
 
 O nó CLIPTextEncodeKandinsky5 prepara prompts de texto para uso com o modelo Kandinsky 5. Ele recebe duas entradas de texto separadas, as tokeniza usando um modelo CLIP fornecido e as combina em uma única saída de condicionamento. Essa saída é usada para orientar o processo de geração de imagem.
 

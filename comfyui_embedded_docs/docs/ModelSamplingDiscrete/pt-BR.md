@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingDiscrete/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingDiscrete/pt-BR.md)
 
 Este nó foi projetado para modificar o comportamento de amostragem de um modelo aplicando uma estratégia de amostragem discreta. Ele permite a seleção de diferentes métodos de amostragem, como epsilon, v_prediction, lcm ou x0, e opcionalmente ajusta a estratégia de redução de ruído do modelo com base na configuração da razão de ruído zero-shot (zsnr).
 

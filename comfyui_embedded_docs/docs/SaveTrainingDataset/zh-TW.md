@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveTrainingDataset/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveTrainingDataset/zh-TW.md)
 
 此節點將準備好的訓練資料集儲存到電腦硬碟中。它接收已編碼的資料（包含圖像潛在表示及其對應的文字條件），並將它們組織成多個較小的檔案（稱為分片）以便於管理。節點會自動在輸出目錄中建立資料夾，並儲存資料檔案以及描述資料集的中繼資料檔案。
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GeminiNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GeminiNode/zh.md)
 
 此节点允许用户与 Google 的 Gemini AI 模型交互以生成文本响应。您可以提供多种类型的输入，包括文本、图像、音频、视频和文件，作为模型的上下文，以生成更相关和更有意义的响应。该节点会自动处理所有 API 通信和响应解析。
 

@@ -1,4 +1,4 @@
-该节点会检测位于 `ComfyUI/models/checkpoints` 文件夹下的模型，同时也会读取你在 extra_model_paths.yaml 文件中配置的额外路径的模型，有时你可能需要 **刷新 ComfyUI 界面** 才能让它读取到对应文件夹下的模型文件
+该节点会检测位于 `Hanzo Studio/models/checkpoints` 文件夹下的模型，同时也会读取你在 extra_model_paths.yaml 文件中配置的额外路径的模型，有时你可能需要 **刷新 Hanzo Studio 界面** 才能让它读取到对应文件夹下的模型文件
 
 此节点专门用于加载视频生成工作流中基于图像的模型的检查点。它有效地检索和配置来自给定检查点的所需组件，专注于模型的图像相关方面。
 

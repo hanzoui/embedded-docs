@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentBatch/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentBatch/zh-TW.md)
 
 LatentBatch 節點旨在將兩組潛在樣本合併為單一批次，在串接前可能會調整其中一組的尺寸以匹配另一組的維度。此操作便於組合不同的潛在表徵，以用於後續處理或生成任務。
 

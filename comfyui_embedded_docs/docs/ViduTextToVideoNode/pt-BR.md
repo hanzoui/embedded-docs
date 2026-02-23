@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduTextToVideoNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduTextToVideoNode/pt-BR.md)
 
 O nó Vidu Text To Video Generation cria vídeos a partir de descrições textuais. Ele utiliza vários modelos de geração de vídeo para transformar seus prompts de texto em conteúdo de vídeo com configurações personalizáveis para duração, proporção de tela e estilo visual.
 

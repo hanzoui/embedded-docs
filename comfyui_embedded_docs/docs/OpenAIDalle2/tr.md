@@ -1,11 +1,11 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIDalle2/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIDalle2/tr.md)
 
 ```markdown
 OpenAI'nin DALL·E 2 uç noktası aracılığıyla senkron olarak görüntü oluşturur.
 
 ## Nasıl Çalışır
 
-Bu düğüm, metin açıklamalarına dayalı görüntüler oluşturmak için OpenAI'nin DALL·E 2 API'sine bağlanır. Bir metin istemi sağladığınızda, düğüm bunu OpenAI'nin sunucularına gönderir ve bu sunucular ilgili görüntüleri oluşturarak ComfyUI'ye geri döndürür. Düğüm iki modda çalışabilir: sadece metin istemi kullanarak standart görüntü oluşturma veya hem görüntü hem de maske sağlandığında görüntü düzenleme modu. Düzenleme modunda, orijinal görüntünün hangi bölümlerinin değiştirileceğini belirlemek için maskeyi kullanırken diğer alanları değişmeden bırakır.
+Bu düğüm, metin açıklamalarına dayalı görüntüler oluşturmak için OpenAI'nin DALL·E 2 API'sine bağlanır. Bir metin istemi sağladığınızda, düğüm bunu OpenAI'nin sunucularına gönderir ve bu sunucular ilgili görüntüleri oluşturarak Hanzo Studio'ye geri döndürür. Düğüm iki modda çalışabilir: sadece metin istemi kullanarak standart görüntü oluşturma veya hem görüntü hem de maske sağlandığında görüntü düzenleme modu. Düzenleme modunda, orijinal görüntünün hangi bölümlerinin değiştirileceğini belirlemek için maskeyi kullanırken diğer alanları değişmeden bırakır.
 
 ## Girişler
 

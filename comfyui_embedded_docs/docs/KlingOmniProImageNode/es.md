@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProImageNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProImageNode/es.md)
 
 El nodo Kling Omni Image (Pro) genera o edita imágenes utilizando el modelo de IA Kling. Crea imágenes basadas en una descripción de texto y permite proporcionar imágenes de referencia para guiar el estilo o el contenido. El nodo envía una solicitud a una API externa, que procesa la tarea y devuelve la imagen final.
 

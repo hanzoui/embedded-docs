@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResizeImagesByLongerEdge/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResizeImagesByLongerEdge/es.md)
 
 El nodo Redimensionar Imágenes por Borde Más Largo redimensiona una o más imágenes para que su lado más largo coincida con una longitud objetivo especificada. Determina automáticamente si el ancho o el alto es más largo y escala la otra dimensión proporcionalmente para preservar la relación de aspecto original. Esto es útil para estandarizar tamaños de imagen basándose en su dimensión más grande.
 

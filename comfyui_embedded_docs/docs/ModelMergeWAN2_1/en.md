@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeWAN2_1/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeWAN2_1/en.md)
 
 The ModelMergeWAN2_1 node merges two models by blending their components using weighted averages. It supports different model sizes including 1.3B models with 30 blocks and 14B models with 40 blocks, with special handling for image to video models that include an extra image embedding component. Each component of the models can be individually weighted to control the blending ratio between the two input models.
 

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMPP_2S_Ancestral/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMPP_2S_Ancestral/fr.md)
 
 Le nœud SamplerDPMPP_2S_Ancestral crée un échantillonneur qui utilise la méthode d'échantillonnage DPM++ 2S Ancestral pour générer des images. Cet échantillonneur combine des éléments déterministes et stochastiques pour produire des résultats variés tout en maintenant une certaine cohérence. Il vous permet de contrôler l'aléatoire et les niveaux de bruit pendant le processus d'échantillonnage.
 

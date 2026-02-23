@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecordAudio/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecordAudio/ja.md)
 
 RecordAudioノードは、音声録音インターフェースを通じて録音または選択された音声ファイルを読み込みます。このノードは音声ファイルを処理し、ワークフロー内の他の音声処理ノードで使用可能な波形フォーマットに変換します。サンプルレートを自動的に検出し、さらなる操作のために音声データを準備します。
 

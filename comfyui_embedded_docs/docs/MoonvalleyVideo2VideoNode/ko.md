@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MoonvalleyVideo2VideoNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MoonvalleyVideo2VideoNode/ko.md)
 
 Moonvalley Marey Video to Video 노드는 입력된 동영상을 텍스트 설명을 기반으로 새로운 동영상으로 변환합니다. Moonvalley API를 사용하여 원본 동영상의 동작이나 자세 특성을 유지하면서 사용자의 프롬프트와 일치하는 동영상을 생성합니다. 텍스트 프롬프트와 다양한 생성 매개변수를 통해 출력 동영상의 스타일과 내용을 제어할 수 있습니다.
 

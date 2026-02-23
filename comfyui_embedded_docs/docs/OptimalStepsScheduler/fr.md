@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OptimalStepsScheduler/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OptimalStepsScheduler/fr.md)
 
 Le nœud OptimalStepsScheduler calcule les sigmas du plan de bruit pour les modèles de diffusion en fonction du type de modèle sélectionné et de la configuration des étapes. Il ajuste le nombre total d'étapes en fonction du paramètre de débruitage et interpole les niveaux de bruit pour correspondre au nombre d'étapes demandé. Le nœud retourne une séquence de valeurs sigma qui déterminent les niveaux de bruit utilisés pendant le processus d'échantillonnage par diffusion.
 

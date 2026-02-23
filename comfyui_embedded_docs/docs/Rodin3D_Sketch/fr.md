@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Rodin3D_Sketch/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Rodin3D_Sketch/fr.md)
 
 Ce nœud génère des ressources 3D en utilisant l'API Rodin. Il prend des images en entrée et les convertit en modèles 3D via un service externe. Le nœud gère l'intégralité du processus, de la création de la tâche au téléchargement des fichiers finaux du modèle 3D.
 

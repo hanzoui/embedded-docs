@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TemporalScoreRescaling/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TemporalScoreRescaling/tr.md)
 
 Bu düğüm, bir difüzyon modeline Zamansal Skor Yeniden Ölçeklendirme (TSR) uygular. Gürültü giderme sürecinde tahmin edilen gürültü veya skoru yeniden ölçekleyerek modelin örnekleme davranışını değiştirir ve bu da üretilen çıktının çeşitliliğini yönlendirebilir. Bu, bir CFG-sonrası (Sınıflandırıcısız Kılavuzluk) işlevi olarak uygulanır.
 

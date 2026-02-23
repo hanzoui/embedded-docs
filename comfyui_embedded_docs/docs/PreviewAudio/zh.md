@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PreviewAudio/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PreviewAudio/zh.md)
 
 PreviewAudio 节点生成临时音频预览文件，可在界面中显示。它继承自 SaveAudio 节点，但会将文件保存至临时目录并使用随机文件名前缀。这使用户能够快速预览音频输出而无需创建永久文件。
 

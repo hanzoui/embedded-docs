@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelPatchLoader/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelPatchLoader/tr.md)
 
 ModelPatchLoader düğümü, model_patches klasöründen özelleştirilmiş model yamalarını yükler. Yamalama dosyasının türünü otomatik olarak algılar ve uygun model mimarisini yükleyerek, iş akışında kullanılmak üzere bir ModelPatcher içine sarar. Bu düğüm, controlnet blokları ve feature embedder modelleri dahil olmak üzere farklı yama türlerini destekler.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentApplyOperationCFG/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentApplyOperationCFG/tr.md)
 
 LatentApplyOperationCFG düğümü, bir modeldeki koşullandırma kılavuzluk sürecini değiştirmek için bir gizli işlem uygular. Sınıflandırıcısız kılavuzluk (CFG) örnekleme süreci sırasında koşullandırma çıktılarını keserek ve üretim için kullanılmadan önce gizli temsillere belirtilen işlemi uygulayarak çalışır.
 

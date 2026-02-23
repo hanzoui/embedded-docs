@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GeminiImage2Node/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GeminiImage2Node/es.md)
 
 El nodo GeminiImage2Node genera o edita imágenes utilizando el modelo Gemini de Vertex AI de Google. Envía un mensaje de texto y, opcionalmente, imágenes o archivos de referencia a la API y devuelve la imagen generada y/o una descripción de texto.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingDualCharacterVideoEffectNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingDualCharacterVideoEffectNode/ar.md)
 
 عقدة تأثير الفيديو المزدوجة للشخصيات في Kling تنشئ مقاطع فيديو ذات تأثيرات خاصة بناءً على المشهد المحدد. تأخذ العقدة صورتين وتضع الصورة الأولى على الجانب الأيسر والصورة الثانية على الجانب الأيمن من الفيديو المركب. يتم تطبيق تأثيرات بصرية مختلفة اعتمادًا على مشهد التأثير المختار.
 

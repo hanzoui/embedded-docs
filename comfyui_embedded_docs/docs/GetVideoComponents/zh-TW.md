@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GetVideoComponents/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GetVideoComponents/zh-TW.md)
 
 Get Video Components 節點可從影片檔案中提取所有主要元素。它會將影片分離為個別影格、提取音訊軌道，並提供影片的影格率資訊。這讓您能夠獨立處理每個組件，以進行後續處理或分析。
 

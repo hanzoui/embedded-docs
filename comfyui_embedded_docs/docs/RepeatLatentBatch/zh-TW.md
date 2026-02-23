@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RepeatLatentBatch/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RepeatLatentBatch/zh-TW.md)
 
 RepeatLatentBatch 節點旨在將指定的潛在表示批次複製特定次數，並可能包含雜訊遮罩和批次索引等額外資料。此功能對於需要相同潛在資料多個實例的操作至關重要，例如資料增強或特定的生成任務。
 

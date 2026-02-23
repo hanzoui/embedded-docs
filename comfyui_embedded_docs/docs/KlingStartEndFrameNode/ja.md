@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingStartEndFrameNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingStartEndFrameNode/ja.md)
 
 Kling Start-End Frame to Videoノードは、指定された開始画像と終了画像の間を遷移するビデオシーケンスを作成します。最初のフレームから最後のフレームへの滑らかな変形を生成するために、中間のすべてのフレームを生成します。このノードは画像からビデオへのAPIを呼び出しますが、`image_tail`リクエストフィールドで動作する入力オプションのみをサポートしています。
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPAttentionMultiply/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPAttentionMultiply/ja.md)
 
 CLIPAttentionMultiplyノードは、CLIPモデルのアテンションメカニズムを調整するためのノードで、セルフアテンション層の異なるコンポーネントに乗算係数を適用します。このノードは、CLIPモデルのアテンションメカニズム内のクエリ、キー、値、および出力投影の重みとバイアスを変更することで機能します。この実験的なノードは、指定されたスケーリング係数を適用した入力CLIPモデルの修正コピーを作成します。
 

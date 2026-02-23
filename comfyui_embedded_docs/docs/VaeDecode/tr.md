@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecode/tr.md)
 
 VAEDecode düğümü, belirli bir Varyasyonel Otokodlayıcı (VAE) kullanarak gizli temsilleri görüntülere dönüştürmek için tasarlanmıştır. Amacı, sıkıştırılmış veri temsillerinden görüntüler oluşturmak ve gizli uzay kodlamalarından görüntülerin yeniden yapılandırılmasını sağlamaktır.
 

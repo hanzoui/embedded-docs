@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanSoundImageToVideoExtend/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanSoundImageToVideoExtend/zh.md)
 
 WanSoundImageToVideoExtend 节点通过整合音频条件处理和参考图像来扩展图像到视频的生成功能。该节点接收正向和负向条件提示、视频潜在数据以及可选的音频嵌入，以生成扩展的视频序列。节点会处理这些输入内容，创建与音频线索同步的连贯视频输出。
 

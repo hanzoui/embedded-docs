@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanCameraImageToVideo/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanCameraImageToVideo/pt-BR.md)
 
 O nó WanCameraImageToVideo converte imagens em sequências de vídeo gerando representações latentes para geração de vídeo. Ele processa entradas de condicionamento e imagens iniciais opcionais para criar latentes de vídeo que podem ser usados com modelos de vídeo. O nó suporta condições de câmera e saídas de visão CLIP para um controle aprimorado na geração de vídeo.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoImageToModelNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoImageToModelNode/pt-BR.md)
 
 Gera modelos 3D de forma síncrona com base em uma única imagem usando a API do Tripo. Este nó recebe uma imagem de entrada e a converte em um modelo 3D com várias opções de personalização para textura, qualidade e propriedades do modelo.
 

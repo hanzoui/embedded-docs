@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveVisualizeTracks/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveVisualizeTracks/tr.md)
 
 WanMoveVisualizeTracks düğümü, hareket takip verilerini bir görüntü dizisi veya video kareleri üzerine bindirir. İzlenen noktaların hareket yollarını ve mevcut konumlarını içeren görsel temsillerini çizer, böylece hareket verilerini görünür ve analiz etmesi kolay hale getirir.
 

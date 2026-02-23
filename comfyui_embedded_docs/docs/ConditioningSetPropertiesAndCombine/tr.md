@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetPropertiesAndCombine/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetPropertiesAndCombine/tr.md)
 
 ConditioningSetPropertiesAndCombine düğümü, yeni bir koşullandırma girişinden gelen özellikleri mevcut bir koşullandırma girişine uygulayarak koşullandırma verilerini değiştirir. İki koşullandırma kümesini birleştirirken, yeni koşullandırmanın gücünü kontrol eder ve koşullandırma alanının nasıl uygulanacağını belirtir.
 

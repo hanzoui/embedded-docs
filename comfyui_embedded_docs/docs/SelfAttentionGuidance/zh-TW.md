@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SelfAttentionGuidance/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SelfAttentionGuidance/zh-TW.md)
 
 此節點透過在取樣過程中修改注意力機制，對擴散模型應用引導。它從無條件去噪步驟中捕捉注意力分數，並使用這些分數來建立影響最終輸出的模糊引導圖。此技術透過利用模型自身的注意力模式來幫助引導生成過程。
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateList/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateList/ja.md)
 
 Create List ノードは、複数の入力を単一の連続したリストに結合します。同じデータ型の任意の数の入力を受け取り、接続された順序でそれらを連結します。このノードは、画像やテキストなどのデータのバッチをワークフロー内の他のノードで処理できるように準備する際に便利です。
 

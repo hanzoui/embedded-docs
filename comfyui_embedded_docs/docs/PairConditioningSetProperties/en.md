@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningSetProperties/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningSetProperties/en.md)
 
 The PairConditioningSetProperties node allows you to modify the properties of both positive and negative conditioning pairs simultaneously. It applies strength adjustments, conditioning area settings, and optional masking or timing controls to both conditioning inputs, returning the modified positive and negative conditioning data.
 

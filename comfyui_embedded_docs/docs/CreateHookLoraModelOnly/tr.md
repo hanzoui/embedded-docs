@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookLoraModelOnly/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookLoraModelOnly/tr.md)
 
 Bu düğüm, yalnızca model bileşenine uygulanan bir LoRA (Düşük Dereceli Uyarlama) kancası oluşturur ve CLIP bileşenini etkilemeden model davranışını değiştirmenize olanak tanır. Bir LoRA dosyası yükler ve CLIP bileşenini değiştirmeden bırakarak, belirtilen bir güçle modele uygular. Düğüm, karmaşık değişiklik işlem hatları oluşturmak için önceki kancalarla zincirlenebilir.
 

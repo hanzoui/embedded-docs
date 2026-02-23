@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AdjustContrast/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AdjustContrast/zh.md)
 
 调整对比度节点用于修改输入图像的对比度水平。它通过调整图像明暗区域之间的差异来实现。系数为 1.0 时图像保持不变，低于 1.0 的值会降低对比度，高于 1.0 的值则会增强对比度。
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxProUltraImageNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxProUltraImageNode/ar.md)
 
 ينشئ الصور باستخدام Flux Pro 1.1 Ultra عبر واجهة برمجة التطبيقات بناءً على الوصف والدقة. تتصل هذه العقدة بخدمة خارجية لإنشاء الصور وفقًا للوصف النصي والأبعاد المحددة.
 

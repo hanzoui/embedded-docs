@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeAudioTiled/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeAudioTiled/tr.md)
 
 Bu düğüm, sıkıştırılmış bir ses temsilini (latent örnekleri), bir Varyasyonel Otokodlayıcı (VAE) kullanarak bir ses dalga formuna dönüştürür. Verileri, bellek kullanımını yönetmek için daha küçük, üst üste binen bölümler (dilimler) halinde işler, bu da daha uzun ses dizilerini işlemek için uygun hale getirir.
 

@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Veo3FirstLastFrameNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Veo3FirstLastFrameNode/es.md)
 
 El nodo Veo3FirstLastFrameNode utiliza el modelo Veo 3 de Google para generar un vídeo. Crea un vídeo basado en un texto descriptivo, utilizando una primera y última imagen proporcionadas para guiar el inicio y el final de la secuencia.
 

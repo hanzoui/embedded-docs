@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetProperties/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetProperties/fr.md)
 
 Le nœud ConditioningSetProperties modifie les propriétés des données de conditionnement en ajustant la force, les paramètres de zone et en appliquant des masques optionnels ou des plages d'étapes temporelles. Il vous permet de contrôler comment le conditionnement influence le processus de génération en définissant des paramètres spécifiques qui affectent l'application des données de conditionnement pendant la génération d'image.
 

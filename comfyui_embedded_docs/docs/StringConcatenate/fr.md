@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringConcatenate/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringConcatenate/fr.md)
 
 Le nœud StringConcatenate combine deux chaînes de texte en une seule en les joignant avec un délimiteur spécifié. Il prend deux chaînes en entrée ainsi qu'un caractère ou une chaîne délimitrice, puis produit une seule chaîne où les deux entrées sont connectées avec le délimiteur placé entre elles.
 

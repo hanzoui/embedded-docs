@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerEulerAncestral/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerEulerAncestral/fr.md)
 
 Le nœud SamplerEulerAncestral crée un échantillonneur Euler Ancestral pour générer des images. Cet échantillonneur utilise une approche mathématique spécifique qui combine l'intégration d'Euler avec des techniques d'échantillonnage ancestral pour produire des variations d'images. Le nœud vous permet de configurer le comportement de l'échantillonnage en ajustant les paramètres qui contrôlent l'aléatoire et la taille des pas pendant le processus de génération.
 

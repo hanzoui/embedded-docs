@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookKeyframesInterpolated/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookKeyframesInterpolated/pt-BR.md)
 
 Cria uma sequência de quadros-chave de gancho com valores de força interpolados entre um ponto inicial e final. O nó gera múltiplos quadros-chave que fazem uma transição suave do parâmetro de força através de uma faixa de porcentagem especificada do processo de geração, usando vários métodos de interpolação para controlar a curva de transição.
 

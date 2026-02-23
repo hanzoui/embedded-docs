@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVAddGuide/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVAddGuide/en.md)
 
 The LTXVAddGuide node adds video conditioning guidance to latent sequences by encoding input images or videos and incorporating them as keyframes into the conditioning data. It processes the input through a VAE encoder and strategically places the resulting latents at specified frame positions while updating both positive and negative conditioning with keyframe information. The node handles frame alignment constraints and allows control over the strength of the conditioning influence.
 

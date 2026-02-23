@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ManualSigmas/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ManualSigmas/tr.md)
 
 ManualSigmas düğümü, örnekleme süreci için özel bir gürültü seviyeleri (sigmalar) dizisini manuel olarak tanımlamanıza olanak tanır. Bir dize olarak bir sayı listesi girersiniz ve düğüm bunları diğer örnekleme düğümleri tarafından kullanılabilecek bir tensöre dönüştürür. Bu, test etmek veya belirli gürültü programları oluşturmak için kullanışlıdır.
 

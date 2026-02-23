@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeAuraflow/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeAuraflow/ko.md)
 
 ModelMergeAuraflow 노드는 두 개의 서로 다른 모델을 다양한 모델 구성 요소별로 특정 혼합 가중치를 조정하여 결합할 수 있게 해줍니다. 이 노드는 초기 레이어부터 최종 출력까지 모델의 다양한 부분이 어떻게 병합되는지에 대한 세밀한 제어를 제공합니다. 이 노드는 병합 과정을 정밀하게 제어하여 사용자 정의 모델 조합을 생성하는 데 특히 유용합니다.
 

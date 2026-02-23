@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEEncodeTiled/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEEncodeTiled/zh.md)
 
 VAEEncodeTiled 节点通过将图像分割成较小的图块并使用变分自编码器进行编码来处理图像。这种分块方法可以处理可能超出内存限制的大图像。该节点支持图像和视频 VAE，并具有针对空间和时间维度的独立分块控制。
 

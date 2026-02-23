@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResizeImagesByLongerEdge/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResizeImagesByLongerEdge/tr.md)
 
 Resize Images by Longer Edge düğümü, bir veya daha fazla görüntüyü, en uzun kenarları belirtilen bir hedef uzunluğa denk gelecek şekilde yeniden boyutlandırır. Genişlik veya yüksekliğin hangisinin daha uzun olduğunu otomatik olarak belirler ve orijinal en-boy oranını korumak için diğer boyutu orantılı olarak ölçeklendirir. Bu, görüntü boyutlarını en büyük boyutlarına göre standartlaştırmak için kullanışlıdır.
 

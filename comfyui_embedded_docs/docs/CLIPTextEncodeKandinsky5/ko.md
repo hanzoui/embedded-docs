@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeKandinsky5/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeKandinsky5/ko.md)
 
 CLIPTextEncodeKandinsky5 노드는 Kandinsky 5 모델에서 사용할 수 있도록 텍스트 프롬프트를 준비합니다. 두 개의 별도 텍스트 입력을 받아 제공된 CLIP 모델을 사용하여 토큰화하고, 이를 단일 조건화(CONDITIONING) 출력으로 결합합니다. 이 출력은 이미지 생성 과정을 안내하는 데 사용됩니다.
 

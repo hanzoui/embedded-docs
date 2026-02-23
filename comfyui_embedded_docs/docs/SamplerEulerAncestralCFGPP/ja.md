@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerEulerAncestralCFGPP/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerEulerAncestralCFGPP/ja.md)
 
 SamplerEulerAncestralCFGPPノードは、分類器不要ガイダンスを用いたEuler Ancestral法で画像を生成するための特殊なサンプラーを作成します。このサンプラーは、祖先サンプリング技術とガイダンス条件付けを組み合わせることで、一貫性を保ちながら多様な画像バリエーションを生成します。ノイズとステップサイズの調整を制御するパラメータを通じて、サンプリングプロセスの微調整が可能です。
 

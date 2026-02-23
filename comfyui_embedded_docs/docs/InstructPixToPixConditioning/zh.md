@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/InstructPixToPixConditioning/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/InstructPixToPixConditioning/zh.md)
 
 InstructPixToPixConditioning 节点通过将正向和负向文本提示与图像数据相结合，为 InstructPix2Pix 图像编辑准备条件数据。该节点通过 VAE 编码器处理输入图像以创建潜在表示，并将这些潜在表示附加到正向和负向条件数据中。该节点通过将图像裁剪为 8 像素的倍数来自动处理图像尺寸，以确保与 VAE 编码过程的兼容性。
 

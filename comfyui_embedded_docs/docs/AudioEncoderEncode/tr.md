@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioEncoderEncode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioEncoderEncode/tr.md)
 
 AudioEncoderEncode düğümü, ses verilerini bir ses kodlayıcı modeli kullanarak kodlayarak işler. Ses girişini alır ve koşullandırma işlem hattında ileri işlemler için kullanılabilecek kodlanmış bir temsile dönüştürür. Bu düğüm, ham ses dalga formlarını ses tabanlı makine öğrenimi uygulamaları için uygun bir formata dönüştürür.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyHunyuanVideo15Latent/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyHunyuanVideo15Latent/tr.md)
 
 Bu düğüm, HunyuanVideo 1.5 modeli ile kullanım için özel olarak biçimlendirilmiş boş bir gizli tensör oluşturur. Modelin gizli uzayı için doğru kanal sayısı ve uzamsal boyutlara sahip bir sıfırlar tensörü tahsis ederek video oluşturma için boş bir başlangıç noktası üretir.
 

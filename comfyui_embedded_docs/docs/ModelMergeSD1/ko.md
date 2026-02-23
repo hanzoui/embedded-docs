@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSD1/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSD1/ko.md)
 
 ModelMergeSD1 노드는 두 개의 Stable Diffusion 1.x 모델을 다양한 모델 구성 요소들의 영향을 조정하여 혼합할 수 있게 해줍니다. 시간 임베딩, 레이블 임베딩 및 모든 입력, 중간, 출력 블록에 대한 개별적인 제어를 제공하여 특정 사용 사례에 맞춰 미세 조정된 모델 병합을 가능하게 합니다.
 

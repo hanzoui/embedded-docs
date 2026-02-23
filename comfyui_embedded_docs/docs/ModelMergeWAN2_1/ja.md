@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeWAN2_1/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeWAN2_1/ja.md)
 
 ModelMergeWAN2_1ノードは、2つのモデルのコンポーネントを加重平均を使用してブレンドすることで統合します。30ブロックの1.3Bモデルや40ブロックの14Bモデルなど、さまざまなモデルサイズをサポートしており、画像埋め込みコンポーネントが追加された画像から動画へのモデルには特別な処理を行います。各モデルコンポーネントには個別に重みを設定でき、2つの入力モデル間のブレンド比率を制御できます。
 

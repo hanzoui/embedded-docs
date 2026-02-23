@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PhotoMakerEncode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PhotoMakerEncode/zh-TW.md)
 
 PhotoMakerEncode 節點處理影像和文字，為 AI 影像生成生成條件化資料。它接收參考影像和文字提示，然後創建可用於根據參考影像的視覺特徵來引導影像生成的嵌入向量。該節點會特別在文字中尋找 "photomaker" 標記，以決定在何處應用基於影像的條件化。
 

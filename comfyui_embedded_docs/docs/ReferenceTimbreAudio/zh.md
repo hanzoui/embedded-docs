@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ReferenceTimbreAudio/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ReferenceTimbreAudio/zh.md)
 
 此节点为“ace step 1.5”流程设置参考音频音色。其工作原理是接收一个条件输入，并可选择性地接收一个音频的潜在表示，然后将该潜在数据附加到条件数据上，以供工作流中的后续节点使用。
 

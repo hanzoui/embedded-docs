@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceSD3/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceSD3/zh-TW.md)
 
 SkipLayerGuidanceSD3 節點透過在跳過層的情況下應用額外的無分類器引導，來增強對細節結構的引導效果。此實驗性實現受到擾動注意力引導的啟發，其運作方式是在負向條件處理過程中選擇性地繞過特定層，以改善生成輸出中的結構細節。
 

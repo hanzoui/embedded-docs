@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraModelLoader/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraModelLoader/ja.md)
 
 LoraModelLoaderノードは、学習済みのLoRA（Low-Rank Adaptation）の重みを拡散モデルに適用します。学習済みのLoRAモデルからLoRAの重みを読み込み、その影響力の強度を調整することで、ベースモデルを修正します。これにより、拡散モデルを最初から再学習させることなく、その動作をカスタマイズすることができます。
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftStyleV3LogoRaster/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftStyleV3LogoRaster/ar.md)
 
 يتيح لك هذه العقدة اختيار نمط الصورة النقطية للشعار والاختيار من بين الأنماط الفرعية المتاحة. وهي متخصصة في إنشاء تصاميم الشعارات بخيارات أنماط قائمة على الصور النقطية، مما يوفر معالجات بصرية متنوعة لإنشاء الشعارات.
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/NormalizeVideoLatentStart/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/NormalizeVideoLatentStart/zh.md)
 
 此节点通过调整视频潜变量的前几帧，使其看起来更像后续帧。它从视频后面的一组参考帧中计算平均值和变化量，并将这些相同的特征应用到起始帧。这有助于在视频开头创建更平滑、更一致的视觉过渡。
 

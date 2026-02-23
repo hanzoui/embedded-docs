@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ReplaceVideoLatentFrames/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ReplaceVideoLatentFrames/ja.md)
 
 ReplaceVideoLatentFramesノードは、指定されたフレームインデックスから始めて、ソース潜在動画のフレームを宛先潜在動画に挿入します。ソース潜在動画が提供されない場合、宛先潜在動画は変更されずに返されます。このノードは負のインデックスを処理し、ソースフレームが宛先に収まらない場合は警告を発行します。
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MinimaxHailuoVideoNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MinimaxHailuoVideoNode/ko.md)
 
 MiniMax Hailuo-02 모델을 사용하여 텍스트 프롬프트에서 비디오를 생성합니다. 선택적으로 시작 이미지를 첫 번째 프레임으로 제공하여 해당 이미지에서 이어지는 비디오를 생성할 수 있습니다.
 

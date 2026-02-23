@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SelfAttentionGuidance/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SelfAttentionGuidance/en.md)
 
 The Self-Attention Guidance node applies guidance to diffusion models by modifying the attention mechanism during the sampling process. It captures attention scores from unconditional denoising steps and uses them to create blurred guidance maps that influence the final output. This technique helps guide the generation process by leveraging the model's own attention patterns.
 

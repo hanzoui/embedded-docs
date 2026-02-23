@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageNode/tr.md)
 
 ByteDance Image düğümü, metin istemlerine dayalı olarak bir API aracılığıyla ByteDance modellerini kullanarak görüntüler oluşturur. Farklı modeller seçmenize, görüntü boyutlarını belirtmenize ve seed veya guidance scale gibi çeşitli üretim parametrelerini kontrol etmenize olanak tanır. Düğüm, ByteDance'ın görüntü oluşturma hizmetine bağlanır ve oluşturulan görüntüyü döndürür.
 

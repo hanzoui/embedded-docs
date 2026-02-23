@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageDeduplication/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageDeduplication/zh.md)
 
 此节点从一批图像中移除重复或高度相似的图像。其工作原理是为每张图像创建感知哈希——一种基于视觉内容的简单数字指纹——然后进行比较。哈希相似度超过设定阈值的图像将被视为重复项并被过滤掉。
 

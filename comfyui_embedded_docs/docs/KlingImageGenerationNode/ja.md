@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingImageGenerationNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingImageGenerationNode/ja.md)
 
 Kling Image Generation Nodeは、テキストプロンプトから画像を生成するノードで、ガイダンス用の参照画像を使用するオプションがあります。テキストの説明と参照設定に基づいて1つ以上の画像を作成し、生成された画像を出力として返します。
 

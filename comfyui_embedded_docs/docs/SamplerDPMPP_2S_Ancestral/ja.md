@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMPP_2S_Ancestral/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMPP_2S_Ancestral/ja.md)
 
 SamplerDPMPP_2S_Ancestral ノードは、画像生成のために DPM++ 2S Ancestral サンプリング手法を使用するサンプラーを作成します。このサンプラーは決定論的要素と確率的要素を組み合わせて、ある程度の一貫性を保ちながら多様な結果を生成します。サンプリングプロセス中のランダム性とノイズレベルを制御することができます。
 

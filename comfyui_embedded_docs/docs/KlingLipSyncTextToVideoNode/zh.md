@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingLipSyncTextToVideoNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingLipSyncTextToVideoNode/zh.md)
 
 Kling 唇形同步文本转视频节点可将视频文件中的嘴部运动与文本提示进行同步。该节点接收输入视频并生成一个新视频，其中角色的唇部运动与提供的文本内容保持一致。该节点利用语音合成技术创建自然逼真的语音同步效果。
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LumaReferenceNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LumaReferenceNode/pt-BR.md)
 
 Este nó mantém uma imagem e um valor de peso para uso com o nó Luma Generate Image. Ele cria uma cadeia de referência que pode ser passada para outros nós Luma para influenciar a geração de imagens. O nó pode iniciar uma nova cadeia de referência ou adicionar a uma existente.
 

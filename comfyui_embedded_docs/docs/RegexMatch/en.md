@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RegexMatch/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RegexMatch/en.md)
 
 The RegexMatch node checks if a text string matches a specified regular expression pattern. It searches the input string for any occurrence of the regex pattern and returns whether a match was found. You can configure various regex flags like case sensitivity, multiline mode, and dotall mode to control how the pattern matching behaves.
 

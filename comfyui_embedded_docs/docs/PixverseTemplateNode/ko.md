@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PixverseTemplateNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PixverseTemplateNode/ko.md)
 
 PixVerse Template 노드를 사용하면 PixVerse 비디오 생성을 위해 사용 가능한 템플릿 중에서 선택할 수 있습니다. 이 노드는 선택한 템플릿 이름을 PixVerse API에서 비디오 생성에 필요한 해당 템플릿 ID로 변환합니다.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetPropertiesAndCombine/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetPropertiesAndCombine/ar.md)
 
 يقوم عُقدة ConditioningSetPropertiesAndCombine بتعديل بيانات التكييف من خلال تطبيق خصائص من إدخال تكييف جديد على إدخال تكييف موجود. تجمع العُقدة بين مجموعتي التكييف مع التحكم في قوة التكييف الجديد وتحديد كيفية تطبيق منطقة التكييف.
 

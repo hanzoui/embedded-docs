@@ -1,12 +1,12 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageDataSetFromFolder/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageDataSetFromFolder/en.md)
 
-This node loads multiple images from a specified subfolder within ComfyUI's input directory. It scans the chosen folder for common image file types and returns them as a list, making it useful for batch processing or dataset preparation.
+This node loads multiple images from a specified subfolder within Hanzo Studio's input directory. It scans the chosen folder for common image file types and returns them as a list, making it useful for batch processing or dataset preparation.
 
 ## Inputs
 
 | Parameter | Data Type | Required | Range | Description |
 |-----------|-----------|----------|-------|-------------|
-| `folder` | STRING | Yes | *Multiple options available* | The folder to load images from. The options are the subfolders present in ComfyUI's main input directory. |
+| `folder` | STRING | Yes | *Multiple options available* | The folder to load images from. The options are the subfolders present in Hanzo Studio's main input directory. |
 
 ## Outputs
 

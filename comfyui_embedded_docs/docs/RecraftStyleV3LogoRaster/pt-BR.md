@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftStyleV3LogoRaster/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftStyleV3LogoRaster/pt-BR.md)
 
 Este nó permite que você selecione o estilo de rasterização do logotipo e escolha entre as subestilos disponíveis. Ele é especializado na geração de designs de logotipos com opções de estilização baseadas em raster, fornecendo diversos tratamentos visuais para a criação de logotipos.
 

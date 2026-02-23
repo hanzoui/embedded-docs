@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FlipSigmas/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FlipSigmas/zh-TW.md)
 
 `FlipSigmas` 節點旨在透過反轉 sigma 值的順序並確保首個值在原本為零時調整為非零，來操作擴散模型中使用的 sigma 值序列。此操作對於以反向順序調整噪聲水平至關重要，有助於在透過逐步減少數據噪聲來運作的模型中進行生成過程。
 

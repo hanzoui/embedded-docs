@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeAdd/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeAdd/ar.md)
 
 تم تصميم عقدة ModelMergeAdd لدمج نموذجين عن طريق إضافة رقع رئيسية من نموذج إلى آخر. تتضمن هذه العملية استنساخ النموذج الأول ثم تطبيق رقع من النموذج الثاني، مما يسمح بدمج الميزات أو السلوكيات من كلا النموذجين.
 

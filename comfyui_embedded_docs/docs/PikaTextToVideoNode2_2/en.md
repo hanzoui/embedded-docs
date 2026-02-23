@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaTextToVideoNode2_2/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaTextToVideoNode2_2/en.md)
 
 The Pika Text2Video v2.2 Node sends a text prompt to the Pika API version 2.2 to generate a video. It converts your text description into a video using Pika's AI video generation service. The node allows you to customize various aspects of the video generation process including aspect ratio, duration, and resolution.
 

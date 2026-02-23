@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Hunyuan3Dv2Conditioning/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Hunyuan3Dv2Conditioning/pt-BR.md)
 
 O nó Hunyuan3Dv2Conditioning processa a saída de visão do CLIP para gerar dados de condicionamento para modelos de vídeo. Ele extrai os embeddings do último estado oculto da saída de visão e cria pares de condicionamento tanto positivo quanto negativo. O condicionamento positivo utiliza os embeddings reais, enquanto o condicionamento negativo utiliza embeddings de valor zero com a mesma forma.
 

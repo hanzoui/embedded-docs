@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanImageToVideo/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanImageToVideo/zh.md)
 
 WanImageToVideo 节点为视频生成任务准备条件约束和潜在表示。它创建一个用于视频生成的空潜在空间，并可以选择性地结合起始图像和 CLIP 视觉输出来指导视频生成过程。该节点会根据提供的图像和视觉数据修改正向和负向条件约束输入。
 

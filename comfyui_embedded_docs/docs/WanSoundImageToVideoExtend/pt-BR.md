@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanSoundImageToVideoExtend/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanSoundImageToVideoExtend/pt-BR.md)
 
 O nó WanSoundImageToVideoExtend estende a geração de imagem para vídeo incorporando condicionamento de áudio e imagens de referência. Ele recebe condicionamentos positivo e negativo juntamente com dados latentes de vídeo e incorporações de áudio opcionais para gerar sequências de vídeo estendidas. O nó processa essas entradas para criar saídas de vídeo coerentes que podem ser sincronizadas com pistas de áudio.
 

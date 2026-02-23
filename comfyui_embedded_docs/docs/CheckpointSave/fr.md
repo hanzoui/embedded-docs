@@ -22,9 +22,9 @@ Ce nœud produira un fichier de point de contrôle, et le chemin de sortie corre
 
 ## Compatibilité des Architectures
 
-- Actuellement entièrement supportées : SDXL, SD3, SVD et autres architectures principales, voir le [code source](https://github.com/comfyanonymous/ComfyUI/blob/master/comfy_extras/nodes_model_merging.py#L176-L189)
+- Actuellement entièrement supportées : SDXL, SD3, SVD et autres architectures principales, voir le [code source](https://github.com/hanzoai/studio/blob/master/comfy_extras/nodes_model_merging.py#L176-L189)
 - Support basique : Les autres architectures peuvent être sauvegardées mais sans informations de métadonnées standardisées
 
 ## Liens Connexes
 
-Code source associé : [nodes_model_merging.py#L227](https://github.com/comfyanonymous/ComfyUI/blob/master/comfy_extras/nodes_model_merging.py#L227)
+Code source associé : [nodes_model_merging.py#L227](https://github.com/hanzoai/studio/blob/master/comfy_extras/nodes_model_merging.py#L227)

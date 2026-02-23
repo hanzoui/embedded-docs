@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeMochiPreview/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeMochiPreview/zh.md)
 
 此节点采用基于块的方法合并两个AI模型，能够对不同模型组件进行细粒度控制。它允许您通过调整特定部分的插值权重来混合模型，包括位置频率、嵌入层和各个Transformer块。合并过程根据指定的权重值，将两个输入模型的架构和参数进行组合。
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceSD3/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceSD3/pt-BR.md)
 
 O nó SkipLayerGuidanceSD3 aprimora a orientação para uma estrutura detalhada aplicando um conjunto adicional de orientação livre de classificador com camadas ignoradas. Esta implementação experimental é inspirada na Perturbed Attention Guidance e funciona ao contornar seletivamente certas camadas durante o processo de condicionamento negativo para melhorar os detalhes estruturais na saída gerada.
 

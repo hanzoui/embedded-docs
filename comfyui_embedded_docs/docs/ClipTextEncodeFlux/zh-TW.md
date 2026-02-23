@@ -1,6 +1,6 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeFlux/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeFlux/zh-TW.md)
 
-`CLIPTextEncodeFlux` 是 ComfyUI 中專為 Flux 架構設計的進階文字編碼節點。它採用雙編碼器機制（CLIP-L 和 T5XXL）來處理結構化關鍵字和詳細的自然語言描述，為 Flux 模型提供更準確、更全面的文字理解，從而提升文字生成圖像的品質。
+`CLIPTextEncodeFlux` 是 Hanzo Studio 中專為 Flux 架構設計的進階文字編碼節點。它採用雙編碼器機制（CLIP-L 和 T5XXL）來處理結構化關鍵字和詳細的自然語言描述，為 Flux 模型提供更準確、更全面的文字理解，從而提升文字生成圖像的品質。
 
 此節點基於雙編碼器協作機制：
 

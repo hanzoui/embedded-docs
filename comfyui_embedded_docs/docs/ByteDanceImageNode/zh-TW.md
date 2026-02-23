@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageNode/zh-TW.md)
 
 ByteDance Image 節點透過基於文字提示的 API，使用 ByteDance 模型來生成圖像。它允許您選擇不同的模型、指定圖像尺寸，並控制各種生成參數，如種子值和引導尺度。該節點會連接到 ByteDance 的圖像生成服務並返回創建的圖像。
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WavespeedFlashVSRNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WavespeedFlashVSRNode/zh.md)
 
 WavespeedFlashVSRNode 是一个快速、高质量的视频超分辨率节点，能够提升低分辨率或模糊素材的分辨率并恢复其清晰度。它处理输入视频，并输出用户所选更高分辨率的新视频。
 

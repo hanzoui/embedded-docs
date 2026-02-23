@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIChatConfig/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIChatConfig/fr.md)
 
 Le nœud OpenAIChatConfig permet de définir des options de configuration supplémentaires pour le nœud OpenAI Chat. Il fournit des paramètres avancés qui contrôlent la manière dont le modèle génère les réponses, y compris le comportement de troncation, les limites de longueur de sortie et les instructions personnalisées.
 

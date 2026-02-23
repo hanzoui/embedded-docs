@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingStartEndFrameNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingStartEndFrameNode/tr.md)
 
 Kling Start-End Frame to Video düğümü, sağladığınız başlangıç ve bitiş görüntüleri arasında geçiş yapan bir video dizisi oluşturur. İlk kareden son kareye kadar düzgün bir dönüşüm üretmek için aradaki tüm kareleri oluşturur. Bu düğüm, görüntüden videoya API'sini çağırır, ancak yalnızca `image_tail` istek alanıyla çalışan giriş seçeneklerini destekler.
 

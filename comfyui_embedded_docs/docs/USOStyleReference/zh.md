@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/USOStyleReference/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/USOStyleReference/zh.md)
 
 USOStyleReference 节点使用来自 CLIP 视觉输出的编码图像特征，将风格参考补丁应用于模型。它通过从视觉输入中提取的风格信息创建输入模型的修改版本，从而实现风格迁移或基于参考的生成功能。
 

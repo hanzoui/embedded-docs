@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanVideo15SuperResolution/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanVideo15SuperResolution/en.md)
 
 The HunyuanVideo15SuperResolution node prepares conditioning data for a video super-resolution process. It takes a latent representation of a video and, optionally, a starting image, and packages them along with noise augmentation and CLIP vision data into a format that can be used by a model to generate a higher-resolution output.
 

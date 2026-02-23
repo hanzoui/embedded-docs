@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIInputFiles/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIInputFiles/ja.md)
 
 OpenAI APIの入力ファイルを読み込み、フォーマットします。このノードは、OpenAI Chatノードのコンテキスト入力として含めるためのテキストファイルとPDFファイルを準備します。ファイルは、応答を生成する際にOpenAIモデルによって読み取られます。複数の入力ファイルノードを連結することで、単一のメッセージに複数のファイルを含めることができます。
 

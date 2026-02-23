@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecordAudio/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecordAudio/en.md)
 
 The RecordAudio node loads audio files that have been recorded or selected through the audio recording interface. It processes the audio file and converts it into a waveform format that can be used by other audio processing nodes in the workflow. The node automatically detects the sample rate and prepares the audio data for further manipulation.
 

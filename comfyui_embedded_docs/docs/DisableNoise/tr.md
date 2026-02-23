@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DisableNoise/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DisableNoise/tr.md)
 
 **DisableNoise** düğümü, örnekleme işlemlerinde gürültü oluşturmayı devre dışı bırakmak için kullanılabilecek boş bir gürültü yapılandırması sağlar. İçinde hiçbir gürültü verisi bulunmayan özel bir gürültü nesnesi döndürerek, bu çıkışa bağlandığında diğer düğümlerin gürültü ile ilgili işlemleri atlamasına olanak tanır.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ColorToRGBInt/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ColorToRGBInt/ar.md)
 
 يقوم عقد ColorToRGBInt بتحويل لون محدد بتنسيق سداسي عشري إلى قيمة عددية واحدة. يأخذ سلسلة لون مثل `#FF5733` ويحسب العدد الصحيح RGB المقابل من خلال دمج مكونات الأحمر والأخضر والأزرق.
 

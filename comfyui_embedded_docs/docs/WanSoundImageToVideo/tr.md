@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanSoundImageToVideo/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanSoundImageToVideo/tr.md)
 
 WanSoundImageToVideo düğümü, görüntülerden isteğe bağlı ses koşullandırması ile video içeriği oluşturur. Video latents oluşturmak için olumlu ve olumsuz koşullandırma prompt'larını ve bir VAE modeli alır; ayrıca video oluşturma sürecine rehberlik etmek için referans görüntüleri, ses kodlaması, kontrol videoları ve hareket referanslarını dahil edebilir.
 

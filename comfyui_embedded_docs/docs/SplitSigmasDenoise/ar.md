@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SplitSigmasDenoise/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SplitSigmasDenoise/ar.md)
 
 يقوم عُقدة SplitSigmasDenoise بتقسيم تسلسل قيم سيجما إلى جزأين بناءً على معامل قوة إزالة التشويش. حيث تقوم بتقسيم قيم سيجما المدخلة إلى تسلسلي سيجما عالي ومنخفض، ويتم تحديد نقطة التقسيم عن طريق ضرب إجمالي الخطوات في معامل إزالة التشويش. وهذا يسمح بفصل جدول التشويش إلى نطاقات شدة مختلفة للمعالجة المتخصصة.
 

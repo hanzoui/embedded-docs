@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyQwenImageLayeredLatentImage/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyQwenImageLayeredLatentImage/ja.md)
 
 Empty Qwen Image Layered Latent ノードは、Qwen画像モデルで使用するための、空白の多層潜在表現を作成します。指定された層数、バッチサイズ、空間次元で構造化された、ゼロで埋められたテンソルを生成します。この空の潜在表現は、後続の画像生成や操作ワークフローの出発点として機能します。
 

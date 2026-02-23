@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingLipSyncTextToVideoNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingLipSyncTextToVideoNode/fr.md)
 
 Kling Lip Sync Text to Video Node synchronise les mouvements de bouche dans un fichier vidéo pour correspondre à un texte. Il prend une vidéo en entrée et génère une nouvelle vidéo où les mouvements labiaux du personnage sont alignés avec le texte fourni. Le nœud utilise la synthèse vocale pour créer une synchronisation de parole naturelle.
 

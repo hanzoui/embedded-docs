@@ -1,4 +1,4 @@
-Ce nœud a été renommé en Appliquer ControlNet dans la nouvelle version de ComfyUI, remplaçant l'ancienne version nommée Appliquer ControlNet (OLD). Étant donné que l'ancien Appliquer ControlNet (OLD) est actuellement quelque peu similaire à un état activé, la documentation la plus récente pour ce nœud a été déplacée vers `Appliquer ControlNet`pour clarification.
+Ce nœud a été renommé en Appliquer ControlNet dans la nouvelle version de Hanzo Studio, remplaçant l'ancienne version nommée Appliquer ControlNet (OLD). Étant donné que l'ancien Appliquer ControlNet (OLD) est actuellement quelque peu similaire à un état activé, la documentation la plus récente pour ce nœud a été déplacée vers `Appliquer ControlNet`pour clarification.
 
 Ce nœud applique des transformations avancées de réseau de contrôle aux données de conditionnement basées sur une image et un modèle de réseau de contrôle. Il permet des ajustements précis de l'influence du réseau de contrôle sur le contenu généré, permettant des modifications plus précises et variées du conditionnement.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmosPredict2_2B/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmosPredict2_2B/tr.md)
 
 ModelMergeCosmosPredict2_2B düğümü, iki difüzyon modelini, farklı model bileşenleri üzerinde ayrıntılı kontrol sağlayan blok tabanlı bir yaklaşımla birleştirir. Konum yerleştiricileri, zaman yerleştiricileri, transformatör blokları ve son katmanlar için enterpolasyon ağırlıklarını ayarlayarak iki modelin belirli bölümlerini harmanlamanıza olanak tanır. Bu, her bir modelden farklı mimari bileşenlerin nihai birleştirilmiş sonuca nasıl katkıda bulunduğu üzerinde hassas kontrol sağlar.
 

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraLoaderBypassModelOnly/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraLoaderBypassModelOnly/fr.md)
 
 Ce nœud applique une LoRA (Low-Rank Adaptation) à un modèle pour modifier son comportement, mais n'affecte que le composant modèle lui-même. Il charge un fichier LoRA spécifié et ajuste les poids du modèle selon une intensité donnée, laissant les autres composants comme l'encodeur de texte CLIP inchangés.
 

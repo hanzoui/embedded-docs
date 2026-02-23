@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VoxelToMeshBasic/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VoxelToMeshBasic/es.md)
 
 El nodo VoxelToMeshBasic convierte datos de vóxeles 3D en geometría de malla. Procesa volúmenes de vóxeles aplicando un valor de umbral para determinar qué partes del volumen se convierten en superficies sólidas en la malla resultante. El nodo genera una estructura de malla completa con vértices y caras que puede utilizarse para renderizado y modelado 3D.
 

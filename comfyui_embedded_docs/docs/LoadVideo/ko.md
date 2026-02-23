@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadVideo/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadVideo/ko.md)
 
 Load Video 노드는 입력 디렉토리에서 비디오 파일을 불러와 워크플로우에서 처리할 수 있도록 합니다. 지정된 입력 폴더에서 비디오 파일을 읽어들이고, 다른 비디오 처리 노드에 연결할 수 있는 비디오 데이터로 출력합니다.
 

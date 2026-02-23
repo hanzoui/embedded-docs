@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVAudioVAEDecode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVAudioVAEDecode/es.md)
 
 El nodo LTXV Audio VAE Decode convierte una representación latente de audio de nuevo en una forma de onda de audio. Utiliza un modelo especializado de Audio VAE para realizar este proceso de decodificación, produciendo una salida de audio con una frecuencia de muestreo específica.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanTrackToVideo/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanTrackToVideo/tr.md)
 
 WanTrackToVideo düğümü, hareket izleme verilerini video dizilerine dönüştürür. İzleme noktalarını işleyerek karşılık gelen video kareleri oluşturur. İzleme koordinatlarını girdi olarak alır ve video üretimi için kullanılabilecek video koşullandırması ve gizli temsiller üretir. Hiçbir iz sağlanmadığında, standart görüntüden videoya dönüştürmeye geri döner.
 

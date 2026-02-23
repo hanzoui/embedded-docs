@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityAudioInpaint/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityAudioInpaint/fr.md)
 
 Transforme une partie d'un échantillon audio existant en utilisant des instructions textuelles. Ce nœud vous permet de modifier des sections spécifiques de l'audio en fournissant des descriptions textuelles, effectuant un "inpainting" ou une régénération des portions sélectionnées tout en préservant le reste de l'audio.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioConcat/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioConcat/zh-TW.md)
 
 AudioConcat 節點透過拼接方式將兩個音訊輸入組合在一起。它接收兩個音訊輸入，並按照您指定的順序連接它們，可將第二個音訊置於第一個音訊之前或之後。該節點會自動處理不同的音訊格式，透過將單聲道音訊轉換為立體聲並匹配兩個輸入之間的採樣率。
 

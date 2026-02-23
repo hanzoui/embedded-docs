@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/APG/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/APG/ja.md)
 
 APG（Adaptive Projected Guidance）ノードは、拡散過程でのガイダンスの適用方法を調整することで、サンプリングプロセスを変更します。このノードは、ガイダンスベクトルを条件付き出力に対する平行成分と直交成分に分離し、より制御された画像生成を可能にします。ガイダンスのスケーリング、大きさの正規化、および拡散ステップ間のより滑らかな遷移のためのモーメンタムの適用を制御するパラメータを提供します。
 

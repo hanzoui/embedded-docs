@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringReplace/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringReplace/zh.md)
 
 StringReplace 节点对输入字符串执行文本替换操作。它会在输入文本中搜索指定的子字符串，并将所有匹配项替换为不同的子字符串。该节点返回应用了所有替换操作后的修改字符串。
 

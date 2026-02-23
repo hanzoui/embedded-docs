@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPMergeSubtract/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPMergeSubtract/ja.md)
 
 CLIPMergeSubtractノードは、あるCLIPモデルの重みを別のCLIPモデルから減算することでモデルマージングを行います。最初のモデルをクローンし、2番目のモデルからキーパッチを減算することで新しいCLIPモデルを作成し、減算の強度を調整可能な乗数で制御します。これにより、ベースモデルから特定の特性を除去することで、微調整されたモデルブレンディングが可能になります。
 

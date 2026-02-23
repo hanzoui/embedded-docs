@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ReplaceText/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ReplaceText/ja.md)
 
 Replace Textノードは、単純なテキスト置換を実行します。入力テキスト内で指定された文字列を検索し、見つかったすべての箇所を新しい文字列に置き換えます。この操作は、ノードに提供されるすべてのテキスト入力に適用されます。
 

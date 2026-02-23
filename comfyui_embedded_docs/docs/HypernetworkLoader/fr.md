@@ -1,4 +1,4 @@
-Ce nœud détecte les modèles situés dans le dossier `ComfyUI/models/hypernetworks` et lit également les modèles des chemins supplémentaires que vous avez configurés dans le fichier extra_model_paths.yaml. Parfois, vous devrez **rafraîchir l'interface ComfyUI** pour qu'elle puisse lire les fichiers de modèle dans le dossier correspondant.
+Ce nœud détecte les modèles situés dans le dossier `Hanzo Studio/models/hypernetworks` et lit également les modèles des chemins supplémentaires que vous avez configurés dans le fichier extra_model_paths.yaml. Parfois, vous devrez **rafraîchir l'interface Hanzo Studio** pour qu'elle puisse lire les fichiers de modèle dans le dossier correspondant.
 
 Le nœud HypernetworkLoader est conçu pour améliorer ou modifier les capacités d'un modèle donné en appliquant un hypernetwork. Il charge un hypernetwork spécifié et l'applique au modèle, modifiant potentiellement son comportement ou ses performances en fonction du paramètre de force. Ce processus permet des ajustements dynamiques de l'architecture ou des paramètres du modèle, rendant les systèmes d'IA plus flexibles et adaptatifs.
 

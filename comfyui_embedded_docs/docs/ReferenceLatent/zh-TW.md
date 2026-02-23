@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ReferenceLatent/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ReferenceLatent/zh-TW.md)
 
 此節點為編輯模型設定引導潛在變數。它接收條件化資料和一個可選的潛在輸入，然後修改條件化以包含參考潛在資訊。如果模型支援，您可以串聯多個 ReferenceLatent 節點來設定多個參考影像。
 

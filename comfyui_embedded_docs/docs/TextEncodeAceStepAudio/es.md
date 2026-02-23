@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeAceStepAudio/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeAceStepAudio/es.md)
 
 El nodo TextEncodeAceStepAudio procesa entradas de texto para el condicionamiento de audio combinando etiquetas y letras en tokens, luego codificándolos con una fuerza de letra ajustable. Toma un modelo CLIP junto con descripciones de texto y letras, los tokeniza juntos y genera datos de condicionamiento adecuados para tareas de generación de audio. El nodo permite ajustar finamente la influencia de las letras a través de un parámetro de fuerza que controla su impacto en la salida final.
 

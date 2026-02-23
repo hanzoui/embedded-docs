@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageGrid/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageGrid/en.md)
 
 The Image Grid node combines multiple images into a single, organized grid or collage. It takes a list of images and arranges them into a specified number of columns, resizing each image to fit a defined cell size and adding optional padding between them. The result is a single, new image containing all the input images in a grid layout.
 

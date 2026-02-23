@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageEditNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageEditNode/ar.md)
 
 يسمح لك عُقدة تحرير الصور من ByteDance بتعديل الصور باستخدام نماذج الذكاء الاصطناعي من ByteDance عبر واجهة برمجة التطبيقات (API). حيث تقدم صورة الإدخال ووصفًا نصيًا للتغييرات المطلوبة، فتقوم العُقدة بمعالجة الصورة وفقًا لتعليماتك. تتعامل العُقدة مع اتصال واجهة برمجة التطبيقات تلقائيًا وتعيد الصورة المحررة.
 

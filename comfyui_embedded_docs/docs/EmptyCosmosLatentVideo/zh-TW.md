@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyCosmosLatentVideo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyCosmosLatentVideo/zh-TW.md)
 
 EmptyCosmosLatentVideo 節點會建立一個具有指定尺寸的空潛在影片張量。它會生成一個填滿零值的潛在表示，可作為影片生成工作流程的起點，並具有可配置的寬度、高度、長度和批次大小參數。
 

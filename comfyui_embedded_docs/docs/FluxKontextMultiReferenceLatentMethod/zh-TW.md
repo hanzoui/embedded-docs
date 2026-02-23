@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxKontextMultiReferenceLatentMethod/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxKontextMultiReferenceLatentMethod/zh-TW.md)
 
 FluxKontextMultiReferenceLatentMethod 節點透過設定特定的參考潛在空間方法來修改條件化資料。它會將選定的方法附加到條件化輸入中，這會影響後續生成步驟中參考潛在空間的處理方式。此節點標記為實驗性功能，屬於 Flux 條件化系統的一部分。
 

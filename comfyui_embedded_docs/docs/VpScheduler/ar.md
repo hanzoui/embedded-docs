@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VPScheduler/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VPScheduler/ar.md)
 
 عُقدة VPScheduler مصممة لتوليد تسلسل من مستويات الضوضاء (سيغما) بناءً على طريقة الجدولة الحافظة للتباين (VP). يُعد هذا التسلسل أساسيًا لتوجيه عملية إزالة الضوضاء في نماذج الانتشار، مما يتيح التحكم في توليد الصور أو أنواع البيانات الأخرى.
 

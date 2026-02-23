@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanImageToVideo/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanImageToVideo/fr.md)
 
 Le nœud WanImageToVideo prépare les conditionnements et les représentations latentes pour les tâches de génération vidéo. Il crée un espace latent vide pour la génération vidéo et peut optionnellement incorporer des images de départ et des sorties de vision CLIP pour guider le processus de génération vidéo. Le nœud modifie à la fois les entrées de conditionnement positives et négatives en fonction des données d'image et de vision fournies.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeSD3/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeSD3/tr.md)
 
 CLIPTextEncodeSD3 düğümü, Stable Diffusion 3 modelleri için metin girişlerini işleyerek farklı CLIP modelleri kullanarak birden fazla metin istemini kodlar. Üç ayrı metin girişini (clip_g, clip_l ve t5xxl) işler ve boş metin dolgusu yönetimi için seçenekler sunar. Düğüm, farklı metin girişleri arasında uygun token hizalaması sağlar ve SD3 üretim pipeline'ları için uygun koşullandırma verilerini döndürür.
 

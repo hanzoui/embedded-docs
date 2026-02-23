@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerSEEDS2/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerSEEDS2/ko.md)
 
 이 노드는 이미지 생성을 위한 구성 가능한 샘플러를 제공합니다. SEEDS-2 알고리즘을 구현하며, 이는 확률적 미분 방정식(SDE) 솔버입니다. 매개변수를 조정하여 `seeds_2`, `exp_heun_2_x0`, `exp_heun_2_x0_sde` 등 여러 특정 샘플러처럼 동작하도록 구성할 수 있습니다.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ChromaRadianceOptions/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ChromaRadianceOptions/zh-TW.md)
 
 ChromaRadianceOptions 節點允許您配置 Chroma Radiance 模型的高級設定。它會封裝現有模型，並在去噪過程中根據 sigma 值應用特定選項，從而實現對 NeRF 切片大小和其他輻射相關參數的微調控制。
 

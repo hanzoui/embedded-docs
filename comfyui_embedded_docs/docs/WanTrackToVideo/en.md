@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanTrackToVideo/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanTrackToVideo/en.md)
 
 The WanTrackToVideo node converts motion tracking data into video sequences by processing track points and generating corresponding video frames. It takes tracking coordinates as input and produces video conditioning and latent representations that can be used for video generation. When no tracks are provided, it falls back to standard image-to-video conversion.
 

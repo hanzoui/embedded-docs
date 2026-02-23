@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanAnimateToVideo/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanAnimateToVideo/fr.md)
 
 Le nœud WanAnimateToVideo génère du contenu vidéo en combinant plusieurs entrées de conditionnement incluant des références de pose, des expressions faciales et des éléments d'arrière-plan. Il traite diverses entrées vidéo pour créer des séquences animées cohérentes tout en maintenant une consistance temporelle entre les images. Le nœud gère les opérations dans l'espace latent et peut étendre des vidéos existantes en poursuivant les motifs de mouvement.
 

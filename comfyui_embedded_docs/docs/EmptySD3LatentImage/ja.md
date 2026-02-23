@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptySD3LatentImage/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptySD3LatentImage/ja.md)
 
 EmptySD3LatentImageノードは、Stable Diffusion 3モデル用に特別にフォーマットされた空白の潜在画像テンソルを作成します。SD3パイプラインで期待される正しい次元と構造を持つ、ゼロで埋められたテンソルを生成します。これは画像生成ワークフローの開始点として一般的に使用されます。
 

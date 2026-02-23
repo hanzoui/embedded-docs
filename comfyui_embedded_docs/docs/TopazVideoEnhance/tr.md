@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TopazVideoEnhance/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TopazVideoEnhance/tr.md)
 
 Topaz Video Enhance düğümü, video kalitesini iyileştirmek için harici bir API kullanır. Video çözünürlüğünü yükseltebilir, interpolasyon yoluyla kare hızını artırabilir ve sıkıştırma uygulayabilir. Düğüm, bir giriş MP4 videosunu işler ve seçilen ayarlara dayalı olarak geliştirilmiş bir sürüm döndürür.
 

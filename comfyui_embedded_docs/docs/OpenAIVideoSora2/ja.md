@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIVideoSora2/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIVideoSora2/ja.md)
 
 OpenAIVideoSora2ノードは、OpenAIのSoraモデルを使用して動画を生成します。テキストプロンプトとオプションの入力画像に基づいて動画コンテンツを作成し、生成された動画出力を返します。このノードは、選択されたモデルに応じて異なる動画の長さと解像度をサポートしています。
 

@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerER_SDE/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerER_SDE/es.md)
 
 El nodo SamplerER_SDE proporciona métodos de muestreo especializados para modelos de difusión, ofreciendo diferentes tipos de solucionadores que incluyen enfoques ER-SDE, SDE de tiempo inverso y ODE. Permite controlar el comportamiento estocástico y las etapas computacionales del proceso de muestreo. El nodo ajusta automáticamente los parámetros según el tipo de solucionador seleccionado para garantizar un funcionamiento adecuado.
 

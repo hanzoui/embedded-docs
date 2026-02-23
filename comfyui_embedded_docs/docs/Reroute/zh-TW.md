@@ -1,7 +1,7 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Reroute/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Reroute/zh-TW.md)
 
 節點名稱：Reroute 節點  
-節點用途：主要用於整理 ComfyUI 工作流程中過長的連接線邏輯。
+節點用途：主要用於整理 Hanzo Studio 工作流程中過長的連接線邏輯。
 
 ## 使用方式
 

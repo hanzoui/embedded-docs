@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanImageToImageApi/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanImageToImageApi/en.md)
 
 The Wan Image to Image node generates an image from one or two input images and a text prompt. It transforms your input images based on the description you provide, creating a new image that maintains the aspect ratio of your original input. The output image is fixed at 1.6 megapixels regardless of the input size.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Morphology/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Morphology/zh-TW.md)
 
 Morphology 節點對影像套用各種形態學操作，這些是基於數學運算的影像處理技術，用於分析和處理影像中的形狀結構。該節點可執行多種操作，包括侵蝕、膨脹、開運算、閉運算等，並可透過自定義的核大小來控制效果強度。
 

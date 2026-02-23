@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveAudioMP3/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveAudioMP3/zh-TW.md)
 
 {heading_overview}
 
@@ -9,7 +9,7 @@ SaveAudioMP3 節點將音訊資料儲存為 MP3 檔案。它接收音訊輸入�
 | 參數名稱 | 資料類型 | 必填 | 數值範圍 | 描述 |
 |-----------|-----------|----------|-------|-------------|
 | `audio` | AUDIO | 是 | - | 要儲存為 MP3 檔案的音訊資料 |
-| `filename_prefix` | STRING | 否 | - | 輸出檔名的前綴（預設值："audio/ComfyUI"） |
+| `filename_prefix` | STRING | 否 | - | 輸出檔名的前綴（預設值："audio/Hanzo Studio"） |
 | `quality` | STRING | 否 | "V0"<br>"128k"<br>"320k" | MP3 檔案的音訊品質設定（預設值："V0"） |
 | `prompt` | PROMPT | 否 | - | 內部提示資料（由系統自動提供） |
 | `extra_pnginfo` | EXTRA_PNGINFO | 否 | - | 額外的 PNG 資訊（由系統自動提供） |

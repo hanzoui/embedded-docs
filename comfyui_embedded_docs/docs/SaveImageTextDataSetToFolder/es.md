@@ -1,6 +1,6 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveImageTextDataSetToFolder/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImageTextDataSetToFolder/es.md)
 
-El nodo Guardar Conjunto de Datos de Imagen y Texto en Carpeta guarda una lista de imágenes y sus textos descriptivos correspondientes en una carpeta específica dentro del directorio de salida de ComfyUI. Por cada imagen guardada como archivo PNG, se crea un archivo de texto con el mismo nombre base para almacenar su descripción. Esto es útil para crear conjuntos de datos organizados de imágenes generadas y sus descripciones.
+El nodo Guardar Conjunto de Datos de Imagen y Texto en Carpeta guarda una lista de imágenes y sus textos descriptivos correspondientes en una carpeta específica dentro del directorio de salida de Hanzo Studio. Por cada imagen guardada como archivo PNG, se crea un archivo de texto con el mismo nombre base para almacenar su descripción. Esto es útil para crear conjuntos de datos organizados de imágenes generadas y sus descripciones.
 
 ## Entradas
 

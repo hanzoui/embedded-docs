@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageUpscalerPreciseV2Node/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageUpscalerPreciseV2Node/zh-TW.md)
 
 Magnific Image Upscale (Precise V2) 節點執行高保真度的影像放大，並能精確控制銳利度、顆粒感和細節增強。它透過外部 API 處理影像，支援最高 10060×10060 像素的輸出解析度。此節點提供不同的處理風格，並且在要求的輸出尺寸超過允許的最大值時，可以自動縮小輸入影像。
 

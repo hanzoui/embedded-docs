@@ -1,6 +1,6 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/UpscaleModelLoader/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UpscaleModelLoader/tr.md)
 
-Bu düğüm, `ComfyUI/models/upscale_models` klasöründe bulunan modelleri algılayacak ve ayrıca extra_model_paths.yaml dosyasında yapılandırılan ek yollardan modelleri okuyacaktır. Bazen, ComfyUI arayüzünün ilgili klasörden model dosyalarını okuyabilmesi için **ComfyUI arayüzünü yenilemeniz** gerekebilir.
+Bu düğüm, `Hanzo Studio/models/upscale_models` klasöründe bulunan modelleri algılayacak ve ayrıca extra_model_paths.yaml dosyasında yapılandırılan ek yollardan modelleri okuyacaktır. Bazen, Hanzo Studio arayüzünün ilgili klasörden model dosyalarını okuyabilmesi için **Hanzo Studio arayüzünü yenilemeniz** gerekebilir.
 
 UpscaleModelLoader düğümü, belirli bir dizinden yükseltme modellerini yüklemek için tasarlanmıştır. Görüntü yükseltme görevleri için yükseltme modellerinin alınmasını ve hazırlanmasını kolaylaştırarak modellerin değerlendirme için doğru şekilde yüklendiğinden ve yapılandırıldığından emin olur.
 

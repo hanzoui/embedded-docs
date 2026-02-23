@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Hunyuan3Dv2ConditioningMultiView/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Hunyuan3Dv2ConditioningMultiView/tr.md)
 
 Hunyuan3Dv2ConditioningMultiView düğümü, 3D video üretimi için çok görüntülü CLIP görüntü yerleştirmelerini işler. İsteğe bağlı ön, sol, arka ve sağ görüntü yerleştirmelerini alır ve bunları video modelleri için koşullandırma verisi oluşturmak üzere konumsal kodlama ile birleştirir. Düğüm, birleştirilmiş yerleştirmelerden elde edilen pozitif koşullandırma ve sıfır değerlerle negatif koşullandırma olmak üzere her ikisini de çıktı olarak verir.
 

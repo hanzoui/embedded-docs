@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeQwenImageEditPlus/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeQwenImageEditPlus/ar.md)
 
 يعالج العقدة TextEncodeQwenImageEditPlus نصوص الإرشاد والصور الاختيارية لتوليد بيانات توجيهية لمهام توليد الصور أو تحريرها. تستخدم قالبًا متخصصًا لتحليل الصور المدخلة وفهم كيفية تطبيق تعليمات النص لتعديلها، ثم ترميز هذه المعلومات لاستخدامها في خطوات التوليد اللاحقة. يمكن للعقدة معالجة ما يصل إلى ثلاث صور مدخلة وتوليد متجهات مرجعية اختيارية عند توفير نموذج VAE.
 

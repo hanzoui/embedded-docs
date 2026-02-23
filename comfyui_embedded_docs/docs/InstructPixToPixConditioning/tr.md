@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/InstructPixToPixConditioning/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/InstructPixToPixConditioning/tr.md)
 
 InstructPixToPixConditioning düğümü, pozitif ve negatif metin prompt'larını görüntü verileriyle birleştirerek InstructPix2Pix görüntü düzenleme için conditioning verilerini hazırlar. Girdi görüntülerini bir VAE kodlayıcı üzerinden işleyerek latent temsiller oluşturur ve bu latent'leri hem pozitif hem de negatif conditioning verilerine ekler. Düğüm, VAE kodlama işlemiyle uyumluluk sağlamak için görüntü boyutlarını otomatik olarak 8 pikselin katlarına kırparak işler.
 

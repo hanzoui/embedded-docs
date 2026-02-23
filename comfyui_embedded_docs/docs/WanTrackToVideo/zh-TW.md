@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanTrackToVideo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanTrackToVideo/zh-TW.md)
 
 WanTrackToVideo 節點透過處理追蹤點並生成對應的影片影格，將運動追蹤資料轉換為影片序列。它接收追蹤座標作為輸入，並產生可用於影片生成的影片調節條件和潛在表示。當未提供追蹤資料時，它會回退到標準的圖像轉影片轉換。
 

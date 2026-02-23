@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftRemoveBackgroundNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftRemoveBackgroundNode/ar.md)
 
 يعمل هذا العقد على إزالة الخلفية من الصور باستخدام خدمة Recraft API. حيث يقوم بمعالجة كل صورة في مجموعة الإدخال وإرجاع الصور المعالجة بخلفيات شفافة بالإضافة إلى أقنعة قناة ألفا المقابلة التي تشير إلى مناطق الخلفية المُزالَة.
 

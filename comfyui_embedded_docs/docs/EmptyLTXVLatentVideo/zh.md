@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyLTXVLatentVideo/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyLTXVLatentVideo/zh.md)
 
 EmptyLTXVLatentVideo 节点用于创建视频处理所需的空潜在张量。它生成具有指定尺寸的空白起始点，可作为视频生成工作流程的输入。该节点会生成一个零填充的潜在表示，其宽度、高度、长度和批次大小均可配置。
 

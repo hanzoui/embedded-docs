@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentCompositeMasked/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentCompositeMasked/tr.md)
 
 LatentCompositeMasked düğümü, iki gizli temsili belirtilen koordinatlarda birleştirmek ve isteğe bağlı olarak daha kontrollü bir birleştirme için maske kullanmak üzere tasarlanmıştır. Bu düğüm, bir görüntünün parçalarını başka bir görüntünün üzerine, kaynak görüntüyü mükemmel bir uyum için yeniden boyutlandırma yeteneğiyle yerleştirerek karmaşık gizli görüntüler oluşturmayı sağlar.
 

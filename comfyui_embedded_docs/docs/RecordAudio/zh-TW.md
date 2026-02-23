@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecordAudio/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecordAudio/zh-TW.md)
 
 RecordAudio 節點載入透過音訊錄製介面錄製或選取的音訊檔案。它會處理音訊檔案並將其轉換為波形格式，供工作流程中其他音訊處理節點使用。此節點會自動偵測取樣率並準備音訊資料以供後續處理。
 

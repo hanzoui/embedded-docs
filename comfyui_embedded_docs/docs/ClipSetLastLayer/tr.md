@@ -1,6 +1,6 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPSetLastLayer/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPSetLastLayer/tr.md)
 
-`CLIP Set Last Layer`, CLIP modellerinin işleme derinliğini kontrol etmek için ComfyUI'da bulunan temel bir düğümdür. Kullanıcıların CLIP metin kodlayıcısının işlemeyi nerede durduracağını hassas bir şekilde kontrol etmesine olanak tanır, bu da hem metin anlama derinliğini hem de oluşturulan görüntülerin stilini etkiler.
+`CLIP Set Last Layer`, CLIP modellerinin işleme derinliğini kontrol etmek için Hanzo Studio'da bulunan temel bir düğümdür. Kullanıcıların CLIP metin kodlayıcısının işlemeyi nerede durduracağını hassas bir şekilde kontrol etmesine olanak tanır, bu da hem metin anlama derinliğini hem de oluşturulan görüntülerin stilini etkiler.
 
 CLIP modelini 24 katmanlı bir akıllı beyin olarak hayal edin:
 

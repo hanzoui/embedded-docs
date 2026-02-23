@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BatchLatentsNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BatchLatentsNode/ko.md)
 
 Batch Latents 노드는 여러 잠재 표현 입력을 하나의 배치로 결합합니다. 다양한 수의 잠재 샘플을 가져와 배치 차원을 따라 병합하여 후속 노드에서 함께 처리할 수 있도록 합니다. 이는 단일 작업에서 여러 이미지를 생성하거나 처리할 때 유용합니다.
 

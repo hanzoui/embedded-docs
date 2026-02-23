@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/USOStyleReference/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/USOStyleReference/ja.md)
 
 USOStyleReferenceノードは、CLIPビジョン出力からエンコードされた画像特徴を使用して、モデルにスタイル参照パッチを適用します。ビジュアル入力から抽出されたスタイル情報を組み込むことで、入力モデルの修正版を作成し、スタイル転送や参照ベースの生成機能を実現します。
 

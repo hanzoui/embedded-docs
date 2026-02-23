@@ -1,6 +1,6 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CombineHooksFour/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CombineHooksFour/tr.md)
 
-Combine Hooks [4] düğümü, en fazla dört ayrı hook grubunu tek bir birleşik hook grubunda birleştirir. Mevcut dört hook girişinin herhangi bir kombinasyonunu alır ve ComfyUI'nin hook birleştirme sistemi kullanarak bunları birleştirir. Bu, gelişmiş iş akışlarında kolaylaştırılmış işlem için birden fazla hook yapılandırmasını birleştirmenize olanak tanır.
+Combine Hooks [4] düğümü, en fazla dört ayrı hook grubunu tek bir birleşik hook grubunda birleştirir. Mevcut dört hook girişinin herhangi bir kombinasyonunu alır ve Hanzo Studio'nin hook birleştirme sistemi kullanarak bunları birleştirir. Bu, gelişmiş iş akışlarında kolaylaştırılmış işlem için birden fazla hook yapılandırmasını birleştirmenize olanak tanır.
 
 ## Girişler
 

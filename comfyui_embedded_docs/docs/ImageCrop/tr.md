@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageCrop/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageCrop/tr.md)
 
 `ImageCrop` düğümü, belirli bir x ve y koordinatından başlayarak görüntüleri belirtilen genişlik ve yüksekliğe göre kırpmak için tasarlanmıştır. Bu işlevsellik, bir görüntünün belirli bölgelerine odaklanmak veya görüntü boyutunu belirli gereksinimleri karşılayacak şekilde ayarlamak için gereklidir.
 

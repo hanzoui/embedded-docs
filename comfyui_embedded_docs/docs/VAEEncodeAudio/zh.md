@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEEncodeAudio/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEEncodeAudio/zh.md)
 
 VAEEncodeAudio 节点使用变分自编码器（VAE）将音频数据转换为潜在表示。该节点接收音频输入，并通过 VAE 进行处理，生成压缩的潜在样本，这些样本可用于进一步的音频生成或处理任务。在编码前，节点会根据需要自动将音频重新采样至 44100 Hz。
 

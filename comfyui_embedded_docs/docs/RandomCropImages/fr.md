@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RandomCropImages/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RandomCropImages/fr.md)
 
 Le nœud Random Crop Images sélectionne aléatoirement une section rectangulaire de chaque image d'entrée et la recadre à une largeur et une hauteur spécifiées. Cette opération est couramment utilisée pour l'augmentation de données afin de créer des variations d'images d'entrée pour l'entraînement. La position aléatoire du recadrage est déterminée par une valeur de `seed`, garantissant que le même recadrage puisse être reproduit.
 

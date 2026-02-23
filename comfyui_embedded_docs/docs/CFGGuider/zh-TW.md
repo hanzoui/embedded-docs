@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CFGGuider/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CFGGuider/zh-TW.md)
 
 CFGGuider 節點建立了一個用於控制圖像生成採樣過程的引導系統。它接收一個模型以及正向和反向條件輸入，然後應用無分類器引導尺度來引導生成朝向期望內容，同時避免不需要的元素。此節點輸出一個引導器物件，可供採樣節點使用以控制圖像生成方向。
 

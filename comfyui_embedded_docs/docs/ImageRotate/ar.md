@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageRotate/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageRotate/ar.md)
 
 يقوم عقد ImageRotate بتدوير الصورة المدخلة بزوايا محددة. وهو يدعم أربع خيارات للتدوير: عدم التدوير، 90 درجة في اتجاه عقارب الساعة، 180 درجة، و270 درجة في اتجاه عقارب الساعة. يتم تنفيذ عملية التدوير باستخدام عمليات Tensor فعالة تحافظ على سلامة بيانات الصورة.
 

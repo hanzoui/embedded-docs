@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FreeU_V2/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FreeU_V2/zh-TW.md)
 
 FreeU_V2 節點透過修改 U-Net 架構，對擴散模型進行基於頻率的增強。它使用可配置參數來縮放不同的特徵通道，從而無需額外訓練即可提升影像生成品質。此節點的工作原理是修補模型的輸出區塊，將縮放因子應用於特定的通道維度。
 

@@ -1,6 +1,6 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPMergeSubtract/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPMergeSubtract/zh.md)
 
-> 本文档由 AI 生成，如果您发现任何错误或有改进建议，欢迎贡献！[在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPMergeSubtract/en.md)
+> 本文档由 AI 生成，如果您发现任何错误或有改进建议，欢迎贡献！[在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPMergeSubtract/en.md)
 
 CLIPMergeSubtract 节点通过从一个 CLIP 模型中减去另一个 CLIP 模型的权重来执行模型合并。它通过克隆第一个模型，然后减去第二个模型的关键补丁（附带可调节的乘数来控制减法强度）来创建新的 CLIP 模型。这允许通过从基础模型中移除特定特征来实现精细调整的模型混合。
 

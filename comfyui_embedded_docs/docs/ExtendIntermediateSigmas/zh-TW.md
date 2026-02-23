@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ExtendIntermediateSigmas/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ExtendIntermediateSigmas/zh-TW.md)
 
 ExtendIntermediateSigmas 節點接收現有的 sigma 值序列，並在它們之間插入額外的中間 sigma 值。它允許您指定要添加多少額外步驟、用於插值的間距方法，以及可選的起始和結束 sigma 邊界，以控制擴展在 sigma 序列中的發生位置。
 

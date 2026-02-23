@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LumaReferenceNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LumaReferenceNode/fr.md)
 
 Ce nœud contient une image et une valeur de poids pour utilisation avec le nœud Luma Generate Image. Il crée une chaîne de référence qui peut être transmise à d'autres nœuds Luma pour influencer la génération d'image. Le nœud peut soit démarrer une nouvelle chaîne de référence, soit s'ajouter à une chaîne existante.
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeZImageOmni/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeZImageOmni/en.md)
 
 The TextEncodeZImageOmni node is an advanced conditioning node that encodes a text prompt along with optional reference images into a conditioning format suitable for image generation models. It can process up to three images, optionally encoding them with a vision encoder and/or a VAE to produce reference latents, and integrates these visual references with the text prompt using a specific template structure.
 

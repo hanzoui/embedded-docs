@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BatchLatentsNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BatchLatentsNode/zh.md)
 
 此节点将多个潜在表示输入合并为一个批次。它接收可变数量的潜在样本，并沿批次维度将它们合并，使它们能够在后续节点中一起处理。这对于在单次操作中生成或处理多张图像非常有用。
 

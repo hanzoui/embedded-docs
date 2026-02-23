@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanTextToVideoApi/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanTextToVideoApi/en.md)
 
 The Wan Text to Video node generates video content based on text descriptions. It uses AI models to create videos from prompts and supports various video sizes, durations, and optional audio inputs. The node can automatically generate audio when needed and provides options for prompt enhancement and watermarking.
 

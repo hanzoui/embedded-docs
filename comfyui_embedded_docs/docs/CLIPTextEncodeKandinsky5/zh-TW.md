@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeKandinsky5/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeKandinsky5/zh-TW.md)
 
 此節點為 Kandinsky 5 模型準備文字提示。它接收兩個獨立的文字輸入，使用提供的 CLIP 模型對其進行標記化，並將它們組合成單一的條件輸出。此輸出用於引導圖像生成過程。
 

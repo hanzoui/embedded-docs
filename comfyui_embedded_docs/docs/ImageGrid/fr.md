@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageGrid/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageGrid/fr.md)
 
 Le nœud Image Grid combine plusieurs images en une seule image organisée sous forme de grille ou de collage. Il prend une liste d'images et les dispose en un nombre spécifié de colonnes, redimensionnant chaque image pour qu'elle s'adapte à une taille de cellule définie et en ajoutant un espacement optionnel entre elles. Le résultat est une seule nouvelle image contenant toutes les images d'entrée dans une disposition en grille.
 

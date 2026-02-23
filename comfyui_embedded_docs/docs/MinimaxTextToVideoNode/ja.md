@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MinimaxTextToVideoNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MinimaxTextToVideoNode/ja.md)
 
 指定されたプロンプトとオプションパラメータを使用して、MiniMaxのAPIを介して動画を同期的に生成します。このノードは、MiniMaxのテキストから動画へのサービスに接続することで、テキストの説明から動画コンテンツを作成します。
 

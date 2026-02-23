@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityStableImageUltraNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityStableImageUltraNode/ar.md)
 
 يُنشئ الصور بشكل متزامن استنادًا إلى النص المطلوب والدقة. تقوم هذه العقدة بإنشاء الصور باستخدام نموذج Stable Image Ultra من Stability AI، حيث تعالج النص المطلوب الخاص بك وتُنشئ الصورة المقابلة بنسبة العرض إلى الارتفاع والنمط المحددين.
 

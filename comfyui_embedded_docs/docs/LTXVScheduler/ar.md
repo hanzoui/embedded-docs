@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVScheduler/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVScheduler/ar.md)
 
 تُستخدم عقدة LTXVScheduler لتوليد قيم سيجما لعمليات أخذ العينات المخصصة. حيث تقوم بحساب معاملات جدول الضوضاء بناءً على عدد الرموز في الكمون المُدخل وتطبيق تحويل سيجمويد لإنشاء جدول أخذ العينات. يمكن للعقدة اختياريًا تمديد قيم سيجما الناتجة لتتوافق مع قيمة نهائية محددة.
 

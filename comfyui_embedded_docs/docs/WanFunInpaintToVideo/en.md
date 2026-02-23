@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanFunInpaintToVideo/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanFunInpaintToVideo/en.md)
 
 The WanFunInpaintToVideo node creates video sequences by inpainting between start and end images. It takes positive and negative conditioning along with optional frame images to generate video latents. The node handles video generation with configurable dimensions and length parameters.
 

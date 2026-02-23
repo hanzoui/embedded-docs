@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyFlux2LatentImage/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyFlux2LatentImage/ja.md)
 
 EmptyFlux2LatentImageノードは、空白で空の潜在表現を作成します。ゼロで満たされたテンソルを生成し、これはFluxモデルのノイズ除去プロセスの開始点として機能します。潜在表現の次元は、入力された幅と高さを16で割った値によって決定されます。
 

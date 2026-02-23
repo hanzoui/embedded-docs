@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptySD3LatentImage/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptySD3LatentImage/ko.md)
 
 EmptySD3LatentImage 노드는 Stable Diffusion 3 모델에 특화된 빈 잠재 이미지 텐서를 생성합니다. 이 노드는 SD3 파이프라인에서 요구하는 올바른 차원과 구조를 가진 0으로 채워진 텐서를 생성하며, 일반적으로 이미지 생성 워크플로의 시작점으로 사용됩니다.
 

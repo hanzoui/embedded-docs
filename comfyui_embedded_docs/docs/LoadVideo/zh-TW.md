@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadVideo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadVideo/zh-TW.md)
 
 此節點從輸入目錄載入視訊檔案，並使其可在工作流程中進行處理。它從指定的輸入資料夾讀取視訊檔案，並將其輸出為可連接到其他視訊處理節點的視訊資料。
 

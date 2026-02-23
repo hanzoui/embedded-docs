@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MoonvalleyVideo2VideoNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MoonvalleyVideo2VideoNode/ar.md)
 
 عُقْدَة Moonvalley Marey للفيديو إلى فيديو تقوم بتحويل فيديو الإدخال إلى فيديو جديد استنادًا إلى وصف نصي. تستخدم واجهة برمجة تطبيقات Moonvalley لتوليد مقاطع فيديو تتطابق مع المطالبة النصية المحددة مع الحفاظ على خصائص الحركة أو الوضع من الفيديو الأصلي. يمكنك التحكم في نمط ومحتوى الفيديو الناتج من خلال المطالبات النصية ومعاملات التوليد المختلفة.
 

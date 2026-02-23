@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftStyleV3InfiniteStyleLibrary/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftStyleV3InfiniteStyleLibrary/ar.md)
 
 يتيح لك هذا العقد اختيار نمط من مكتبة الأنماط اللانهائية من Recraft باستخدام UUID مسبق الوجود. يسترجع معلومات النمط بناءً على معرّف النمط المقدم ويعيدها لاستخدامها في عقد Recraft الأخرى.
 

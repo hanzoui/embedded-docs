@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVConcatAVLatent/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVConcatAVLatent/ko.md)
 
 LTXVConcatAVLatent 노드는 비디오 잠재 표현과 오디오 잠재 표현을 단일의 연결된 잠재 출력으로 결합합니다. 두 입력의 `samples` 텐서를 병합하고, 존재하는 경우 해당 `noise_mask` 텐서도 함께 병합하여 비디오 생성 파이프라인에서의 추가 처리를 준비합니다.
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerEulerAncestralCFGPP/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerEulerAncestralCFGPP/ko.md)
 
 SamplerEulerAncestralCFGPP 노드는 분류자 없는 지도(Classifier-Free Guidance)와 Euler Ancestral 방법을 사용하여 이미지를 생성하기 위한 특수 샘플러를 생성합니다. 이 샘플러는 선조 샘플링(Ancestral Sampling) 기법과 지도 조건화를 결합하여 일관성을 유지하면서 다양한 이미지 변형을 생성합니다. 노이즈 및 스텝 크기 조정을 제어하는 매개변수를 통해 샘플링 과정을 미세 조정할 수 있습니다.
 

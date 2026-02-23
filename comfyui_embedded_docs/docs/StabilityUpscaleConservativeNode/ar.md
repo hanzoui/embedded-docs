@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityUpscaleConservativeNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityUpscaleConservativeNode/ar.md)
 
 رفع دقة الصورة مع إجراء تعديلات طفيفة إلى دقة 4K. يستخدم هذه العقدة خاصية رفع الدقة المحافظة من Stability AI لزيادة دقة الصورة مع الحفاظ على المحتوى الأصلي وإجراء تغييرات طفيفة فقط.
 

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Morphology/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Morphology/fr.md)
 
 Le nœud Morphologie applique diverses opérations morphologiques aux images, qui sont des opérations mathématiques utilisées pour traiter et analyser les formes dans les images. Il peut effectuer des opérations comme l'érosion, la dilatation, l'ouverture, la fermeture, et plus encore en utilisant une taille de noyau personnalisable pour contrôler l'intensité de l'effet.
 

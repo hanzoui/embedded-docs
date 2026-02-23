@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingTextToVideoWithAudio/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingTextToVideoWithAudio/zh-TW.md)
 
 此節點根據文字描述生成帶有音訊的短片。它會向 Kling AI 服務發送請求，該服務處理提示詞並回傳一個視訊檔案。此節點還可以根據文字為視訊生成伴隨音訊。
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RepeatImageBatch/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RepeatImageBatch/pt-BR.md)
 
 O nó RepeatImageBatch foi projetado para replicar uma determinada imagem um número especificado de vezes, criando um lote de imagens idênticas. Essa funcionalidade é útil para operações que exigem múltiplas instâncias da mesma imagem, como processamento em lote ou aumento de dados.
 

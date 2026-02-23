@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GeminiNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GeminiNode/en.md)
 
 This node allows users to interact with Google's Gemini AI models to generate text responses. You can provide multiple types of inputs including text, images, audio, video, and files as context for the model to generate more relevant and meaningful responses. The node handles all API communication and response parsing automatically.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingSingleImageVideoEffectNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingSingleImageVideoEffectNode/zh-TW.md)
 
 Kling 單圖影片特效節點基於單一參考圖像創建具有不同特殊效果的影片。它應用各種視覺效果和場景，將靜態圖像轉換為動態影片內容。該節點支援不同的特效場景、模型選項和影片時長，以實現所需的視覺效果。
 

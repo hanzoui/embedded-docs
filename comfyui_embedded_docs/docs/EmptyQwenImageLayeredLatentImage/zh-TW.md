@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyQwenImageLayeredLatentImage/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyQwenImageLayeredLatentImage/zh-TW.md)
 
 Empty Qwen Image Layered Latent 節點會建立一個空白的多層潛在表徵，供 Qwen 圖像模型使用。它會產生一個填滿零值的張量，其結構包含指定的層數、批次大小和空間維度。這個空白的潛在表徵可作為後續圖像生成或處理工作流程的起點。
 

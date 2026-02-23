@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripleCLIPLoader/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripleCLIPLoader/ko.md)
 
 TripleCLIPLoader 노드는 세 가지 다른 텍스트 인코더 모델을 동시에 로드하여 단일 CLIP 모델로 결합합니다. 이는 clip-l, clip-g, t5 모델이 함께 작동해야 하는 SD3 워크플로우와 같이 여러 텍스트 인코더가 필요한 고급 텍스트 인코딩 시나리오에 유용합니다.
 

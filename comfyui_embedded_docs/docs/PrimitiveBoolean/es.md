@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PrimitiveBoolean/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PrimitiveBoolean/es.md)
 
 El nodo Booleano proporciona una forma sencilla de pasar valores booleanos (verdadero/falso) a través de tu flujo de trabajo. Toma un valor booleano de entrada y emite el mismo valor sin cambios, permitiéndote controlar parámetros booleanos en otros nodos.
 

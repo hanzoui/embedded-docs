@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BatchLatentsNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BatchLatentsNode/es.md)
 
 El nodo Batch Latents combina múltiples entradas latentes en un solo lote. Toma un número variable de muestras latentes y las fusiona a lo largo de la dimensión del lote, permitiendo que sean procesadas juntas en nodos posteriores. Esto es útil para generar o procesar múltiples imágenes en una sola operación.
 

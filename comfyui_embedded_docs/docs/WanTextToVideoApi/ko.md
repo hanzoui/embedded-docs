@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanTextToVideoApi/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanTextToVideoApi/ko.md)
 
 Wan Text to Video 노드는 텍스트 설명을 기반으로 비디오 콘텐츠를 생성합니다. AI 모델을 사용하여 프롬프트로부터 비디오를 만들며, 다양한 비디오 크기, 지속 시간 및 선택적 오디오 입력을 지원합니다. 이 노드는 필요할 때 자동으로 오디오를 생성할 수 있으며, 프롬프트 향상 및 워터마킹 옵션을 제공합니다.
 

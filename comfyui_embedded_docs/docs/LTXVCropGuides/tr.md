@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVCropGuides/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVCropGuides/tr.md)
 
 LTXVCropGuides düğümü, video üretimi için koşullandırma ve gizli girdileri işleyerek anahtar kare bilgilerini kaldırır ve gizli boyutları ayarlar. Gizli görüntüyü ve gürültü maskesini, anahtar kare bölümlerini hariç tutacak şekilde kırparken, hem pozitif hem de negatif koşullandırma girdilerinden anahtar kare indekslerini temizler. Bu, anahtar kare rehberliği gerektirmeyen video üretimi iş akışları için verileri hazırlar.
 

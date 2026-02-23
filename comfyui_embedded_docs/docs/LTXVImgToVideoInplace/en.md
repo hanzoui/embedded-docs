@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVImgToVideoInplace/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVImgToVideoInplace/en.md)
 
 The LTXVImgToVideoInplace node conditions a video latent representation by encoding an input image into its initial frames. It works by using a VAE to encode the image into the latent space and then blending it with the existing latent samples based on a specified strength. This allows an image to serve as a starting point or conditioning signal for video generation.
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplingPercentToSigma/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplingPercentToSigma/ja.md)
 
 SamplingPercentToSigmaノードは、サンプリングのパーセンテージ値をモデルのサンプリングパラメータを使用して対応するシグマ値に変換します。0.0から1.0の間のパーセンテージ値を受け取り、モデルのノイズスケジュール内の適切なシグマ値にマッピングします。境界値では計算されたシグマを返すか、実際の最大/最小シグマ値を返すかを選択するオプションがあります。
 

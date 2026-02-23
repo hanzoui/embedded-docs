@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEEncodeTiled/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEEncodeTiled/ko.md)
 
 VAEEncodeTiled 노드는 이미지를 더 작은 타일로 분할하여 변분 오토인코더를 사용하여 인코딩합니다. 이 타일 방식은 메모리 제한을 초과할 수 있는 대형 이미지를 처리할 수 있게 해줍니다. 이 노드는 이미지 및 비디오 VAE를 모두 지원하며, 공간 및 시간 차원에 대한 별도의 타일링 제어를 제공합니다.
 

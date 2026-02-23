@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyFlux2LatentImage/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyFlux2LatentImage/fr.md)
 
 Le nœud EmptyFlux2LatentImage crée une représentation latente vide et vierge. Il génère un tenseur rempli de zéros, qui sert de point de départ pour le processus de débruitage du modèle Flux. Les dimensions du latent sont déterminées par la largeur et la hauteur en entrée, réduites d'un facteur 16.
 

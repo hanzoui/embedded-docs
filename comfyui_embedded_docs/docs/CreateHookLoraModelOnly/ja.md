@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookLoraModelOnly/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookLoraModelOnly/ja.md)
 
 このノードは、モデルコンポーネントにのみ適用されるLoRA（Low-Rank Adaptation）フックを作成します。これにより、CLIPコンポーネントに影響を与えることなくモデルの動作を変更できます。LoRAファイルを読み込み、指定された強度でモデルに適用し、CLIPコンポーネントは変更しません。このノードは、以前のフックと連鎖させて複雑な変更パイプラインを作成することができます。
 

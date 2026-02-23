@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerSEEDS2/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerSEEDS2/en.md)
 
 This node provides a configurable sampler for generating images. It implements the SEEDS-2 algorithm, which is a stochastic differential equation (SDE) solver. By adjusting its parameters, you can configure it to behave like several specific samplers, including `seeds_2`, `exp_heun_2_x0`, and `exp_heun_2_x0_sde`.
 

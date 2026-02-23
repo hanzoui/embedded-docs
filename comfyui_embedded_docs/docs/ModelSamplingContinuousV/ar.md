@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingContinuousV/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingContinuousV/ar.md)
 
 يقوم عقد ModelSamplingContinuousV بتعديل سلوك أخذ العينات للنموذج من خلال تطبيق معاملات أخذ العينات المستمرة باستخدام التنبؤ بالقيمة V. ينشئ العقدة نسخة من النموذج المدخل ويضبطها بإعدادات نطاق سيجما مخصصة للتحكم المتقدم في أخذ العينات. وهذا يسمح للمستخدمين بضبط عملية أخذ العينات بدقة باستخدام قيم سيجما دنيا وعليا محددة.
 

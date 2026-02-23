@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingLTXV/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingLTXV/ko.md)
 
 ModelSamplingLTXV 노드는 토큰 수를 기반으로 모델에 고급 샘플링 매개변수를 적용합니다. 입력 잠재 변수의 토큰 수에 따라 기본 시프트 값과 최대 시프트 값 사이의 선형 보간을 사용하여 시프트 값을 계산합니다. 그런 다음 특수화된 모델 샘플링 구성을 생성하고 입력 모델에 적용합니다.
 

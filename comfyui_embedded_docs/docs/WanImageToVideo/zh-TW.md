@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanImageToVideo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanImageToVideo/zh-TW.md)
 
 WanImageToVideo 節點為影片生成任務準備條件約束和潛在表示。它為影片生成創建一個空的潛在空間，並可選擇性地結合起始圖像和 CLIP 視覺輸出來引導影片生成過程。該節點根據提供的圖像和視覺資料修改正向和負向條件約束輸入。
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StripWhitespace/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StripWhitespace/pt-BR.md)
 
 Este nó remove quaisquer espaços, tabulações ou quebras de linha extras do início e do fim de uma string de texto. Ele recebe um texto de entrada e retorna uma versão limpa, com os espaços em branco iniciais e finais removidos.
 

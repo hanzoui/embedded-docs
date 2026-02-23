@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ReferenceLatent/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ReferenceLatent/ko.md)
 
 이 노드는 편집 모델을 위한 가이드 잠재 변수를 설정합니다. 조건 데이터와 선택적 잠재 입력을 받은 후, 참조 잠재 정보를 포함하도록 조건을 수정합니다. 모델이 지원하는 경우, 여러 개의 ReferenceLatent 노드를 연결하여 여러 참조 이미지를 설정할 수 있습니다.
 

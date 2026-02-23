@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVCropGuides/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVCropGuides/fr.md)
 
 Le nœud LTXVCropGuides traite les entrées de conditionnement et latentes pour la génération vidéo en supprimant les informations de keyframe et en ajustant les dimensions latentes. Il recadre l'image latente et le masque de bruit pour exclure les sections de keyframe tout en effaçant les indices de keyframe des entrées de conditionnement positives et négatives. Cela prépare les données pour les workflows de génération vidéo qui ne nécessitent pas de guidage par keyframe.
 

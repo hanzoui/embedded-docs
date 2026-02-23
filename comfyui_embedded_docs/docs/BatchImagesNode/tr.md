@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BatchImagesNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BatchImagesNode/tr.md)
 
 Batch Images düğümü, birden fazla ayrı görüntüyü tek bir toplu işte birleştirir. Değişken sayıda görüntü girişi alır ve bunları tek bir toplu görüntü tensörü olarak çıktılar, böylece sonraki düğümlerde birlikte işlenebilmelerini sağlar.
 

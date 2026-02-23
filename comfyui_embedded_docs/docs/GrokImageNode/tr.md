@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GrokImageNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GrokImageNode/tr.md)
 
 Grok Image düğümü, Grok AI modelini kullanarak bir metin açıklamasına dayalı bir veya daha fazla görüntü oluşturur. İsteğinizi harici bir servise gönderir ve iş akışınızda kullanılabilecek tensörler olarak oluşturulan görüntüleri döndürür.
 

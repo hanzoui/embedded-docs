@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningStableAudio/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningStableAudio/ko.md)
 
 ConditioningStableAudio 노드는 오디오 생성을 위한 양극 및 음극 조건 입력에 타이밍 정보를 추가합니다. 이 노드는 오디오 콘텐츠가 언제, 얼마 동안 생성되어야 하는지를 제어하는 데 도움이 되는 시작 시간과 전체 지속 시간 매개변수를 설정합니다. 이 노드는 오디오 특정 타이밍 메타데이터를 추가하여 기존 조건 데이터를 수정합니다.
 

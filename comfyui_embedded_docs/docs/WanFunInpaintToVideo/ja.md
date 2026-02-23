@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanFunInpaintToVideo/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanFunInpaintToVideo/ja.md)
 
 WanFunInpaintToVideoノードは、開始画像と終了画像の間をインペイントすることでビデオシーケンスを作成します。ポジティブおよびネガティブなコンディショニングと、オプションのフレーム画像を受け取り、ビデオの潜在表現を生成します。このノードは、設定可能な寸法と長さのパラメータでビデオ生成を処理します。
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResolutionBucket/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResolutionBucket/zh.md)
 
 此节点根据分辨率对潜在图像列表及其对应的条件数据进行组织。它将具有相同高度和宽度的项目分组，为每个独特的分辨率创建独立的批次。这一过程有助于为高效训练准备数据，因为它允许模型同时处理多个相同尺寸的项目。
 

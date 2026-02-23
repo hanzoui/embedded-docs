@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PixverseTransitionVideoNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PixverseTransitionVideoNode/pt-BR.md)
 
 Gera vídeos com base em prompt e output_size. Este nó cria vídeos de transição entre duas imagens de entrada usando a API PixVerse, permitindo que você especifique a qualidade do vídeo, duração, estilo de movimento e parâmetros de geração.
 

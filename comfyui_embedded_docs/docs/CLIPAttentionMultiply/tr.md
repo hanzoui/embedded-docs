@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPAttentionMultiply/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPAttentionMultiply/tr.md)
 
 CLIPAttentionMultiply düğümü, CLIP modellerindeki dikkat mekanizmasını, öz-dikkat katmanlarının farklı bileşenlerine çarpım faktörleri uygulayarak ayarlamanıza olanak tanır. Bu işlem, CLIP modelinin dikkat mekanizmasındaki sorgu, anahtar, değer ve çıktı projeksiyon ağırlıklarını ve önyargılarını değiştirerek çalışır. Bu deneysel düğüm, belirtilen ölçeklendirme faktörlerinin uygulandığı, girdi CLIP modelinin değiştirilmiş bir kopyasını oluşturur.
 

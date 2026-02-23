@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SplitSigmasDenoise/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SplitSigmasDenoise/pt-BR.md)
 
 O nó SplitSigmasDenoise divide uma sequência de valores sigma em duas partes com base em um parâmetro de intensidade de remoção de ruído. Ele separa os sigmas de entrada em sequências de sigma alta e baixa, onde o ponto de divisão é determinado multiplicando o total de etapas pelo fator de denoise. Isso permite separar o cronograma de ruído em diferentes faixas de intensidade para processamento especializado.
 

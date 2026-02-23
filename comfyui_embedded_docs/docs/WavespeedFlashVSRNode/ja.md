@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WavespeedFlashVSRNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WavespeedFlashVSRNode/ja.md)
 
 WavespeedFlashVSRNodeは、高速かつ高品質なビデオアップスケーラーであり、低解像度やぼやけた映像の解像度を向上させ、鮮明さを復元します。ビデオ入力を処理し、ユーザーが選択したより高い解像度で新しいビデオを出力します。
 

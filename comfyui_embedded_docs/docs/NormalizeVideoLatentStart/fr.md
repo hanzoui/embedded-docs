@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/NormalizeVideoLatentStart/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/NormalizeVideoLatentStart/fr.md)
 
 Ce nœud ajuste les premières images d'un latent vidéo pour qu'elles ressemblent davantage aux images qui suivent. Il calcule la moyenne et la variation à partir d'un ensemble d'images de référence situées plus loin dans la vidéo et applique ces mêmes caractéristiques aux images de départ. Cela permet de créer une transition visuelle plus fluide et cohérente au début d'une vidéo.
 

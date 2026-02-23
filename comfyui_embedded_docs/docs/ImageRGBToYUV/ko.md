@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageRGBToYUV/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageRGBToYUV/ko.md)
 
 ImageRGBToYUV 노드는 RGB 컬러 이미지를 YUV 색 공간으로 변환합니다. RGB 이미지를 입력받아 세 가지 별도의 채널로 분리합니다: Y(휘도), U(청색 투영), V(적색 투영). 각 출력 채널은 해당 YUV 구성 요소를 나타내는 별도의 그레이스케일 이미지로 반환됩니다.
 

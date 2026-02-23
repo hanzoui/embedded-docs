@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ComfySoftSwitchNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ComfySoftSwitchNode/en.md)
 
 The Soft Switch node selects between two possible input values based on a boolean condition. It outputs the value from the `on_true` input when the `switch` is true, and the value from the `on_false` input when the `switch` is false. This node is designed to be lazy, meaning it only evaluates the input that is needed based on the switch state.
 

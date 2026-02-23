@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ComfySoftSwitchNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ComfySoftSwitchNode/zh-TW.md)
 
 此節點根據布林條件在兩個可能的輸入值之間進行選擇。當 `switch` 為 true 時，它輸出 `on_true` 輸入的值；當 `switch` 為 false 時，則輸出 `on_false` 輸入的值。此節點設計為惰性求值，意味著它僅根據開關狀態評估所需的輸入。
 

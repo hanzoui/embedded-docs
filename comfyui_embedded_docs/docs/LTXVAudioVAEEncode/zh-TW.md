@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVAudioVAEEncode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVAudioVAEEncode/zh-TW.md)
 
 此節點接收音訊輸入，並使用指定的 Audio VAE 模型將其壓縮成較小的潛在表示。這個過程對於在潛在空間工作流程中生成或操作音訊至關重要，因為它將原始音訊數據轉換為流程中其他節點能夠理解和處理的格式。
 

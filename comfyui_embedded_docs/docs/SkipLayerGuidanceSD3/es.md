@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceSD3/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceSD3/es.md)
 
 El nodo SkipLayerGuidanceSD3 mejora la guía hacia una estructura detallada aplicando un conjunto adicional de guía libre de clasificador con capas omitidas. Esta implementación experimental está inspirada en Perturbed Attention Guidance y funciona omitiendo selectivamente ciertas capas durante el proceso de condicionamiento negativo para mejorar los detalles estructurales en la salida generada.
 

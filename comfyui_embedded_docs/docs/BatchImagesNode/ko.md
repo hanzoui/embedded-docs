@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BatchImagesNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BatchImagesNode/ko.md)
 
 Batch Images 노드는 여러 개별 이미지를 하나의 배치로 결합합니다. 가변 개수의 이미지 입력을 받아 하나의 배치 이미지 텐서로 출력하여, 후속 노드에서 함께 처리할 수 있도록 합니다.
 

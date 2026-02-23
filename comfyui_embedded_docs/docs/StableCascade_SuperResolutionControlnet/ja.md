@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableCascade_SuperResolutionControlnet/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableCascade_SuperResolutionControlnet/ja.md)
 
 StableCascade_SuperResolutionControlnetノードは、Stable Cascadeの超解像処理のための入力を準備します。入力画像を受け取り、VAEを使用してエンコードし、コントロールネットの入力を作成すると同時に、Stable CascadeパイプラインのステージCとステージBのプレースホルダー潜在表現を生成します。
 

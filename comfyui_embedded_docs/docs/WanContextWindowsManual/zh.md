@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanContextWindowsManual/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanContextWindowsManual/zh.md)
 
 WAN 上下文窗口（手动）节点允许您为类似 WAN 的二维处理模型手动配置上下文窗口。该节点通过在采样过程中指定窗口长度、重叠量、调度方法和融合技术，应用自定义的上下文窗口设置。这使您能够精确控制模型在不同上下文区域中处理信息的方式。
 

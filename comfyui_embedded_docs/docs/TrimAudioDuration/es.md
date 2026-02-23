@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TrimAudioDuration/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TrimAudioDuration/es.md)
 
 El nodo TrimAudioDuration permite recortar un segmento de tiempo específico de un archivo de audio. Puedes especificar cuándo comenzar el recorte y cuánto debe durar el clip de audio resultante. El nodo funciona convirtiendo los valores de tiempo a posiciones de frames de audio y extrayendo la porción correspondiente de la forma de onda de audio.
 

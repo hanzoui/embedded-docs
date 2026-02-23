@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LumaImageModifyNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LumaImageModifyNode/ko.md)
 
 프롬프트와 종횡비를 기반으로 이미지를 동기적으로 수정합니다. 이 노드는 입력 이미지를 가져와 원본 이미지의 종횡비를 유지하면서 제공된 텍스트 프롬프트에 따라 변환합니다.
 

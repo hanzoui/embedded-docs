@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SetFirstSigma/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SetFirstSigma/ja.md)
 
 SetFirstSigmaノードは、シグマ値のシーケンスを変更し、シーケンス内の最初のシグマ値をカスタム値で置き換えます。既存のシグマシーケンスと新しいシグマ値を入力として受け取り、他のすべてのシグマ値を変更せずに最初の要素のみを変更した新しいシグマシーケンスを返します。
 

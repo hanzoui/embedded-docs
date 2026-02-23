@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VideoTriangleCFGGuidance/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VideoTriangleCFGGuidance/en.md)
 
 The VideoTriangleCFGGuidance node applies a triangular classifier-free guidance scaling pattern to video models. It modifies the conditioning scale over time using a triangular wave function that oscillates between the minimum CFG value and the original conditioning scale. This creates a dynamic guidance pattern that can help improve video generation consistency and quality.
 

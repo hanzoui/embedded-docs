@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TopazImageEnhance/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TopazImageEnhance/ja.md)
 
 Topaz Image Enhanceノードは、業界標準のアップスケーリングと画像エンハンスメントを提供します。クラウドベースのAIモデルを使用して単一の入力画像を処理し、画質、ディテール、解像度を向上させます。このノードは、クリエイティブなガイダンス、被写体の焦点、顔の保存などのオプションを含む、エンハンスメントプロセスに対するきめ細かい制御を提供します。
 

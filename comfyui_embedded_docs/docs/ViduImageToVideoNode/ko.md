@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduImageToVideoNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduImageToVideoNode/ko.md)
 
 Vidu Image To Video Generation 노드는 시작 이미지와 선택적인 텍스트 설명을 사용하여 비디오를 생성합니다. AI 모델을 활용하여 제공된 이미지 프레임에서 확장되는 비디오 콘텐츠를 생성합니다. 이 노드는 이미지와 매개변수를 외부 서비스로 전송하고 생성된 비디오를 반환합니다.
 

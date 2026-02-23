@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WavespeedFlashVSRNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WavespeedFlashVSRNode/zh-TW.md)
 
 WavespeedFlashVSRNode 是一個快速、高品質的影片超解析度工具，能提升低解析度或模糊影片的解析度並恢復其清晰度。它處理輸入影片，並以使用者選擇的更高解析度輸出新的影片。
 

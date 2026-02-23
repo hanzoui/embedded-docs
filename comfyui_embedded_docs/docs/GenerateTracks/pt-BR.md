@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GenerateTracks/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GenerateTracks/pt-BR.md)
 
 O nó `GenerateTracks` cria múltiplos caminhos de movimento paralelos para geração de vídeo. Ele define um caminho principal de um ponto inicial até um ponto final e, em seguida, gera um conjunto de trilhas que correm paralelamente a este caminho, espaçadas uniformemente. Você pode controlar a forma do caminho (linha reta ou curva de Bézier), a velocidade do movimento ao longo dele e em quais quadros as trilhas estão visíveis.
 

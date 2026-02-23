@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceDiT/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceDiT/tr.md)
 
 Detaylı yapıya doğru rehberliği, atlanmış katmanlara sahip başka bir CFG negatif seti kullanarak geliştirir. SkipLayerGuidance'ın bu genel versiyonu, her DiT modelinde kullanılabilir ve Perturbed Attention Guidance'dan ilham almıştır. Orijinal deneysel uygulama SD3 için oluşturulmuştur.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PrimitiveString/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PrimitiveString/ar.md)
 
 تقدم عقدة String وسيلة بسيطة لإدخال وتمرير بيانات النص في سير العمل الخاص بك. تأخذ سلسلة نصية كمدخل وتخرج نفس السلسلة دون تغيير، مما يجعلها مفيدة لتوفير مدخلات نصية للعقد الأخرى التي تتطلب معاملات نصية.
 

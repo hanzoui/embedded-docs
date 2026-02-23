@@ -1,6 +1,6 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningCombine/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningCombine/ko.md)
 
-PairConditioningCombine 노드는 두 쌍의 조건화 데이터(긍정적, 부정적)를 단일 쌍으로 결합합니다. 두 개의 별도 조건화 쌍을 입력으로 받아 ComfyUI의 내부 조건화 결합 로직을 사용하여 병합합니다. 이 노드는 실험적이며 주로 고급 조건화 조작 워크플로우에 사용됩니다.
+PairConditioningCombine 노드는 두 쌍의 조건화 데이터(긍정적, 부정적)를 단일 쌍으로 결합합니다. 두 개의 별도 조건화 쌍을 입력으로 받아 Hanzo Studio의 내부 조건화 결합 로직을 사용하여 병합합니다. 이 노드는 실험적이며 주로 고급 조건화 조작 워크플로우에 사용됩니다.
 
 ## 입력
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TomePatchModel/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TomePatchModel/en.md)
 
 The TomePatchModel node applies Token Merging (ToMe) to a diffusion model to reduce computational requirements during inference. It works by selectively merging similar tokens in the attention mechanism, allowing the model to process fewer tokens while maintaining image quality. This technique helps speed up generation without significant quality loss.
 

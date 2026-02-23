@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateVideo/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateVideo/ar.md)
 
 ```markdown
 يقوم عُقدة "إنشاء فيديو" بإنشاء ملف فيديو من سلسلة من الصور. يمكنك تحديد سرعة التشغيل باستخدام عدد الإطارات في الثانية وإضافة صوت إلى الفيديو اختياريًا. يجمع العُقد الصور الخاصة بك في تنسيق فيديو يمكن تشغيله بمعدل الإطارات المحدد.

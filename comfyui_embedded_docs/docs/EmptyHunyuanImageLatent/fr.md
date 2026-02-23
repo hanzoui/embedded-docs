@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyHunyuanImageLatent/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyHunyuanImageLatent/fr.md)
 
 Le nœud EmptyHunyuanImageLatent crée un tenseur latent vide avec des dimensions spécifiques pour une utilisation avec les modèles de génération d'images Hunyuan. Il génère un point de départ vierge qui peut être traité par les nœuds suivants dans le flux de travail. Ce nœud permet de spécifier la largeur, la hauteur et la taille du lot de l'espace latent.
 

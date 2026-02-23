@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Rodin3D_Regular/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Rodin3D_Regular/tr.md)
 
 Rodin 3D Regular düğümü, Rodin API'sini kullanarak 3B varlıklar oluşturur. Girdi görüntülerini alır ve bunları Rodin servisi aracılığıyla işleyerek 3B modeller oluşturur. Düğüm, görev oluşturmadan nihai 3B model dosyalarının indirilmesine kadar tüm iş akışını yönetir.
 

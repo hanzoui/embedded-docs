@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SVD_img2vid_Conditioning/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SVD_img2vid_Conditioning/tr.md)
 
 SVD_img2vid_Conditioning düğümü, Stable Video Diffusion kullanarak video üretimi için koşullandırma verilerini hazırlar. Başlangıç görüntüsünü alır ve CLIP vision ve VAE kodlayıcılarından geçirerek pozitif ve negatif koşullandırma çiftleri ile birlikte video üretimi için boş bir gizli alan oluşturur. Bu düğüm, üretilen videodaki hareket, kare hızı ve artırım seviyelerini kontrol etmek için gerekli parametreleri ayarlar.
 

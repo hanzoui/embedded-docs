@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Pikaffects/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Pikaffects/es.md)
 
 El nodo Pikaffects genera videos con varios efectos visuales aplicados a una imagen de entrada. Utiliza la API de generación de video de Pika para transformar imágenes estáticas en videos animados con efectos específicos como derretir, explotar o levitar. El nodo requiere una clave de API y un token de autenticación para acceder al servicio Pika.
 

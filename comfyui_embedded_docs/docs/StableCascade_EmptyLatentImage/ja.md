@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableCascade_EmptyLatentImage/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableCascade_EmptyLatentImage/ja.md)
 
 StableCascade_EmptyLatentImageノードは、Stable Cascadeモデル用の空の潜在テンソルを作成します。このノードは、入力解像度と圧縮設定に基づいて適切な次元を持つ、ステージC用とステージB用の2つの別々の潜在表現を生成します。このノードは、Stable Cascade生成パイプラインの開始点を提供します。
 

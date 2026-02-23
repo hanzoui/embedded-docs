@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookKeyframe/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookKeyframe/zh.md)
 
 Create Hook Keyframe 节点允许您在生成过程中定义钩子行为发生变化的具体时间点。它会创建关键帧，在生成进度的特定百分比处修改钩子的强度，这些关键帧可以链接在一起以创建复杂的调度模式。
 

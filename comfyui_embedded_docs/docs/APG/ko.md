@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/APG/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/APG/ko.md)
 
 APG(Adaptive Projected Guidance) 노드는 확산 과정 중 guidance가 적용되는 방식을 조정하여 샘플링 과정을 수정합니다. 이 노드는 조건부 출력에 대한 상대적인 평행 및 직교 구성 요소로 guidance 벡터를 분리하여 더욱 제어된 이미지 생성을 가능하게 합니다. 노드는 guidance의 크기를 조정하고, 그 강도를 정규화하며, 확산 단계 간의 부드러운 전환을 위해 모멘텀을 적용하는 매개변수를 제공합니다.
 

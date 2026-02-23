@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DiffusersLoader/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DiffusersLoader/tr.md)
 
 DiffusersLoader düğümü, önceden eğitilmiş modelleri diffusers formatından yükler. Model dizinlerinde model_index.json dosyası içeren geçerli diffusers model dizinlerini arar ve bunları MODEL, CLIP ve VAE bileşenleri olarak yükleyerek pipeline'da kullanıma hazır hale getirir. Bu düğüm, kullanımdan kaldırılmış yükleyiciler kategorisinin bir parçasıdır ve Hugging Face diffusers modelleriyle uyumluluk sağlar.
 

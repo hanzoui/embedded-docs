@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableZero123_Conditioning/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableZero123_Conditioning/ko.md)
 
 StableZero123_Conditioning 노드는 입력 이미지와 카메라 각도를 처리하여 3D 모델 생성을 위한 조건화 데이터와 잠재 표현을 생성합니다. CLIP 비전 모델을 사용하여 이미지 특징을 인코딩하고, 고도와 방위각을 기반으로 한 카메라 임베딩 정보와 결합하여 하류 3D 생성 작업을 위한 양수 및 음수 조건화와 잠재 표현을 생성합니다.
 

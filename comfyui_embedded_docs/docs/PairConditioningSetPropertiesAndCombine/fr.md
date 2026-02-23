@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningSetPropertiesAndCombine/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningSetPropertiesAndCombine/fr.md)
 
 Le nœud PairConditioningSetPropertiesAndCombine modifie et combine des paires de conditionnement en appliquant de nouvelles données de conditionnement aux entrées de conditionnement positif et négatif existantes. Il vous permet d'ajuster la force du conditionnement appliqué et de contrôler la manière dont la zone de conditionnement est définie. Ce nœud est particulièrement utile pour les workflows avancés de manipulation du conditionnement où vous devez mélanger plusieurs sources de conditionnement ensemble.
 

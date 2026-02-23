@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TopazImageEnhance/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TopazImageEnhance/ar.md)
 
 يوفر عقد Topaz Image Enhance تقنية تحسين الصور والرفع من دقتها وفقًا للمعايير الصناعية. يعالج العقد صورة إدخال واحدة باستخدام نموذج ذكي يعتمد على السحابة الإلكترونية لتحسين الجودة والتفاصيل والدقة. يقدم العقد تحكمًا دقيقًا في عملية التحسين، بما في ذلك خيارات للتوجيه الإبداعي، وتركيز الموضوع، والحفاظ على ملامح الوجه.
 

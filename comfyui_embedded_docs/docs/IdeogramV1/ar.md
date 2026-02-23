@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/IdeogramV1/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/IdeogramV1/ar.md)
 
 ```markdown
 يُنتج عقد IdeogramV1 الصور باستخدام نموذج Ideogram V1 عبر واجهة برمجة التطبيقات (API). يأخذ العقد نصوص الإرشاد (prompts) وإعدادات توليد متنوعة لإنشاء صورة واحدة أو أكثر بناءً على المدخلات. يدعم العقد نسب أبعاد (aspect ratios) وطرق توليد مختلفة لتخصيص المخرجات.

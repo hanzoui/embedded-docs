@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PhotoMakerEncode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PhotoMakerEncode/en.md)
 
 The PhotoMakerEncode node processes images and text to generate conditioning data for AI image generation. It takes a reference image and text prompt, then creates embeddings that can be used to guide image generation based on the visual characteristics of the reference image. The node specifically looks for the "photomaker" token in the text to determine where to apply the image-based conditioning.
 

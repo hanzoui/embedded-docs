@@ -1,6 +1,6 @@
-Este nodo detectará los modelos ubicados en la carpeta `ComfyUI/models/upscale_models`,
+Este nodo detectará los modelos ubicados en la carpeta `Hanzo Studio/models/upscale_models`,
 y también leerá los modelos de las rutas adicionales que hayas configurado en el archivo extra_model_paths.yaml.
-A veces, es posible que necesites **refrescar la interfaz de ComfyUI** para que pueda leer los archivos de modelo en la carpeta correspondiente.
+A veces, es posible que necesites **refrescar la interfaz de Hanzo Studio** para que pueda leer los archivos de modelo en la carpeta correspondiente.
 
 El nodo UpscaleModelLoader está diseñado para cargar modelos de escalado desde un directorio especificado. Facilita la recuperación y preparación de modelos de escalado para tareas de escalado de imágenes, asegurando que los modelos se carguen y configuren correctamente para su evaluación.
 

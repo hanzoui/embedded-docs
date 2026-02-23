@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeFlux1/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeFlux1/zh-TW.md)
 
 ModelMergeFlux1 節點透過加權插值的方式混合兩個擴散模型的組件來進行模型合併。它允許對模型不同部分的組合方式進行細粒度控制，包括影像處理區塊、時間嵌入層、引導機制、向量輸入、文字編碼器以及各種轉換器區塊。這使得能夠從兩個源模型創建具有自訂特性的混合模型。
 

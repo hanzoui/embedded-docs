@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableZero123_Conditioning/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableZero123_Conditioning/zh-TW.md)
 
 StableZero123_Conditioning 節點處理輸入圖像和相機角度，生成用於 3D 模型生成的條件資料和潛在表示。它使用 CLIP 視覺模型來編碼圖像特徵，將這些特徵與基於仰角和方位角的相機嵌入資訊相結合，並產生正向和負向條件資料以及潛在表示，用於下游的 3D 生成任務。
 

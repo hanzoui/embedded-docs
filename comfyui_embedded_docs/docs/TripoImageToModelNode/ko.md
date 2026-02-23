@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoImageToModelNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoImageToModelNode/ko.md)
 
 Tripo의 API를 사용하여 단일 이미지를 기반으로 3D 모델을 동기적으로 생성합니다. 이 노드는 입력 이미지를 가져와 텍스처, 품질 및 모델 속성에 대한 다양한 사용자 지정 옵션을 통해 3D 모델로 변환합니다.
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentBlend/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentBlend/zh.md)
 
 LatentBlend 节点通过使用指定的混合因子将两个潜在样本进行混合。该节点接收两个潜在输入，并创建一个新的输出，其中第一个样本按混合因子加权，第二个样本按反向权重加权。如果输入样本具有不同的形状，第二个样本会自动调整大小以匹配第一个样本的维度。
 

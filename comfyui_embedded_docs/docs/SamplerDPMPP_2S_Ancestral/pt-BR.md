@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMPP_2S_Ancestral/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMPP_2S_Ancestral/pt-BR.md)
 
 O nó SamplerDPMPP_2S_Ancestral cria um amostrador que utiliza o método de amostragem DPM++ 2S Ancestral para gerar imagens. Este amostrador combina elementos determinísticos e estocásticos para produzir resultados variados, mantendo ao mesmo tempo certa consistência. Ele permite controlar a aleatoriedade e os níveis de ruído durante o processo de amostragem.
 

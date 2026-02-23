@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MaskPreview/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MaskPreview/zh-TW.md)
 
 此節點透過將遮罩轉換為三通道影像格式並儲存為暫存檔案，來生成遮罩的視覺預覽。它接收遮罩輸入並將其重塑為適合影像顯示的格式，然後將結果儲存到暫存目錄中，並使用隨機檔案名稱前綴。這讓使用者能在工作流程執行期間視覺化檢查遮罩資料。
 
@@ -7,7 +7,7 @@
 | 參數名稱 | 資料類型 | 必填 | 數值範圍 | 參數說明 |
 |-----------|-----------|----------|-------|-------------|
 | `遮罩` | MASK | 是 | - | 要預覽並轉換為影像格式的遮罩資料 |
-| `filename_prefix` | STRING | 否 | - | 輸出檔案名稱的前綴（預設值："ComfyUI"） |
+| `filename_prefix` | STRING | 否 | - | 輸出檔案名稱的前綴（預設值："Hanzo Studio"） |
 | `prompt` | PROMPT | 否 | - | 用於中繼資料的提示資訊（自動提供） |
 | `extra_pnginfo` | EXTRA_PNGINFO | 否 | - | 用於中繼資料的額外 PNG 資訊（自動提供） |
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageSkinEnhancerNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageSkinEnhancerNode/zh.md)
 
 Magnific Image Skin Enhancer 节点对肖像图像应用专门的 AI 处理，以改善皮肤外观。它提供三种不同的模式以满足不同的增强目标：创意模式用于艺术效果，忠实模式用于保留原始外观，灵活模式用于针对性的改进，如光照或真实感。该节点将图像上传到外部 API 进行处理，并返回增强后的结果。
 

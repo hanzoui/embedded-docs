@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSD1/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSD1/es.md)
 
 El nodo ModelMergeSD1 permite combinar dos modelos de Stable Diffusion 1.x ajustando la influencia de diferentes componentes del modelo. Proporciona control individual sobre la incrustación temporal, la incrustación de etiquetas y todos los bloques de entrada, intermedios y de salida, permitiendo una fusión de modelos afinada para casos de uso específicos.
 

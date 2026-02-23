@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeAuraflow/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeAuraflow/tr.md)
 
 ModelMergeAuraflow düğümü, iki farklı modeli çeşitli model bileşenleri için belirli karıştırma ağırlıklarını ayarlayarak birleştirmenize olanak tanır. Modelin ilk katmanlarından son çıktılara kadar farklı bölümlerin nasıl birleştirileceği üzerinde hassas kontrol sağlar. Bu düğüm, birleştirme süreci üzerinde hassas kontrol ile özel model kombinasyonları oluşturmak için özellikle kullanışlıdır.
 

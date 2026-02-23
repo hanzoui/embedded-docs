@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SD_4XUpscale_Conditioning/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SD_4XUpscale_Conditioning/zh.md)
 
 SD_4XUpscale_Conditioning 节点用于为使用扩散模型的图像超分辨率处理准备条件数据。该节点接收输入图像和条件数据，然后应用缩放和噪声增强来创建指导超分辨率过程的修改后条件数据。节点输出包含正向和负向条件数据，以及超分辨率后尺寸的潜在表示。
 

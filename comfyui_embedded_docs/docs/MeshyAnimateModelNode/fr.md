@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyAnimateModelNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyAnimateModelNode/fr.md)
 
 Ce nœud applique une animation spécifique à un modèle de personnage 3D déjà riggé à l'aide du service Meshy. Il prend un identifiant de tâche provenant d'une opération de rigging précédente et un identifiant d'action pour sélectionner l'animation souhaitée dans la bibliothèque. Le nœud traite ensuite la requête et renvoie le modèle animé aux formats de fichiers GLB et FBX.
 

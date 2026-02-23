@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/UNetCrossAttentionMultiply/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UNetCrossAttentionMultiply/zh.md)
 
 UNetCrossAttentionMultiply 节点用于对 UNet 模型中的交叉注意力机制应用乘法因子。它允许您缩放交叉注意力层的查询、键、值和输出组件，以实验不同的注意力行为与效果。
 

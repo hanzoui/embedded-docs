@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduImageToVideoNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduImageToVideoNode/zh-TW.md)
 
 Vidu 圖像轉影片生成節點可從起始圖像和可選的文字描述建立影片。它使用 AI 模型來生成從提供的圖像幀延伸的影片內容。該節點將圖像和參數發送到外部服務，並返回生成的影片。
 

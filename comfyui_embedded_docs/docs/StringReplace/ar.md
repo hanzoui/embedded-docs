@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringReplace/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringReplace/ar.md)
 
 يقوم عُقدة StringReplace بإجراء عمليات استبدال نصية على السلاسل النصية المدخلة. تبحث عن سلسلة نصية فرعية محددة داخل النص المدخل وتستبدل جميع التواجدات بسلسلة نصية فرعية مختلفة. تُرجع هذه العُقدة السلسلة المعدلة مع تطبيق جميع عمليات الاستبدال.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDpmpp2mSde/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDpmpp2mSde/tr.md)
 
 Bu düğüm, DPMPP_2M_SDE modeli için bir örnekleyici oluşturmak üzere tasarlanmıştır ve belirli çözücü türleri, gürültü seviyeleri ve hesaplama cihazı tercihlerine dayalı örnekler oluşturulmasına olanak tanır. Örnekleyici yapılandırmasının karmaşıklıklarını soyutlayarak, özelleştirilmiş ayarlarla örnek oluşturma için sadeleştirilmiş bir arayüz sağlar.
 

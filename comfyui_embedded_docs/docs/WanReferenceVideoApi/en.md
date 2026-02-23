@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanReferenceVideoApi/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanReferenceVideoApi/en.md)
 
 The Wan Reference to Video node uses the visual appearance and voice from one or more input reference videos, along with a text prompt, to generate a new video. It maintains consistency with the characters from the reference material while creating new content based on your description.
 

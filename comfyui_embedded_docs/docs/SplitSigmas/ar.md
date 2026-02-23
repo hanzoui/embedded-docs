@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SplitSigmas/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SplitSigmas/ar.md)
 
 تُعد عقدة SplitSigmas مصممة لتقسيم تسلسل قيم سيجما إلى جزئين بناءً على خطوة محددة. تُعد هذه الوظيفة بالغة الأهمية للعمليات التي تتطلب معالجة مختلفة للأجزاء الأولية واللاحقة من تسلسل سيجما، مما يتيح تحكمًا أكثر مرونة وموجهًا في هذه القيم.
 

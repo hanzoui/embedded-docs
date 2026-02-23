@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SelfAttentionGuidance/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SelfAttentionGuidance/es.md)
 
 El nodo Self-Attention Guidance aplica guía a los modelos de difusión modificando el mecanismo de atención durante el proceso de muestreo. Captura las puntuaciones de atención de los pasos de eliminación de ruido incondicionales y las utiliza para crear mapas de guía difusos que influyen en el resultado final. Esta técnica ayuda a guiar el proceso de generación aprovechando los patrones de atención propios del modelo.
 

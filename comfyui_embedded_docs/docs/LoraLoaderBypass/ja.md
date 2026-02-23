@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraLoaderBypass/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraLoaderBypass/ja.md)
 
 LoraLoaderBypassノードは、LoRA（Low-Rank Adaptation）を拡散モデルとCLIPモデルに、特別な「バイパス」モードで適用します。標準的なLoRAローダーとは異なり、この方法はベースモデルの重みを恒久的に変更しません。代わりに、モデルの通常のフォワードパスにLoRAの効果を加えることで出力を計算します。これは、トレーニング時や、重みがオフロードされているモデルを扱う際に有用です。
 

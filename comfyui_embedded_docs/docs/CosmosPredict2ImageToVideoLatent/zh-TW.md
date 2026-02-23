@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CosmosPredict2ImageToVideoLatent/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CosmosPredict2ImageToVideoLatent/zh-TW.md)
 
 CosmosPredict2ImageToVideoLatent 節點可從圖像建立影片潛在表示，用於影片生成。它可以生成空白影片潛在表示，或結合起始和結束圖像來建立具有指定尺寸和時長的影片序列。該節點負責將圖像編碼為適合影片處理的潛在空間格式。
 

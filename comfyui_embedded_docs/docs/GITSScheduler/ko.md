@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GITSScheduler/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GITSScheduler/ko.md)
 
 GITSScheduler 노드는 GITS(Generative Iterative Time Steps) 샘플링 방법을 위한 노이즈 스케줄 시그마 값을 생성합니다. 이 노드는 계수 매개변수와 스텝 수를 기반으로 시그마 값을 계산하며, 사용되는 총 스텝 수를 줄일 수 있는 선택적 디노이징 인자를 포함합니다. 노드는 미리 정의된 노이즈 수준과 보간법을 사용하여 최종 시그마 스케줄을 생성합니다.
 

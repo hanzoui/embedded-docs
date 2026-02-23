@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PreviewAny/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PreviewAny/zh.md)
 
 PreviewAny 节点以文本格式显示任何输入数据类型的预览。它接受任何数据类型作为输入，并将其转换为可读的字符串表示形式以供查看。该节点通过尝试将不同数据类型（包括字符串、数字、布尔值和复杂对象）序列化为 JSON 格式来自动处理它们。
 

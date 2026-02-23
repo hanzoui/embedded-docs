@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RegexExtract/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RegexExtract/zh-TW.md)
 
 RegexExtract 節點使用正規表示式在文字中搜尋模式。它可以找到第一個匹配項、所有匹配項、匹配項中的特定群組，或是跨多個匹配項的所有群組。此節點支援多種正規表示式旗標，用於控制大小寫敏感度、多行匹配和 dotall 行為。
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanTextToVideoApi/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanTextToVideoApi/ja.md)
 
 Wan Text to Videoノードは、テキストの説明に基づいて動画コンテンツを生成します。AIモデルを使用してプロンプトから動画を作成し、様々な動画サイズ、長さ、オプションのオーディオ入力をサポートします。このノードは、必要に応じて自動的にオーディオを生成し、プロンプトの拡張とウォーターマークのオプションを提供します。
 

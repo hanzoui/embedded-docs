@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageScale/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageScale/pt-BR.md)
 
 O nó ImageScale é projetado para redimensionar imagens para dimensões específicas, oferecendo uma seleção de métodos de ampliação e a capacidade de recortar a imagem redimensionada. Ele abstrai a complexidade da ampliação e do recorte de imagens, fornecendo uma interface direta para modificar as dimensões da imagem de acordo com parâmetros definidos pelo usuário.
 

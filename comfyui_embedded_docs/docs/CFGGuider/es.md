@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CFGGuider/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CFGGuider/es.md)
 
 El nodo CFGGuider crea un sistema de guía para controlar el proceso de muestreo en la generación de imágenes. Toma un modelo junto con entradas de condicionamiento positivo y negativo, y luego aplica una escala de guía libre de clasificador para dirigir la generación hacia el contenido deseado mientras evita elementos no deseados. Este nodo genera un objeto guía que puede ser utilizado por los nodos de muestreo para controlar la dirección de la generación de imágenes.
 

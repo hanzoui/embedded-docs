@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetDefaultAndCombine/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetDefaultAndCombine/en.md)
 
 This node combines conditioning data with default conditioning data using a hook-based system. It takes a primary conditioning input and a default conditioning input, then merges them according to the specified hook configuration. The result is a single conditioning output that incorporates both sources.
 

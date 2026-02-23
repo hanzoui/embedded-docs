@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MoonvalleyVideo2VideoNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MoonvalleyVideo2VideoNode/zh-TW.md)
 
 Moonvalley Marey 影片轉影片節點能將輸入影片根據文字描述轉換為新的影片。它使用 Moonvalley API 來生成符合您提示詞的影片，同時保留原始影片的動作或姿勢特徵。您可以透過文字提示詞和各種生成參數來控制輸出影片的風格和內容。
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MoonvalleyTxt2VideoNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MoonvalleyTxt2VideoNode/ja.md)
 
 Moonvalley Marey Text to Videoノードは、Moonvalley APIを使用してテキストの記述から動画コンテンツを生成します。テキストプロンプトを受け取り、解像度、品質、スタイルをカスタマイズ可能な設定で動画に変換します。このノードは、生成リクエストの送信から最終的な動画出力のダウンロードまで、プロセス全体を処理します。
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/IdeogramV3/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/IdeogramV3/ja.md)
 
 Ideogram V3ノードは、Ideogram V3モデルを使用して画像を生成します。テキストプロンプトからの通常の画像生成と、画像とマスクの両方が提供された場合の画像編集の両方をサポートしています。このノードは、アスペクト比、解像度、生成速度、およびオプションのキャラクター参照画像に関する様々なコントロールを提供します。
 

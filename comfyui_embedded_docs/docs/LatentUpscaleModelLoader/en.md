@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentUpscaleModelLoader/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentUpscaleModelLoader/en.md)
 
 The LatentUpscaleModelLoader node loads a specialized model designed for upscaling latent representations. It reads a model file from the system's designated folder and automatically detects its type (720p, 1080p, or other) to instantiate and configure the correct internal model architecture. The loaded model is then ready to be used by other nodes for latent space super-resolution tasks.
 
@@ -6,7 +6,7 @@ The LatentUpscaleModelLoader node loads a specialized model designed for upscali
 
 | Parameter | Data Type | Required | Range | Description |
 |-----------|-----------|----------|-------|-------------|
-| `model_name` | STRING | Yes | *All files in the `latent_upscale_models` folder* | The name of the latent upscale model file to load. The available options are dynamically populated from the files present in your ComfyUI's `latent_upscale_models` directory. |
+| `model_name` | STRING | Yes | *All files in the `latent_upscale_models` folder* | The name of the latent upscale model file to load. The available options are dynamically populated from the files present in your Hanzo Studio's `latent_upscale_models` directory. |
 
 ## Outputs
 

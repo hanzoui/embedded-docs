@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyHunyuanVideo15Latent/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyHunyuanVideo15Latent/ja.md)
 
 このノードは、HunyuanVideo 1.5モデルで使用するために特別にフォーマットされた空の潜在テンソルを作成します。モデルの潜在空間に対して正しいチャネル数と空間次元を持つゼロのテンソルを割り当てることで、ビデオ生成のための空白の開始点を生成します。
 

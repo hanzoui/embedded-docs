@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ColorToRGBInt/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ColorToRGBInt/tr.md)
 
 ColorToRGBInt düğümü, onaltılık formatta belirtilen bir rengi tek bir tamsayı değerine dönüştürür. `#FF5733` gibi bir renk dizesini alır ve kırmızı, yeşil ve mavi bileşenlerini birleştirerek karşılık gelen RGB tamsayısını hesaplar.
 

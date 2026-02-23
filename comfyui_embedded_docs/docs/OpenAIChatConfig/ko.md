@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIChatConfig/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIChatConfig/ko.md)
 
 OpenAIChatConfig 노드는 OpenAI Chat 노드에 대한 추가 구성 옵션을 설정할 수 있게 해줍니다. 이 노드는 응답 생성 방식을 제어하는 고급 설정을 제공하며, 여기에는 잘림 동작, 출력 길이 제한 및 사용자 지정 지시사항이 포함됩니다.
 

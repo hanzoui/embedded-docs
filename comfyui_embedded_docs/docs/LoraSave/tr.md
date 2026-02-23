@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraSave/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraSave/tr.md)
 
 LoraSave düğümü, model farklılıklarından LoRA (Low-Rank Adaptation) dosyalarını çıkarır ve kaydeder. Difüzyon modeli farklılıklarını, metin kodlayıcı farklılıklarını veya her ikisini birden işleyebilir ve bunları belirtilen rank ve türde LoRA formatına dönüştürür. Ortaya çıkan LoRA dosyası, daha sonra kullanılmak üzere çıktı dizinine kaydedilir.
 
@@ -6,7 +6,7 @@ LoraSave düğümü, model farklılıklarından LoRA (Low-Rank Adaptation) dosya
 
 | Parametre | Veri Türü | Zorunlu | Aralık | Açıklama |
 |-----------|-----------|----------|-------|-------------|
-| `dosyaadı_öneki` | STRING | Evet | - | Çıktı dosya adı için önek (varsayılan: "loras/ComfyUI_extracted_lora") |
+| `dosyaadı_öneki` | STRING | Evet | - | Çıktı dosya adı için önek (varsayılan: "loras/Hanzo Studio_extracted_lora") |
 | `rütbe` | INT | Evet | 1-4096 | LoRA için rank değeri, boyutu ve karmaşıklığı kontrol eder (varsayılan: 8) |
 | `lora_türü` | COMBO | Evet | Birden fazla seçenek mevcut | Oluşturulacak LoRA'nın türü, çeşitli mevcut seçeneklerle |
 | `yanlılık_farkı` | BOOLEAN | Evet | - | LoRA hesaplamasında bias farklılıklarının dahil edilip edilmeyeceği (varsayılan: True) |

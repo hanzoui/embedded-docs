@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SplitSigmas/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SplitSigmas/pt-BR.md)
 
 O nó SplitSigmas é projetado para dividir uma sequência de valores sigma em duas partes com base em uma etapa especificada. Essa funcionalidade é crucial para operações que exigem tratamento ou processamento diferenciado das partes inicial e subsequente da sequência de sigma, permitindo uma manipulação mais flexível e direcionada desses valores.
 

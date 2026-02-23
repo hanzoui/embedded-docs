@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveLoRA/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveLoRA/zh.md)
 
 SaveLoRA 节点用于将 LoRA（低秩自适应）模型保存至文件。该节点接收一个 LoRA 模型作为输入，并将其写入输出目录中的 `.safetensors` 文件。您可以指定文件名前缀，并可选择包含训练步数以构成最终文件名。
 
@@ -7,7 +7,7 @@ SaveLoRA 节点用于将 LoRA（低秩自适应）模型保存至文件。该节
 | 参数 | 数据类型 | 必填 | 取值范围 | 描述 |
 |-----------|-----------|----------|-------|-------------|
 | `lora` | MODEL | 是 | 不适用 | 需要保存的 LoRA 模型。请勿使用已应用了 LoRA 层的模型。 |
-| `prefix` | STRING | 是 | 不适用 | 保存的 LoRA 文件使用的前缀（默认："loras/ComfyUI_trained_lora"）。 |
+| `prefix` | STRING | 是 | 不适用 | 保存的 LoRA 文件使用的前缀（默认："loras/Hanzo Studio_trained_lora"）。 |
 | `steps` | INT | 否 | 不适用 | 可选：LoRA 已训练的步数，用于命名保存的文件。 |
 
 **注意：** `lora` 输入必须是一个纯 LoRA 模型。请勿提供已应用了 LoRA 层的基础模型。

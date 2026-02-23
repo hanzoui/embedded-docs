@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ComboOptionTestNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ComboOptionTestNode/tr.md)
 
 ComboOptionTestNode, açılır liste seçimlerini test etmek ve iletmek için tasarlanmış bir mantık düğümüdür. Önceden tanımlanmış seçenek setlerine sahip iki açılır liste girişi alır ve seçilen değerleri değiştirmeden doğrudan çıktı olarak verir.
 

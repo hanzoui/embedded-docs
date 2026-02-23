@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/USOStyleReference/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/USOStyleReference/ko.md)
 
 USOStyleReference 노드는 CLIP 비전 출력에서 인코딩된 이미지 특징을 사용하여 모델에 스타일 참조 패치를 적용합니다. 시각적 입력에서 추출된 스타일 정보를 통합하여 입력 모델의 수정된 버전을 생성하며, 이를 통해 스타일 전이 또는 참조 기반 생성 기능을 가능하게 합니다.
 

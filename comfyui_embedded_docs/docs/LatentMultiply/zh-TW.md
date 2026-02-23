@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentMultiply/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentMultiply/zh-TW.md)
 
 LatentMultiply 節點旨在透過指定的乘數來縮放樣本的潛在表示。此操作允許調整潛在空間內特徵的強度或幅度，從而實現對生成內容的微調或探索給定潛在方向上的變異。
 

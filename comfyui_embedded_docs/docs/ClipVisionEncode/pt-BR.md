@@ -1,6 +1,6 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPVisionEncode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPVisionEncode/pt-BR.md)
 
-O nó `CLIP Vision Encode` é um nó de codificação de imagem no ComfyUI, usado para converter imagens de entrada em vetores de características visuais por meio do modelo CLIP Vision. Este nó é uma ponte importante que conecta a compreensão de imagem e texto, sendo amplamente utilizado em vários fluxos de trabalho de geração e processamento de imagens de IA.
+O nó `CLIP Vision Encode` é um nó de codificação de imagem no Hanzo Studio, usado para converter imagens de entrada em vetores de características visuais por meio do modelo CLIP Vision. Este nó é uma ponte importante que conecta a compreensão de imagem e texto, sendo amplamente utilizado em vários fluxos de trabalho de geração e processamento de imagens de IA.
 
 **Funcionalidade do Nó**
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMPP_2M_SDE/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMPP_2M_SDE/ko.md)
 
 SamplerDPMPP_2M_SDE 노드는 확산 모델을 위한 DPM++ 2M SDE 샘플러를 생성합니다. 이 샘플러는 확률적 미분방정식과 2차 미분방정식 솔버를 사용하여 샘플을 생성합니다. 다양한 솔버 유형과 노이즈 처리 옵션을 제공하여 샘플링 과정을 제어합니다.
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProVideoToVideoNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProVideoToVideoNode/zh.md)
 
 此节点使用 Kling AI 模型，基于输入视频和可选的参考图像生成新视频。您提供描述所需内容的文本提示，节点将相应地转换参考视频。它还可以整合最多四张额外的参考图像，以指导输出的风格和内容。
 

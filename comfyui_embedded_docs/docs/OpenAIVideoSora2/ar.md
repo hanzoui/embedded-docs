@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIVideoSora2/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIVideoSora2/ar.md)
 
 ```markdown
 يقوم عقد OpenAIVideoSora2 بتوليد مقاطع فيديو باستخدام نماذج Sora من OpenAI. ينشئ محتوى فيديو استنادًا إلى نصوص توجيهية وصور إدخال اختيارية، ثم يُرجع مخرجات الفيديو المُولَّدة. يدعم العقد فترات ودقات عرض مختلفة للفيديو بناءً على النموذج المحدد.

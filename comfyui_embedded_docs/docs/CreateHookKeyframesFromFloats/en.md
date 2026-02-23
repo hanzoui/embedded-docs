@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookKeyframesFromFloats/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookKeyframesFromFloats/en.md)
 
 This node creates hook keyframes from a list of floating-point strength values, distributing them evenly between specified start and end percentages. It generates a sequence of keyframes where each strength value is assigned to a specific percentage position in the animation timeline. The node can either create a new keyframe group or add to an existing one, with an option to print the generated keyframes for debugging purposes.
 

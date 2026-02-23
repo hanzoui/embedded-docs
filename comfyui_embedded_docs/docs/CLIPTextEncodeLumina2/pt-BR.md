@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeLumina2/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeLumina2/pt-BR.md)
 
 O nó CLIP Text Encode for Lumina2 codifica um prompt de sistema e um prompt do usuário usando um modelo CLIP em um *embedding* que pode orientar o modelo de difusão para gerar imagens específicas. Ele combina um prompt de sistema predefinido com seu prompt de texto personalizado e os processa através do modelo CLIP para criar dados de condicionamento para a geração de imagens.
 

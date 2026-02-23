@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioConcat/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioConcat/fr.md)
 
 Le nœud AudioConcat combine deux entrées audio en les joignant l'une à l'autre. Il prend deux entrées audio et les connecte dans l'ordre que vous spécifiez, en plaçant le deuxième audio avant ou après le premier audio. Le nœud gère automatiquement les différents formats audio en convertissant l'audio mono en stéréo et en faisant correspondre les taux d'échantillonnage entre les deux entrées.
 

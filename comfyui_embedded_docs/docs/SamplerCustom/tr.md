@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerCustom/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerCustom/tr.md)
 
 SamplerCustom düğümü, çeşitli uygulamalar için esnek ve özelleştirilebilir bir örnekleme mekanizması sağlamak üzere tasarlanmıştır. Kullanıcıların, örnekleme sürecinin uyarlanabilirliğini ve verimliliğini artıran, kendi özel ihtiyaçlarına uygun farklı örnekleme stratejilerini seçmesine ve yapılandırmasına olanak tanır.
 

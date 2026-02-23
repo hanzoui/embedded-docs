@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ReplaceVideoLatentFrames/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ReplaceVideoLatentFrames/en.md)
 
 The ReplaceVideoLatentFrames node inserts frames from a source latent video into a destination latent video, starting at a specified frame index. If the source latent is not provided, the destination latent is returned unchanged. The node handles negative indexing and will issue a warning if the source frames do not fit within the destination.
 

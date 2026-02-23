@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageSetNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageSetNode/tr.md)
 
 LoadImageSetNode, toplu işleme ve eğitim amaçları için giriş dizininden birden fazla görüntü yükler. Çeşitli görüntü formatlarını destekler ve isteğe bağlı olarak görüntüleri farklı yöntemlerle yeniden boyutlandırabilir. Bu düğüm, seçilen tüm görüntüleri bir toplu iş olarak işler ve tek bir tensör olarak döndürür.
 

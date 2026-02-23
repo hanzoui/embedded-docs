@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TomePatchModel/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TomePatchModel/zh.md)
 
 TomePatchModel 节点对扩散模型应用令牌合并（ToMe）技术，以降低推理过程中的计算需求。该技术通过在注意力机制中有选择地合并相似令牌，使模型能够处理更少的令牌同时保持图像质量。这种方法有助于在不显著损失质量的情况下加速生成过程。
 

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RegexMatch/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RegexMatch/fr.md)
 
 Le nœud RegexMatch vérifie si une chaîne de texte correspond à un motif d'expression régulière spécifié. Il recherche dans la chaîne d'entrée toute occurrence du motif regex et retourne si une correspondance a été trouvée. Vous pouvez configurer divers indicateurs regex comme la sensibilité à la casse, le mode multiligne et le mode dotall pour contrôler le comportement de la correspondance de motif.
 

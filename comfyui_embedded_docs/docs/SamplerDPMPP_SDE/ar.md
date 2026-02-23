@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMPP_SDE/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMPP_SDE/ar.md)
 
 ```markdown
 عقدة SamplerDPMPP_SDE تُنشئ عيِّنًا من نوع DPM++ SDE (معادلة تفاضلية عشوائية) لاستخدامه في عملية أخذ العينات. توفر هذه العيِّنة طريقة عشوائية لأخذ العينات مع معاملات ضوضاء قابلة للتكوين واختيار الجهاز. تُرجع العقدة كائن عيِّنة يمكن استخدامه في خطوة أخذ العينات.

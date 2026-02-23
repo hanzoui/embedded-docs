@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanImageToImageApi/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanImageToImageApi/ar.md)
 
 ```markdown
 عُقْدَة Wan Image to Image تُنشئ صورة من صورة أو صورتين مُدخلتين ونص موجه. تقوم بتحويل الصور المُدخلة بناءً على الوصف الذي تقدمه، مما يُنشئ صورة جديدة تحافظ على النسبة الأصلية للصورة المُدخلة. حجم الصورة الناتجة ثابت عند 1.6 ميغابكسل بغض النظر عن حجم الإدخال.

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Flux2Scheduler/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Flux2Scheduler/en.md)
 
 The Flux2Scheduler node generates a sequence of noise levels (sigmas) for the denoising process, specifically tailored for the Flux model. It calculates a schedule based on the number of denoising steps and the dimensions of the target image, which influences the progression of noise removal during image generation.
 

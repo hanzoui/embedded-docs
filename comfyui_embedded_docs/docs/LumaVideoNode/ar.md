@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LumaVideoNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LumaVideoNode/ar.md)
 
 ينشئ مقاطع فيديو بشكل متزامن استنادًا إلى الإعدادات المطلوبة والمخرجات. تُنشئ هذه العُقْدة محتوى فيديو باستخدام الأوصاف النصية ومعاملات توليد متنوعة، لتُنتج مقطع الفيديو النهائي بمجرد اكتمال عملية التوليد.
 

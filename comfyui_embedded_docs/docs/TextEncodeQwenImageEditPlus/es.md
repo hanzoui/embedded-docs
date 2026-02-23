@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeQwenImageEditPlus/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeQwenImageEditPlus/es.md)
 
 El nodo TextEncodeQwenImageEditPlus procesa instrucciones de texto e imágenes opcionales para generar datos de condicionamiento para tareas de generación o edición de imágenes. Utiliza una plantilla especializada para analizar imágenes de entrada y comprender cómo las instrucciones de texto deben modificarlas, luego codifica esta información para su uso en pasos posteriores de generación. El nodo puede manejar hasta tres imágenes de entrada y opcionalmente generar latentes de referencia cuando se proporciona un VAE.
 

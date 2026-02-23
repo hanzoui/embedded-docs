@@ -1,12 +1,12 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPLoader/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPLoader/tr.md)
 
 Bu düğüm temel olarak CLIP metin kodlayıcı modellerini bağımsız olarak yüklemek için kullanılır.
 Model dosyaları şu yollarda tespit edilebilir:
 
-- "ComfyUI/models/text_encoders/"
-- "ComfyUI/models/clip/"
+- "Hanzo Studio/models/text_encoders/"
+- "Hanzo Studio/models/clip/"
 
-> ComfyUI başladıktan sonra bir model kaydederseniz, en son model dosyası yol listesini almak için ComfyUI önyüzünü yenilemeniz gerekecektir
+> Hanzo Studio başladıktan sonra bir model kaydederseniz, en son model dosyası yol listesini almak için Hanzo Studio önyüzünü yenilemeniz gerekecektir
 
 Desteklenen model formatları:
 
@@ -19,14 +19,14 @@ Desteklenen model formatları:
 - `.pkl`
 - `.sft`
 
-En son model dosyası yükleme hakkında daha fazla ayrıntı için lütfen [folder_paths](https://github.com/comfyanonymous/ComfyUI/blob/master/folder_paths.py) sayfasına bakın
+En son model dosyası yükleme hakkında daha fazla ayrıntı için lütfen [folder_paths](https://github.com/hanzoai/studio/blob/master/folder_paths.py) sayfasına bakın
 
 ## Girişler
 
 | Parametre     | Veri Tipi     | Açıklama |
 |---------------|---------------|-------------|
 | `clip_adı`   | COMBO[STRING] | Yüklenecek CLIP modelinin adını belirtir. Bu ad, model dosyasını önceden tanımlanmış bir dizin yapısı içinde bulmak için kullanılır. |
-| `tür`        | COMBO[STRING] | Yüklenecek CLIP modelinin türünü belirler. ComfyUI daha fazla modeli destekledikçe, buraya yeni türler eklenecektir. Ayrıntılar için lütfen [node.py](https://github.com/comfyanonymous/ComfyUI/blob/master/nodes.py) dosyasındaki `CLIPLoader` sınıf tanımına bakın. |
+| `tür`        | COMBO[STRING] | Yüklenecek CLIP modelinin türünü belirler. Hanzo Studio daha fazla modeli destekledikçe, buraya yeni türler eklenecektir. Ayrıntılar için lütfen [node.py](https://github.com/hanzoai/studio/blob/master/nodes.py) dosyasındaki `CLIPLoader` sınıf tanımına bakın. |
 | `cihaz`      | COMBO[STRING] | CLIP modelini yüklemek için kullanılacak cihazı seçin. `default` modeli GPU üzerinde çalıştırır, `CPU` seçmek ise modelin CPU üzerinde yüklenmesini zorlar. |
 
 ### Cihaz Seçenekleri Açıklaması
@@ -61,7 +61,7 @@ CPU üzerinde çalıştırmak GPU'dan çok daha yavaş olacaktır, ancak diğer 
 | lumina2 | gemma 2 2B |
 | wan | umt5 xxl |
 
-ComfyUI güncellendikçe, bu kombinasyonlar genişleyebilir. Ayrıntılar için lütfen [node.py](https://github.com/comfyanonymous/ComfyUI/blob/master/nodes.py) dosyasındaki `CLIPLoader` sınıf tanımına bakın
+Hanzo Studio güncellendikçe, bu kombinasyonlar genişleyebilir. Ayrıntılar için lütfen [node.py](https://github.com/hanzoai/studio/blob/master/nodes.py) dosyasındaki `CLIPLoader` sınıf tanımına bakın
 
 ## Çıkışlar
 
@@ -71,4 +71,4 @@ ComfyUI güncellendikçe, bu kombinasyonlar genişleyebilir. Ayrıntılar için 
 
 ## Ek Notlar
 
-CLIP modelleri, ComfyUI'da metin kodlayıcılar olarak çekirdek bir rol oynar ve metin istemlerini difüzyon modellerinin anlayabileceği sayısal temsillere dönüştürmekten sorumludur. Onları birer çevirmen olarak düşünebilirsiniz; metninizi büyük modellerin anlayabileceği bir dile çevirmekle görevlidirler. Tabii ki, farklı modellerin kendi "lehçeleri" olduğundan, metin kodlama sürecini tamamlamak için farklı mimariler arasında farklı CLIP kodlayıcılarına ihtiyaç duyulur.
+CLIP modelleri, Hanzo Studio'da metin kodlayıcılar olarak çekirdek bir rol oynar ve metin istemlerini difüzyon modellerinin anlayabileceği sayısal temsillere dönüştürmekten sorumludur. Onları birer çevirmen olarak düşünebilirsiniz; metninizi büyük modellerin anlayabileceği bir dile çevirmekle görevlidirler. Tabii ki, farklı modellerin kendi "lehçeleri" olduğundan, metin kodlama sürecini tamamlamak için farklı mimariler arasında farklı CLIP kodlayıcılarına ihtiyaç duyulur.

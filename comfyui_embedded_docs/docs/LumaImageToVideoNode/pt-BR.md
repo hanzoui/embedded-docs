@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LumaImageToVideoNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LumaImageToVideoNode/pt-BR.md)
 
 Gera vídeos de forma síncrona com base em um prompt, imagens de entrada e um tamanho de saída. Este nó cria vídeos usando a API Luma, fornecendo prompts de texto e imagens opcionais de início e fim para definir o conteúdo e a estrutura do vídeo.
 

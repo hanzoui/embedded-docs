@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeAceStepAudio/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeAceStepAudio/tr.md)
 
 TextEncodeAceStepAudio düğümü, etiketleri ve şarkı sözlerini token'lara birleştirerek ve ayarlanabilir şarkı sözü gücü ile kodlayarak, ses koşullandırması için metin girişlerini işler. Bir CLIP modelini metin açıklamaları ve şarkı sözleriyle birlikte alır, bunları birlikte token'lara ayırır ve ses üretimi görevleri için uygun koşullandırma verisi oluşturur. Düğüm, son çıktı üzerindeki etkilerini kontrol eden bir güç parametresi aracılığıyla şarkı sözlerinin etkisinin ince ayarını yapmayı sağlar.
 

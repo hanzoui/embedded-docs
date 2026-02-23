@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ReferenceLatent/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ReferenceLatent/pt-BR.md)
 
 Este nó define o latente de referência para um modelo de edição. Ele recebe dados de condicionamento e uma entrada latente opcional, então modifica o condicionamento para incluir informações do latente de referência. Se o modelo suportar, você pode encadear vários nós ReferenceLatent para definir múltiplas imagens de referência.
 

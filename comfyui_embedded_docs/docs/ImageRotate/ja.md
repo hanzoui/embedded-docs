@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageRotate/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageRotate/ja.md)
 
 ImageRotateノードは、入力画像を指定された角度で回転させます。このノードは、回転なし、90度時計回り、180度、270度時計回りの4つの回転オプションをサポートしています。回転は、画像データの整合性を維持する効率的なテンソル操作を使用して実行されます。
 

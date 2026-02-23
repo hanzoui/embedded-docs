@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveConcatTrack/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveConcatTrack/ar.md)
 
 يقوم عقدة WanMoveConcatTrack بدمج مجموعتين من بيانات تتبع الحركة في تسلسل واحد أطول. تعمل عن طريق ربط مسارات التتبع وأقنعة الرؤية من مسارات التتبع المدخلة على طول أبعادها الخاصة. إذا تم توفير مسار تتبع واحد فقط، فإنها تمرر تلك البيانات دون تغيير.
 

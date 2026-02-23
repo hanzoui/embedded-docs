@@ -1,6 +1,6 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVLatentUpsampler/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVLatentUpsampler/zh.md)
 
-该文档由AI生成。如果您发现任何错误或有改进建议，欢迎贡献！[在GitHub上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVLatentUpsampler/en.md)
+该文档由AI生成。如果您发现任何错误或有改进建议，欢迎贡献！[在GitHub上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVLatentUpsampler/en.md)
 
 LTXVLatentUpsampler 节点将视频潜在表示的空间分辨率提升两倍。它使用一个专门的放大模型来处理潜在数据，该数据首先会进行反归一化，然后使用提供的VAE的通道统计量重新归一化。此节点专为潜在空间内的视频工作流设计。
 

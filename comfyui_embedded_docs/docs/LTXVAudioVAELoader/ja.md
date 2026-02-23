@@ -1,12 +1,12 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVAudioVAELoader/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVAudioVAELoader/ja.md)
 
-LTXV Audio VAE Loaderノードは、チェックポイントファイルから事前学習済みのオーディオ変分オートエンコーダー（VAE）モデルを読み込みます。指定されたチェックポイントを読み取り、その重みとメタデータをロードし、ComfyUI内のオーディオ生成または処理ワークフローで使用できるようにモデルを準備します。
+LTXV Audio VAE Loaderノードは、チェックポイントファイルから事前学習済みのオーディオ変分オートエンコーダー（VAE）モデルを読み込みます。指定されたチェックポイントを読み取り、その重みとメタデータをロードし、Hanzo Studio内のオーディオ生成または処理ワークフローで使用できるようにモデルを準備します。
 
 ## 入力
 
 | パラメータ | データ型 | 必須 | 範囲 | 説明 |
 |-----------|-----------|----------|-------|-------------|
-| `ckpt_name` | STRING | はい | `checkpoints`フォルダ内のすべてのファイル。<br>*例: `"audio_vae.safetensors"`* | 読み込むオーディオVAEチェックポイントです。これは、ComfyUIの`checkpoints`ディレクトリにあるすべてのファイルから生成されたドロップダウンリストです。 |
+| `ckpt_name` | STRING | はい | `checkpoints`フォルダ内のすべてのファイル。<br>*例: `"audio_vae.safetensors"`* | 読み込むオーディオVAEチェックポイントです。これは、Hanzo Studioの`checkpoints`ディレクトリにあるすべてのファイルから生成されたドロップダウンリストです。 |
 
 ## 出力
 

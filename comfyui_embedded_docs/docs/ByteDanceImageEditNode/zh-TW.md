@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageEditNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageEditNode/zh-TW.md)
 
 ByteDance 圖像編輯節點允許您透過 API 使用 ByteDance 的 AI 模型來修改圖像。您提供輸入圖像和描述所需更改的文字提示，該節點會根據您的指示處理圖像。此節點會自動處理 API 通訊並返回編輯後的圖像。
 

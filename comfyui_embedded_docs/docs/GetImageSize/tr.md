@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GetImageSize/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GetImageSize/tr.md)
 
 GetImageSize düğümü, bir giriş görüntüsünden boyut ve toplu işlem bilgilerini çıkarır. Görüntünün genişliğini, yüksekliğini ve toplu işlem boyutunu döndürürken, bu bilgiyi aynı zamanda düğüm arayüzünde ilerleme metni olarak görüntüler. Orijinal görüntü verisi değişmeden geçer.
 

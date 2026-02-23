@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyAudio/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyAudio/fr.md)
 
 Le nœud EmptyAudio génère un clip audio silencieux avec une durée, une fréquence d'échantillonnage et une configuration de canaux spécifiées. Il crée une forme d'onde contenant uniquement des zéros, produisant un silence complet pour la durée donnée. Ce nœud est utile pour créer des audio de substitution ou générer des segments silencieux dans les flux de travail audio.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyMultiImageToModelNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyMultiImageToModelNode/ar.md)
 
 يستخدم هذا العقد واجهة برمجة تطبيقات Meshy لإنشاء نموذج ثلاثي الأبعاد من صور إدخال متعددة. يقوم برفع الصور المقدمة، وإرسال مهمة معالجة، وإرجاع ملفات النموذج ثلاثي الأبعاد الناتجة (GLB و FBX) مع معرف المهمة للرجوع إليها.
 

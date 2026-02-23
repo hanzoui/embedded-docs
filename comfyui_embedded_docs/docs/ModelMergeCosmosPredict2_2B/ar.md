@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmosPredict2_2B/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmosPredict2_2B/ar.md)
 
 تُدمج عقدة ModelMergeCosmosPredict2_2B نموذجين من نماذج الانتشار باستخدام نهج قائم على الكتل مع تحكم دقيق في المكونات المختلفة للنموذج. تتيح لك مزج أجزاء محددة من نموذجين عن طريق ضبط أوزان الاستيفاء لمضمنات المواضع، ومضمنات الزمن، وكتل المحولات، والطبقات النهائية. وهذا يوفر تحكمًا دقيقًا في كيفية مساهمة المكونات المعمارية المختلفة من كل نموذج في النتيجة المدمجة النهائية.
 

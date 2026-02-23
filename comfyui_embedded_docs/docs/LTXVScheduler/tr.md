@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVScheduler/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVScheduler/tr.md)
 
 LTXVScheduler düğümü, özel örnekleme işlemleri için sigma değerleri üretir. Girdi gizli değişkenindeki token sayısına dayalı olarak gürültü zamanlama parametrelerini hesaplar ve örnekleme zamanlaması oluşturmak için bir sigmoid dönüşümü uygular. Düğüm isteğe bağlı olarak, elde edilen sigmaları belirli bir terminal değeriyle eşleşecek şekilde uzatabilir.
 

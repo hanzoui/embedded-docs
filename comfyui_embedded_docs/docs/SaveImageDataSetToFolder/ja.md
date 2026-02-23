@@ -1,6 +1,6 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveImageDataSetToFolder/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImageDataSetToFolder/ja.md)
 
-このノードは、画像のリストをComfyUIの出力ディレクトリ内の指定されたフォルダに保存します。複数の画像を入力として受け取り、カスタマイズ可能なファイル名プレフィックスでディスクに書き込みます。
+このノードは、画像のリストをHanzo Studioの出力ディレクトリ内の指定されたフォルダに保存します。複数の画像を入力として受け取り、カスタマイズ可能なファイル名プレフィックスでディスクに書き込みます。
 
 ## 入力
 

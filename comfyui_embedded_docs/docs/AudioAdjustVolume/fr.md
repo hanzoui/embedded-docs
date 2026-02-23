@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioAdjustVolume/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioAdjustVolume/fr.md)
 
 Le nœud AudioAdjustVolume modifie l'intensité sonore d'un audio en appliquant des ajustements de volume en décibels. Il prend une entrée audio et applique un facteur de gain basé sur le niveau de volume spécifié, où les valeurs positives augmentent le volume et les valeurs négatives le diminuent. Le nœud retourne l'audio modifié avec la même fréquence d'échantillonnage que l'original.
 

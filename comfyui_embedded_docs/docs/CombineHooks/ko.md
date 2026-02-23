@@ -1,6 +1,6 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CombineHooks/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CombineHooks/ko.md)
 
-Combine Hooks [2] 노드는 두 개의 훅 그룹을 단일 결합 훅 그룹으로 병합합니다. 두 개의 선택적 훅 입력을 받아 ComfyUI의 훅 결합 기능을 사용하여 결합합니다. 이를 통해 여러 훅 구성을 통합하여 효율적인 처리를 할 수 있습니다.
+Combine Hooks [2] 노드는 두 개의 훅 그룹을 단일 결합 훅 그룹으로 병합합니다. 두 개의 선택적 훅 입력을 받아 Hanzo Studio의 훅 결합 기능을 사용하여 결합합니다. 이를 통해 여러 훅 구성을 통합하여 효율적인 처리를 할 수 있습니다.
 
 ## 입력
 

@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SplitAudioChannels/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SplitAudioChannels/es.md)
 
 El nodo SplitAudioChannels separa audio estéreo en canales izquierdo y derecho individuales. Toma una entrada de audio estéreo con dos canales y produce dos flujos de audio separados, uno para el canal izquierdo y otro para el canal derecho.
 

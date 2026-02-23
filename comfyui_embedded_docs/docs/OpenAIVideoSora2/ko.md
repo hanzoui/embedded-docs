@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIVideoSora2/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIVideoSora2/ko.md)
 
 OpenAIVideoSora2 노드는 OpenAI의 Sora 모델을 사용하여 비디오를 생성합니다. 텍스트 프롬프트와 선택적 입력 이미지를 기반으로 비디오 콘텐츠를 생성한 후 생성된 비디오 출력을 반환합니다. 이 노드는 선택된 모델에 따라 다양한 비디오 길이와 해상도를 지원합니다.
 

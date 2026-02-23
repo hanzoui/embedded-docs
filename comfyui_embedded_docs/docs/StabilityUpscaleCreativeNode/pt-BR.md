@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityUpscaleCreativeNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityUpscaleCreativeNode/pt-BR.md)
 
 Melhora a resolução da imagem com alterações mínimas para 4K. Este nó utiliza a tecnologia de upscaling criativo da Stability AI para aumentar a resolução da imagem, preservando o conteúdo original e adicionando detalhes criativos sutis.
 

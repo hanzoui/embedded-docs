@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Flux2Scheduler/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Flux2Scheduler/ja.md)
 
 Flux2Schedulerノードは、Fluxモデルに特化して、ノイズ除去プロセス用の一連のノイズレベル（シグマ）を生成します。これは、ノイズ除去ステップ数と生成対象画像の寸法に基づいてスケジュールを計算し、画像生成中のノイズ除去の進行に影響を与えます。
 

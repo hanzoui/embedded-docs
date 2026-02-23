@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentOperationSharpen/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentOperationSharpen/ar.md)
 
 يقوم عقد LatentOperationSharpen بتطبيق تأثير حدة على التمثيلات الكامنة باستخدام نواة غوسية. يعمل من خلال تسوية البيانات الكامنة، وتطبيق عملية التفاف بنواة حدة مخصصة، ثم استعادة الإضاءة الأصلية. يعزز هذا التفاصيل والحواف في التمثيل بالفضاء الكامن.
 

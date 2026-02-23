@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MoonvalleyImg2VideoNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MoonvalleyImg2VideoNode/zh-TW.md)
 
 此節點使用 Moonvalley API 將參考圖像轉換為影片。它接收輸入圖像和文字提示，以生成具有指定解析度、品質設定和創意控制的影片。該節點處理從圖像上傳到影片生成和下載的整個過程。
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDpmpp2mSde/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDpmpp2mSde/pt-BR.md)
 
 Este nó foi projetado para gerar um amostrador para o modelo DPMPP_2M_SDE, permitindo a criação de amostras com base em tipos de solucionador, níveis de ruído e preferências de dispositivo de computação especificados. Ele abstrai as complexidades da configuração do amostrador, fornecendo uma interface simplificada para gerar amostras com configurações personalizadas.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingMotionControl/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingMotionControl/pt-BR.md)
 
 O nó Kling Motion Control gera um vídeo aplicando o movimento, as expressões e os movimentos de câmera de um vídeo de referência a um personagem definido por uma imagem de referência e um prompt de texto. Ele permite controlar se a orientação final do personagem vem do vídeo de referência ou da imagem de referência.
 

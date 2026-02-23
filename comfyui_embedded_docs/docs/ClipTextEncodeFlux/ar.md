@@ -1,6 +1,6 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeFlux/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeFlux/ar.md)
 
-`CLIPTextEncodeFlux` هو عُقدة تشفير نصي متقدمة في ComfyUI، مُصممة خصيصًا لهندسة Flux. تستخدم آلية تشفير مزدوجة (CLIP-L و T5XXL) لمعالجة الكلمات المفتاحية المنظمة ووصوف اللغة الطبيعية التفصيلية، مما يوفر لنموذج Flux فهمًا نصيًا أكثر دقةً وشمولية لتحسين جودة توليد الصور من النص.
+`CLIPTextEncodeFlux` هو عُقدة تشفير نصي متقدمة في Hanzo Studio، مُصممة خصيصًا لهندسة Flux. تستخدم آلية تشفير مزدوجة (CLIP-L و T5XXL) لمعالجة الكلمات المفتاحية المنظمة ووصوف اللغة الطبيعية التفصيلية، مما يوفر لنموذج Flux فهمًا نصيًا أكثر دقةً وشمولية لتحسين جودة توليد الصور من النص.
 
 تعتمد هذه العُقدة على آلية تعاون بين مشفرين:
 

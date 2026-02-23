@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateList/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateList/zh.md)
 
 此节点将多个输入合并为一个顺序列表。它接收任意数量的相同数据类型输入，并按连接顺序将它们串联起来。该节点适用于准备批量数据（如图像或文本），以便在工作流中被其他节点处理。
 

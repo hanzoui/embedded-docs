@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ReplaceVideoLatentFrames/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ReplaceVideoLatentFrames/zh-TW.md)
 
 ReplaceVideoLatentFrames 節點會將來源潛變數影片中的幀插入到目標潛變數影片中，從指定的幀索引開始。如果未提供來源潛變數，則目標潛變數將保持不變地返回。此節點會處理負數索引，並且如果來源幀無法放入目標影片中，將會發出警告。
 

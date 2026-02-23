@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/IdeogramV2/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/IdeogramV2/ar.md)
 
 ```markdown
 يُنتج عقد Ideogram V2 الصور باستخدام نموذج الذكاء الاصطناعي Ideogram V2. يأخذ العقد نصوص الإرشاد (prompts) وإعدادات توليد متنوعة لإنشاء الصور من خلال خدمة واجهة برمجة التطبيقات (API). يدعم العقد نسب أبعاد ودقات وضوح وخيارات أنماط مختلفة لتخصيص الصور الناتجة.

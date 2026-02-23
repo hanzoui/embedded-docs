@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanVideo15ImageToVideo/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanVideo15ImageToVideo/ar.md)
 
 يُعِد عقد HunyuanVideo15ImageToVideo بيانات التكييف والفضاء الكامن لتوليد الفيديو بناءً على نموذج HunyuanVideo 1.5. ينشئ تمثيلاً كامنًا أوليًا لتسلسل الفيديو ويمكنه دمج صورة بداية أو ناتج رؤية CLIP بشكل اختياري لتوجيه عملية التوليد.
 

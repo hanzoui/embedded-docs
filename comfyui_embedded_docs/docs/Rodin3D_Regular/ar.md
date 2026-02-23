@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Rodin3D_Regular/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Rodin3D_Regular/ar.md)
 
 يُستخدم عقد Rodin 3D Regular لتوليد أصول ثلاثية الأبعاد باستخدام واجهة برمجة تطبيقات Rodin. يأخذ العقد الصور المدخلة ويعالجها عبر خدمة Rodin لإنشاء نماذج ثلاثية الأبعاد. يتولى العقد إدارة سير العمل بالكامل بدءًا من إنشاء المهمة وصولاً إلى تنزيل ملفات النموذج ثلاثي الأبعاد النهائية.
 

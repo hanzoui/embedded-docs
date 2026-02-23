@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVSeparateAVLatent/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVSeparateAVLatent/ar.md)
 
 يقوم عُقدة `LTXVSeparateAVLatent` بأخذ تمثيل كامن (كامن) سمعي بصري مُدمج وتفصله إلى جزأين متميزين: أحدهما للفيديو والآخر للصوت. تقوم بفصل العينات، وإذا كانت موجودة، تفصل أقنعة الضوضاء من الكامن المدخل، مما يخلق كائنين كامنين جديدين.
 

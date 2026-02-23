@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GeminiImage/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GeminiImage/es.md)
 
 El nodo GeminiImage genera respuestas de texto e imagen a partir de los modelos de IA Gemini de Google. Permite proporcionar entradas multimodales que incluyen prompts de texto, imágenes y archivos para crear salidas coherentes de texto e imagen. El nodo maneja toda la comunicación con la API y el análisis de respuestas con los últimos modelos Gemini.
 

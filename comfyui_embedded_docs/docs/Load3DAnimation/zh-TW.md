@@ -1,6 +1,6 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Load3DAnimation/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Load3DAnimation/zh-TW.md)
 
-Load3DAnimation 節點是用於載入和處理 3D 模型檔案的核心節點。載入節點時，它會自動從 `ComfyUI/input/3d/` 中獲取可用的 3D 資源。您也可以使用上傳功能上傳支援的 3D 檔案進行預覽。
+Load3DAnimation 節點是用於載入和處理 3D 模型檔案的核心節點。載入節點時，它會自動從 `Hanzo Studio/input/3d/` 中獲取可用的 3D 資源。您也可以使用上傳功能上傳支援的 3D 檔案進行預覽。
 
 > - 此節點的大部分功能與 Load 3D 節點相同，但此節點支援載入帶有動畫的模型，並且您可以在節點中預覽相應的動畫。
 > - 本文檔內容與 Load3D 節點相同，因為除了動畫預覽和播放外，它們的功能完全相同。
@@ -9,9 +9,9 @@ Load3DAnimation 節點是用於載入和處理 3D 模型檔案的核心節點。
 目前，此節點支援多種 3D 檔案格式，包括 `.gltf`、`.glb`、`.obj`、`.fbx` 和 `.stl`。
 
 **3D 節點偏好設定**
-3D 節點的一些相關偏好設定可以在 ComfyUI 的設定選單中進行配置。請參考以下文檔進行相應設定：
+3D 節點的一些相關偏好設定可以在 Hanzo Studio 的設定選單中進行配置。請參考以下文檔進行相應設定：
 
-[設定選單](https://docs.comfy.org/interface/settings/3d)
+[設定選單](https://docs.hanzo.ai/interface/settings/3d)
 
 除了常規的節點輸出外，Load3D 在畫布選單中還有許多與 3D 視圖相關的設定。
 
@@ -19,7 +19,7 @@ Load3DAnimation 節點是用於載入和處理 3D 模型檔案的核心節點。
 
 | 參數名稱      | 類型           | 描述                                                     | 預設值 | 範圍          |
 |--------------|----------------|----------------------------------------------------------|---------|--------------|
-| `模型檔案` | File Selection | 3D 模型檔案路徑，支援上傳，預設從 `ComfyUI/input/3d/` 讀取模型檔案 | -       | 支援的格式    |
+| `模型檔案` | File Selection | 3D 模型檔案路徑，支援上傳，預設從 `Hanzo Studio/input/3d/` 讀取模型檔案 | -       | 支援的格式    |
 | `寬度`      | INT            | 畫布渲染寬度                                             | 1024    | 1-4096       |
 | `高度`     | INT            | 畫布渲染高度                                             | 1024    | 1-4096       |
 
@@ -60,7 +60,7 @@ Load3D 節點的畫布區域包含眾多檢視操作，包括：
 ### 1. 檢視操作
 
 <video controls width="640" height="360">
-  <source src="https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
   您的瀏覽器不支援影片播放。
 </video>
 
@@ -73,7 +73,7 @@ Load3D 節點的畫布區域包含眾多檢視操作，包括：
 
 ### 2. 左側選單功能
 
-![選單](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu.webp)
+![選單](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu.webp)
 
 在畫布中，一些設定隱藏在選單內。點擊選單按鈕可展開不同的選單
 
@@ -85,7 +85,7 @@ Load3D 節點的畫布區域包含眾多檢視操作，包括：
 
 #### 場景
 
-![場景選單](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_scene.webp)
+![場景選單](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_scene.webp)
 
 場景選單提供一些基本的場景設定功能
 
@@ -96,7 +96,7 @@ Load3D 節點的畫布區域包含眾多檢視操作，包括：
 
 #### 模型
 
-![模型選單](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_model.webp)
+![模型選單](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_model.webp)
 
 模型選單提供一些與模型相關的功能
 
@@ -105,7 +105,7 @@ Load3D 節點的畫布區域包含眾多檢視操作，包括：
 
 #### 攝影機
 
-![攝影機選單](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_camera.webp)
+![攝影機選單](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_camera.webp)
 
 此選單提供正交檢視和透視檢視之間的切換，以及透視角度大小設定
 
@@ -114,13 +114,13 @@ Load3D 節點的畫布區域包含眾多檢視操作，包括：
 
 #### 光源
 
-![光源選單](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_light.webp)
+![光源選單](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_light.webp)
 
 透過此選單，您可以快速調整場景的全域光照強度
 
 #### 匯出
 
-![匯出選單](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_export.webp)
+![匯出選單](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_export.webp)
 
 此選單提供快速轉換和匯出模型格式的功能
 

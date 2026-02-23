@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageReferenceNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageReferenceNode/tr.md)
 
 ByteDance Image Reference Node, bir metin istemi ve bir ila dört referans görseli kullanarak videolar oluşturur. Görselleri ve istemi, açıklamanızla eşleşen bir video oluştururken referans görsellerinizden görsel stil ve içeriği birleştiren harici bir API servisine gönderir. Düğüm, video çözünürlüğü, en-boy oranı, süre ve diğer oluşturma parametreleri için çeşitli kontroller sağlar.
 

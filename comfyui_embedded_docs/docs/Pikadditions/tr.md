@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Pikadditions/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Pikadditions/tr.md)
 
 Pikadditions düğümü, videonuza herhangi bir nesne veya görüntü eklemenize olanak tanır. Bir video yüklersiniz ve kusursuz bir şekilde entegre edilmiş bir sonuç oluşturmak için ne eklemek istediğinizi belirtirsiniz. Bu düğüm, görüntüleri videolara doğal görünümlü bir entegrasyonla eklemek için Pika API'sini kullanır.
 

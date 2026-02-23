@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/NormalizeVideoLatentStart/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/NormalizeVideoLatentStart/ja.md)
 
 このノードは、ビデオの潜在表現の最初の数フレームを調整し、それらが後に続くフレームに似た見た目になるようにします。ビデオの後半にある一連の参照フレームから平均と変動を計算し、それと同じ特性を開始フレームに適用します。これにより、ビデオの冒頭でより滑らかで一貫した視覚的遷移を作成するのに役立ちます。
 

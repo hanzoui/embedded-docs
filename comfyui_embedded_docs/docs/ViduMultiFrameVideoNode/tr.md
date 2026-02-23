@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduMultiFrameVideoNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduMultiFrameVideoNode/tr.md)
 
 Bu düğüm, birden fazla anahtar kare arasında geçişler oluşturarak bir video üretir. Başlangıç görüntüsünden başlar ve kullanıcı tanımlı bitiş görüntüleri ve komut dizilerinden oluşan bir sırayı animasyonlaştırarak, çıktı olarak tek bir video dosyası oluşturur.
 

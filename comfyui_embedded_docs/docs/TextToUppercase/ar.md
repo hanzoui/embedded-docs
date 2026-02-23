@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextToUppercase/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextToUppercase/ar.md)
 
 تأخذ عقدة تحويل النص إلى أحرف كبيرة (Text to Uppercase) نصًا مُدخلاً وتحول جميع أحرفه إلى أحرف كبيرة. إنها أداة بسيطة لمعالجة النصوص تقوم بتعديل حالة الأحرف في السلسلة النصية المقدمة.
 

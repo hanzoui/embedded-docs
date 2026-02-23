@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageSkinEnhancerNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageSkinEnhancerNode/tr.md)
 
 Magnific Image Skin Enhancer düğümü, portre görüntülerine cilt görünümünü iyileştirmek için özel AI işleme uygular. Sanatsal efektler için yaratıcı, orijinal görünümü korumak için sadık ve aydınlatma veya gerçekçilik gibi hedeflenen iyileştirmeler için esnek olmak üzere farklı geliştirme hedefleri için üç ayrı mod sunar. Düğüm, işleme için görüntüyü harici bir API'ye yükler ve geliştirilmiş sonucu döndürür.
 

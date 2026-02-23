@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecode/zh-TW.md)
 
 VAEDecode 節點專為使用指定的變分自編碼器（VAE）將潛在表示解碼為影像而設計。其主要功能是從壓縮的資料表示生成影像，協助從潛在空間編碼重建影像。
 

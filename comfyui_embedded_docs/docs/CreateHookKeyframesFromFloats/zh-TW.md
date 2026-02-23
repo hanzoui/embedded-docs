@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookKeyframesFromFloats/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookKeyframesFromFloats/zh-TW.md)
 
 此節點從一組浮點數強度值列表中建立掛鉤關鍵影格，並將它們均勻分佈在指定的起始和結束百分比之間。它會產生一系列關鍵影格，每個強度值都會被分配到動畫時間軸中的特定百分比位置。此節點可以建立新的關鍵影格群組，或是添加到現有的群組中，並提供列印生成關鍵影格的功能以供除錯使用。
 

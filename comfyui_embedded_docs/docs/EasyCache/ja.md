@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EasyCache/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EasyCache/ja.md)
 
 EasyCacheノードは、モデル用のネイティブなキャッシュシステムを実装し、サンプリングプロセス中に以前に計算されたステップを再利用することでパフォーマンスを向上させます。このノードは、サンプリングタイムラインにおいてキャッシュの使用を開始および停止するタイミングを設定可能な閾値で制御するEasyCache機能をモデルに追加します。
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Hunyuan3Dv2ConditioningMultiView/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Hunyuan3Dv2ConditioningMultiView/ar.md)
 
 ```markdown
 عُقدة Hunyuan3Dv2ConditioningMultiView تعالج تضمينات رؤية CLIP متعددة المناظر لتوليد الفيديو ثلاثي الأبعاد. تأخذ العُقدة تضمينات المناظر الأمامية واليسرى والخلفية واليمنية (اختيارية) وتدمجها مع الترميز الموضعي لإنشاء بيانات تكييف لنماذج الفيديو. تُخرج العُقدة كلاً من التكييف الإيجابي من التضمينات المدمجة والتكييف السلبي بقيم صفرية.

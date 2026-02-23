@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingLipSyncTextToVideoNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingLipSyncTextToVideoNode/zh-TW.md)
 
 Kling Lip Sync Text to Video 節點可將影片檔案中的嘴部動作與文字提示同步。它接收輸入影片並生成一個新影片，其中角色的唇部動作與提供的文字對齊。該節點使用語音合成技術來創建自然逼真的語音同步效果。
 

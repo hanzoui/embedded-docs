@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookModelAsLora/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookModelAsLora/tr.md)
 
 Bu düğüm, kontrol noktası ağırlıklarını yükleyerek ve hem model hem de CLIP bileşenlerine güç ayarlamaları uygulayarak bir kanca modelini LoRA (Düşük Dereceli Uyarlama) olarak oluşturur. Mevcut modellere, kalıcı model değişiklikleri yapmadan ince ayar ve uyarlama sağlayan, kanca tabanlı bir yaklaşım aracılığıyla LoRA tarzı değişiklikler uygulamanıza olanak tanır. Düğüm, önceki kancalarla birleşebilir ve verimlilik için yüklenen ağırlıkları önbelleğe alır.
 

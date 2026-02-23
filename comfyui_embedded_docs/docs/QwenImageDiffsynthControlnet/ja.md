@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/QwenImageDiffsynthControlnet/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/QwenImageDiffsynthControlnet/ja.md)
 
 QwenImageDiffsynthControlnetノードは、拡散合成制御ネットワークのパッチを適用して、ベースモデルの動作を変更します。画像入力とオプションのマスクを使用して、調整可能な強度でモデルの生成プロセスを導き、制御ネットワークの影響を組み込んだパッチ適用済みモデルを作成し、より制御された画像合成を実現します。
 

@@ -1,13 +1,13 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveImage/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImage/ko.md)
 
-SaveImage 노드는 수신한 이미지를 `ComfyUI/output` 디렉토리에 저장합니다. 각 이미지를 PNG 파일로 저장하며, 프롬프트와 같은 워크플로우 메타데이터를 저장된 파일에 내장하여 나중에 참조할 수 있도록 할 수 있습니다.
+SaveImage 노드는 수신한 이미지를 `Hanzo Studio/output` 디렉토리에 저장합니다. 각 이미지를 PNG 파일로 저장하며, 프롬프트와 같은 워크플로우 메타데이터를 저장된 파일에 내장하여 나중에 참조할 수 있도록 할 수 있습니다.
 
 ## 입력
 
 | 매개변수 | 데이터 타입 | 필수 | 범위 | 설명 |
 |-----------|-----------|----------|-------|-------------|
 | `이미지` | IMAGE | 예 | - | 저장할 이미지입니다. |
-| `파일명 접두사` | STRING | 예 | - | 저장할 파일의 접두사입니다. `%date:yyyy-MM-dd%` 또는 `%Empty Latent Image.width%`와 같은 형식 정보를 포함하여 노드의 값을 포함시킬 수 있습니다 (기본값: "ComfyUI"). |
+| `파일명 접두사` | STRING | 예 | - | 저장할 파일의 접두사입니다. `%date:yyyy-MM-dd%` 또는 `%Empty Latent Image.width%`와 같은 형식 정보를 포함하여 노드의 값을 포함시킬 수 있습니다 (기본값: "Hanzo Studio"). |
 
 ## 출력
 

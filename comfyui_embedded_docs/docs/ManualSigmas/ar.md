@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ManualSigmas/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ManualSigmas/ar.md)
 
 تتيح عقدة ManualSigmas لك تعريف تسلسل مخصص يدويًا لمستويات الضوضاء (sigmas) لعملية أخذ العينات. تقوم بإدخال قائمة من الأرقام كسلسلة نصية، وتحول العقدة هذه الأرقام إلى موتر يمكن استخدامه بواسطة عقد أخذ العينات الأخرى. هذا مفيد للاختبار أو لإنشاء جداول ضوضاء محددة.
 

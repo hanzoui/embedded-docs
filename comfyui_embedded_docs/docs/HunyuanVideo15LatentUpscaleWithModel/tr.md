@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanVideo15LatentUpscaleWithModel/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanVideo15LatentUpscaleWithModel/tr.md)
 
 Hunyuan Video 15 Latent Upscale With Model düğümü, bir gizli (latent) görüntü temsilinin çözünürlüğünü artırır. Önce gizli örnekleri seçilen bir enterpolasyon yöntemi kullanarak belirtilen bir boyuta yükseltir, ardından kaliteyi iyileştirmek için özel bir Hunyuan Video 1.5 yükseltme modeli kullanarak yükseltilmiş sonucu işler.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DualCFGGuider/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DualCFGGuider/pt-BR.md)
 
 O nó DualCFGGuider cria um sistema de orientação para amostragem com orientação dupla livre de classificador. Ele combina duas entradas de condicionamento positivo com uma entrada de condicionamento negativo, aplicando diferentes escalas de orientação a cada par de condicionamento para controlar a influência de cada prompt na saída gerada.
 

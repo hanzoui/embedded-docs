@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraModelLoader/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraModelLoader/ar.md)
 
 تُطبق عقدة LoraModelLoader أوزان LoRA المُدربة (التكيف ذو الرتبة المنخفضة) على نموذج الانتشار. تقوم بتعديل النموذج الأساسي من خلال تحميل أوزان LoRA من نموذج LoRA مُدرب وضبط قوة تأثيرها. يتيح لك ذلك تخصيص سلوك نماذج الانتشار دون إعادة تدريبها من الصفر.
 

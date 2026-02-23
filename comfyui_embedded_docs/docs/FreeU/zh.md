@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FreeU/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FreeU/zh.md)
 
 FreeU 节点对模型的输出块进行频域修改，以提升图像生成质量。它通过缩放不同通道组并对特定特征图应用傅里叶滤波来实现这一效果，从而在生成过程中对模型行为进行精细调控。
 

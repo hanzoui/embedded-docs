@@ -22,9 +22,9 @@ Este nodo generará un archivo de punto de control, y la ruta del archivo de sal
 
 ## Compatibilidad de Arquitecturas
 
-- Actualmente con soporte completo: SDXL, SD3, SVD y otras arquitecturas principales, ver [código fuente](https://github.com/comfyanonymous/ComfyUI/blob/master/comfy_extras/nodes_model_merging.py#L176-L189)
+- Actualmente con soporte completo: SDXL, SD3, SVD y otras arquitecturas principales, ver [código fuente](https://github.com/hanzoai/studio/blob/master/comfy_extras/nodes_model_merging.py#L176-L189)
 - Soporte básico: Otras arquitecturas pueden guardarse pero sin información de metadatos estandarizada
 
 ## Enlaces Relacionados
 
-Código fuente relacionado: [nodes_model_merging.py#L227](https://github.com/comfyanonymous/ComfyUI/blob/master/comfy_extras/nodes_model_merging.py#L227)
+Código fuente relacionado: [nodes_model_merging.py#L227](https://github.com/hanzoai/studio/blob/master/comfy_extras/nodes_model_merging.py#L227)

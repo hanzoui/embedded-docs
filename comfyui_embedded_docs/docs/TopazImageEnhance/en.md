@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TopazImageEnhance/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TopazImageEnhance/en.md)
 
 The Topaz Image Enhance node provides industry-standard upscaling and image enhancement. It processes a single input image using a cloud-based AI model to improve quality, detail, and resolution. The node offers fine-grained control over the enhancement process, including options for creative guidance, subject focus, and facial preservation.
 

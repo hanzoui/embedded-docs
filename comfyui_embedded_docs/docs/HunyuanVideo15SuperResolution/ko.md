@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanVideo15SuperResolution/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanVideo15SuperResolution/ko.md)
 
 HunyuanVideo15SuperResolution 노드는 비디오 초해상도 처리를 위한 조건화 데이터를 준비합니다. 비디오의 잠재 표현과 선택적으로 시작 이미지를 입력받아, 노이즈 증강 및 CLIP 비전 데이터와 함께 패키징하여 모델이 더 높은 해상도의 출력을 생성하는 데 사용할 수 있는 형식으로 변환합니다.
 

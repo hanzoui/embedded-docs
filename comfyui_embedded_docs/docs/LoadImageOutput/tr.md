@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageOutput/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageOutput/tr.md)
 
 LoadImageOutput düğümü, çıktı klasöründen görüntüleri yükler. Yenile düğmesine tıkladığınızda, kullanılabilir görüntülerin listesini günceller ve otomatik olarak ilk görüntüyü seçer, böylece oluşturduğunuz görüntüler arasında kolayca geçiş yapabilirsiniz.
 

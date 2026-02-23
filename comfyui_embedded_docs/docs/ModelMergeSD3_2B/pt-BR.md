@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSD3_2B/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSD3_2B/pt-BR.md)
 
 O nó ModelMergeSD3_2B permite mesclar dois modelos Stable Diffusion 3 2B combinando seus componentes com pesos ajustáveis. Ele oferece controle individual sobre camadas de incorporação (embeddings) e blocos do transformador, possibilitando combinações de modelos afinadas para tarefas de geração especializadas.
 

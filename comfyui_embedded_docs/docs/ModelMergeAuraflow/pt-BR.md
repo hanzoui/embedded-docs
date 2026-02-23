@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeAuraflow/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeAuraflow/pt-BR.md)
 
 O nó ModelMergeAuraflow permite que você combine dois modelos diferentes ajustando pesos de mesclagem específicos para vários componentes do modelo. Ele oferece controle refinado sobre como diferentes partes dos modelos são mescladas, desde as camadas iniciais até as saídas finais. Este nó é particularmente útil para criar combinações de modelos personalizadas com controle preciso sobre o processo de fusão.
 

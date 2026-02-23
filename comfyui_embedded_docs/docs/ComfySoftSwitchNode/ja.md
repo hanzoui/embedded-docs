@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ComfySoftSwitchNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ComfySoftSwitchNode/ja.md)
 
 Soft Switchノードは、ブール条件に基づいて2つの入力値のいずれかを選択します。`switch`がtrueの場合は`on_true`入力の値を出力し、`switch`がfalseの場合は`on_false`入力の値を出力します。このノードはレイジー（遅延評価）を意図して設計されており、スイッチの状態に基づいて必要な入力のみを評価します。
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelPatchLoader/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelPatchLoader/en.md)
 
 The ModelPatchLoader node loads specialized model patches from the model_patches folder. It automatically detects the type of patch file and loads the appropriate model architecture, then wraps it in a ModelPatcher for use in the workflow. This node supports different patch types including controlnet blocks and feature embedder models.
 

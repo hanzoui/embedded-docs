@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookLoraModelOnly/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookLoraModelOnly/es.md)
 
 Este nodo crea un gancho LoRA (Adaptación de Bajo Rango) que se aplica únicamente al componente del modelo, permitiéndole modificar el comportamiento del modelo sin afectar el componente CLIP. Carga un archivo LoRA y lo aplica con una fuerza específica al modelo mientras mantiene el componente CLIP sin cambios. El nodo puede encadenarse con ganchos previos para crear pipelines de modificación complejos.
 

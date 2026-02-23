@@ -1,10 +1,10 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIDalle2/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIDalle2/zh.md)
 
 通过 OpenAI 的 DALL·E 2 端点同步生成图像。
 
 ## 工作原理
 
-此节点连接到 OpenAI 的 DALL·E 2 API，根据文本描述创建图像。当您提供文本提示时，节点会将其发送到 OpenAI 的服务器，服务器生成相应的图像并将其返回给 ComfyUI。该节点可以在两种模式下运行：仅使用文本提示的标准图像生成模式，或在同时提供图像和蒙版时的图像编辑模式。在编辑模式下，它使用蒙版来确定原始图像的哪些部分应被修改，同时保持其他区域不变。
+此节点连接到 OpenAI 的 DALL·E 2 API，根据文本描述创建图像。当您提供文本提示时，节点会将其发送到 OpenAI 的服务器，服务器生成相应的图像并将其返回给 Hanzo Studio。该节点可以在两种模式下运行：仅使用文本提示的标准图像生成模式，或在同时提供图像和蒙版时的图像编辑模式。在编辑模式下，它使用蒙版来确定原始图像的哪些部分应被修改，同时保持其他区域不变。
 
 ## 输入参数
 

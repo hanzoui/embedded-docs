@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanVaceToVideo/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanVaceToVideo/zh.md)
 
 WanVaceToVideo 节点为视频生成模型处理视频条件数据。它接收正向和负向条件输入以及视频控制数据，并为视频生成准备潜在表示。该节点处理视频放大、遮罩和 VAE 编码，为视频模型创建适当的结构。
 

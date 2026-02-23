@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FreeU/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FreeU/en.md)
 
 The FreeU node applies frequency-domain modifications to a model's output blocks to enhance image generation quality. It works by scaling different channel groups and applying Fourier filtering to specific feature maps, allowing for fine-tuned control over the model's behavior during the generation process.
 

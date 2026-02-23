@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/InpaintModelConditioning/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/InpaintModelConditioning/ar.md)
 
 تم تصميم العقدة InpaintModelConditioning لتسهيل عملية التكييف لنماذج التصحيح، مما يتيح دمج وتلاعب مختلف مدخلات التكييف لتخصيص مخرجات التصحيح. وهي تشمل مجموعة واسعة من الوظائف، بدءًا من تحميل نقاط فحص نماذج محددة وتطبيق نماذج التحكم أو الأنماط، إلى ترميز وعناصر تكييف دمجها، مما يجعلها أداة شاملة لتخصيص مهام التصحيح.
 

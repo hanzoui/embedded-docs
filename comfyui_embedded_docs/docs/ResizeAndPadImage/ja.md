@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResizeAndPadImage/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResizeAndPadImage/ja.md)
 
 ResizeAndPadImageノードは、画像を指定された寸法内に収まるようにリサイズし、元のアスペクト比を維持します。画像をターゲットの幅と高さ内に収まるように比例して縮小し、残りのスペースを埋めるために周囲にパディングを追加します。パディングの色と補間方法をカスタマイズすることで、パディング領域の外観とリサイズの品質を制御できます。
 

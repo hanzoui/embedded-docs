@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateList/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateList/ko.md)
 
 Create List 노드는 여러 입력을 하나의 순차적 목록으로 결합합니다. 동일한 데이터 타입의 임의 개수의 입력을 받아 연결된 순서대로 이어붙입니다. 이 노드는 워크플로우에서 다른 노드에 의해 처리될 이미지나 텍스트와 같은 데이터 배치를 준비하는 데 유용합니다.
 

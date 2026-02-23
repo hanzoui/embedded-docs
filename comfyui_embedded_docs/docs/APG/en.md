@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/APG/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/APG/en.md)
 
 The APG (Adaptive Projected Guidance) node modifies the sampling process by adjusting how guidance is applied during diffusion. It separates the guidance vector into parallel and orthogonal components relative to the conditional output, allowing for more controlled image generation. The node provides parameters to scale the guidance, normalize its magnitude, and apply momentum for smoother transitions between diffusion steps.
 

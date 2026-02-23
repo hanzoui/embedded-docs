@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ContextWindowsManual/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ContextWindowsManual/pt-BR.md)
 
 O nó Context Windows (Manual) permite configurar manualmente janelas de contexto para modelos durante a amostragem. Ele cria segmentos de contexto sobrepostos com comprimento, sobreposição e padrões de agendamento especificados para processar dados em blocos gerenciáveis, mantendo a continuidade entre os segmentos.
 

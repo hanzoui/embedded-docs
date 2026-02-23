@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxProDepthNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxProDepthNode/ja.md)
 
 このノードは、深度制御画像をガイドとして使用して画像を生成します。制御画像とテキストプロンプトを受け取り、制御画像からの深度情報とプロンプトの記述の両方に従う新しい画像を作成します。ノードは画像生成プロセスを実行するために外部APIに接続します。
 

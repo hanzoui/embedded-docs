@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SetModelHooksOnCond/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SetModelHooksOnCond/en.md)
 
 This node attaches custom hooks to conditioning data, allowing you to intercept and modify the conditioning process during model execution. It takes a set of hooks and applies them to the provided conditioning data, enabling advanced customization of the text-to-image generation workflow. The modified conditioning with attached hooks is then returned for use in subsequent processing steps.
 

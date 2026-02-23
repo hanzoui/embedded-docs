@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanSoundImageToVideoExtend/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanSoundImageToVideoExtend/ar.md)
 
 يوسع عقد WanSoundImageToVideoExtend إمكانيات توليد الفيديو من الصور من خلال دمج التكييف الصوتي والصور المرجعية. يأخذ العقد بيانات التكييف الإيجابية والسلبية مع البيانات الكامنة للفيديو والتضمينات الصوتية الاختيارية لتوليد تسلسلات فيديو ممتدة. يعالج العقد هذه المدخلات لإنشاء مخرجات فيديو متماسكة يمكن مزامنتها مع الإشارات الصوتية.
 

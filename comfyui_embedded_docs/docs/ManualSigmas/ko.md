@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ManualSigmas/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ManualSigmas/ko.md)
 
 ManualSigmas 노드를 사용하면 샘플링 과정에 사용할 노이즈 수준(sigmas)의 사용자 정의 시퀀스를 수동으로 지정할 수 있습니다. 문자열 형태의 숫자 목록을 입력하면, 노드가 이를 다른 샘플링 노드에서 사용할 수 있는 텐서로 변환합니다. 이는 특정 노이즈 스케줄을 테스트하거나 생성하는 데 유용합니다.
 

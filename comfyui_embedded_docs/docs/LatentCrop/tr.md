@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentCrop/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentCrop/tr.md)
 
 LatentCrop düğümü, görüntülerin gizli temsilleri üzerinde kırpma işlemleri gerçekleştirmek için tasarlanmıştır. Kırpma boyutlarının ve konumunun belirlenmesine olanak tanıyarak, gizli uzayda hedeflenmiş değişiklikler yapılmasını sağlar.
 

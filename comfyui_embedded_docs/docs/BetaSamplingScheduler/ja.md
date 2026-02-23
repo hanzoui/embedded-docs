@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BetaSamplingScheduler/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BetaSamplingScheduler/ja.md)
 
 BetaSamplingSchedulerノードは、ベータスケジューリングアルゴリズムを使用して、サンプリングプロセス用のノイズレベル（シグマ）のシーケンスを生成します。モデルと設定パラメータを受け取り、画像生成時のノイズ除去プロセスを制御するカスタマイズされたノイズスケジュールを作成します。このスケジューラは、アルファとベータのパラメータを通じてノイズ低減の軌跡を微調整することができます。
 

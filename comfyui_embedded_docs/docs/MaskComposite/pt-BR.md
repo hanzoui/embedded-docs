@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MaskComposite/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MaskComposite/pt-BR.md)
 
 Este nó é especializado em combinar duas entradas de máscara por meio de uma variedade de operações, como adição, subtração e operações lógicas, para produzir uma nova máscara modificada. Ele lida de forma abstrata com a manipulação de dados de máscara para alcançar efeitos de mascaramento complexos, servindo como um componente crucial em fluxos de trabalho de edição e processamento de imagem baseados em máscaras.
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyCosmosLatentVideo/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyCosmosLatentVideo/ja.md)
 
 EmptyCosmosLatentVideoノードは、指定された寸法で空の潜在ビデオテンソルを作成します。このノードは、ビデオ生成ワークフローの開始点として使用できる、ゼロで埋められた潜在表現を生成します。幅、高さ、長さ（フレーム数）、バッチサイズのパラメータを設定可能です。
 

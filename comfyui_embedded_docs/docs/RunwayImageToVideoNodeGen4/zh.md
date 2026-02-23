@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RunwayImageToVideoNodeGen4/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RunwayImageToVideoNodeGen4/zh.md)
 
 Runway Image to Video (Gen4 Turbo) 节点使用 Runway 的 Gen4 Turbo 模型，从单个起始帧生成视频。它接收文本提示和初始图像帧，然后根据提供的持续时间和宽高比设置创建视频序列。该节点负责将起始帧上传到 Runway 的 API 并返回生成的视频。
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AlignYourStepsScheduler/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AlignYourStepsScheduler/zh-TW.md)
 
 AlignYourStepsScheduler 節點根據不同的模型類型生成去噪過程所需的 sigma 值。它會計算採樣過程每個步驟的適當噪聲水平，並根據去噪參數調整總步數。這有助於使採樣步驟與不同擴散模型的特定要求對齊。
 

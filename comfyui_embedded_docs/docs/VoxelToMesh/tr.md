@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VoxelToMesh/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VoxelToMesh/tr.md)
 
 VoxelToMesh düğümü, 3B voksel verilerini farklı algoritmalar kullanarak mesh geometrisine dönüştürür. Voksel ızgaralarını işler ve 3B mesh temsilini oluşturan köşe noktaları ve yüzeyler üretir. Düğüm, birden fazla dönüştürme algoritmasını destekler ve yüzey çıkarımını kontrol etmek için eşik değerinin ayarlanmasına olanak tanır.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RunwayImageToVideoNodeGen4/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RunwayImageToVideoNodeGen4/tr.md)
 
 Runway Image to Video (Gen4 Turbo) düğümü, Runway'nin Gen4 Turbo modelini kullanarak tek bir başlangıç karesinden bir video oluşturur. Bir metin istemi ve bir başlangıç görüntü karesi alır, ardından sağlanan süre ve en-boy oranı ayarlarına dayalı olarak bir video dizisi oluşturur. Düğüm, başlangıç karesini Runway'nin API'sine yüklemeyi halleder ve oluşturulan videoyu döndürür.
 

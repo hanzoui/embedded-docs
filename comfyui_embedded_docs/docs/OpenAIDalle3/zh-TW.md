@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIDalle3/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIDalle3/zh-TW.md)
 
 透過 OpenAI 的 DALL·E 3 端點同步生成影像。此節點接收文字提示，並使用 OpenAI 的 DALL·E 3 模型創建相應的影像，允許您指定影像品質、風格和尺寸。
 

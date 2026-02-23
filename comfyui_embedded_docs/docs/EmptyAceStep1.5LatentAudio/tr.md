@@ -1,6 +1,6 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyAceStep1.5LatentAudio/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyAceStep1.5LatentAudio/tr.md)
 
-Empty Ace Step 1.5 Latent Audio düğümü, ses işleme için tasarlanmış boş bir latent tensör oluşturur. Belirtilen süre ve batch boyutunda sessiz bir ses latent'i üretir; bu, ComfyUI'deki ses üretimi iş akışları için bir başlangıç noktası olarak kullanılabilir. Düğüm, latent uzunluğunu girilen saniye değerine ve sabit bir örnekleme hızına göre hesaplar.
+Empty Ace Step 1.5 Latent Audio düğümü, ses işleme için tasarlanmış boş bir latent tensör oluşturur. Belirtilen süre ve batch boyutunda sessiz bir ses latent'i üretir; bu, Hanzo Studio'deki ses üretimi iş akışları için bir başlangıç noktası olarak kullanılabilir. Düğüm, latent uzunluğunu girilen saniye değerine ve sabit bir örnekleme hızına göre hesaplar.
 
 ## Girişler
 

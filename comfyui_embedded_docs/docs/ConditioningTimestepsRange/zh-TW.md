@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningTimestepsRange/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningTimestepsRange/zh-TW.md)
 
 ConditioningTimestepsRange 節點會建立三個不同的時間步長範圍，用於控制在生成過程中何時應用條件化效果。它接收開始和結束百分比值，並將整個時間步長範圍（0.0 至 1.0）劃分為三個區段：指定百分比之間的主要範圍、開始百分比之前的範圍，以及結束百分比之後的範圍。
 

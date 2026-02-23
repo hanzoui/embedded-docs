@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingTextToVideoNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingTextToVideoNode/ko.md)
 
 Kling Text to Video 노드는 텍스트 설명을 비디오 콘텐츠로 변환합니다. 텍스트 프롬프트를 입력받아 지정된 구성 설정을 기반으로 해당하는 비디오 시퀀스를 생성합니다. 이 노드는 다양한 화면비와 생성 모드를 지원하여 다양한 길이와 품질의 비디오를 생성합니다.
 

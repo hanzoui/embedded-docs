@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanImageToVideo/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanImageToVideo/ko.md)
 
 WanImageToVideo 노드는 비디오 생성 작업을 위한 조건화 및 잠재 표현을 준비합니다. 비디오 생성을 위한 빈 잠재 공간을 생성하며, 선택적으로 시작 이미지와 CLIP 비전 출력을 통합하여 비디오 생성 과정을 안내할 수 있습니다. 이 노드는 제공된 이미지와 비전 데이터를 기반으로 긍정적 및 부정적 조건화 입력을 모두 수정합니다.
 

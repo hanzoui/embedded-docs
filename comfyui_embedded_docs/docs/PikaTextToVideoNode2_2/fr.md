@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaTextToVideoNode2_2/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaTextToVideoNode2_2/fr.md)
 
 Le nœud Pika Text2Video v2.2 envoie une requête textuelle à l'API Pika version 2.2 pour générer une vidéo. Il convertit votre description textuelle en vidéo en utilisant le service de génération vidéo par IA de Pika. Le nœud vous permet de personnaliser divers aspects du processus de génération vidéo, y compris le format, la durée et la résolution.
 

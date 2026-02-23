@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResolutionBucket/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResolutionBucket/pt-BR.md)
 
 Este nó organiza uma lista de imagens latentes e seus dados de condicionamento correspondentes por sua resolução. Ele agrupa itens que compartilham a mesma altura e largura, criando lotes separados para cada resolução única. Este processo é útil para preparar dados para treinamento eficiente, pois permite que os modelos processem múltiplos itens do mesmo tamanho juntos.
 

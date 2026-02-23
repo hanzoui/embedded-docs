@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VideoTriangleCFGGuidance/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VideoTriangleCFGGuidance/ko.md)
 
 VideoTriangleCFGGuidance 노드는 비디오 모델에 삼각형 형태의 classifier-free guidance(CFG) 스케일링 패턴을 적용합니다. 이 노드는 최소 CFG 값과 원래 조건부 스케일 사이를 진동하는 삼각파 함수를 사용하여 시간에 따른 조건부 스케일을 수정합니다. 이를 통해 비디오 생성의 일관성과 품질 향상에 도움이 되는 동적 guidance 패턴이 생성됩니다.
 

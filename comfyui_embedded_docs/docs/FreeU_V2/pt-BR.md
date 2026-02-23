@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FreeU_V2/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FreeU_V2/pt-BR.md)
 
 O nó FreeU_V2 aplica um aprimoramento baseado em frequência a modelos de difusão modificando a arquitetura U-Net. Ele dimensiona diferentes canais de características usando parâmetros configuráveis para melhorar a qualidade da geração de imagens sem exigir treinamento adicional. O nó funciona aplicando patches aos blocos de saída do modelo para aplicar fatores de escala a dimensões específicas dos canais.
 

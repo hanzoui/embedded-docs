@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceSeedreamNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceSeedreamNode/tr.md)
 
 ByteDance Seedream 4 düğümü, 4K çözünürlüğe kadar birleşik metinden görüntü oluşturma ve hassas tek cümlelik düzenleme yetenekleri sağlar. Metin istemlerinden yeni görseler oluşturabilir veya mevcut görselleri metin talimatları kullanarak düzenleyebilir. Düğüm, hem tek görsel oluşturmayı hem de birden fazla ilişkili görselin sıralı oluşturulmasını destekler.
 

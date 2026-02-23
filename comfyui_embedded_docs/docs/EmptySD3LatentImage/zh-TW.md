@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptySD3LatentImage/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptySD3LatentImage/zh-TW.md)
 
 EmptySD3LatentImage 節點會建立一個專為 Stable Diffusion 3 模型格式化的空白潛在影像張量。它會生成一個填滿零值的張量，該張量具有 SD3 流程所需的正確維度和結構。這通常用作影像生成工作流程的起點。
 

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/UNetSelfAttentionMultiply/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UNetSelfAttentionMultiply/fr.md)
 
 Le nœud UNetSelfAttentionMultiply applique des facteurs de multiplication aux composantes requête, clé, valeur et sortie du mécanisme d'auto-attention dans un modèle UNet. Il vous permet de mettre à l'échelle différentes parties du calcul d'attention pour expérimenter comment les pondérations d'affectation influencent le comportement du modèle.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanFirstLastFrameToVideo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanFirstLastFrameToVideo/zh-TW.md)
 
 WanFirstLastFrameToVideo 節點透過結合起始與結束畫面以及文字提示來建立影片條件化。它透過編碼首尾畫面、應用遮罩來引導生成過程，並在可用時整合 CLIP 視覺特徵，為影片生成產生潛在表徵。此節點為影片模型準備正向與負向條件化，以在指定的起始點與結束點之間生成連貫的序列。
 

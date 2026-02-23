@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaScenesV2_2/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaScenesV2_2/es.md)
 
 El nodo PikaScenes v2.2 combina múltiples imágenes para crear un video que incorpora objetos de todas las imágenes de entrada. Puedes cargar hasta cinco imágenes diferentes como ingredientes y generar un video de alta calidad que las mezcle de forma fluida.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyMochiLatentVideo/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyMochiLatentVideo/ar.md)
 
 عُقدة EmptyMochiLatentVideo تُنشئ موتر فيديو كامنًا فارغًا بأبعاد محددة. تقوم بتوليد تمثيل كامن مملوء بقيم صفرية يمكن استخدامه كنقطة بداية لسير عمل توليد الفيديو. تتيح لك العُقدة تحديد العرض، والارتفاع، والطول، وحجم الدُفعة لموتر الفيديو الكامن.
 

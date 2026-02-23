@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResolutionBucket/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResolutionBucket/ja.md)
 
 このノードは、潜在画像とそれに対応するコンディショニングデータのリストを解像度ごとに整理します。同じ高さと幅を持つ項目をグループ化し、各固有の解像度に対して別々のバッチを作成します。この処理は、同じサイズの複数の項目をまとめて処理できるようにすることで、効率的な学習のためのデータ準備に役立ちます。
 

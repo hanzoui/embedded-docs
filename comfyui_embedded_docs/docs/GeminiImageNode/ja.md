@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GeminiImageNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GeminiImageNode/ja.md)
 
 GeminiImageノードは、GoogleのGemini AIモデルを使用してテキストと画像の応答を生成します。マルチモーダル入力（テキストプロンプト、画像、ファイルなど）を提供することで、一貫性のあるテキストと画像の出力を作成できます。このノードは、最新のGeminiモデルとのAPI通信と応答解析をすべて処理します。
 

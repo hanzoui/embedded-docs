@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingCameraControls/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingCameraControls/fr.md)
 
 Le nœud Kling Camera Controls vous permet de configurer divers paramètres de mouvement et de rotation de caméra pour créer des effets de motion control dans la génération vidéo. Il fournit des contrôles pour le positionnement, la rotation et le zoom de la caméra afin de simuler différents mouvements de caméra.
 

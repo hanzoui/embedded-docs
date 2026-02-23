@@ -1,10 +1,10 @@
-该节点会检测位于 `ComfyUI/models/clip_vision` 文件夹下的模型，同时也会读取在 `extra_model_paths.yaml` 文件中配置的额外路径的模型，如果你的模型是在 ComfyUI 启动后才添加的，请 **刷新 ComfyUI 界面** 保证前端能够获取到最新的模型文件列表
+该节点会检测位于 `Hanzo Studio/models/clip_vision` 文件夹下的模型，同时也会读取在 `extra_model_paths.yaml` 文件中配置的额外路径的模型，如果你的模型是在 Hanzo Studio 启动后才添加的，请 **刷新 Hanzo Studio 界面** 保证前端能够获取到最新的模型文件列表
 
 ## 输入
 
 | 参数名称 | 数据类型 | 作用 |
 | --- | --- | --- |
-| `clip名称` | COMBO[STRING] | 会获取`ComfyUI/models/clip_vision` 文件夹下受支持格式的模型文件列表 |
+| `clip名称` | COMBO[STRING] | 会获取`Hanzo Studio/models/clip_vision` 文件夹下受支持格式的模型文件列表 |
 
 ## 输出
 

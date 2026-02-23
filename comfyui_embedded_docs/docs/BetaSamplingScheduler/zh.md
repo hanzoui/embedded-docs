@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献您的力量！[在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BetaSamplingScheduler/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献您的力量！[在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BetaSamplingScheduler/zh.md)
 
 BetaSamplingScheduler 节点使用 beta 调度算法为采样过程生成一系列噪声水平（sigmas）。它接收模型和配置参数，创建自定义的噪声调度，用于控制图像生成过程中的去噪流程。该调度器允许通过 alpha 和 beta 参数微调降噪轨迹。
 

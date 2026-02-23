@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxProImageNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxProImageNode/ko.md)
 
 프롬프트와 해상도를 기반으로 동기적으로 이미지를 생성합니다. 이 노드는 API 엔드포인트로 요청을 전송하고 생성된 이미지를 반환하기 전에 완전한 응답을 기다리는 방식으로 Flux 1.1 Pro 모델을 사용하여 이미지를 생성합니다.
 

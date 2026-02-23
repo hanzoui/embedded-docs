@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerEulerAncestral/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerEulerAncestral/ar.md)
 
 تقوم عقدة SamplerEulerAncestral بإنشاء مُعين عيّنات Euler Ancestral لتوليد الصور. يستخدم هذا المُعين نهجًا رياضيًا محددًا يجمع بين تكامل Euler وتقنيات العيّنة السلفية لإنتاج اختلافات في الصور. تتيح لك العقدة ضبط سلوك أخذ العينات من خلال معاملات التحكم في العشوائية وحجم الخطوة أثناء عملية التوليد.
 

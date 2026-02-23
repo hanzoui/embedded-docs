@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityAudioInpaint/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityAudioInpaint/es.md)
 
 Transforma parte de una muestra de audio existente utilizando instrucciones de texto. Este nodo permite modificar secciones específicas del audio proporcionando prompts descriptivos, efectivamente "reparando" o regenerando porciones seleccionadas mientras se preserva el resto del audio.
 

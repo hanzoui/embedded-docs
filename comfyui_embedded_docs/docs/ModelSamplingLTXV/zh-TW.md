@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingLTXV/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingLTXV/zh-TW.md)
 
 ModelSamplingLTXV 節點根據 token 數量對模型應用進階採樣參數。它使用基礎位移值和最大位移值之間的線性插值來計算位移值，該計算取決於輸入潛在表示中的 token 數量。該節點隨後創建一個專門的模型採樣配置並將其應用於輸入模型。
 

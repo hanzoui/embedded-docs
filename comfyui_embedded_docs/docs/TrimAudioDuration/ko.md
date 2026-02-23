@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TrimAudioDuration/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TrimAudioDuration/ko.md)
 
 TrimAudioDuration 노드를 사용하면 오디오 파일에서 특정 시간 세그먼트를 잘라낼 수 있습니다. 트림을 시작할 시점과 결과 오디오 클립의 길이를 지정할 수 있습니다. 이 노드는 시간 값을 오디오 프레임 위치로 변환하고 해당 오디오 파형의 일부를 추출하는 방식으로 작동합니다.
 

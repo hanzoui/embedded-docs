@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyAudio/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyAudio/es.md)
 
 El nodo EmptyAudio genera un clip de audio silencioso con duración, frecuencia de muestreo y configuración de canales especificadas. Crea una forma de onda que contiene todos ceros, produciendo silencio completo para la duración dada. Este nodo es útil para crear audio de marcador de posición o generar segmentos silenciosos en flujos de trabajo de audio.
 

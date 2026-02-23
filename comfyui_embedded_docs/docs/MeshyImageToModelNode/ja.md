@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyImageToModelNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyImageToModelNode/ja.md)
 
 Meshy: Image to Model ノードは、Meshy API を使用して単一の入力画像から3Dモデルを生成します。画像をアップロードし、処理タスクを送信して、生成された3Dモデルファイル（GLBおよびFBX）と参照用のタスクIDを返します。
 

@@ -1,6 +1,6 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DeprecatedDiffusersLoader/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DeprecatedDiffusersLoader/tr.md)
 
-DiffusersLoader düğümü, diffusers kütüphanesinden model yüklemek için tasarlanmış olup, özellikle sağlanan model yollarına dayalı olarak UNet, CLIP ve VAE modellerinin yüklenmesini işler. Bu modellerin ComfyUI çerçevesine entegrasyonunu kolaylaştırarak, metinden görüntü oluşturma, görüntü manipülasyonu ve daha fazlası gibi gelişmiş işlevlerin kullanılmasını sağlar.
+DiffusersLoader düğümü, diffusers kütüphanesinden model yüklemek için tasarlanmış olup, özellikle sağlanan model yollarına dayalı olarak UNet, CLIP ve VAE modellerinin yüklenmesini işler. Bu modellerin Hanzo Studio çerçevesine entegrasyonunu kolaylaştırarak, metinden görüntü oluşturma, görüntü manipülasyonu ve daha fazlası gibi gelişmiş işlevlerin kullanılmasını sağlar.
 
 ## Girdiler
 
@@ -12,6 +12,6 @@ DiffusersLoader düğümü, diffusers kütüphanesinden model yüklemek için ta
 
 | Parametre | Veri Tipi | Açıklama |
 |-----------|-------------|-------------|
-| `model`   | MODEL     | Yüklenen UNet modelidir ve çıktı demetinin bir parçasıdır. Bu model, ComfyUI çerçevesi içinde görüntü sentezi ve manipülasyonu görevleri için gereklidir. |
+| `model`   | MODEL     | Yüklenen UNet modelidir ve çıktı demetinin bir parçasıdır. Bu model, Hanzo Studio çerçevesi içinde görüntü sentezi ve manipülasyonu görevleri için gereklidir. |
 | `clip`    | CLIP      | İstenirse çıktı demetine dahil edilen yüklenmiş CLIP modelidir. Bu model, gelişmiş metin ve görüntü anlama ve manipülasyon yetenekleri sağlar. |
 | `vae`     | VAE       | İstenirse çıktı demetine dahil edilen yüklenmiş VAE modelidir. Bu model, gizli uzay manipülasyonu ve görüntü oluşturma içeren görevler için çok önemlidir. |

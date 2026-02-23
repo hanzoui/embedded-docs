@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentOperationTonemapReinhard/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentOperationTonemapReinhard/en.md)
 
 The LatentOperationTonemapReinhard node applies Reinhard tonemapping to latent vectors. This technique normalizes the latent vectors and adjusts their magnitude using a statistical approach based on mean and standard deviation, with the intensity controlled by a multiplier parameter.
 

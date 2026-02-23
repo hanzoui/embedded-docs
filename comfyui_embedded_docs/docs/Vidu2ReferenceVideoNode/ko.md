@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu2ReferenceVideoNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu2ReferenceVideoNode/ko.md)
 
 Vidu2 Reference-to-Video Generation 노드는 텍스트 프롬프트와 여러 개의 참조 이미지로부터 비디오를 생성합니다. 최대 7개의 주체(subject)를 정의할 수 있으며, 각 주체마다 고유한 참조 이미지 세트를 가지고, 프롬프트에서 `@subject{subject_id}`를 사용하여 참조할 수 있습니다. 이 노드는 구성 가능한 지속 시간, 화면 비율 및 움직임을 가진 비디오를 생성합니다.
 

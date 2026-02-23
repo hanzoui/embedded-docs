@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Rodin3D_Detail/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Rodin3D_Detail/fr.md)
 
 Le nœud Rodin 3D Detail génère des ressources 3D détaillées en utilisant l'API Rodin. Il prend des images en entrée et les traite via le service Rodin pour créer des modèles 3D de haute qualité avec une géométrie et des matériaux détaillés. Le nœud gère l'ensemble du flux de travail, de la création de la tâche au téléchargement du fichier du modèle 3D final.
 

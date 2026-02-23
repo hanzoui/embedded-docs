@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanSoundImageToVideo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanSoundImageToVideo/zh-TW.md)
 
 WanSoundImageToVideo 節點能從圖像生成影片內容，並可選擇性地加入音訊條件。它接收正向與負向條件提示以及 VAE 模型來創建影片潛在表徵，並能整合參考圖像、音訊編碼、控制影片和動作參考，以引導影片生成過程。
 

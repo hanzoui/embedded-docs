@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyAceStepLatentAudio/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyAceStepLatentAudio/zh.md)
 
 EmptyAceStepLatentAudio 节点可创建指定时长的空潜空间音频样本。该节点会生成一批全零的静音潜空间音频，其长度根据输入的秒数和音频处理参数计算得出。此节点适用于需要潜空间表示的音频处理工作流的初始化操作。
 

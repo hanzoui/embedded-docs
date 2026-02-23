@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SetHookKeyframes/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SetHookKeyframes/zh-TW.md)
 
 Set Hook Keyframes 節點允許您對現有的掛鉤群組應用關鍵影格排程功能。它接收一個掛鉤群組，並可選擇性地應用關鍵影格時間資訊，以控制在生成過程中不同掛鉤的執行時機。當提供關鍵影格時，此節點會複製掛鉤群組，並為群組內的所有掛鉤設定關鍵影格時間。
 

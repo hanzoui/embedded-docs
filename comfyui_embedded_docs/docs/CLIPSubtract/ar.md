@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPSubtract/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPSubtract/ar.md)
 
 يقوم عقد CLIPSubtract بإجراء عملية طرح بين نموذجين CLIP. يأخذ النموذج الأول كأساس ويطرح الرقع المفتاحية من النموذج الثاني، مع وجود مضاعف اختياري للتحكم في قوة عملية الطرح. هذا يسمح بدمج النماذج بدقة عالية من خلال إزالة خصائص محددة من نموذج باستخدام نموذج آخر.
 

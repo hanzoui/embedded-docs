@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraLoaderBypass/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraLoaderBypass/en.md)
 
 The LoraLoaderBypass node applies a LoRA (Low-Rank Adaptation) to a diffusion model and a CLIP model in a special "bypass" mode. Unlike a standard LoRA loader, this method does not permanently modify the base model's weights. Instead, it computes the output by adding the LoRA's effect to the model's normal forward pass, which is useful for training or when working with models that have their weights offloaded.
 

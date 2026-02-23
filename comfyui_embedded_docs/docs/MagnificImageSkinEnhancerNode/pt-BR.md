@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageSkinEnhancerNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageSkinEnhancerNode/pt-BR.md)
 
 O nó Magnific Image Skin Enhancer aplica processamento especializado de IA a imagens de retrato para melhorar a aparência da pele. Ele oferece três modos distintos para diferentes objetivos de aprimoramento: criativo para efeitos artísticos, fiel para preservar a aparência original e flexível para melhorias direcionadas, como iluminação ou realismo. O nó envia a imagem para uma API externa para processamento e retorna o resultado aprimorado.
 

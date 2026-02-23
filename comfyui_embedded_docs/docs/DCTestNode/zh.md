@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DCTestNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DCTestNode/zh.md)
 
 DCTestNode 是一个逻辑节点，根据用户从动态组合框中的选择返回不同类型的数据。它充当条件路由器，所选选项决定了哪个输入字段处于活动状态以及节点将输出何种类型的值。
 

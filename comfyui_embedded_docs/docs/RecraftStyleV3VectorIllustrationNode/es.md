@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftStyleV3VectorIllustrationNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftStyleV3VectorIllustrationNode/es.md)
 
 Este nodo configura un estilo para usar con la API de Recraft, seleccionando específicamente el estilo `vector_illustration`. Permite elegir opcionalmente un subestilo más específico dentro de esa categoría. El nodo genera un objeto de configuración de estilo que puede pasarse a otros nodos de la API de Recraft.
 

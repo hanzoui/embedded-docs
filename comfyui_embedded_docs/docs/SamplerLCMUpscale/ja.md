@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerLCMUpscale/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerLCMUpscale/ja.md)
 
 SamplerLCMUpscaleノードは、Latent Consistency Model（LCM）サンプリングと画像アップスケーリング機能を組み合わせた特殊なサンプリング方法を提供します。様々な補間方法を使用してサンプリングプロセス中に画像をアップスケールすることができ、画質を維持しながら高解像度の出力を生成するのに役立ちます。
 

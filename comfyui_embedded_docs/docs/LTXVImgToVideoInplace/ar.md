@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVImgToVideoInplace/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVImgToVideoInplace/ar.md)
 
 يقوم عقد LTXVImgToVideoInplace بتكييف التمثيل الكامن للفيديو من خلال ترميز صورة إدخال في إطاراتها الأولية. يعمل باستخدام VAE لترميز الصورة إلى الفضاء الكامن ثم مزجها مع العينات الكامنة الموجودة بناءً على قوة محددة. هذا يسمح للصورة بأن تكون نقطة بداية أو إشارة تكييف لتوليد الفيديو.
 

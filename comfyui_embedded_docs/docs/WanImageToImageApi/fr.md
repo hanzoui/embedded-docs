@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanImageToImageApi/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanImageToImageApi/fr.md)
 
 Le nœud Wan Image to Image génère une image à partir d'une ou deux images d'entrée et d'une invite textuelle. Il transforme vos images d'entrée en fonction de la description que vous fournissez, créant une nouvelle image qui conserve le rapport d'aspect de votre entrée originale. L'image de sortie est fixée à 1,6 mégapixels, quelle que soit la taille d'entrée.
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVImgToVideo/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVImgToVideo/en.md)
 
 The LTXVImgToVideo node converts an input image into a video latent representation for video generation models. It takes a single image and extends it into a sequence of frames using the VAE encoder, then applies conditioning with strength control to determine how much of the original image content is preserved versus modified during video generation.
 

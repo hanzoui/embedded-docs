@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyHunyuanImageLatent/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyHunyuanImageLatent/ar.md)
 
 تُنشئ عقدة EmptyHunyuanImageLatent موترًا كامنًا فارغًا بأبعاد محددة لاستخدامها مع نماذج توليد الصور Hunyuan. تقوم بتوليد نقطة بداية فارغة يمكن معالجتها عبر العقد اللاحقة في سير العمل. تتيح لك العقدة تحديد عرض وارتفاع وحجم الدُفعة للفضاء الكامن.
 

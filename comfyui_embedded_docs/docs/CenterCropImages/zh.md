@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CenterCropImages/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CenterCropImages/zh.md)
 
 Center Crop Images 节点将图像从中心裁剪至指定的宽度和高度。它会计算输入图像的中心区域，并提取出指定尺寸的矩形区域。如果请求的裁剪尺寸大于图像本身，裁剪区域将被限制在图像的边界内。
 

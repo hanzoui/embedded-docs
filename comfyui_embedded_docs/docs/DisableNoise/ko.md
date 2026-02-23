@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DisableNoise/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DisableNoise/ko.md)
 
 DisableNoise 노드는 샘플링 과정에서 노이즈 생성을 비활성화하는 데 사용할 수 있는 빈 노이즈 구성을 제공합니다. 이 노드는 노이즈 데이터를 포함하지 않는 특수한 노이즈 객체를 반환하여, 이 출력에 연결된 다른 노드들이 노이즈 관련 작업을 건너뛸 수 있도록 합니다.
 

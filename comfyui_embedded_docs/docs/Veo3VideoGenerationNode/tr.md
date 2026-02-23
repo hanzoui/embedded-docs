@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Veo3VideoGenerationNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Veo3VideoGenerationNode/tr.md)
 
 Google'un Veo 3 API'sini kullanarak metin istemlerinden video oluşturur. Bu düğüm, iki Veo 3 modelini destekler: veo-3.0-generate-001 ve veo-3.0-fast-generate-001. Ses oluşturma ve sabit 8 saniyelik süre gibi Veo 3'e özgü özelliklerle temel Veo düğümünü genişletir.
 

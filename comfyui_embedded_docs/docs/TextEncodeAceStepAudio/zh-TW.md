@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeAceStepAudio/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeAceStepAudio/zh-TW.md)
 
 TextEncodeAceStepAudio 節點透過將標籤和歌詞合併為 token，並以可調節的歌詞強度進行編碼，來處理用於音訊條件化的文字輸入。該節點接收 CLIP 模型以及文字描述和歌詞，將它們一起進行 token 化，並生成適合音訊生成任務的條件化資料。此節點允許透過控制歌詞對最終輸出影響程度的強度參數，來微調歌詞的影響力。
 

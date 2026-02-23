@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageAddNoise/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageAddNoise/ko.md)
 
 ImageAddNoise 노드는 입력 이미지에 무작위 노이즈를 추가합니다. 지정된 랜덤 시드를 사용하여 일관된 노이즈 패턴을 생성하며, 노이즈 효과의 강도를 제어할 수 있습니다. 결과 이미지는 입력과 동일한 크기를 유지하지만 시각적 텍스처가 추가됩니다.
 

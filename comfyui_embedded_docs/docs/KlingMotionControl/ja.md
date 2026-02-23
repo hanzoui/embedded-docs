@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingMotionControl/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingMotionControl/ja.md)
 
 Kling Motion Control ノードは、参照動画から抽出した動き、表情、カメラの動きを、参照画像とテキストプロンプトで定義されたキャラクターに適用して動画を生成します。キャラクターの最終的な向きを参照動画から取得するか、参照画像から取得するかを制御できます。
 

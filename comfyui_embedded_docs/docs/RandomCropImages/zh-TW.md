@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RandomCropImages/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RandomCropImages/zh-TW.md)
 
 Random Crop Images 節點會從每個輸入圖像中隨機選取一個矩形區域，並將其裁剪為指定的寬度和高度。這通常用於資料增強，以創建訓練圖像的變體。裁剪的隨機位置由一個種子值決定，確保可以重現相同的裁剪結果。
 

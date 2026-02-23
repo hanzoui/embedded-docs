@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeAceStepAudio1.5/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeAceStepAudio1.5/ko.md)
 
 TextEncodeAceStepAudio1.5 노드는 AceStepAudio 1.5 모델에서 사용하기 위해 텍스트와 오디오 관련 메타데이터를 준비합니다. 설명 태그, 가사, 음악적 매개변수를 입력받아 CLIP 모델을 사용하여 오디오 생성에 적합한 조건부 형식으로 변환합니다.
 

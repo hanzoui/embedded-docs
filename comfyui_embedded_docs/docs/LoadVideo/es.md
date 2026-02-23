@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadVideo/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadVideo/es.md)
 
 El nodo Load Video carga archivos de video desde el directorio de entrada y los hace disponibles para su procesamiento en el flujo de trabajo. Lee archivos de video desde la carpeta de entrada designada y los emite como datos de video que pueden conectarse a otros nodos de procesamiento de video.
 

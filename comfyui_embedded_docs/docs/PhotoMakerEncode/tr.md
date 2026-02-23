@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PhotoMakerEncode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PhotoMakerEncode/tr.md)
 
 PhotoMakerEncode düğümü, AI görüntü oluşturma için koşullandırma verileri üretmek amacıyla görüntüleri ve metni işler. Bir referans görüntü ve metin istemi alır, ardından referans görüntünün görsel özelliklerine dayalı olarak görüntü oluşturmayı yönlendirmek için kullanılabilecek gömme vektörlerini (embedding) oluşturur. Düğüm, görüntü tabanlı koşullandırmanın nereye uygulanacağını belirlemek için özellikle metin içindeki "photomaker" belirteçini (token) arar.
 

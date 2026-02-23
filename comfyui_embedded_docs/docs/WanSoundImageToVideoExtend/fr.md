@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanSoundImageToVideoExtend/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanSoundImageToVideoExtend/fr.md)
 
 Le nœud WanSoundImageToVideoExtend étend la génération d'image-à-vidéo en incorporant un conditionnement audio et des images de référence. Il prend des conditionnements positifs et négatifs ainsi que des données latentes vidéo et des embeddings audio optionnels pour générer des séquences vidéo étendues. Le nœud traite ces entrées pour créer des sorties vidéo cohérentes qui peuvent être synchronisées avec des repères audio.
 

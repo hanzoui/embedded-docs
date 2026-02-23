@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/JoinAudioChannels/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/JoinAudioChannels/ja.md)
 
 Join Audio Channels ノードは、2つの独立したモノラル音声入力を1つのステレオ音声出力に結合します。左チャンネルと右チャンネルを受け取り、互換性のあるサンプルレートと長さを確保した上で、それらを2チャンネルの音声波形に統合します。
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoRetargetNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoRetargetNode/ar.md)
 
 يطبق TripoRetargetNode رسوميات متحربة محددة مسبقًا على نماذج الشخصيات ثلاثية الأبعاد من خلال إعادة توجيه بيانات الحركة. يأخذ النموذج الثلاثي الأبعاد المعالج مسبقًا ويطبق واحدة من عدة رسوميات متحربة محددة، مولّدًا ملف نموذج ثلاثي الأبعاد متحرك كمخرج. يتواصل العقدة مع واجهة برمجة تطبيقات Tripo لمعالجة عملية إعادة توجيه الحركة.
 

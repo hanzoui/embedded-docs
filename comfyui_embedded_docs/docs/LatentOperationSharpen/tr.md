@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentOperationSharpen/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentOperationSharpen/tr.md)
 
 LatentOperationSharpen düğümü, Gauss çekirdeği kullanarak gizli temsillere keskinleştirme efekti uygular. Gizli veriyi normalleştirerek, özel bir keskinleştirme çekirdeği ile evrişim uygulayarak ve ardından orijinal parlaklığı geri yükleyerek çalışır. Bu, gizli uzay temsilindeki detayları ve kenarları geliştirir.
 

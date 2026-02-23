@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingStartEndFrameNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingStartEndFrameNode/en.md)
 
 Kling Start-End Frame to Video node creates a video sequence that transitions between your provided start and end images. It generates all the frames in between to produce a smooth transformation from the first frame to the last frame. This node calls the image-to-video API but only supports the input options that work with the `image_tail` request field.
 

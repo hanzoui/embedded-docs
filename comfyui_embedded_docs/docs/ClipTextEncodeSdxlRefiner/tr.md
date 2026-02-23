@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeSDXLRefiner/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeSDXLRefiner/tr.md)
 
 Bu düğüm, SDXL Refiner modeli için özel olarak tasarlanmış olup, metin prompt'larını koşullandırma bilgisine dönüştürürken estetik puanları ve boyutsal bilgileri dahil ederek üretim görevleri için koşulları geliştirir ve böylece nihai iyileştirme etkisini artırır. Profesyonel bir sanat yönetmeni gibi davranarak yalnızca yaratıcı niyetinizi iletmekle kalmaz, aynı zamanda esere kesin estetik standartlar ve özellik gereksinimleri de enjekte eder.
 

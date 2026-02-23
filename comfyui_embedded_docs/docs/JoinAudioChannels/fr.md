@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/JoinAudioChannels/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/JoinAudioChannels/fr.md)
 
 Le nœud Join Audio Channels combine deux entrées audio mono distinctes en une seule sortie audio stéréo. Il prend un canal gauche et un canal droit, s'assure qu'ils ont des fréquences d'échantillonnage et des longueurs compatibles, et les fusionne en une forme d'onde audio à deux canaux.
 

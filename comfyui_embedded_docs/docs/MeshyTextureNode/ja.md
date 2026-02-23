@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyTextureNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyTextureNode/ja.md)
 
 Meshy: Texture ノードは、AI生成のテクスチャを3Dモデルに適用します。前のMeshy 3D生成または変換ノードから取得したタスクIDを使用し、テキストによる説明または参照画像を用いてモデルに新しいテクスチャを作成します。このノードは、テクスチャが適用されたモデルをGLBおよびFBXファイル形式で出力します。
 

@@ -1,6 +1,6 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LazyCache/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LazyCache/es.md)
 
-LazyCache es una versión desarrollada internamente de EasyCache que proporciona una implementación aún más sencilla. Funciona con cualquier modelo en ComfyUI y añade funcionalidad de caché para reducir el cómputo durante el muestreo. Aunque generalmente tiene un rendimiento inferior a EasyCache, puede ser más efectivo en algunos casos raros y ofrece compatibilidad universal.
+LazyCache es una versión desarrollada internamente de EasyCache que proporciona una implementación aún más sencilla. Funciona con cualquier modelo en Hanzo Studio y añade funcionalidad de caché para reducir el cómputo durante el muestreo. Aunque generalmente tiene un rendimiento inferior a EasyCache, puede ser más efectivo en algunos casos raros y ofrece compatibilidad universal.
 
 ## Entradas
 

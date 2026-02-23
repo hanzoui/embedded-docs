@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Flux2Scheduler/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Flux2Scheduler/ko.md)
 
 Flux2Scheduler 노드는 디노이징(denoising) 과정을 위한 일련의 노이즈 수준(sigmas) 시퀀스를 생성하며, 특히 Flux 모델에 맞춰 설계되었습니다. 이 노드는 수행할 디노이징 단계 수와 목표 이미지의 크기를 기반으로 스케줄을 계산하며, 이는 이미지 생성 과정에서 노이즈 제거가 진행되는 방식을 결정합니다.
 

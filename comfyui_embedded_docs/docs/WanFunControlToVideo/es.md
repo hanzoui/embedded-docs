@@ -1,19 +1,19 @@
-Este nodo se ha añadido para soportar el modelo Wan Fun Control en video, introducido después de [este commit](https://github.com/comfyanonymous/ComfyUI/commit/3661c833bcc41b788a7c9f0e7bc48524f8ee5f82).
+Este nodo se ha añadido para soportar el modelo Wan Fun Control en video, introducido después de [este commit](https://github.com/hanzoai/studio/commit/3661c833bcc41b788a7c9f0e7bc48524f8ee5f82).
 
 - **Propósito:** Preparar la información condicional necesaria para generar videos utilizando el modelo Wan 2.1 Fun Control.
 
-El nodo WanFunControlToVideo es una adición de ComfyUI para soportar el modelo Wan Fun Control en video, diseñado para aprovechar el control WanFun en la generación de videos.
+El nodo WanFunControlToVideo es una adición de Hanzo Studio para soportar el modelo Wan Fun Control en video, diseñado para aprovechar el control WanFun en la generación de videos.
 
 Este nodo actúa como el punto central para preparar la información condicional necesaria e inicializar el espacio latente, guiando el proceso de generación de video utilizando el modelo Wan 2.1 Fun. El nombre del nodo indica claramente su función: acepta diversas entradas y las convierte en un formato adecuado para controlar la generación de video dentro del marco WanFun.
 
-La posición del nodo en la jerarquía de nodos de ComfyUI indica que opera en las primeras etapas del pipeline de generación de video, enfocándose en manipular las señales condicionales antes de la muestreo o decodificación real de los fotogramas de video.
+La posición del nodo en la jerarquía de nodos de Hanzo Studio indica que opera en las primeras etapas del pipeline de generación de video, enfocándose en manipular las señales condicionales antes de la muestreo o decodificación real de los fotogramas de video.
 
 ## Entradas
 
 | Nombre del parámetro | Parámetro requerido | Tipo de dato       | Descripción                                                                                                                                                                                                                                         | Valor por defecto |
 |:---------------------|:--------------------|:-------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------|
-| positive             | Sí                  | CONDITIONING       | Datos condicionales estándar de ComfyUI, generalmente provenientes del nodo de "codificación de texto CLIP". Las indicaciones positivas describen el contenido, tema y estilo artístico del video que el usuario imagina.                           | N/A               |
-| negative             | Sí                  | CONDITIONING       | Datos condicionales negativos estándar de ComfyUI, generalmente generados por el nodo de "codificación de texto CLIP". Las indicaciones negativas especifican los elementos, estilos o artefactos que el usuario desea evitar en el video generado. | N/A               |
+| positive             | Sí                  | CONDITIONING       | Datos condicionales estándar de Hanzo Studio, generalmente provenientes del nodo de "codificación de texto CLIP". Las indicaciones positivas describen el contenido, tema y estilo artístico del video que el usuario imagina.                           | N/A               |
+| negative             | Sí                  | CONDITIONING       | Datos condicionales negativos estándar de Hanzo Studio, generalmente generados por el nodo de "codificación de texto CLIP". Las indicaciones negativas especifican los elementos, estilos o artefactos que el usuario desea evitar en el video generado. | N/A               |
 | vae                  | Sí                  | VAE                | Se requiere un modelo VAE (autoencoder variacional) compatible con la serie de modelos Wan 2.1 Fun, para codificar y decodificar datos de imagen/video.                                                                                             | N/A               |
 | width                | Sí                  | INT                | Ancho esperado de los fotogramas de video de salida (en píxeles), valor por defecto 832, valor mínimo 16, valor máximo determinado por nodes.MAX_RESOLUTION, paso de 16.                                                                            | 832               |
 | height               | Sí                  | INT                | Altura esperada de los fotogramas de video de salida (en píxeles), valor por defecto 480, valor mínimo 16, valor máximo determinado por nodes.MAX_RESOLUTION, paso de 16.                                                                           | 480               |

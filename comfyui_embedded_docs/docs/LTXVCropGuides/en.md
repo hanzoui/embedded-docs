@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVCropGuides/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVCropGuides/en.md)
 
 The LTXVCropGuides node processes conditioning and latent inputs for video generation by removing keyframe information and adjusting the latent dimensions. It crops the latent image and noise mask to exclude keyframe sections while clearing keyframe indices from both positive and negative conditioning inputs. This prepares the data for video generation workflows that don't require keyframe guidance.
 

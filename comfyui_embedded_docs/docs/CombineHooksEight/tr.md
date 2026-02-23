@@ -1,6 +1,6 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CombineHooksEight/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CombineHooksEight/tr.md)
 
-Combine Hooks [8] düğümü, sekiz farklı hook grubunu tek bir birleşik hook grubunda birleştirir. Birden fazla hook girdisini alır ve ComfyUI'nin hook birleştirme işlevselliğini kullanarak bunları birleştirir. Bu, gelişmiş iş akışlarında birden fazla hook yapılandırmasını birleştirerek sadeleştirilmiş işleme olanağı sağlar.
+Combine Hooks [8] düğümü, sekiz farklı hook grubunu tek bir birleşik hook grubunda birleştirir. Birden fazla hook girdisini alır ve Hanzo Studio'nin hook birleştirme işlevselliğini kullanarak bunları birleştirir. Bu, gelişmiş iş akışlarında birden fazla hook yapılandırmasını birleştirerek sadeleştirilmiş işleme olanağı sağlar.
 
 ## Girdiler
 

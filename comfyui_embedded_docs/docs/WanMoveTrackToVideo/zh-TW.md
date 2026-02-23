@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveTrackToVideo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveTrackToVideo/zh-TW.md)
 
 WanMoveTrackToVideo 節點為影片生成準備條件設定和潛在空間資料，並可整合可選的運動追蹤資訊。它將起始影像序列編碼為潛在表示，並能混合來自物件追蹤的位置資料來引導生成影片中的運動。該節點輸出修改後的正向與負向條件設定，以及一個準備供影片模型使用的空潛在張量。
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingLTXV/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingLTXV/ar.md)
 
 تُطبّق عقدة ModelSamplingLTXV معاملات أخذ عينات متقدمة على النموذج بناءً على عدد الرموز (Tokens). تقوم بحساب قيمة إزاحة (Shift) باستخدام استيفاء خطي بين قيمتي الإزاحة الأساسية والقصوى، حيث يعتمد هذا الحساب على عدد الرموز في الكمون (Latent) المدخل. بعد ذلك، تنشئ العقدة تكوين أخذ عينات نموذج متخصص وتطبقه على النموذج المدخل.
 

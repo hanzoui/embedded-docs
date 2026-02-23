@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentBlend/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentBlend/zh-TW.md)
 
 LatentBlend 節點透過指定的混合因子將兩個潛在樣本進行混合。它接收兩個潛在輸入，並建立一個新的輸出，其中第一個樣本按混合因子加權，第二個樣本按反向加權。如果輸入樣本具有不同的形狀，第二個樣本會自動調整大小以匹配第一個樣本的尺寸。
 

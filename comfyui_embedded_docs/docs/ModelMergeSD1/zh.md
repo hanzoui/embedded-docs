@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSD1/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSD1/zh.md)
 
 ModelMergeSD1 节点允许您通过调整不同模型组件的影响力，将两个 Stable Diffusion 1.x 模型融合在一起。它提供了对时间嵌入、标签嵌入以及所有输入块、中间块和输出块的独立控制，从而能够针对特定用例进行精细调整的模型融合。
 

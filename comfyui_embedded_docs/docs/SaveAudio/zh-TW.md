@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveAudio/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveAudio/zh-TW.md)
 
 此節點將音訊資料儲存為 FLAC 格式的檔案。它接收音訊輸入，並使用指定的檔案名稱前綴將其寫入到指定的輸出目錄中。該節點會自動處理檔案命名，並確保音訊正確儲存以供後續使用。
 
@@ -7,7 +7,7 @@
 | 參數名稱 | 資料類型 | 必填 | 數值範圍 | 參數說明 |
 |-----------|-----------|----------|-------|-------------|
 | `音訊` | AUDIO | 是 | - | 要儲存的音訊資料 |
-| `檔名前綴` | STRING | 否 | - | 輸出檔名的前綴（預設值："audio/ComfyUI"） |
+| `檔名前綴` | STRING | 否 | - | 輸出檔名的前綴（預設值："audio/Hanzo Studio"） |
 
 *注意：`prompt` 和 `extra_pnginfo` 參數為隱藏參數，由系統自動處理。*
 

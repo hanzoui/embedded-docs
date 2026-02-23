@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageSharpen/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageSharpen/ar.md)
 
 يعمل عقد ImageSharpen على تحسين وضوح الصورة من خلال تعزيز حوافها وتفاصيلها. حيث يطبق مرشحًا للحدّة على الصورة، يمكن ضبط شدته ونصف قطره، مما يجعل الصورة تظهر أكثر تحديدًا ووضوحًا.
 

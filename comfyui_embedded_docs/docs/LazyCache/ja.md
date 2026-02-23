@@ -1,6 +1,6 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LazyCache/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LazyCache/ja.md)
 
-LazyCacheは、EasyCacheの独自実装版であり、さらに簡単な実装を提供します。ComfyUIのあらゆるモデルで動作し、サンプリング中の計算を削減するキャッシュ機能を追加します。一般的にはEasyCacheよりも性能が劣りますが、一部の稀なケースではより効果的であり、普遍的な互換性を提供します。
+LazyCacheは、EasyCacheの独自実装版であり、さらに簡単な実装を提供します。Hanzo Studioのあらゆるモデルで動作し、サンプリング中の計算を削減するキャッシュ機能を追加します。一般的にはEasyCacheよりも性能が劣りますが、一部の稀なケースではより効果的であり、普遍的な互換性を提供します。
 
 ## 入力
 

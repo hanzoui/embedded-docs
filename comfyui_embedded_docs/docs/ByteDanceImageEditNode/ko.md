@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceImageEditNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceImageEditNode/ko.md)
 
 ByteDance Image Edit 노드를 사용하면 API를 통해 ByteDance의 AI 모델을 이용하여 이미지를 수정할 수 있습니다. 입력 이미지와 원하는 변경 사항을 설명하는 텍스트 프롬프트를 제공하면, 노드는 사용자의 지시에 따라 이미지를 처리합니다. 이 노드는 API 통신을 자동으로 처리하며 편집된 이미지를 반환합니다.
 

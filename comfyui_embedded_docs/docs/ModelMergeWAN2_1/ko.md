@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeWAN2_1/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeWAN2_1/ko.md)
 
 ModelMergeWAN2_1 노드는 두 모델의 구성 요소를 가중 평균을 사용하여 혼합하는 방식으로 모델을 병합합니다. 30개의 블록을 가진 1.3B 모델과 40개의 블록을 가진 14B 모델을 포함한 다양한 모델 크기를 지원하며, 추가 이미지 임베딩 구성 요소를 포함하는 이미지-투-비디오 모델에 대한 특별한 처리를 제공합니다. 각 모델의 구성 요소는 개별적으로 가중치를 부여하여 두 입력 모델 간의 혼합 비율을 제어할 수 있습니다.
 

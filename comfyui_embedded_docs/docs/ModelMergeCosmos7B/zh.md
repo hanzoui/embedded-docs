@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmos7B/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmos7B/zh.md)
 
 ModelMergeCosmos7B 节点通过特定组件的加权混合将两个 AI 模型合并在一起。它允许通过调整位置嵌入、Transformer 块和最终层的独立权重，来精细控制模型不同部分的融合方式。
 

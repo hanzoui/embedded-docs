@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetDefaultAndCombine/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetDefaultAndCombine/ko.md)
 
 이 노드는 훅 기반 시스템을 사용하여 조건 데이터를 기본 조건 데이터와 결합합니다. 기본 조건 입력과 기본값 조건 입력을 받아 지정된 훅 구성에 따라 병합합니다. 결과는 두 소스를 통합한 단일 조건 출력입니다.
 

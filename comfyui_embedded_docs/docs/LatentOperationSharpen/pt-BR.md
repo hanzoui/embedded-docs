@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentOperationSharpen/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentOperationSharpen/pt-BR.md)
 
 O nó LatentOperationSharpen aplica um efeito de nitidez às representações latentes usando um kernel Gaussiano. Ele funciona normalizando os dados latentes, aplicando uma convolução com um kernel de nitidez personalizado e, em seguida, restaurando a luminância original. Isso realça os detalhes e bordas na representação do espaço latente.
 

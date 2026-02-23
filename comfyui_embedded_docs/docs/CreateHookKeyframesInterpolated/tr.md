@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookKeyframesInterpolated/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookKeyframesInterpolated/tr.md)
 
 Bir başlangıç ve bitiş noktası arasında enterpolasyonlu güç değerlerine sahip bir kanca kare dizisi oluşturur. Bu düğüm, üretim sürecinin belirli bir yüzdelik aralığı boyunca güç parametresini sorunsuz bir şekilde geçiş yapacak şekilde, geçiş eğrisini kontrol etmek için çeşitli enterpolasyon yöntemlerini kullanarak birden fazla kare oluşturur.
 

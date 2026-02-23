@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMPP_2S_Ancestral/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMPP_2S_Ancestral/zh.md)
 
 SamplerDPMPP_2S_Ancestral 节点创建了一个使用 DPM++ 2S Ancestral 采样方法生成图像的采样器。该采样器结合了确定性和随机性元素，在保持一定一致性的同时产生多样化的结果。它允许您在采样过程中控制随机性和噪声水平。
 

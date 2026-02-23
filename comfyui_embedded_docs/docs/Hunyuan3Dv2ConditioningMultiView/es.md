@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Hunyuan3Dv2ConditioningMultiView/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Hunyuan3Dv2ConditioningMultiView/es.md)
 
 El nodo Hunyuan3Dv2ConditioningMultiView procesa incrustaciones de visión CLIP multivista para la generación de vídeos 3D. Toma incrustaciones opcionales de vista frontal, izquierda, posterior y derecha y las combina con codificación posicional para crear datos de condicionamiento para modelos de vídeo. El nodo genera tanto condicionamiento positivo a partir de las incrustaciones combinadas como condicionamiento negativo con valores cero.
 

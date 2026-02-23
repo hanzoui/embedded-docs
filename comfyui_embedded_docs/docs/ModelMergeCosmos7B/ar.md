@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmos7B/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmos7B/ar.md)
 
 تُدمج العقدة ModelMergeCosmos7B نموذجين للذكاء الاصطناعي معًا باستخدام المزج الموزون لمكونات محددة. تتيح التحكم الدقيق في كيفية دمج الأجزاء المختلفة للنماذج من خلال ضبط الأوزان الفردية لمواضع التضمين، وكتل المحولات، والطبقات النهائية.
 

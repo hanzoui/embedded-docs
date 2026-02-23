@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Stablezero123ConditioningBatched/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Stablezero123ConditioningBatched/pt-BR.md)
 
 Este nó foi projetado para processar informações de condicionamento de forma em lote, especificamente adaptado para o modelo StableZero123. Ele se concentra no tratamento eficiente de múltiplos conjuntos de dados de condicionamento simultaneamente, otimizando o fluxo de trabalho para cenários onde o processamento em lote é crucial.
 

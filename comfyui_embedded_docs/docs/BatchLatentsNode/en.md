@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BatchLatentsNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BatchLatentsNode/en.md)
 
 The Batch Latents node combines multiple latent inputs into a single batch. It takes a variable number of latent samples and merges them along the batch dimension, allowing them to be processed together in subsequent nodes. This is useful for generating or processing multiple images in a single operation.
 

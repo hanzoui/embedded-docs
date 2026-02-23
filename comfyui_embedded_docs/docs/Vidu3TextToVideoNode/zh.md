@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu3TextToVideoNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu3TextToVideoNode/zh.md)
 
 Vidu Q3 文生视频节点可根据文本描述生成视频。它使用 Vidu Q3 Pro 模型，基于您的提示词生成视频内容，并允许您控制视频的长度、分辨率和宽高比。
 

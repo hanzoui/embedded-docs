@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerSASolver/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerSASolver/tr.md)
 
 SamplerSASolver düğümü, difüzyon modelleri için özel bir örnekleme algoritması uygular. Girdi modelinden örnekler oluşturmak üzere yapılandırılabilir sıra ayarları ve stokastik diferansiyel denklem (SDE) parametreleri ile bir tahminci-düzeltici yaklaşımı kullanır.
 

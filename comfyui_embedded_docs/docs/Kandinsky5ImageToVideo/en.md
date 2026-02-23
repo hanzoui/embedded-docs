@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Kandinsky5ImageToVideo/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Kandinsky5ImageToVideo/en.md)
 
 The Kandinsky5ImageToVideo node prepares conditioning and latent space data for video generation using the Kandinsky model. It creates an empty video latent tensor and can optionally encode a starting image to guide the initial frames of the generated video, modifying the positive and negative conditioning accordingly.
 

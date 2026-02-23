@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageScaleToMaxDimension/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageScaleToMaxDimension/tr.md)
 
 ImageScaleToMaxDimension düğümü, görüntüleri orijinal en-boy oranını koruyarak belirtilen maksimum boyuta sığacak şekilde yeniden boyutlandırır. Görüntünün dikey mi yatay mı olduğunu hesaplar, ardından daha büyük olan boyutu hedef boyutla eşleşecek şekilde ölçeklerken daha küçük olan boyutu da orantılı olarak ayarlar. Düğüm, farklı kalite ve performans gereksinimleri için birden fazla yukarı ölçekleme yöntemini destekler.
 

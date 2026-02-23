@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GrokImageNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GrokImageNode/ko.md)
 
 Grok Image 노드는 Grok AI 모델을 사용하여 텍스트 설명을 기반으로 하나 이상의 이미지를 생성합니다. 이 노드는 사용자의 프롬프트를 외부 서비스로 전송하고 생성된 이미지를 워크플로우에서 사용할 수 있는 텐서로 반환합니다.
 

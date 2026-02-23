@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyImageToModelNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyImageToModelNode/zh.md)
 
 Meshy: Image to Model 节点使用 Meshy API 从单张输入图像生成 3D 模型。它会将您的图像上传，提交处理任务，并返回生成的 3D 模型文件（GLB 和 FBX）以及用于参考的任务 ID。
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeAceStepAudio/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeAceStepAudio/ar.md)
 
 يعالج عقد TextEncodeAceStepAudio المدخلات النصية للتكييف الصوتي من خلال دمج الوسوم وكلمات الأغاني في رموز، ثم تشفيرها بقوة قابلة للتعديل لكلمات الأغاني. يأخذ العقدة نموذج CLIP مع الأوصاف النصية وكلمات الأغاني، ويقوم بتجزئتها معًا، وينشئ بيانات تكييف مناسبة لمهام توليد الصوت. تسمح العقدة بضبط دقيق لتأثير كلمات الأغاني من خلال معامل القوة الذي يتحكم في تأثيرها على المخرجات النهائية.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftCreativeUpscaleNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftCreativeUpscaleNode/zh-TW.md)
 
 Recraft Creative Upscale Image 節點透過提高解析度來增強點陣圖影像。它使用一種「創意放大」流程，專注於改善影像中的細小細節和臉部。此操作透過外部 API 同步執行。
 

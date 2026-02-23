@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RepeatLatentBatch/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RepeatLatentBatch/pt-BR.md)
 
 O nó RepeatLatentBatch foi projetado para replicar um determinado lote de representações latentes um número especificado de vezes, potencialmente incluindo dados adicionais como máscaras de ruído e índices de lote. Essa funcionalidade é crucial para operações que exigem múltiplas instâncias dos mesmos dados latentes, como aumento de dados ou tarefas generativas específicas.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KSamplerSelect/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KSamplerSelect/tr.md)
 
 KSamplerSelect düğümü, belirtilen örnekleyici adına dayalı olarak belirli bir örnekleyiciyi seçmek için tasarlanmıştır. Örnekleyici seçiminin karmaşıklığını soyutlayarak, kullanıcıların görevleri için farklı örnekleme stratejileri arasında kolayca geçiş yapmasına olanak tanır.
 

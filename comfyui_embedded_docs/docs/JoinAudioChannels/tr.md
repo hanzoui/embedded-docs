@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/JoinAudioChannels/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/JoinAudioChannels/tr.md)
 
 Join Audio Channels düğümü, iki ayrı mono ses girişini tek bir stereo ses çıkışında birleştirir. Bir sol kanal ve bir sağ kanal alır, uyumlu örnekleme hızlarına ve uzunluklara sahip olmalarını sağlar ve bunları iki kanallı bir ses dalga formunda birleştirir.
 

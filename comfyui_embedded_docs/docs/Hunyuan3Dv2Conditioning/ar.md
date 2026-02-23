@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Hunyuan3Dv2Conditioning/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Hunyuan3Dv2Conditioning/ar.md)
 
 ```markdown
 عُقدة Hunyuan3Dv2Conditioning تعالج مُخرجات رؤية CLIP لتوليد بيانات تكييف لنماذج الفيديو. تقوم باستخراج تضمينات الحالة المخفية الأخيرة من مُخرجات الرؤية وإنشاء أزواج التكييف الإيجابية والسلبية. يستخدم التكييف الإيجابي التضمينات الفعلية بينما يستخدم التكييف السلبي تضمينات بقيمة صفرية بنفس الشكل.

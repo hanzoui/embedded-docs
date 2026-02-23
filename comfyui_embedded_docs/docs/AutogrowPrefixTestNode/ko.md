@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AutogrowPrefixTestNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AutogrowPrefixTestNode/ko.md)
 
 AutogrowPrefixTestNode는 자동 증가 입력 기능을 테스트하기 위해 설계된 논리 노드입니다. 동적으로 여러 개의 부동 소수점 입력을 받아들이고, 그 값들을 쉼표로 구분된 문자열로 결합한 후 해당 문자열을 출력합니다.
 

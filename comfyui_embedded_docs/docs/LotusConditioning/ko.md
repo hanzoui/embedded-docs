@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LotusConditioning/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LotusConditioning/ko.md)
 
 LotusConditioning 노드는 Lotus 모델을 위한 사전 계산된 조건화 임베딩을 제공합니다. 이 노드는 null 조건화와 함께 고정된 인코더를 사용하며, 추론이나 대용량 텐서 파일 로드를 필요로 하지 않고 참조 구현과의 동등성을 달성하기 위해 하드코딩된 프롬프트 임베딩을 반환합니다. 이 노드는 생성 파이프라인에서 직접 사용할 수 있는 고정된 조건화 텐서를 출력합니다.
 

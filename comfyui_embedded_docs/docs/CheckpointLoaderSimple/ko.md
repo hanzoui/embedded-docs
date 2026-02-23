@@ -1,10 +1,10 @@
 이것은 지정된 위치에서 모델 파일을 로드하고 세 가지 핵심 구성 요소(메인 모델, 텍스트 인코더, 이미지 인코더/디코더)로 분해하는 모델 로더 노드입니다.
 
-이 노드는 `ComfyUI/models/checkpoints` 폴더의 모든 모델 파일과 `extra_model_paths.yaml` 파일에서 설정한 추가 경로를 자동으로 감지합니다.
+이 노드는 `Hanzo Studio/models/checkpoints` 폴더의 모든 모델 파일과 `extra_model_paths.yaml` 파일에서 설정한 추가 경로를 자동으로 감지합니다.
 
 1. **모델 호환성**: 선택한 모델이 워크플로우와 호환되는지 확인하세요. 다양한 모델 유형(SD1.5, SDXL, Flux 등)은 해당 샘플러 및 기타 노드와 함께 사용해야 합니다
-2. **파일 관리**: 모델 파일을 `ComfyUI/models/checkpoints` 폴더에 배치하거나 extra_model_paths.yaml을 통해 다른 경로를 설정하세요
-3. **인터페이스 새로 고침**: ComfyUI 실행 중에 새 모델 파일이 추가된 경우, 드롭다운 목록에서 새 파일을 보려면 브라우저를 새로 고침(Ctrl+R)해야 합니다
+2. **파일 관리**: 모델 파일을 `Hanzo Studio/models/checkpoints` 폴더에 배치하거나 extra_model_paths.yaml을 통해 다른 경로를 설정하세요
+3. **인터페이스 새로 고침**: Hanzo Studio 실행 중에 새 모델 파일이 추가된 경우, 드롭다운 목록에서 새 파일을 보려면 브라우저를 새로 고침(Ctrl+R)해야 합니다
 
 ## 입력
 

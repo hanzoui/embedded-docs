@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Pikaffects/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Pikaffects/fr.md)
 
 Le nœud Pikaffects génère des vidéos avec divers effets visuels appliqués à une image d'entrée. Il utilise l'API de génération vidéo de Pika pour transformer des images statiques en vidéos animées avec des effets spécifiques tels que la fusion, l'explosion ou la lévitation. Le nœud nécessite une clé API et un jeton d'authentification pour accéder au service Pika.
 

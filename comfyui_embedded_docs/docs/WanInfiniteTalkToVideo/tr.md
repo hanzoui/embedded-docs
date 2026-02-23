@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanInfiniteTalkToVideo/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanInfiniteTalkToVideo/tr.md)
 
 WanInfiniteTalkToVideo düğümü, ses girişinden video dizileri oluşturur. Bir veya iki konuşmacıdan çıkarılan ses özellikleriyle koşullandırılmış bir video difüzyon modeli kullanarak, konuşan kafa videosunun gizli (latent) temsilini üretir. Düğüm, yeni bir dizi oluşturabilir veya hareket bağlamı için önceki kareleri kullanarak mevcut bir diziyi genişletebilir.
 

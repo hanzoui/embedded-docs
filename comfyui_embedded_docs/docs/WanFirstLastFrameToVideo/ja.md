@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanFirstLastFrameToVideo/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanFirstLastFrameToVideo/ja.md)
 
 WanFirstLastFrameToVideoノードは、開始フレームと終了フレームをテキストプロンプトと組み合わせてビデオのコンディショニングを作成します。このノードは、最初と最後のフレームをエンコードし、生成プロセスをガイドするためのマスクを適用し、利用可能な場合はCLIPビジョン特徴を組み込むことで、ビデオ生成のための潜在表現を生成します。このノードは、指定された開始点と終了点の間で一貫性のあるシーケンスを生成するために、ビデオモデル向けのポジティブとネガティブの両方のコンディショニングを準備します。
 

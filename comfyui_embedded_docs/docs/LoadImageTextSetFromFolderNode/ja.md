@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageTextSetFromFolderNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageTextSetFromFolderNode/ja.md)
 
 指定されたディレクトリから画像のバッチとそれに対応するテキストキャプションを読み込み、トレーニング目的で使用します。このノードは、画像ファイルとそれに関連付けられたキャプションテキストファイルを自動的に検索し、指定されたリサイズ設定に従って画像を処理し、提供されたCLIPモデルを使用してキャプションをエンコードします。
 

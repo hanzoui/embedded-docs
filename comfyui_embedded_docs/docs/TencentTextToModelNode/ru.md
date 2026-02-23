@@ -1,4 +1,4 @@
-> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TencentTextToModelNode/ru.md)
+> Эта документация была создана с помощью ИИ. Если вы обнаружите ошибки или у вас есть предложения по улучшению, пожалуйста, внесите свой вклад! [Редактировать на GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TencentTextToModelNode/ru.md)
 
 Этот узел использует API Tencent Hunyuan3D Pro для генерации 3D-модели из текстового описания. Он отправляет запрос на создание задачи генерации, опрашивает статус выполнения и загружает итоговые файлы модели в форматах GLB и OBJ.
 

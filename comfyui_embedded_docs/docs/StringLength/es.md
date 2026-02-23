@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringLength/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringLength/es.md)
 
 El nodo StringLength calcula el número de caracteres en una cadena de texto. Toma cualquier entrada de texto y devuelve el recuento total de caracteres, incluyendo espacios y puntuación. Esto es útil para medir la longitud del texto o validar requisitos de tamaño de cadena.
 

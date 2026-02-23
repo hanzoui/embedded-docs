@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TrainLoraNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TrainLoraNode/fr.md)
 
 Le nœud TrainLoraNode crée et entraîne un modèle LoRA (Low-Rank Adaptation) sur un modèle de diffusion en utilisant des latents et des données de conditionnement fournies. Il vous permet de fine-tuner un modèle avec des paramètres d'entraînement, des optimiseurs et des fonctions de perte personnalisés. Le nœud retourne le modèle entraîné avec LoRA appliqué, les poids LoRA, les métriques de perte d'entraînement et le nombre total d'étapes d'entraînement effectuées.
 

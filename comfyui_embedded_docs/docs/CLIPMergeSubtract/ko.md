@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPMergeSubtract/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPMergeSubtract/ko.md)
 
 CLIPMergeSubtract 노드는 한 CLIP 모델의 가중치를 다른 모델에서 빼는 방식으로 모델 병합을 수행합니다. 첫 번째 모델을 복제한 후 두 번째 모델의 키 패치를 조정 가능한 승수로 제어하여 빼는 방식으로 새로운 CLIP 모델을 생성합니다. 이를 통해 기본 모델에서 특정 특성을 제거하여 미세 조정된 모델 혼합이 가능합니다.
 

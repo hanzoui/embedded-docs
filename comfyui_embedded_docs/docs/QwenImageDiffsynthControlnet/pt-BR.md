@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/QwenImageDiffsynthControlnet/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/QwenImageDiffsynthControlnet/pt-BR.md)
 
 O nó QwenImageDiffsynthControlnet aplica um patch de rede de controle de síntese por difusão para modificar o comportamento de um modelo base. Ele utiliza uma imagem de entrada e uma máscara opcional para orientar o processo de geração do modelo com força ajustável, criando um modelo modificado que incorpora a influência da rede de controle para uma síntese de imagem mais controlada.
 

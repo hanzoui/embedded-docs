@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioMerge/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioMerge/tr.md)
 
 AudioMerge düğümü, iki ses parçasını dalga formlarını üst üste bindirerek birleştirir. Her iki ses girişinin örnekleme hızlarını otomatik olarak eşleştirir ve birleştirmeden önce uzunluklarını eşit olacak şekilde ayarlar. Düğüm, ses sinyallerini birleştirmek için çeşitli matematiksel yöntemler sağlar ve çıktının kabul edilebilir ses seviyeleri içinde kalmasını garanti eder.
 

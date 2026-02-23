@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVImgToVideoInplace/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVImgToVideoInplace/zh.md)
 
 LTXVImgToVideoInplace 节点通过将输入图像编码到其初始帧中，来对视频潜在表示进行条件化处理。其工作原理是使用 VAE 将图像编码到潜在空间，然后根据指定的强度将其与现有的潜在样本进行混合。这使得图像可以作为视频生成的起点或条件信号。
 

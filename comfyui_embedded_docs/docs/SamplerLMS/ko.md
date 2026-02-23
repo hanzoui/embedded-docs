@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerLMS/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerLMS/ko.md)
 
 SamplerLMS 노드는 확산 모델에서 사용할 최소 평균 제곱(LMS) 샘플러를 생성합니다. 이 노드는 샘플링 과정에서 사용할 수 있는 샘플러 객체를 생성하며, 수치적 안정성과 정확도를 위해 LMS 알고리즘의 차수를 제어할 수 있습니다.
 

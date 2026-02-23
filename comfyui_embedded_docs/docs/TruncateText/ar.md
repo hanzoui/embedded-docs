@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TruncateText/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TruncateText/ar.md)
 
 يعمل هذا العقد على تقصير النص عن طريق قطعه عند طول أقصى محدد. يأخذ أي نص مُدخل ويعيد الجزء الأول فقط، حتى عدد الأحرف الذي تحدده. إنها طريقة بسيطة لضمان ألا يتجاوز النص حجمًا معينًا.
 

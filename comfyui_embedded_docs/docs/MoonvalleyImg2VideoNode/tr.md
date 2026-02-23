@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MoonvalleyImg2VideoNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MoonvalleyImg2VideoNode/tr.md)
 
 Moonvalley Marey Görüntüden Videoya düğümü, bir referans görüntüyü Moonvalley API'sini kullanarak videoya dönüştürür. Bir giriş görüntüsü ve bir metin istemi alarak, belirtilen çözünürlük, kalite ayarları ve yaratıcı kontrollerle bir video oluşturur. Düğüm, görüntü yüklemeden video oluşturma ve indirmeye kadar tüm süreci halleder.
 

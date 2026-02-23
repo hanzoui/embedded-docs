@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProFirstLastFrameNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProFirstLastFrameNode/tr.md)
 
 Bu düğüm, bir video oluşturmak için Kling AI modelini kullanır. Bir başlangıç görseli ve bir metin istemi gerektirir. İsteğe bağlı olarak, videonun içeriğini ve stilini yönlendirmek için bir bitiş görseli veya en fazla altı referans görseli sağlayabilirsiniz. Düğüm, belirli bir süre ve çözünürlükte bir video oluşturmak için bu girdileri işler.
 

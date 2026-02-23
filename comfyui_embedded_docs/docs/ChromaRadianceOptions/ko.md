@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ChromaRadianceOptions/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ChromaRadianceOptions/ko.md)
 
 ChromaRadianceOptions 노드를 사용하면 Chroma Radiance 모델의 고급 설정을 구성할 수 있습니다. 기존 모델을 래핑하고 시그마 값에 기반하여 디노이징 과정에서 특정 옵션을 적용하며, NeRF 타일 크기 및 기타 radiance 관련 매개변수에 대한 미세 조정 제어를 가능하게 합니다.
 

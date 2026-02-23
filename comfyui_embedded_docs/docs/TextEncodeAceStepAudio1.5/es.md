@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeAceStepAudio1.5/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeAceStepAudio1.5/es.md)
 
 El nodo **TextEncodeAceStepAudio1.5** prepara texto y metadatos relacionados con audio para su uso con el modelo AceStepAudio 1.5. Toma etiquetas descriptivas, letras y parámetros musicales, y luego utiliza un modelo CLIP para convertirlos en un formato de condicionamiento adecuado para la generación de audio.
 

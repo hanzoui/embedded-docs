@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Mahiro/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Mahiro/zh-TW.md)
 
 Mahiro 節點修改了引導函數，使其更專注於正向提示詞的方向，而非正向與負向提示詞之間的差異。它會建立一個修補後的模型，該模型使用標準化條件與非條件去噪輸出之間的餘弦相似度，來應用自訂的引導縮放方法。這個實驗性節點有助於更強力地將生成結果導向正向提示詞的預期方向。
 

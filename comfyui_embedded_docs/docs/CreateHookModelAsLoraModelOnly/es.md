@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookModelAsLoraModelOnly/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookModelAsLoraModelOnly/es.md)
 
 Este nodo crea un hook que aplica un modelo LoRA (Low-Rank Adaptation) para modificar únicamente el componente modelo de una red neuronal. Carga un archivo de checkpoint y lo aplica con una fuerza específica al modelo, dejando el componente CLIP sin cambios. Este es un nodo experimental que extiende la funcionalidad de la clase base CreateHookModelAsLora.
 

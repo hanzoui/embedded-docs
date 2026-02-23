@@ -1,6 +1,6 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ControlNetLoader/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ControlNetLoader/ar.md)
 
-سيقوم هذا العقد باكتشاف النماذج الموجودة في مجلد `ComfyUI/models/controlnet`، كما سيقوم بقراءة النماذج من المسارات الإضافية المُكونة في ملف extra_model_paths.yaml. في بعض الأحيان، قد تحتاج إلى **تحديث واجهة ComfyUI** للسماح لها بقراءة ملفات النماذج من المجلد المقابل.
+سيقوم هذا العقد باكتشاف النماذج الموجودة في مجلد `Hanzo Studio/models/controlnet`، كما سيقوم بقراءة النماذج من المسارات الإضافية المُكونة في ملف extra_model_paths.yaml. في بعض الأحيان، قد تحتاج إلى **تحديث واجهة Hanzo Studio** للسماح لها بقراءة ملفات النماذج من المجلد المقابل.
 
 تم تصميم عقد ControlNetLoader لتحميل نموذج ControlNet من مسار محدد. يلعب هذا العقد دورًا حاسمًا في تهيئة نماذج ControlNet، وهي ضرورية لتطبيق آليات التحكم على المحتوى المُنشأ أو تعديل المحتوى الحالي بناءً على إشارات التحكم.
 

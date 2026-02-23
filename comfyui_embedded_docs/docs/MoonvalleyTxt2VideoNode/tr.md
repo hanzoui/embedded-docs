@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MoonvalleyTxt2VideoNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MoonvalleyTxt2VideoNode/tr.md)
 
 Moonvalley Marey Metinden Videoya düğümü, Moonvalley API'sini kullanarak metin açıklamalarından video içeriği oluşturur. Bir metin istemi alır ve çözünürlük, kalite ve stil için özelleştirilebilir ayarlarla bunu bir videoya dönüştürür. Düğüm, oluşturma isteğini göndermekten nihai video çıktısını indirmeye kadar tüm süreci yönetir.
 

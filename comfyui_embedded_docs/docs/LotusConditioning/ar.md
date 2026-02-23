@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LotusConditioning/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LotusConditioning/ar.md)
 
 يوفر عقد LotusConditioning تضمينات توجيه مُحسَّبة مسبقًا لنموذج Lotus. يستخدم مُرمِّزًا مجمدًا مع توجيه فارغ ويعيد تضمينات أوامر ثابتة لتحقيق التكافؤ مع التنفيذ المرجعي دون الحاجة إلى الاستدلال أو تحميل ملفات موتر كبيرة. يُخرج هذا العقد موتر توجيه ثابت يمكن استخدامه مباشرة في خطوة التوليد.
 

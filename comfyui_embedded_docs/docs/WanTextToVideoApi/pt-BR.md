@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanTextToVideoApi/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanTextToVideoApi/pt-BR.md)
 
 O nó Wan Text to Video gera conteúdo de vídeo com base em descrições de texto. Ele utiliza modelos de IA para criar vídeos a partir de prompts e suporta vários tamanhos de vídeo, durações e entradas de áudio opcionais. O nó pode gerar áudio automaticamente quando necessário e oferece opções para aprimoramento de prompt e marca d'água.
 

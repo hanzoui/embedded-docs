@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PreviewAny/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PreviewAny/fr.md)
 
 Le nœud PreviewAny affiche un aperçu de tout type de données d'entrée sous format texte. Il accepte n'importe quel type de données en entrée et le convertit en une représentation textuelle lisible pour visualisation. Le nœud gère automatiquement les différents types de données, y compris les chaînes de caractères, les nombres, les booléens et les objets complexes, en tentant de les sérialiser au format JSON.
 

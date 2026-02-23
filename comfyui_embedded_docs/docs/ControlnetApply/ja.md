@@ -2,7 +2,7 @@
 
 このノードは、与えられた画像と条件付けにControlNetを適用し、Depth、OpenPose、Canny、HEDなどのコントロールネットワークのパラメータと指定された強度に従って画像の属性を調整します。
 
-ControlNetを使用するには、入力画像の前処理が必要です。ComfyUIの初期ノードには前処理器とControlNetモデルが含まれていないため、まずContrlNet前処理器[前処理器のダウンロード](https://github.com/Fannovel16/comfy_controlnet_preprocessors)と対応するControlNetモデルをインストールしてください。
+ControlNetを使用するには、入力画像の前処理が必要です。Hanzo Studioの初期ノードには前処理器とControlNetモデルが含まれていないため、まずContrlNet前処理器[前処理器のダウンロード](https://github.com/Fannovel16/comfy_controlnet_preprocessors)と対応するControlNetモデルをインストールしてください。
 
 ## 入力
 

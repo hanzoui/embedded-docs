@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VPScheduler/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VPScheduler/zh-TW.md)
 
 VPScheduler 節點旨在基於方差保持（VP）調度方法生成一系列噪聲水平（sigmas）。此序列對於引導擴散模型中的去噪過程至關重要，可實現對圖像或其他資料類型的受控生成。
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeAudio/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeAudio/ja.md)
 
 VAEDecodeAudioノードは、変分オートエンコーダを使用して潜在表現をオーディオ波形に変換します。エンコードされたオーディオサンプルを受け取り、VAEを通して処理することで元のオーディオを再構築し、一貫した出力レベルを保証するために正規化を適用します。生成されたオーディオは44100 Hzの標準サンプルレートで返されます。
 

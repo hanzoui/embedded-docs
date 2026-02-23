@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/UNetCrossAttentionMultiply/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UNetCrossAttentionMultiply/zh-TW.md)
 
 UNetCrossAttentionMultiply 節點對 UNet 模型中的交叉注意力機制應用乘法因子。它允許您縮放交叉注意力層的查詢、鍵、值和輸出組件，以實驗不同的注意力行為和效果。
 

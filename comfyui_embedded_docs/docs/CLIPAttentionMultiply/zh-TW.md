@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPAttentionMultiply/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPAttentionMultiply/zh-TW.md)
 
 CLIPAttentionMultiply 節點允許您透過對自注意力層的不同組件應用乘法因子來調整 CLIP 模型中的注意力機制。它透過修改 CLIP 模型注意力機制中的查詢、鍵、值和輸出投影權重及偏置來實現。這個實驗性節點會建立一個輸入 CLIP 模型的修改副本，並應用指定的縮放因子。
 

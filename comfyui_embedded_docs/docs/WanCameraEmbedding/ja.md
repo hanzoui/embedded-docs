@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanCameraEmbedding/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanCameraEmbedding/ja.md)
 
 WanCameraEmbeddingノードは、カメラモーションパラメータに基づいてプラッカー埋め込みを使用してカメラ軌道の埋め込みを生成します。さまざまなカメラの動きをシミュレートする一連のカメラポーズを作成し、ビデオ生成パイプラインに適した埋め込みテンソルに変換します。
 

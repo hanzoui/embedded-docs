@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResizeImagesByLongerEdge/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResizeImagesByLongerEdge/ja.md)
 
 Resize Images by Longer Edge ノードは、1つまたは複数の画像をリサイズし、その長辺が指定されたターゲット長に一致するようにします。画像の幅と高さのどちらが長いかを自動的に判断し、元のアスペクト比を維持するためにもう一方の寸法を比例的にスケーリングします。これは、画像の最大寸法に基づいて画像サイズを標準化するのに役立ちます。
 

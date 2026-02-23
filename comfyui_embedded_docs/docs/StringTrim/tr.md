@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringTrim/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringTrim/tr.md)
 
 StringTrim düğümü, bir metin dizesinin başından, sonundan veya her iki tarafından boşluk karakterlerini kaldırır. Dizenin sol tarafından, sağ tarafından veya her iki tarafından kırpma yapmayı seçebilirsiniz. Bu, istenmeyen boşlukları, sekmeleri veya satırsonu karakterlerini kaldırarak metin girişlerini temizlemek için kullanışlıdır.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PreviewAny/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PreviewAny/zh-TW.md)
 
 PreviewAny 節點以文字格式顯示任何輸入資料類型的預覽畫面。它接受任何資料類型作為輸入，並將其轉換為可讀的字串表示形式以供檢視。該節點透過嘗試將不同資料類型（包括字串、數字、布林值和複雜物件）序列化為 JSON 格式來自動處理它們。
 

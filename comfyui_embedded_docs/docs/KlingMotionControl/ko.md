@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingMotionControl/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingMotionControl/ko.md)
 
 Kling Motion Control 노드는 참조 비디오의 동작, 표정, 카메라 움직임을 참조 이미지와 텍스트 프롬프트로 정의된 캐릭터에 적용하여 비디오를 생성합니다. 캐릭터의 최종 방향이 참조 비디오에서 올지, 참조 이미지에서 올지 제어할 수 있습니다.
 

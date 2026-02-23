@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Veo3FirstLastFrameNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Veo3FirstLastFrameNode/ar.md)
 
 يستخدم عقد Veo3FirstLastFrameNode نموذج Veo 3 من Google لتوليد مقطع فيديو. يقوم بإنشاء الفيديو بناءً على وصف نصي، مستخدمًا إطارًا أوليًا وإطارًا نهائيًا مُقدَّمين لتوجيه بداية ونهاية التسلسل.
 

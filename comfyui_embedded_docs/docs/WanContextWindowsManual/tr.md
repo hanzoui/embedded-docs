@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanContextWindowsManual/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanContextWindowsManual/tr.md)
 
 WAN Context Windows (Manual) düğümü, 2 boyutlu işleme yeteneğine sahip WAN benzeri modeller için bağlam pencerelerini manuel olarak yapılandırmanıza olanak tanır. Örnekleme sırasında pencere uzunluğu, örtüşme, zamanlama yöntemi ve füzyon tekniğini belirterek özel bağlam penceresi ayarları uygular. Bu, modelin farklı bağlam bölgeleri boyunca bilgiyi nasıl işlediği üzerinde hassas kontrol sağlar.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanImageToImageApi/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanImageToImageApi/zh-TW.md)
 
 Wan Image to Image 節點根據一或兩張輸入圖片和文字提示生成圖像。它會根據您提供的描述來轉換輸入圖片，創建一個保持原始輸入長寬比的新圖像。無論輸入尺寸為何，輸出圖像都固定為 160 萬像素。
 

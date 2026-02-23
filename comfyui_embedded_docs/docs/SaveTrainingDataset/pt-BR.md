@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveTrainingDataset/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveTrainingDataset/pt-BR.md)
 
 Este nó salva um conjunto de dados de treinamento preparado no disco rígido do seu computador. Ele recebe dados codificados, que incluem latentes de imagem e seu condicionamento de texto correspondente, e os organiza em vários arquivos menores chamados *shards* para facilitar o gerenciamento. O nó cria automaticamente uma pasta no seu diretório de saída e salva tanto os arquivos de dados quanto um arquivo de metadados que descreve o conjunto de dados.
 

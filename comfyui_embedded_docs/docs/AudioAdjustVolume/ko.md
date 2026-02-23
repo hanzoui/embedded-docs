@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioAdjustVolume/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioAdjustVolume/ko.md)
 
 AudioAdjustVolume 노드는 데시벨 단위로 볼륨 조정을 적용하여 오디오의 음량을 변경합니다. 오디오 입력을 받아 지정된 볼륨 수준에 따라 게인 팩터를 적용하며, 양수 값은 음량을 높이고 음수 값은 음량을 낮춥니다. 이 노드는 원본과 동일한 샘플 레이트를 가진 수정된 오디오를 반환합니다.
 

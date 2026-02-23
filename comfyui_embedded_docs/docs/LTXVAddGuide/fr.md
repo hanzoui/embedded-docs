@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVAddGuide/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVAddGuide/fr.md)
 
 Le nœud LTXVAddGuide ajoute un guidage de conditionnement vidéo aux séquences latentes en encodant les images ou vidéos d'entrée et en les incorporant comme images clés dans les données de conditionnement. Il traite l'entrée via un encodeur VAE et place stratégiquement les latents résultants aux positions de frame spécifiées tout en mettant à jour le conditionnement positif et négatif avec les informations des images clés. Le nœud gère les contraintes d'alignement des frames et permet de contrôler l'intensité de l'influence du conditionnement.
 

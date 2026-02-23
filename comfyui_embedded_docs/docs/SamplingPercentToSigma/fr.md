@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplingPercentToSigma/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplingPercentToSigma/fr.md)
 
 Le nœud SamplingPercentToSigma convertit une valeur de pourcentage d'échantillonnage en une valeur sigma correspondante en utilisant les paramètres d'échantillonnage du modèle. Il prend une valeur de pourcentage entre 0,0 et 1,0 et la mappe à la valeur sigma appropriée dans la planification de bruit du modèle, avec des options pour retourner soit le sigma calculé, soit les valeurs sigma maximum/minimum réelles aux limites.
 

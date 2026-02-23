@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSD35_Large/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSD35_Large/tr.md)
 
 ModelMergeSD35_Large düğümü, iki Stable Diffusion 3.5 Large modelini farklı model bileşenlerinin etkisini ayarlayarak birleştirmenize olanak tanır. İkinci modelin her bir parçasının (gömme katmanlarından birleşik bloklara ve son katmanlara kadar) birleştirilmiş nihai modele ne kadar katkıda bulunacağı üzerinde hassas kontrol sağlar.
 

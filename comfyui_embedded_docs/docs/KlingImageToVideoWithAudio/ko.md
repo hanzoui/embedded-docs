@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingImageToVideoWithAudio/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingImageToVideoWithAudio/ko.md)
 
 Kling Image(First Frame) to Video with Audio 노드는 Kling AI 모델을 사용하여 단일 시작 이미지와 텍스트 프롬프트로부터 짧은 동영상을 생성합니다. 제공된 이미지로 시작하는 동영상 시퀀스를 생성하며, 선택적으로 시각적 요소와 함께 재생될 AI 생성 오디오를 포함할 수 있습니다.
 

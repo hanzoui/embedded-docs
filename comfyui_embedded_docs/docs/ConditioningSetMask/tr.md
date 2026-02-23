@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetMask/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetMask/tr.md)
 
 Bu düğüm, bir üretken modelin koşullandırmasını, belirli alanlara belirli bir güçte maske uygulayarak değiştirmek için tasarlanmıştır. Koşullandırma içinde hedeflenen ayarlamalara olanak tanıyarak, üretim süreci üzerinde daha hassas kontrol sağlar.
 

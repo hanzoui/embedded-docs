@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingFlux/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingFlux/zh.md)
 
 ModelSamplingFlux 节点通过基于图像尺寸计算偏移参数，对给定模型应用 Flux 模型采样。它会创建一个专门的采样配置，根据指定的宽度、高度和偏移参数调整模型行为，随后返回应用了新采样设置的修改后模型。
 

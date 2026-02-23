@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageToMask/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageToMask/pt-BR.md)
 
 O nó ImageToMask é projetado para converter uma imagem em uma máscara com base em um canal de cor especificado. Ele permite a extração de camadas de máscara correspondentes aos canais vermelho, verde, azul ou alfa de uma imagem, facilitando operações que exigem mascaramento ou processamento específico por canal.
 

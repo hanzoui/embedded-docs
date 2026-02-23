@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerEulerAncestral/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerEulerAncestral/ko.md)
 
 SamplerEulerAncestral 노드는 이미지 생성을 위한 Euler Ancestral 샘플러를 생성합니다. 이 샘플러는 Euler 적분과 ancestral 샘플링 기법을 결합한 특정 수학적 접근 방식을 사용하여 이미지 변형을 생성합니다. 이 노드를 통해 생성 과정에서의 무작위성과 단계 크기를 제어하는 매개변수를 조정하여 샘플링 동작을 구성할 수 있습니다.
 

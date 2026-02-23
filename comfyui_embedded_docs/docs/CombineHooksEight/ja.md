@@ -1,6 +1,6 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CombineHooksEight/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CombineHooksEight/ja.md)
 
-Combine Hooks [8]ノードは、最大8つの異なるフックグループを1つの結合されたフックグループに統合します。複数のフック入力を取り、ComfyUIのフック結合機能を使用してそれらを結合します。これにより、高度なワークフローで効率的な処理を行うために、複数のフック設定を統合することができます。
+Combine Hooks [8]ノードは、最大8つの異なるフックグループを1つの結合されたフックグループに統合します。複数のフック入力を取り、Hanzo Studioのフック結合機能を使用してそれらを結合します。これにより、高度なワークフローで効率的な処理を行うために、複数のフック設定を統合することができます。
 
 ## 入力
 

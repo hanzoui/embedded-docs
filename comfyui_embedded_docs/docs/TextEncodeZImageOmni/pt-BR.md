@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeZImageOmni/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeZImageOmni/pt-BR.md)
 
 O nó TextEncodeZImageOmni é um nó de condicionamento avançado que codifica um prompt de texto juntamente com imagens de referência opcionais em um formato de condicionamento adequado para modelos de geração de imagem. Ele pode processar até três imagens, opcionalmente codificando-as com um codificador de visão e/ou um VAE para produzir latentes de referência, e integra essas referências visuais com o prompt de texto usando uma estrutura de template específica.
 

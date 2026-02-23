@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RegexExtract/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RegexExtract/fr.md)
 
 Le nœud RegexExtract recherche des motifs dans du texte en utilisant des expressions régulières. Il peut trouver la première correspondance, toutes les correspondances, des groupes spécifiques parmi les correspondances, ou tous les groupes à travers plusieurs correspondances. Le nœud prend en charge divers drapeaux d'expressions régulières pour la sensibilité à la casse, la recherche multiligne et le comportement dotall.
 

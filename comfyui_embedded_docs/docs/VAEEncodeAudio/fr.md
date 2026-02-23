@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEEncodeAudio/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEEncodeAudio/fr.md)
 
 Le nœud VAEEncodeAudio convertit des données audio en une représentation latente en utilisant un Autoencodeur Variationnel (VAE). Il prend une entrée audio et la traite à travers le VAE pour générer des échantillons latents compressés qui peuvent être utilisés pour des tâches de génération ou de manipulation audio ultérieures. Le nœud rééchantillonne automatiquement l'audio à 44100 Hz si nécessaire avant l'encodage.
 

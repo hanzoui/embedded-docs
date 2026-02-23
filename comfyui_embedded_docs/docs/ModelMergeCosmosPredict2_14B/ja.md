@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmosPredict2_14B/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmosPredict2_14B/ja.md)
 
 ModelMergeCosmosPredict2_14Bノードは、2つのAIモデルを統合し、異なるモデルコンポーネントの影響度を調整することができます。特定のモデルレイヤーやコンポーネントに対してブレンド重みを使用して、2番目のモデルの各部分が最終的な統合モデルにどの程度寄与するかを細かく制御できます。
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResizeImagesByShorterEdge/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResizeImagesByShorterEdge/ko.md)
 
 이 노드는 이미지의 짧은 변 길이가 지정된 목표 값과 일치하도록 이미지 크기를 조정합니다. 원본 이미지의 종횡비를 유지하면서 새로운 크기를 계산합니다. 크기가 조정된 이미지가 반환됩니다.
 

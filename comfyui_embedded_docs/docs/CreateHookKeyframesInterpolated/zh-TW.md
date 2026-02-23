@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookKeyframesInterpolated/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookKeyframesInterpolated/zh-TW.md)
 
 建立一個具有在起始點和結束點之間插值強度值的掛鉤關鍵影格序列。此節點會在多個關鍵影格之間平滑地轉換強度參數，涵蓋生成過程的指定百分比範圍，並使用各種插值方法來控制轉換曲線。
 

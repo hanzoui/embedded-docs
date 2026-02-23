@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/NormalizeImages/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/NormalizeImages/ko.md)
 
 이 노드는 수학적 정규화 과정을 사용하여 입력 이미지의 픽셀 값을 조정합니다. 각 픽셀에서 지정된 평균 값을 빼고, 그 결과를 지정된 표준 편차로 나눕니다. 이는 다른 머신러닝 모델을 위해 이미지 데이터를 준비하는 일반적인 전처리 단계입니다.
 

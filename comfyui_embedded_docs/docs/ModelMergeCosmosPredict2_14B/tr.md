@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmosPredict2_14B/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmosPredict2_14B/tr.md)
 
 ModelMergeCosmosPredict2_14B düğümü, iki yapay zeka modelini birleştirerek farklı model bileşenlerinin etkisini ayarlamanıza olanak tanır. İkinci modelin her bir parçasının, birleştirilmiş nihai modele ne kadar katkıda bulunacağını, belirli model katmanları ve bileşenleri için harmanlama ağırlıkları kullanarak hassas bir şekilde kontrol etmenizi sağlar.
 

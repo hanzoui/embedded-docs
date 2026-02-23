@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageAddNoise/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageAddNoise/es.md)
 
 El nodo ImageAddNoise agrega ruido aleatorio a una imagen de entrada. Utiliza una semilla aleatoria específica para generar patrones de ruido consistentes y permite controlar la intensidad del efecto de ruido. La imagen resultante mantiene las mismas dimensiones que la entrada pero con textura visual añadida.
 

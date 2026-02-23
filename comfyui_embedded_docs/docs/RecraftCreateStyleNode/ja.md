@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftCreateStyleNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftCreateStyleNode/ja.md)
 
 このノードは、参照画像をアップロードすることで画像生成用のカスタムスタイルを作成します。1枚から5枚の画像をアップロードして新しいスタイルを定義でき、ノードは他のRecraftノードで使用できる一意のスタイルIDを返します。アップロードするすべての画像の合計ファイルサイズは5 MBを超えてはいけません。
 

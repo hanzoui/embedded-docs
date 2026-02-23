@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioMerge/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioMerge/ar.md)
 
 ```markdown
 يقوم عقد AudioMerge بدمج مسارين صوتيين من خلال تركيب أشكال موجاتهما. وهو يطابق تلقائيًا معدلات العينات لكلا المدخلات الصوتية ويضبط أطوالهما لتكون متساوية قبل الدمج. يوفر العقد عدة طرق رياضية لدمج الإشارات الصوتية ويضمن بقاء المخرجات ضمن مستويات صوت مقبولة.

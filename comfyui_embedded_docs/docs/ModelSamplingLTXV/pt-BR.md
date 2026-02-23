@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingLTXV/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingLTXV/pt-BR.md)
 
 O nó ModelSamplingLTXV aplica parâmetros de amostragem avançados a um modelo com base na contagem de tokens. Ele calcula um valor de deslocamento usando uma interpolação linear entre os valores de deslocamento base e máximo, onde o cálculo depende do número de tokens no latente de entrada. Em seguida, o nó cria uma configuração de amostragem de modelo especializada e a aplica ao modelo de entrada.
 

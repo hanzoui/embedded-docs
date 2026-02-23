@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyRigModelNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyRigModelNode/es.md)
 
 El nodo Meshy: Rig Model toma una tarea de modelo 3D de Meshy y genera un modelo de personaje con rig. Crea automáticamente un esqueleto para el modelo, permitiendo que sea posado y animado. El nodo devuelve el modelo con rig en los formatos de archivo GLB y FBX.
 

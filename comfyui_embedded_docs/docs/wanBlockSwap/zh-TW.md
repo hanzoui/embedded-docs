@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/wanBlockSwap/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/wanBlockSwap/zh-TW.md)
 
 此節點已棄用且不具任何功能。它接受一個模型作為輸入，並返回未經更改的相同模型。描述中的 "NOP" 表示它不執行任何操作。
 

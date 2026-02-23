@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyChromaRadianceLatentImage/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyChromaRadianceLatentImage/es.md)
 
 El nodo EmptyChromaRadianceLatentImage crea una imagen latente en blanco con dimensiones específicas para su uso en flujos de trabajo de cromorradiancia. Genera un tensor lleno de ceros que sirve como punto de partida para operaciones en el espacio latente. El nodo permite definir el ancho, alto y tamaño del lote de la imagen latente vacía.
 

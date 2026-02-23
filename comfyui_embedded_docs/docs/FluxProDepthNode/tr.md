@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxProDepthNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxProDepthNode/tr.md)
 
 Bu düğüm, derinlik kontrol görüntüsünü rehber olarak kullanarak görüntüler oluşturur. Bir kontrol görüntüsü ve bir metin istemi alır, ardından hem kontrol görüntüsündeki derinlik bilgisini hem de istemdeki açıklamayı takip eden yeni bir görüntü oluşturur. Düğüm, görüntü oluşturma işlemini gerçekleştirmek için harici bir API'ye bağlanır.
 

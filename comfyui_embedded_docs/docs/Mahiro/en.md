@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Mahiro/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Mahiro/en.md)
 
 The Mahiro node modifies the guidance function to focus more on the direction of the positive prompt rather than the difference between positive and negative prompts. It creates a patched model that applies a custom guidance scaling approach using cosine similarity between normalized conditional and unconditional denoised outputs. This experimental node helps steer the generation more strongly toward the positive prompt's intended direction.
 

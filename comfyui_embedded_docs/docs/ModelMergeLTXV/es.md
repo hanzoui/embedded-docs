@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeLTXV/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeLTXV/es.md)
 
 El nodo ModelMergeLTXV realiza operaciones avanzadas de fusión de modelos específicamente diseñadas para arquitecturas de modelos LTXV. Permite combinar dos modelos diferentes ajustando los pesos de interpolación para varios componentes del modelo, incluyendo bloques transformadores, capas de proyección y otros módulos especializados.
 

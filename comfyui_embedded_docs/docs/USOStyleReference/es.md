@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/USOStyleReference/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/USOStyleReference/es.md)
 
 El nodo USOStyleReference aplica parches de referencia de estilo a modelos utilizando características de imagen codificadas desde la salida de visión CLIP. Crea una versión modificada del modelo de entrada incorporando información de estilo extraída de entradas visuales, permitiendo capacidades de transferencia de estilo o generación basada en referencia.
 

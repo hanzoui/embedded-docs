@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftStyleV3VectorIllustrationNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftStyleV3VectorIllustrationNode/ko.md)
 
 이 노드는 Recraft API에서 사용할 스타일을 구성하며, 특히 `vector_illustration` 스타일을 선택합니다. 해당 카테고리 내에서 더 구체적인 서브스타일을 선택적으로 고를 수 있습니다. 이 노드는 다른 Recraft API 노드에 전달할 수 있는 스타일 구성 객체를 출력합니다.
 

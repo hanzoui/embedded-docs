@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CFGZeroStar/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CFGZeroStar/zh.md)
 
 CFGZeroStar 节点对扩散模型应用了一种专门的引导缩放技术。它通过基于条件预测和无条件预测之间的差异计算优化比例因子，从而修改无分类器引导过程。这种方法调整最终输出，在保持模型稳定性的同时，为生成过程提供增强的控制能力。
 

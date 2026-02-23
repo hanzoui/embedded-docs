@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Pikaffects/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Pikaffects/tr.md)
 
 Pikaffects düğümü, bir giriş görseline çeşitli görsel efektler uygulanmış videolar oluşturur. Pika'nın video oluşturma API'sini kullanarak statik görselleri erime, patlama veya havaya kalkma gibi belirli efektlerle animasyonlu videolara dönüştürür. Düğümün Pika hizmetine erişmek için bir API anahtarı ve kimlik doğrulama belirteci gerektirir.
 

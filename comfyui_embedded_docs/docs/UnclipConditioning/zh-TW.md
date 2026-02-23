@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/unCLIPConditioning/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/unCLIPConditioning/zh-TW.md)
 
 此節點旨在將 CLIP 視覺輸出整合到條件化過程中，根據指定的強度和噪聲增強參數調整這些輸出的影響力。它透過視覺上下文豐富了條件化數據，從而增強生成過程。
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableZero123_Conditioning_Batched/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableZero123_Conditioning_Batched/ar.md)
 
 ```markdown
 عُقدة StableZero123_Conditioning_Batched تقوم بمعالجة صورة الإدخال وتوليد بيانات تكييف لنماذج الجيل ثلاثي الأبعاد. تقوم بتشفير الصورة باستخدام نماذج CLIP للرؤية وVAE، ثم تنشئ تضمينات الكاميرا بناءً على زوايا الارتفاع والسمت لإنتاج تكييف إيجابي وسلبي مع التمثيلات الكامنة للمعالجة المجمعة.

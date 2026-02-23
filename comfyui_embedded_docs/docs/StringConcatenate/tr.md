@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringConcatenate/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringConcatenate/tr.md)
 
 StringConcatenate düğümü, iki metin dizisini belirtilen bir ayırıcı ile birleştirerek tek bir metin haline getirir. İki giriş dizisi ve bir ayırıcı karakter veya dizi alır, ardından iki girişin arasına ayırıcı yerleştirilmiş şekilde tek bir dizi çıktı olarak verir.
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoMultiviewToModelNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoMultiviewToModelNode/zh.md)
 
 此节点通过处理最多四张展示物体不同视角的图像，使用 Tripo 的 API 同步生成 3D 模型。它需要一张正面图像和至少一张额外视角（左侧、背面或右侧）图像，以创建具有纹理和材质选项的完整 3D 模型。
 

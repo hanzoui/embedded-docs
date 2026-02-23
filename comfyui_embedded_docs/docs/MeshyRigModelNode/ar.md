@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyRigModelNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyRigModelNode/ar.md)
 
 تأخذ عقدة Meshy: Rig Model مهمة نموذج ثلاثي الأبعاد من Meshy وتُنشئ نموذج شخصية مُجهز بالهيكل العظمي. تقوم العقدة تلقائيًا بإنشاء هيكل عظمي للنموذج، مما يسمح بوضعه في أوضاع مختلفة وتحريكه. تُخرج العقدة النموذج المُجهز بصيغتي ملف GLB و FBX.
 

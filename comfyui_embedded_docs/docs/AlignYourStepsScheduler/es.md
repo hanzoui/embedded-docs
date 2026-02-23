@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AlignYourStepsScheduler/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AlignYourStepsScheduler/es.md)
 
 El nodo AlignYourStepsScheduler genera valores sigma para el proceso de eliminación de ruido basándose en diferentes tipos de modelos. Calcula niveles de ruido apropiados para cada paso del proceso de muestreo y ajusta el número total de pasos según el parámetro de eliminación de ruido. Esto ayuda a alinear los pasos de muestreo con los requisitos específicos de los diferentes modelos de difusión.
 

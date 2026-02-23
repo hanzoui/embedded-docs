@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyCosmosLatentVideo/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyCosmosLatentVideo/zh.md)
 
 EmptyCosmosLatentVideo 节点可创建具有指定尺寸的空潜视频张量。它生成一个填充零值的潜表示，可作为视频生成工作流程的起点，并支持可配置的宽度、高度、长度和批次大小参数。
 

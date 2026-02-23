@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityUpscaleFastNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityUpscaleFastNode/tr.md)
 
 Görüntüleri Stability API çağrısı ile hızlı bir şekilde orijinal boyutunun 4 katına kadar büyütür. Bu düğüm, özellikle düşük kaliteli veya sıkıştırılmış görüntüleri Stability AI'nın hızlı büyütme servisine göndererek yeniden boyutlandırmak için tasarlanmıştır.
 

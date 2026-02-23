@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVPreprocess/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVPreprocess/tr.md)
 
 LTXVPreprocess düğümü, görüntülere sıkıştırma ön işleme uygular. Girdi görüntülerini alır ve belirtilen bir sıkıştırma seviyesi ile işleyerek, uygulanan sıkıştırma ayarlarıyla işlenmiş görüntüleri çıktı olarak verir.
 

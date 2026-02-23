@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingLipSyncTextToVideoNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingLipSyncTextToVideoNode/ar.md)
 
 يعمل عقد Kling Lip Sync Text to Video على مزامنة حركات الفم في ملف فيديو لتتوافق مع نص معين. يأخذ العقد فيديو مدخلاً وينشئ فيديو جديداً حيث تتم محاذاة حركات شفاه الشخصية مع النص المقدم. يستخدم العقد تركيب الصوت لإنشاء مزامنة كلامية ذات مظهر طبيعي.
 

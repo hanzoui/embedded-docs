@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeMochiPreview/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeMochiPreview/en.md)
 
 This node merges two AI models using a block-based approach with fine-grained control over different model components. It allows you to blend models by adjusting interpolation weights for specific sections including positional frequencies, embedding layers, and individual transformer blocks. The merging process combines the architectures and parameters from both input models according to the specified weight values.
 

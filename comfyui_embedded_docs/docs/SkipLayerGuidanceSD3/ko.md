@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceSD3/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceSD3/ko.md)
 
 SkipLayerGuidanceSD3 노드는 건너뛴 레이어를 사용하여 추가적인 classifier-free guidance 세트를 적용하여 세부 구조에 대한 guidance를 향상시킵니다. 이 실험적 구현은 Perturbed Attention Guidance에서 영감을 받았으며, 생성된 출력에서 구조적 세부 사항을 개선하기 위해 네거티브 conditioning 과정에서 특정 레이어를 선택적으로 우회하는 방식으로 작동합니다.
 

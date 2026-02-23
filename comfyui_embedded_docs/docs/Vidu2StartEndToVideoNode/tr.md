@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu2StartEndToVideoNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu2StartEndToVideoNode/tr.md)
 
 Bu düğüm, sağlanan bir başlangıç karesi ile bir bitiş karesi arasında, bir metin istemi tarafından yönlendirilen bir enterpolasyon yaparak video oluşturur. Belirli bir Vidu modelini kullanarak iki görüntü arasında belirlenen bir süre boyunca pürüzsüz bir geçiş oluşturur.
 

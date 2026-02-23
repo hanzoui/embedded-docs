@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyTextureNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyTextureNode/fr.md)
 
 Le nœud Meshy : Texture applique des textures générées par IA à un modèle 3D. Il prend un identifiant de tâche provenant d'un nœud précédent de génération ou de conversion 3D Meshy et utilise soit une description textuelle, soit une image de référence pour créer de nouvelles textures pour le modèle. Le nœud renvoie le modèle texturé aux formats de fichiers GLB et FBX.
 

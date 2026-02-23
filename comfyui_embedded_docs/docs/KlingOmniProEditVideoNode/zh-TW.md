@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProEditVideoNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProEditVideoNode/zh-TW.md)
 
 Kling Omni Edit Video (Pro) 節點使用 AI 模型，根據文字描述編輯現有影片。您提供原始影片和提示詞，該節點會生成一個相同長度、包含所要求修改的新影片。它可以選擇性地使用參考圖片來引導風格，並保留原始影片的音訊。
 

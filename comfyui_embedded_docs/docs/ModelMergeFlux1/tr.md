@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeFlux1/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeFlux1/tr.md)
 
 ModelMergeFlux1 düğümü, iki difüzyon modelini bileşenlerini ağırlıklı enterpolasyon kullanarak harmanlayarak birleştirir. Modellerin farklı bölümlerinin - görüntü işleme blokları, zaman gömme katmanları, rehberlik mekanizmaları, vektör girişleri, metin kodlayıcılar ve çeşitli transformatör blokları dahil - nasıl birleştirileceği üzerinde hassas kontrol sağlar. Bu, iki kaynak modelden özelleştirilmiş karakteristiklere sahip melez modeller oluşturmayı mümkün kılar.
 

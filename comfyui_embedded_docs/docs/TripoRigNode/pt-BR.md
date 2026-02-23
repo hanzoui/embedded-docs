@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoRigNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoRigNode/pt-BR.md)
 
 O TripoRigNode gera um modelo 3D com rig a partir de um ID de tarefa de modelo original. Ele envia uma solicitação para a API do Tripo para criar um rig animado no formato GLB usando a especificação Tripo e, em seguida, consulta a API repetidamente até que a tarefa de geração do rig seja concluída.
 

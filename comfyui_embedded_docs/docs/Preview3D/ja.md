@@ -1,22 +1,22 @@
-Preview3Dノードは、3Dモデルの出力をプレビューするためのノードです。このノードは2つの入力を受け取ります。1つはLoad3Dノードの`camera_info`、もう1つは3Dモデルファイルのパスです。モデルファイルのパスは`ComfyUI/output`フォルダ内である必要があります。
+Preview3Dノードは、3Dモデルの出力をプレビューするためのノードです。このノードは2つの入力を受け取ります。1つはLoad3Dノードの`camera_info`、もう1つは3Dモデルファイルのパスです。モデルファイルのパスは`Hanzo Studio/output`フォルダ内である必要があります。
 
 **対応フォーマット**
 現在、このノードは複数の3Dファイル形式（.gltf、.glb、.obj、.fbx、.stl）に対応しています。
 
 **3Dノードの設定**
-3Dノードに関するいくつかの設定は、ComfyUIの設定メニューで調整できます。詳細は以下のドキュメントをご参照ください：
-[設定メニュー](https://docs.comfy.org/interface/settings/3d)
+3Dノードに関するいくつかの設定は、Hanzo Studioの設定メニューで調整できます。詳細は以下のドキュメントをご参照ください：
+[設定メニュー](https://docs.hanzo.ai/interface/settings/3d)
 
 ## 入力
 
 | パラメータ名        | データ型        | 説明                     |
 |--------------|------------|--------------------------|
 | camera_info  | LOAD3D_CAMERA | カメラ情報               |
-| model_file   | STRING | `ComfyUI/output/`内のモデルファイルパス |
+| model_file   | STRING | `Hanzo Studio/output/`内のモデルファイルパス |
 
 ## モデルキャンバス(Canvas)エリアの説明
 
-現在、ComfyUIフロントエンドの3D関連ノードは同じキャンバスコンポーネントを共有しているため、基本的な操作はほぼ共通ですが、一部機能に違いがあります。
+現在、Hanzo Studioフロントエンドの3D関連ノードは同じキャンバスコンポーネントを共有しているため、基本的な操作はほぼ共通ですが、一部機能に違いがあります。
 
 > 以下の内容とインターフェースは主にLoad3Dノードを基にしています。実際のノード画面や機能は実際のノードをご参照ください。
 
@@ -36,7 +36,7 @@ Preview3Dノードは、3Dモデルの出力をプレビューするためのノ
 ### 1. ビュー操作
 
 <video controls width="640" height="360">
-  <source src="https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
   お使いのブラウザは動画再生に対応していません。
 </video>
 
@@ -49,7 +49,7 @@ Preview3Dノードは、3Dモデルの出力をプレビューするためのノ
 
 ### 2. 左側メニュー機能
 
-![Menu](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu.webp)
+![Menu](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu.webp)
 
 プレビューエリアでは、一部のビュー操作関連メニューがメニュー内に隠れています。メニューボタンをクリックすると各種メニューが展開されます。
 
@@ -61,7 +61,7 @@ Preview3Dノードは、3Dモデルの出力をプレビューするためのノ
 
 #### シーン（Scene）
 
-![scene menu](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_scene.webp)
+![scene menu](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_scene.webp)
 
 シーンメニューは、シーンの基本設定機能を提供します：
 
@@ -72,7 +72,7 @@ Preview3Dノードは、3Dモデルの出力をプレビューするためのノ
 
 #### モデル（Model）
 
-![Menu_Scene](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_model.webp)
+![Menu_Scene](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_model.webp)
 
 モデルメニューは、モデル関連の機能を提供します：
 
@@ -81,7 +81,7 @@ Preview3Dノードは、3Dモデルの出力をプレビューするためのノ
 
 #### カメラ（Camera）
 
-![menu_modelmenu_camera](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_camera.webp)
+![menu_modelmenu_camera](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_camera.webp)
 
 このメニューは、オーソグラフィックビューとパースビューの切り替え、視野角設定を提供します：
 
@@ -90,12 +90,12 @@ Preview3Dノードは、3Dモデルの出力をプレビューするためのノ
 
 #### ライト（Light）
 
-![menu_modelmenu_camera](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_light.webp)
+![menu_modelmenu_camera](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_light.webp)
 
 このメニューでシーン全体のグローバル照明強度を調整できます
 
 #### エクスポート（Export）
 
-![menu_export](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_export.webp)
+![menu_export](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_export.webp)
 
 このメニューは、モデルを他の形式（GLB、OBJ、STL）に変換・エクスポートできます

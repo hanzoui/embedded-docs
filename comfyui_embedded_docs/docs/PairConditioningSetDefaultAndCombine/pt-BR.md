@@ -1,6 +1,6 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningSetDefaultAndCombine/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningSetDefaultAndCombine/pt-BR.md)
 
-O nó PairConditioningSetDefaultAndCombine define valores de condicionamento padrão e os combina com os dados de condicionamento de entrada. Ele recebe entradas de condicionamento positivo e negativo, juntamente com suas contrapartes padrão, e então as processa através do sistema de *hooks* do ComfyUI para produzir saídas de condicionamento finais que incorporam os valores padrão.
+O nó PairConditioningSetDefaultAndCombine define valores de condicionamento padrão e os combina com os dados de condicionamento de entrada. Ele recebe entradas de condicionamento positivo e negativo, juntamente com suas contrapartes padrão, e então as processa através do sistema de *hooks* do Hanzo Studio para produzir saídas de condicionamento finais que incorporam os valores padrão.
 
 ## Entradas
 

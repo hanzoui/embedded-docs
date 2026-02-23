@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoRefineNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoRefineNode/tr.md)
 
 TripoRefineNode, özellikle v1.4 Tripo modelleri tarafından oluşturulan taslak 3B modelleri iyileştirir. Bir model görev kimliği alır ve modelin geliştirilmiş bir versiyonunu oluşturmak için Tripo API'sı üzerinden işler. Bu düğüm, yalnızca Tripo v1.4 modelleri tarafından üretilen taslak modellerle çalışmak üzere tasarlanmıştır.
 

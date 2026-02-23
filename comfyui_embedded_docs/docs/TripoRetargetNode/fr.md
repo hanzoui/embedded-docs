@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoRetargetNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoRetargetNode/fr.md)
 
 Le TripoRetargetNode applique des animations prédéfinies à des modèles de personnages 3D en retargetant des données de mouvement. Il prend un modèle 3D précédemment traité et applique l'une des plusieurs animations prédéfinies, générant un fichier de modèle 3D animé en sortie. Le nœud communique avec l'API Tripo pour traiter l'opération de retargeting d'animation.
 

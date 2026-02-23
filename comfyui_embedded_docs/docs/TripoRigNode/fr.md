@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoRigNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoRigNode/fr.md)
 
 Le TripoRigNode génère un modèle 3D articulé à partir d'un ID de tâche de modèle original. Il envoie une requête à l'API Tripo pour créer une armature animée au format GLB en utilisant la spécification Tripo, puis interroge l'API jusqu'à ce que la tâche de génération de l'armature soit terminée.
 

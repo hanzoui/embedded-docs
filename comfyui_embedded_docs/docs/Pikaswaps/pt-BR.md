@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Pikaswaps/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Pikaswaps/pt-BR.md)
 
 O nó Pika Swaps permite substituir objetos ou regiões em seu vídeo por novas imagens. Você pode definir as áreas a serem substituídas usando uma máscara ou coordenadas, e o nó trocará perfeitamente o conteúdo especificado ao longo da sequência de vídeo.
 

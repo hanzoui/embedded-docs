@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmos7B/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmos7B/zh-TW.md)
 
 ModelMergeCosmos7B 節點使用特定元件的加權混合方式將兩個 AI 模型合併在一起。它透過調整位置嵌入、轉換器區塊和最終層的個別權重，提供對模型不同部分合併方式的細粒度控制。
 

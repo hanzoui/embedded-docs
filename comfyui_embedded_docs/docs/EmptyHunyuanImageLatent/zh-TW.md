@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyHunyuanImageLatent/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyHunyuanImageLatent/zh-TW.md)
 
 EmptyHunyuanImageLatent 節點會建立一個具有特定維度的空潛在張量，專用於渾元影像生成模型。它生成一個空白的起始點，可在工作流程中透過後續節點進行處理。此節點允許您指定潛在空間的寬度、高度和批次大小。
 

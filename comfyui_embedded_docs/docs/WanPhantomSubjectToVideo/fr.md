@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanPhantomSubjectToVideo/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanPhantomSubjectToVideo/fr.md)
 
 Le nœud WanPhantomSubjectToVideo génère du contenu vidéo en traitant des entrées de conditionnement et des images de référence optionnelles. Il crée des représentations latentes pour la génération vidéo et peut incorporer des repères visuels à partir d'images d'entrée lorsqu'elles sont fournies. Le nœud prépare les données de conditionnement avec une concaténation temporelle pour les modèles vidéo et produit en sortie un conditionnement modifié ainsi que des données vidéo latentes générées.
 

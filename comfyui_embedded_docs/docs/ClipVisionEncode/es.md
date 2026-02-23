@@ -1,4 +1,4 @@
-El nodo `CLIP Vision Encode` es un nodo de codificación de imágenes en ComfyUI, utilizado para convertir imágenes de entrada en vectores de características visuales mediante el modelo CLIP Vision. Este nodo es un puente importante que conecta la comprensión de imágenes y textos, y se utiliza ampliamente en varios flujos de trabajo de generación y procesamiento de imágenes con IA.
+El nodo `CLIP Vision Encode` es un nodo de codificación de imágenes en Hanzo Studio, utilizado para convertir imágenes de entrada en vectores de características visuales mediante el modelo CLIP Vision. Este nodo es un puente importante que conecta la comprensión de imágenes y textos, y se utiliza ampliamente en varios flujos de trabajo de generación y procesamiento de imágenes con IA.
 
 **Funcionalidad del nodo**
 

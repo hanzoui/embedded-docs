@@ -1,6 +1,6 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WebcamCapture/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WebcamCapture/ko.md)
 
-WebcamCapture 노드는 웹캠 장치에서 이미지를 캡처하여 ComfyUI 워크플로우 내에서 사용할 수 있는 형식으로 변환합니다. 이 노드는 LoadImage 노드에서 상속되며 캡처 해상도와 타이밍을 제어하는 옵션을 제공합니다. 활성화된 경우, 워크플로우 큐가 처리될 때마다 새로운 이미지를 캡처할 수 있습니다.
+WebcamCapture 노드는 웹캠 장치에서 이미지를 캡처하여 Hanzo Studio 워크플로우 내에서 사용할 수 있는 형식으로 변환합니다. 이 노드는 LoadImage 노드에서 상속되며 캡처 해상도와 타이밍을 제어하는 옵션을 제공합니다. 활성화된 경우, 워크플로우 큐가 처리될 때마다 새로운 이미지를 캡처할 수 있습니다.
 
 ## 입력
 
@@ -17,4 +17,4 @@ WebcamCapture 노드는 웹캠 장치에서 이미지를 캡처하여 ComfyUI �
 
 | 출력 이름 | 데이터 타입 | 설명 |
 |-------------|-----------|-------------|
-| `IMAGE` | IMAGE | ComfyUI의 이미지 형식으로 변환된 캡처된 웹캠 이미지 |
+| `IMAGE` | IMAGE | Hanzo Studio의 이미지 형식으로 변환된 캡처된 웹캠 이미지 |

@@ -1,6 +1,6 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WebcamCapture/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WebcamCapture/fr.md)
 
-Le nœud WebcamCapture capture des images à partir d'un périphérique webcam et les convertit dans un format utilisable dans les workflows ComfyUI. Il hérite du nœud LoadImage et propose des options pour contrôler les dimensions de capture et le timing. Lorsqu'il est activé, le nœud peut capturer de nouvelles images à chaque fois que la file d'attente du workflow est traitée.
+Le nœud WebcamCapture capture des images à partir d'un périphérique webcam et les convertit dans un format utilisable dans les workflows Hanzo Studio. Il hérite du nœud LoadImage et propose des options pour contrôler les dimensions de capture et le timing. Lorsqu'il est activé, le nœud peut capturer de nouvelles images à chaque fois que la file d'attente du workflow est traitée.
 
 ## Entrées
 
@@ -17,4 +17,4 @@ Le nœud WebcamCapture capture des images à partir d'un périphérique webcam e
 
 | Nom de sortie | Type de données | Description |
 |-------------|-----------|-------------|
-| `IMAGE` | IMAGE | L'image de webcam capturée convertie au format d'image de ComfyUI |
+| `IMAGE` | IMAGE | L'image de webcam capturée convertie au format d'image de Hanzo Studio |

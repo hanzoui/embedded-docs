@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeLumina2/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeLumina2/zh-TW.md)
 
 此節點使用 CLIP 模型將系統提示和使用者提示編碼為嵌入向量，可用於引導擴散模型生成特定圖像。它將預定義的系統提示與您的自訂文字提示相結合，並透過 CLIP 模型進行處理，以創建用於圖像生成的條件化資料。
 

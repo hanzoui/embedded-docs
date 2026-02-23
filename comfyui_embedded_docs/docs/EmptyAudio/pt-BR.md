@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyAudio/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyAudio/pt-BR.md)
 
 O nó EmptyAudio gera um clipe de áudio silencioso com duração, taxa de amostragem e configuração de canais especificadas. Ele cria uma forma de onda contendo apenas zeros, produzindo silêncio completo para a duração fornecida. Este nó é útil para criar áudios de espaço reservado ou gerar segmentos silenciosos em fluxos de trabalho de áudio.
 

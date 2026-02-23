@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduStartEndToVideoNode/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduStartEndToVideoNode/fr.md)
 
 Le nœud Vidu Start End To Video Generation crée une vidéo en générant des images intermédiaires entre une image de départ et une image de fin. Il utilise une description textuelle pour guider le processus de génération vidéo et prend en charge divers modèles vidéo avec différents paramètres de résolution et de mouvement. Le nœud vérifie que les images de début et de fin ont des rapports d'aspect compatibles avant le traitement.
 

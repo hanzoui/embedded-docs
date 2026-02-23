@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RebatchLatents/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RebatchLatents/pt-BR.md)
 
 O nó RebatchLatents é projetado para reorganizar um lote de representações latentes em uma nova configuração de lote, com base em um tamanho de lote especificado. Ele garante que as amostras latentes sejam agrupadas adequadamente, lidando com variações nas dimensões e tamanhos, para facilitar o processamento subsequente ou a inferência do modelo.
 

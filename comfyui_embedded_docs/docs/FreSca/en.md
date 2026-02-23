@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FreSca/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FreSca/en.md)
 
 The FreSca node applies frequency-dependent scaling to guidance during the sampling process. It separates the guidance signal into low-frequency and high-frequency components using Fourier filtering, then applies different scaling factors to each frequency range before recombining them. This allows for more nuanced control over how guidance affects different aspects of the generated output.
 

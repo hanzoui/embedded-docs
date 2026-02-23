@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TCFG/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TCFG/es.md)
 
 TCFG (Tangential Damping CFG) implementa una técnica de guía que refina las predicciones incondicionales (negativas) para alinearlas mejor con las predicciones condicionales (positivas). Este método mejora la calidad de la salida aplicando amortiguación tangencial a la guía incondicional, basándose en el documento de investigación referenciado como 2503.18137. El nodo modifica el comportamiento de muestreo del modelo ajustando cómo se procesan las predicciones incondicionales durante el proceso de guía libre de clasificador.
 

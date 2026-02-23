@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VoxelToMeshBasic/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VoxelToMeshBasic/ja.md)
 
 VoxelToMeshBasicノードは、3Dボクセルデータをメッシュジオメトリに変換します。このノードはボクセルボリュームを処理し、閾値を適用してボリュームのどの部分がメッシュの固体表面になるかを決定します。ノードは頂点と面を含む完全なメッシュ構造を出力し、3Dレンダリングやモデリングに使用できます。
 

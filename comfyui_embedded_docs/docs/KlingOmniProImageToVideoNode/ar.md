@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProImageToVideoNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProImageToVideoNode/ar.md)
 
 يستخدم هذا العقدة نموذج Kling AI لإنشاء فيديو استنادًا إلى نص وصف (prompt) وما يصل إلى سبع صور مرجعية. يتيح لك التحكم في نسبة العرض إلى الارتفاع (aspect ratio) ومدة الفيديو ودقته. ترسل العقدة الطلب إلى واجهة برمجة تطبيقات (API) خارجية وتعيد الفيديو المُنشأ.
 

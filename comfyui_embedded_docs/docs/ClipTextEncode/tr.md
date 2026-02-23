@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncode/tr.md)
 
 `CLIP Text Encode (CLIPTextEncode)`, metin açıklamalarınızı AI'nın anlayabileceği bir formata dönüştüren bir çevirmen gibi çalışır. Bu, AI'nın girdinizi yorumlamasına ve istenen görseli oluşturmasına yardımcı olur.
 
@@ -23,10 +23,10 @@ Farklı bir dil konuşan bir sanatçıyla iletişim kurmak gibi düşünün. Gen
 
 Gömme modelleri, belirli sanatsal efektler veya stiller uygulamanıza olanak tanır. Desteklenen formatlar `.safetensors`, `.pt` ve `.bin`'i içerir. Bir gömme modeli kullanmak için:
 
-1. Dosyayı `ComfyUI/models/embeddings` klasörüne yerleştirin.
+1. Dosyayı `Hanzo Studio/models/embeddings` klasörüne yerleştirin.
 2. Metninizde `embedding:model_adi` kullanarak ona referans verin.
 
-Örnek: `ComfyUI/models/embeddings` klasörünüzde `EasyNegative.pt` adlı bir modeliniz varsa, onu şu şekilde kullanabilirsiniz:
+Örnek: `Hanzo Studio/models/embeddings` klasörünüzde `EasyNegative.pt` adlı bir modeliniz varsa, onu şu şekilde kullanabilirsiniz:
 
 ```
 worst quality, embedding:EasyNegative, bad quality

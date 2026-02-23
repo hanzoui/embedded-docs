@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceSD3/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceSD3/ja.md)
 
 SkipLayerGuidanceSD3ノードは、スキップレイヤーを適用した追加の分類器不要ガイダンスを適用することで、詳細な構造へのガイダンスを強化します。この実験的な実装は、Perturbed Attention Guidanceに着想を得ており、生成される出力の構造的詳細を改善するために、ネガティブな条件付けプロセス中に特定のレイヤーを選択的にバイパスすることで動作します。
 

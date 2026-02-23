@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanPhantomSubjectToVideo/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanPhantomSubjectToVideo/en.md)
 
 The WanPhantomSubjectToVideo node generates video content by processing conditioning inputs and optional reference images. It creates latent representations for video generation and can incorporate visual guidance from input images when provided. The node prepares conditioning data with time-dimensional concatenation for video models and outputs modified conditioning along with generated latent video data.
 

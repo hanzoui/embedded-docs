@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodePixArtAlpha/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodePixArtAlpha/fr.md)
 
 Encode le texte et définit le conditionnement de résolution pour PixArt Alpha. Ce nœud traite l'entrée textuelle et ajoute les informations de largeur et hauteur pour créer des données de conditionnement spécifiquement pour les modèles PixArt Alpha. Il ne s'applique pas aux modèles PixArt Sigma.
 

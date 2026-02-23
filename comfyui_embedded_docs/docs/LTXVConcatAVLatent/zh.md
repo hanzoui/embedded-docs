@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVConcatAVLatent/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVConcatAVLatent/zh.md)
 
 LTXVConcatAVLatent 节点将视频潜在表示和音频潜在表示合并为一个单一的、拼接后的潜在输出。它会合并两个输入中的 `samples` 张量，如果存在的话，也会合并它们的 `noise_mask` 张量，为视频生成流程中的后续处理做好准备。
 

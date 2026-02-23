@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanImageToVideo/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanImageToVideo/ar.md)
 
 ```markdown
 عُقدة WanImageToVideo تُهيئ التكييف والتمثيلات الكامنة لمهام توليد الفيديو. تقوم بإنشاء مساحة كامنة فارغة لتوليد الفيديو ويمكنها دمج صور بداية ومخرجات رؤية CLIP بشكل اختياري لتوجيه عملية توليد الفيديو. تقوم العُقدة بتعديل مدخلي التكييف الإيجابي والسلبي بناءً على بيانات الصورة والرؤية المقدمة.

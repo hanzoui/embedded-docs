@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerSASolver/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerSASolver/zh-TW.md)
 
 SamplerSASolver 節點為擴散模型實作了一種自定義採樣演算法。它採用預測器-校正器方法，具有可配置的階數設定和隨機微分方程（SDE）參數，用於從輸入模型生成樣本。
 

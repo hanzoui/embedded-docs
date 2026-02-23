@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeHiDream/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeHiDream/ar.md)
 
 يقوم عُقدة CLIPTextEncodeHiDream بمعالجة مدخلات نصية متعددة باستخدام نماذج لغوية مختلفة ودمجها في ناتج تكييف واحد. تقوم العُقدة بتجزئة النص من أربعة مصادر مختلفة (CLIP-L، وCLIP-G، وT5-XXL، وLLaMA) وتشفيرها باستخدام نهج تشفير مجدول. يتيح ذلك تحقيق تكييف نصي أكثر تطوراً من خلال الاستفادة من نماذج لغوية متعددة في وقت واحد.
 

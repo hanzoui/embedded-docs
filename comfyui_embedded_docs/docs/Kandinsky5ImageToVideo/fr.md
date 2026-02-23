@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Kandinsky5ImageToVideo/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Kandinsky5ImageToVideo/fr.md)
 
 Le nœud Kandinsky5ImageToVideo prépare les données de conditionnement et d'espace latent pour la génération de vidéo en utilisant le modèle Kandinsky. Il crée un tenseur latent vidéo vide et peut optionnellement encoder une image de départ pour guider les premières images de la vidéo générée, en modifiant le conditionnement positif et négatif en conséquence.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanVideo15LatentUpscaleWithModel/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanVideo15LatentUpscaleWithModel/zh-TW.md)
 
 Hunyuan Video 15 Latent Upscale With Model 節點用於提升潛空間影像表徵的解析度。它首先使用選定的插值方法將潛空間樣本放大到指定尺寸，然後使用專門的 Hunyuan Video 1.5 放大模型來精煉放大後的結果，以提升品質。
 

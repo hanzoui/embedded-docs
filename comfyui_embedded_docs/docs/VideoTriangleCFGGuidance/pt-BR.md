@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VideoTriangleCFGGuidance/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VideoTriangleCFGGuidance/pt-BR.md)
 
 O nó VideoTriangleCFGGuidance aplica um padrão de escala de orientação (guidance) triangular sem classificador (CFG) a modelos de vídeo. Ele modifica a escala de condicionamento ao longo do tempo usando uma função de onda triangular que oscila entre o valor mínimo de CFG e a escala de condicionamento original. Isso cria um padrão de orientação dinâmico que pode ajudar a melhorar a consistência e a qualidade da geração de vídeo.
 

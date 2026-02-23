@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/QwenImageDiffsynthControlnet/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/QwenImageDiffsynthControlnet/es.md)
 
 El nodo QwenImageDiffsynthControlnet aplica un parche de red de control de síntesis por difusión para modificar el comportamiento de un modelo base. Utiliza una imagen de entrada y una máscara opcional para guiar el proceso de generación del modelo con fuerza ajustable, creando un modelo parcheado que incorpora la influencia de la red de control para una síntesis de imagen más controlada.
 

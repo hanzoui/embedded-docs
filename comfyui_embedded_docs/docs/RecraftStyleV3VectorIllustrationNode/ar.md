@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftStyleV3VectorIllustrationNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftStyleV3VectorIllustrationNode/ar.md)
 
 يُعدِّل هذا العقد نمطًا للاستخدام مع واجهة برمجة تطبيقات Recraft، حيث يختار تحديدًا نمط `vector_illustration`. وهو يتيح لك اختيار نمط فرعي أكثر تحديدًا ضمن هذه الفئة بشكل اختياري. يُخرِج العقد كائن تكوين نمط يمكن تمريره إلى عُقد أخرى لواجهة برمجة تطبيقات Recraft.
 

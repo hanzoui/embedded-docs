@@ -1,13 +1,13 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveImage/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImage/tr.md)
 
-SaveImage düğümü aldığı görüntüleri `ComfyUI/output` dizininize kaydeder. Her görüntüyü bir PNG dosyası olarak kaydeder ve gelecekte referans için istem (prompt) gibi iş akışı meta verilerini kaydedilen dosyaya gömebilir.
+SaveImage düğümü aldığı görüntüleri `Hanzo Studio/output` dizininize kaydeder. Her görüntüyü bir PNG dosyası olarak kaydeder ve gelecekte referans için istem (prompt) gibi iş akışı meta verilerini kaydedilen dosyaya gömebilir.
 
 ## Girişler
 
 | Parametre | Veri Türü | Zorunlu | Aralık | Açıklama |
 |-----------|-----------|----------|-------|-------------|
 | `görüntüler` | IMAGE | Evet | - | Kaydedilecek görüntüler. |
-| `dosyaadı_öneki` | STRING | Evet | - | Kaydedilecek dosya için ön ek. Bu, düğümlerden gelen değerleri dahil etmek için `%date:yyyy-MM-dd%` veya `%Empty Latent Image.width%` gibi biçimlendirme bilgilerini içerebilir (varsayılan: "ComfyUI"). |
+| `dosyaadı_öneki` | STRING | Evet | - | Kaydedilecek dosya için ön ek. Bu, düğümlerden gelen değerleri dahil etmek için `%date:yyyy-MM-dd%` veya `%Empty Latent Image.width%` gibi biçimlendirme bilgilerini içerebilir (varsayılan: "Hanzo Studio"). |
 
 ## Çıkışlar
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LtxvApiTextToVideo/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LtxvApiTextToVideo/ja.md)
 
 LTXV Text To Video ノードは、テキストの説明からプロ品質の動画を生成します。外部APIに接続して、長さ、解像度、フレームレートをカスタマイズ可能な動画を作成します。また、AIが生成した音声を動画に追加するオプションも選択できます。
 

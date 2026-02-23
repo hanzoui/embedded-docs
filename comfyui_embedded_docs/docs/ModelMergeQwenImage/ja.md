@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeQwenImage/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeQwenImage/ja.md)
 
 ModelMergeQwenImageノードは、2つのAIモデルを組み合わせ、調整可能な重みでそれらのコンポーネントを統合します。トランスフォーマーブロック、位置埋め込み、テキスト処理コンポーネントなど、Qwen画像モデルの特定の部分をブレンドすることができます。マージ結果の異なるセクションに対して各モデルがどれだけ影響を与えるかを制御できます。
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ZImageFunControlnet/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ZImageFunControlnet/zh-TW.md)
 
 ZImageFunControlnet 節點應用專門的控制網路來影響影像生成或編輯過程。它使用基礎模型、模型修補檔和 VAE，讓您可以調整控制效果的強度。此節點可搭配基礎影像、修補影像和遮罩使用，以進行更精準的編輯。
 

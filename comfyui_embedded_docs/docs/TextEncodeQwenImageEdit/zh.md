@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeQwenImageEdit/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeQwenImageEdit/zh.md)
 
 TextEncodeQwenImageEdit 节点处理文本提示词和可选图像，以生成用于图像生成或编辑的条件数据。它使用 CLIP 模型对输入进行标记化，并可以选择性地使用 VAE 对参考图像进行编码以创建参考潜在表示。当提供图像时，它会自动调整图像尺寸以保持一致的处理维度。
 

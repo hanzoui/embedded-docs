@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftCreateStyleNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftCreateStyleNode/tr.md)
 
 Bu düğüm, referans görseller yükleyerek görsel oluşturma için özel bir stil yaratır. Yeni stili tanımlamak için 1 ile 5 arasında görsel yükleyebilirsiniz ve düğüm, diğer Recraft düğümleriyle kullanılabilecek benzersiz bir stil kimliği döndürür. Yüklenen tüm görsellerin toplam dosya boyutu 5 MB'ı geçmemelidir.
 

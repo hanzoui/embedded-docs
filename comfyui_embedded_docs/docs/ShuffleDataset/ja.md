@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ShuffleDataset/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ShuffleDataset/ja.md)
 
 Shuffle Datasetノードは、画像のリストを受け取り、その順序をランダムに変更します。シード値を使用してランダム性を制御し、同じシャッフル順序を再現できるようにします。これは、処理前にデータセット内の画像の順序をランダム化するのに役立ちます。
 

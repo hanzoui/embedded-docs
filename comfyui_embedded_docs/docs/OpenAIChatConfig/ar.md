@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIChatConfig/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIChatConfig/ar.md)
 
 يسمح عُقدة OpenAIChatConfig بتعيين خيارات إضافية للتهيئة لعُقدة الدردشة من OpenAI. توفر هذه العُقدة إعدادات متقدمة تتحكم في كيفية توليد النموذج للردود، بما في ذلك سلوك الاقتطاع، وقيود طول المخرجات، والتعليمات المخصصة.
 

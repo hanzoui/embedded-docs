@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CheckpointLoader/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CheckpointLoader/es.md)
 
 El nodo CheckpointLoader carga un checkpoint de modelo preentrenado junto con su archivo de configuración. Toma un archivo de configuración y un archivo de checkpoint como entradas y devuelve los componentes del modelo cargados, incluyendo el modelo principal, el modelo CLIP y el modelo VAE para su uso en el flujo de trabajo.
 

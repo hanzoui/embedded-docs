@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PatchModelAddDownscale/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PatchModelAddDownscale/zh-TW.md)
 
 PatchModelAddDownscale 節點透過對模型中的特定區塊應用降尺度與升尺度操作，實現了 Kohya Deep Shrink 功能。它在處理過程中降低中間特徵的解析度，然後將其恢復到原始尺寸，這能在維持品質的同時提升效能。該節點允許精確控制在模型執行期間這些縮放操作發生的時機與方式。
 

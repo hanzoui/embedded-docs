@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningSetProperties/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningSetProperties/fr.md)
 
 Le nœud PairConditioningSetProperties permet de modifier simultanément les propriétés des paires de conditionnement positif et négatif. Il applique des ajustements de force, des paramètres de zone de conditionnement, et des contrôles optionnels de masquage ou de timing aux deux entrées de conditionnement, renvoyant les données de conditionnement positif et négatif modifiées.
 

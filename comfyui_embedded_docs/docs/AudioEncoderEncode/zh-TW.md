@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioEncoderEncode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioEncoderEncode/zh-TW.md)
 
 AudioEncoderEncode 節點透過使用音訊編碼器模型對音訊資料進行編碼處理。它接收音訊輸入並將其轉換為編碼表示，可在條件處理流程中用於後續處理。此節點將原始音訊波形轉換為適合基於音訊的機器學習應用的格式。
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ExponentialScheduler/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ExponentialScheduler/zh-TW.md)
 
 `ExponentialScheduler` 節點旨在為擴散取樣過程生成遵循指數排程的 sigma 值序列。它提供了一種可自訂的方法來控制擴散過程每個步驟中應用的噪聲水平，從而允許對取樣行為進行微調。
 

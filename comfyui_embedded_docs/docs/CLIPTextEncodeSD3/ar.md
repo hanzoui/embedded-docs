@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeSD3/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeSD3/ar.md)
 
 ```markdown
 يعالج عقد CLIPTextEncodeSD3 مدخلات النصوص لنماذج Stable Diffusion 3 من خلال ترميز عدة نصوص توجيهية باستخدام نماذج CLIP مختلفة. يتعامل مع ثلاث مدخلات نصية منفصلة (clip_g، clip_l، و t5xxl) ويوفر خيارات لإدارة الحشو للنصوص الفارغة. يضمن العقد المحاذاة الصحيحة للرموز المميزة بين مختلف المدخلات النصية ويعيد بيانات تكييف مناسبة لمسارات توليد SD3.

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VideoLinearCFGGuidance/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VideoLinearCFGGuidance/pt-BR.md)
 
 O nó VideoLinearCFGGuidance aplica uma escala de orientação de condicionamento linear a um modelo de vídeo, ajustando a influência dos componentes condicionados e não condicionados em um intervalo especificado. Isso permite um controle dinâmico sobre o processo de geração, possibilitando o ajuste fino da saída do modelo com base no nível de condicionamento desejado.
 

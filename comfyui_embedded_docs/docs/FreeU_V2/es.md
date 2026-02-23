@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FreeU_V2/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FreeU_V2/es.md)
 
 El nodo FreeU_V2 aplica una mejora basada en frecuencia a los modelos de difusión mediante la modificación de la arquitectura U-Net. Escala diferentes canales de características utilizando parámetros configurables para mejorar la calidad de la generación de imágenes sin requerir entrenamiento adicional. El nodo funciona aplicando parches a los bloques de salida del modelo para aplicar factores de escala a dimensiones de canal específicas.
 

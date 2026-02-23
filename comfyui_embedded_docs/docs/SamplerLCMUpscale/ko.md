@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerLCMUpscale/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerLCMUpscale/ko.md)
 
 SamplerLCMUpscale 노드는 잠재 일관성 모델(LCM) 샘플링과 이미지 업스케일링 기능을 결합한 특수한 샘플링 방법을 제공합니다. 다양한 보간 방법을 사용하여 샘플링 과정에서 이미지를 업스케일할 수 있어, 이미지 품질을 유지하면서 더 높은 해상도의 출력물을 생성하는 데 유용합니다.
 

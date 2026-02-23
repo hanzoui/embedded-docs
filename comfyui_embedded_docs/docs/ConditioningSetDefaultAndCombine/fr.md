@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetDefaultAndCombine/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetDefaultAndCombine/fr.md)
 
 Ce nœud combine des données de conditionnement avec des données de conditionnement par défaut en utilisant un système basé sur des hooks. Il prend une entrée de conditionnement principale et une entrée de conditionnement par défaut, puis les fusionne selon la configuration de hook spécifiée. Le résultat est une sortie de conditionnement unique qui intègre les deux sources.
 

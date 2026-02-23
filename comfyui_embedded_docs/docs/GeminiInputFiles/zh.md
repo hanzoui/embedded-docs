@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GeminiInputFiles/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GeminiInputFiles/zh.md)
 
 为 Gemini API 加载并格式化输入文件。此节点允许用户将文本文件 (.txt) 和 PDF 文件 (.pdf) 作为输入上下文包含在 Gemini 模型中。文件会被转换为 API 所需的适当格式，并且可以链接在一起，以便在单个请求中包含多个文件。
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/NormalizeImages/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/NormalizeImages/zh-TW.md)
 
 此節點使用數學標準化過程調整輸入圖像的像素值。它會從每個像素減去指定的平均值，然後將結果除以指定的標準差。這是為其他機器學習模型準備圖像資料時常見的預處理步驟。
 

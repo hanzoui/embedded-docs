@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentOperationTonemapReinhard/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentOperationTonemapReinhard/ja.md)
 
 LatentOperationTonemapReinhardノードは、潜在ベクトルにラインハルトトーンマッピングを適用します。この技術は、潜在ベクトルを正規化し、平均値と標準偏差に基づく統計的アプローチを使用してその大きさを調整します。その強度は乗数パラメータによって制御されます。
 

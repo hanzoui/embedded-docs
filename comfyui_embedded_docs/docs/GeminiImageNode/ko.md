@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GeminiImageNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GeminiImageNode/ko.md)
 
 GeminiImage 노드는 Google의 Gemini AI 모델을 사용하여 텍스트 및 이미지 응답을 생성합니다. 텍스트 프롬프트, 이미지, 파일을 포함한 다중 모드 입력을 제공하여 일관된 텍스트 및 이미지 출력을 생성할 수 있습니다. 이 노드는 최신 Gemini 모델과의 모든 API 통신 및 응답 구문 분석을 처리합니다.
 

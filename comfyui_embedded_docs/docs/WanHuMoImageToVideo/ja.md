@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanHuMoImageToVideo/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanHuMoImageToVideo/ja.md)
 
 WanHuMoImageToVideoノードは、画像をビデオシーケンスに変換するノードで、ビデオフレームの潜在表現を生成します。このノードはコンディショニング入力を処理し、参照画像やオーディオ埋め込みを組み込んでビデオ生成に影響を与えることができます。ビデオ合成に適した修正されたコンディショニングデータと潜在表現を出力します。
 

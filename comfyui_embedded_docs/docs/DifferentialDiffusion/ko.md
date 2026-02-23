@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DifferentialDiffusion/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DifferentialDiffusion/ko.md)
 
 Differential Diffusion 노드는 타임스텝 임계값을 기반으로 이진 마스크를 적용하여 디노이징 프로세스를 수정합니다. 이 노드는 원본 디노이즈 마스크와 임계값 기반 이진 마스크 사이를 혼합하는 마스크를 생성하여 디퓨전 프로세스 강도를 제어적으로 조정할 수 있게 합니다.
 

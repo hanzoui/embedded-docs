@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingDiscrete/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingDiscrete/zh-TW.md)
 
 此節點旨在透過應用離散取樣策略來修改模型的取樣行為。它允許選擇不同的取樣方法，例如 epsilon、v_prediction、lcm 或 x0，並可根據零樣本噪聲比 (zsnr) 設定來調整模型的噪聲降低策略。
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftStyleV3VectorIllustrationNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftStyleV3VectorIllustrationNode/tr.md)
 
 Bu düğüm, Recraft API ile kullanılmak üzere, özellikle `vector_illustration` stilini seçen bir stil yapılandırır. Bu kategori içinde isteğe bağlı olarak daha spesifik bir alt stil seçmenize olanak tanır. Düğüm, diğer Recraft API düğümlerine iletilmek üzere bir stil yapılandırma nesnesi çıktısı verir.
 

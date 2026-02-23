@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingContinuousV/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingContinuousV/pt-BR.md)
 
 O nó ModelSamplingContinuousV modifica o comportamento de amostragem de um modelo aplicando parâmetros de amostragem de predição V contínua. Ele cria um clone do modelo de entrada e o configura com definições personalizadas de faixa de sigma para um controle avançado da amostragem. Isso permite que os usuários ajustem finamente o processo de amostragem com valores de sigma mínimo e máximo específicos.
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeAceStepAudio/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeAceStepAudio/en.md)
 
 The TextEncodeAceStepAudio node processes text inputs for audio conditioning by combining tags and lyrics into tokens, then encoding them with adjustable lyrics strength. It takes a CLIP model along with text descriptions and lyrics, tokenizes them together, and generates conditioning data suitable for audio generation tasks. The node allows fine-tuning the influence of lyrics through a strength parameter that controls their impact on the final output.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/OpenAIChatNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/OpenAIChatNode/pt-BR.md)
 
 Este nó gera respostas de texto a partir de um modelo da OpenAI. Ele permite que você tenha conversas com o modelo de IA enviando prompts de texto e recebendo respostas geradas. O nó suporta conversas com múltiplas interações, onde ele pode lembrar do contexto anterior, e também pode processar imagens e arquivos como contexto adicional para o modelo.
 

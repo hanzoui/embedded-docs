@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyTextureNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyTextureNode/es.md)
 
 El nodo Meshy: Texture aplica texturas generadas por IA a un modelo 3D. Toma un ID de tarea de un nodo previo de generación o conversión 3D de Meshy y utiliza una descripción de texto o una imagen de referencia para crear nuevas texturas para el modelo. El nodo devuelve el modelo texturizado en los formatos de archivo GLB y FBX.
 

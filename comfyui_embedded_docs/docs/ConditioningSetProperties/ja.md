@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetProperties/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetProperties/ja.md)
 
 ConditioningSetPropertiesノードは、強度、エリア設定の調整、オプションのマスクやタイムステップ範囲の適用を通じて、コンディショニングデータのプロパティを変更します。画像生成プロセス中にコンディショニングデータがどのように適用されるかに影響する特定のパラメータを設定することで、コンディショニングが生成プロセスに与える影響を制御することができます。
 

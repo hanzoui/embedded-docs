@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SetClipHooks/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SetClipHooks/ja.md)
 
 SetClipHooksノードを使用すると、CLIPモデルにカスタムフックを適用し、その動作を高度に変更することができます。このノードは条件付け出力にフックを適用し、オプションでクリップスケジューリング機能を有効にすることができます。このノードは、指定されたフック設定が適用された入力CLIPモデルのクローンコピーを作成します。
 

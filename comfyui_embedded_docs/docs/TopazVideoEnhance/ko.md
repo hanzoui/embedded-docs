@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TopazVideoEnhance/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TopazVideoEnhance/ko.md)
 
 Topaz Video Enhance 노드는 외부 API를 사용하여 비디오 품질을 향상시킵니다. 비디오 해상도를 업스케일하고, 프레임 보간을 통해 프레임 속도를 높이며, 압축을 적용할 수 있습니다. 이 노드는 입력 MP4 비디오를 처리하고 선택된 설정에 따라 향상된 버전을 반환합니다.
 

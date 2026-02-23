@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmos7B/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmos7B/es.md)
 
 El nodo ModelMergeCosmos7B fusiona dos modelos de IA mediante una combinación ponderada de componentes específicos. Permite un control detallado sobre cómo se combinan las diferentes partes de los modelos ajustando los pesos individuales para las incrustaciones de posición, los bloques transformadores y las capas finales.
 

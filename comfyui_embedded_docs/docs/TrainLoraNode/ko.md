@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TrainLoraNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TrainLoraNode/ko.md)
 
 TrainLoraNode는 제공된 잠재 데이터와 조건화 데이터를 사용하여 확산 모델에 대한 LoRA(Low-Rank Adaptation) 모델을 생성하고 학습시킵니다. 사용자 정의 학습 매개변수, 옵티마이저 및 손실 함수를 사용하여 모델을 미세 조정할 수 있습니다. 이 노드는 LoRA가 적용된 학습된 모델, LoRA 가중치, 학습 손실 메트릭, 그리고 완료된 총 학습 단계를 출력합니다.
 

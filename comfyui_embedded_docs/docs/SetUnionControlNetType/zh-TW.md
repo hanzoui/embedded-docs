@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SetUnionControlNetType/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SetUnionControlNetType/zh-TW.md)
 
 SetUnionControlNetType 節點允許您指定用於條件控制的控制網路類型。它接收一個現有的控制網路，並根據您的選擇設定其控制類型，從而建立一個具有指定類型配置的控制網路修改副本。
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEEncodeAudio/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEEncodeAudio/zh-TW.md)
 
 VAEEncodeAudio 節點使用變分自編碼器（VAE）將音訊資料轉換為潛在表示。它接收音訊輸入並透過 VAE 進行處理，生成壓縮的潛在樣本，可用於進一步的音訊生成或處理任務。該節點在編碼前會自動將音訊重新採樣至 44100 Hz（如有需要）。
 

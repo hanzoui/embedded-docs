@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingTextToVideoWithAudio/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingTextToVideoWithAudio/pt-BR.md)
 
 O nó Kling Text to Video with Audio gera um vídeo curto a partir de uma descrição em texto. Ele envia uma solicitação para o serviço Kling AI, que processa o prompt e retorna um arquivo de vídeo. O nó também pode gerar áudio de acompanhamento para o vídeo com base no texto.
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyChromaRadianceLatentImage/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyChromaRadianceLatentImage/ko.md)
 
 EmptyChromaRadianceLatentImage 노드는 크로마 라디언스 워크플로우에서 사용하기 위해 지정된 크기의 빈 잠재 이미지를 생성합니다. 이 노드는 잠재 공간 연산을 위한 시작점으로 사용되는 0으로 채워진 텐서를 생성합니다. 노드를 사용하면 빈 잠재 이미지의 너비, 높이, 배치 크기를 정의할 수 있습니다.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WavespeedImageUpscaleNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WavespeedImageUpscaleNode/zh-TW.md)
 
 WaveSpeed 影像放大節點使用外部 AI 服務來提升影像的解析度和品質。它接收單張輸入照片，並將其放大至更高的目標解析度，例如 2K、4K 或 8K，從而產生更清晰、細節更豐富的結果。
 

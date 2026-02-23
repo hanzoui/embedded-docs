@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageRelightNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageRelightNode/ko.md)
 
 Magnific Image Relight 노드는 입력 이미지의 조명을 조정합니다. 텍스트 프롬프트를 기반으로 스타일리시한 조명을 적용하거나, 선택적으로 제공된 참조 이미지의 조명 특성을 전달할 수 있습니다. 이 노드는 최종 출력물의 밝기, 대비 및 전체적인 분위기를 미세 조정하기 위한 다양한 제어 기능을 제공합니다.
 

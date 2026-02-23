@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TencentTextToModelNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TencentTextToModelNode/tr.md)
 
 Bu düğüm, bir metin açıklamasından 3B model oluşturmak için Tencent'in Hunyuan3D Pro API'sini kullanır. Bir oluşturma görevi başlatmak için bir istek gönderir, sonucu sorgular ve GLB ile OBJ formatlarında nihai model dosyalarını indirir.
 

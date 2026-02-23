@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableZero123_Conditioning_Batched/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableZero123_Conditioning_Batched/pt-BR.md)
 
 O nó StableZero123_Conditioning_Batched processa uma imagem de entrada e gera dados de condicionamento para geração de modelos 3D. Ele codifica a imagem usando modelos CLIP vision e VAE, depois cria embeddings de câmera com base em ângulos de elevação e azimute para produzir condicionamentos positivo e negativo juntamente com representações latentes para processamento em lote.
 

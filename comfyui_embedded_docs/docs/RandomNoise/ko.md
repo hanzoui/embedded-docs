@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RandomNoise/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RandomNoise/ko.md)
 
 RandomNoise 노드는 시드(seed) 값을 기반으로 무작위 노이즈 패턴을 생성합니다. 재현 가능한 노이즈를 만들어내며, 다양한 이미지 처리 및 생성 작업에 사용할 수 있습니다. 동일한 시드를 사용하면 항상 동일한 노이즈 패턴이 생성되어 여러 실행에 걸쳐 일관된 결과를 얻을 수 있습니다.
 

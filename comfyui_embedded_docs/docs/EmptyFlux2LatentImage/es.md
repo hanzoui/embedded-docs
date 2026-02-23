@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyFlux2LatentImage/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyFlux2LatentImage/es.md)
 
 El nodo EmptyFlux2LatentImage crea una representación latente en blanco y vacía. Genera un tensor lleno de ceros, que sirve como punto de partida para el proceso de eliminación de ruido del modelo Flux. Las dimensiones del latente están determinadas por el ancho y alto de entrada, reducidas por un factor de 16.
 

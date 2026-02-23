@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyQwenImageLayeredLatentImage/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyQwenImageLayeredLatentImage/ko.md)
 
 Empty Qwen Image Layered Latent 노드는 Qwen 이미지 모델과 함께 사용하기 위해 빈 다중 레이어 잠재 표현을 생성합니다. 이 노드는 지정된 레이어 수, 배치 크기 및 공간 차원으로 구조화된 0으로 채워진 텐서를 생성합니다. 이 빈 잠재 표현은 후속 이미지 생성 또는 조작 워크플로우의 시작점 역할을 합니다.
 

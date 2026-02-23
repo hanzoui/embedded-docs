@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeHiDream/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeHiDream/en.md)
 
 The CLIPTextEncodeHiDream node processes multiple text inputs using different language models and combines them into a single conditioning output. It tokenizes text from four different sources (CLIP-L, CLIP-G, T5-XXL, and LLaMA) and encodes them using a scheduled encoding approach. This allows for more sophisticated text conditioning by leveraging multiple language models simultaneously.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringContains/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringContains/tr.md)
 
 StringContains düğümü, belirli bir dizenin belirtilen bir alt dize içerip içermediğini kontrol eder. Bu kontrolü büyük/küçük harf duyarlı veya büyük/küçük harf duyarsız eşleme ile gerçekleştirebilir ve alt dizenin ana dize içinde bulunup bulunmadığını gösteren bir boolean sonuç döndürür.
 

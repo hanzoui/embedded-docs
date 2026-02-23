@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MinimaxImageToVideoNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MinimaxImageToVideoNode/tr.md)
 
 Bir görüntü, metin açıklaması ve isteğe bağlı parametreler kullanarak MiniMax'in API'si aracılığıyla senkronize bir şekilde video oluşturur. Bu düğüm, bir video dizisi oluşturmak için bir giriş görüntüsü ve metin açıklaması alır ve çeşitli model seçenekleri ve yapılandırma ayarları mevcuttur.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PrimitiveStringMultiline/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PrimitiveStringMultiline/pt-BR.md)
 
 O nó PrimitiveStringMultiline fornece um campo de entrada de texto multilinha para inserir e passar valores de string através do seu fluxo de trabalho. Ele aceita entrada de texto com múltiplas linhas e emite o mesmo valor de string inalterado. Este nó é útil quando você precisa inserir conteúdo de texto mais longo ou texto formatado que abrange várias linhas.
 

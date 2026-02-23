@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RandomNoise/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RandomNoise/ja.md)
 
 RandomNoiseノードは、シード値に基づいてランダムなノイズパターンを生成します。再現可能なノイズを作成し、様々な画像処理や生成タスクに使用できます。同じシードを使用すると常に同じノイズパターンが生成されるため、複数回の実行でも一貫した結果を得ることができます。
 

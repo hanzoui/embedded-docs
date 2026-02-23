@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetTimestepRange/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetTimestepRange/pt-BR.md)
 
 Este nó é projetado para ajustar o aspecto temporal do condicionamento ao definir um intervalo específico de passos de tempo. Ele permite o controle preciso sobre os pontos de início e fim do processo de condicionamento, possibilitando uma geração mais direcionada e eficiente.
 

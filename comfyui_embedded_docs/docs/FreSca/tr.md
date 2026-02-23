@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FreSca/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FreSca/tr.md)
 
 FreSca düğümü, örnekleme sürecinde frekansa bağlı ölçeklendirme uygular. Kılavuzluk sinyalini Fourier filtreleme kullanarak düşük frekanslı ve yüksek frekanslı bileşenlere ayırır, ardından bunları yeniden birleştirmeden önce her bir frekans aralığına farklı ölçeklendirme faktörleri uygular. Bu, kılavuzluğun oluşturulan çıktının farklı yönlerini nasıl etkilediği üzerinde daha nüanslı kontrol sağlar.
 

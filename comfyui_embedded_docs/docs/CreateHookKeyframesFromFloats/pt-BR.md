@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookKeyframesFromFloats/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookKeyframesFromFloats/pt-BR.md)
 
 Este nó cria keyframes de gancho a partir de uma lista de valores de força de ponto flutuante, distribuindo-os uniformemente entre porcentagens de início e fim especificadas. Ele gera uma sequência de keyframes onde cada valor de força é atribuído a uma posição percentual específica na linha do tempo da animação. O nó pode criar um novo grupo de keyframes ou adicionar a um existente, com uma opção para imprimir os keyframes gerados para fins de depuração.
 

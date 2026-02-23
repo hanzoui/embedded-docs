@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Wan22FunControlToVideo/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Wan22FunControlToVideo/zh.md)
 
 Wan22FunControlToVideo 节点使用 Wan 视频模型架构为视频生成准备条件输入和潜在表示。该节点处理正向和负向条件输入，以及可选的参考图像和控制视频，以创建视频合成所需的潜在空间表示。该节点处理空间缩放和时间维度，为视频模型生成适当的条件数据。
 

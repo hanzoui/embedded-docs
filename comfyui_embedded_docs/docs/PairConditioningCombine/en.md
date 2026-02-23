@@ -1,6 +1,6 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningCombine/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningCombine/en.md)
 
-The PairConditioningCombine node combines two pairs of conditioning data (positive and negative) into a single pair. It takes two separate conditioning pairs as input and merges them using ComfyUI's internal conditioning combination logic. This node is experimental and primarily used for advanced conditioning manipulation workflows.
+The PairConditioningCombine node combines two pairs of conditioning data (positive and negative) into a single pair. It takes two separate conditioning pairs as input and merges them using Hanzo Studio's internal conditioning combination logic. This node is experimental and primarily used for advanced conditioning manipulation workflows.
 
 ## Inputs
 

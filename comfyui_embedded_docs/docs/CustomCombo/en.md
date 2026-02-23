@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CustomCombo/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CustomCombo/en.md)
 
 The Custom Combo node allows you to create a custom dropdown menu with your own list of text options. It is a frontend-focused node that provides a backend representation to ensure compatibility within your workflow. When you select an option from the dropdown, the node outputs that text as a string.
 

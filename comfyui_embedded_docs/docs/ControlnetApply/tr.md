@@ -1,6 +1,6 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ControlNetApply/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ControlNetApply/tr.md)
 
-ControlNet kullanımı, girdi görsellerinin ön işleme tabi tutulmasını gerektirir. ComfyUI'nin başlangıç düğümleri ön işlemciler ve ControlNet modelleri ile birlikte gelmediğinden, lütfen öncelikle ControlNet ön işlemcilerini [ön işlemcileri buradan indirin](https://github.com/Fannovel16/comfy_controlnet_preprocessors) ve ilgili ControlNet modellerini yükleyin.
+ControlNet kullanımı, girdi görsellerinin ön işleme tabi tutulmasını gerektirir. Hanzo Studio'nin başlangıç düğümleri ön işlemciler ve ControlNet modelleri ile birlikte gelmediğinden, lütfen öncelikle ControlNet ön işlemcilerini [ön işlemcileri buradan indirin](https://github.com/Fannovel16/comfy_controlnet_preprocessors) ve ilgili ControlNet modellerini yükleyin.
 
 ## Girdiler
 

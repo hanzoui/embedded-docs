@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVAudioVAEEncode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVAudioVAEEncode/tr.md)
 
 LTXV Audio VAE Encode düğümü, bir ses girişi alır ve belirtilen bir Audio VAE modeli kullanarak onu daha küçük, gizli bir temsile sıkıştırır. Bu işlem, ham ses verilerini, işlem hattındaki diğer düğümlerin anlayabileceği ve işleyebileceği bir formata dönüştürdüğü için, gizli uzay iş akışı içinde ses oluşturmak veya manipüle etmek için gereklidir.
 

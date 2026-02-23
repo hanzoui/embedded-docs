@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/IdeogramV2/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/IdeogramV2/es.md)
 
 El nodo Ideogram V2 genera imágenes utilizando el modelo de IA Ideogram V2. Toma indicaciones de texto y varias configuraciones de generación para crear imágenes a través de un servicio API. El nodo admite diferentes relaciones de aspecto, resoluciones y opciones de estilo para personalizar las imágenes de salida.
 

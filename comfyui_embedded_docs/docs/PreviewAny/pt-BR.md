@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PreviewAny/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PreviewAny/pt-BR.md)
 
 O nó PreviewAny exibe uma prévia de qualquer tipo de dado de entrada em formato de texto. Ele aceita qualquer tipo de dado como entrada e o converte em uma representação de string legível para visualização. O nó lida automaticamente com diferentes tipos de dados, incluindo strings, números, booleanos e objetos complexos, tentando serializá-los para o formato JSON.
 

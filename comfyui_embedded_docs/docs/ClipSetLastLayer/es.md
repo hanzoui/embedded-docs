@@ -1,4 +1,4 @@
-`Establecer Última Capa de CLIP` es un nodo central en ComfyUI para controlar la profundidad de procesamiento de los modelos CLIP. Permite a los usuarios controlar con precisión dónde se detiene el procesamiento del codificador de texto CLIP, afectando tanto la profundidad de comprensión del texto como el estilo de las imágenes generadas.
+`Establecer Última Capa de CLIP` es un nodo central en Hanzo Studio para controlar la profundidad de procesamiento de los modelos CLIP. Permite a los usuarios controlar con precisión dónde se detiene el procesamiento del codificador de texto CLIP, afectando tanto la profundidad de comprensión del texto como el estilo de las imágenes generadas.
 
 Imagine el modelo CLIP como un cerebro inteligente de 24 capas:
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CosmosPredict2ImageToVideoLatent/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CosmosPredict2ImageToVideoLatent/en.md)
 
 The CosmosPredict2ImageToVideoLatent node creates video latent representations from images for video generation. It can generate a blank video latent or incorporate start and end images to create video sequences with specified dimensions and duration. The node handles the encoding of images into the appropriate latent space format for video processing.
 

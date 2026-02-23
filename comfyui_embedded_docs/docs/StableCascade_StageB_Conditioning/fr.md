@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableCascade_StageB_Conditioning/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableCascade_StageB_Conditioning/fr.md)
 
 Le nœud StableCascade_StageB_Conditioning prépare les données de conditionnement pour la génération du Stage B de Stable Cascade en combinant les informations de conditionnement existantes avec les représentations latentes antérieures du Stage C. Il modifie les données de conditionnement pour inclure les échantillons latents du Stage C, permettant au processus de génération de tirer parti des informations antérieures pour produire des résultats plus cohérents.
 

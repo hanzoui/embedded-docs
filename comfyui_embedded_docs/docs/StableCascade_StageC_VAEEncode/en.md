@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableCascade_StageC_VAEEncode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableCascade_StageC_VAEEncode/en.md)
 
 The StableCascade_StageC_VAEEncode node processes images through a VAE encoder to generate latent representations for Stable Cascade models. It takes an input image and compresses it using the specified VAE model, then outputs two latent representations: one for stage C and a placeholder for stage B. The compression parameter controls how much the image is scaled down before encoding.
 

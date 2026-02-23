@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FeatherMask/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FeatherMask/zh-TW.md)
 
 `FeatherMask` 節點對指定遮罩的邊緣應用羽化效果，透過根據與各邊緣的指定距離調整不透明度，使遮罩邊緣平滑過渡。這會產生更柔和、更融合的邊緣效果。
 

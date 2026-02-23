@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningSetPropertiesAndCombine/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningSetPropertiesAndCombine/pt-BR.md)
 
 O nó PairConditioningSetPropertiesAndCombine modifica e combina pares de condicionamento aplicando novos dados de condicionamento às entradas de condicionamento positivo e negativo existentes. Ele permite ajustar a força do condicionamento aplicado e controlar como a área de condicionamento é definida. Este nó é particularmente útil para fluxos de trabalho avançados de manipulação de condicionamento, onde é necessário combinar múltiplas fontes de condicionamento.
 

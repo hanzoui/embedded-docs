@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageYUVToRGB/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageYUVToRGB/ko.md)
 
 ImageYUVToRGB 노드는 YUV 색 공간 이미지를 RGB 색 공간으로 변환합니다. Y(휘도), U(청색 투영), V(적색 투영) 채널을 나타내는 세 개의 별도 입력 이미지를 받아들여 색 공간 변환을 통해 단일 RGB 이미지로 결합합니다.
 

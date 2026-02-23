@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageSetFromFolderNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageSetFromFolderNode/tr.md)
 
 LoadImageSetFromFolderNode, eğitim amaçları için belirtilen bir klasör dizininden birden fazla görüntü yükler. Yaygın görüntü formatlarını otomatik olarak algılar ve isteğe bağlı olarak görüntüleri farklı yöntemler kullanarak yeniden boyutlandırabilir ve bunları bir toplu iş olarak döndürür.
 

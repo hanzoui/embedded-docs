@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxProFillNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxProFillNode/es.md)
 
 Rellena áreas de una imagen basándose en una máscara y un texto descriptivo. Este nodo utiliza el modelo Flux.1 para rellenar las áreas enmascaradas de una imagen de acuerdo con la descripción de texto proporcionada, generando nuevo contenido que coincide con la imagen circundante.
 

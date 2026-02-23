@@ -1,8 +1,8 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/unCLIPCheckpointLoader/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/unCLIPCheckpointLoader/zh-TW.md)
 
 {heading_overview}
 
-此節點會偵測位於 `ComfyUI/models/checkpoints` 資料夾中的模型，同時也會從 extra_model_paths.yaml 檔案中設定的其他路徑讀取模型。有時您可能需要**重新整理 ComfyUI 介面**，才能讓它從相應的資料夾讀取模型檔案。
+此節點會偵測位於 `Hanzo Studio/models/checkpoints` 資料夾中的模型，同時也會從 extra_model_paths.yaml 檔案中設定的其他路徑讀取模型。有時您可能需要**重新整理 Hanzo Studio 介面**，才能讓它從相應的資料夾讀取模型檔案。
 
 unCLIPCheckpointLoader 節點專為載入特別針對 unCLIP 模型設計的檢查點而開發。它能從指定的檢查點中便利地檢索並初始化模型、CLIP 視覺模組和 VAE，簡化後續操作或分析的設定流程。
 

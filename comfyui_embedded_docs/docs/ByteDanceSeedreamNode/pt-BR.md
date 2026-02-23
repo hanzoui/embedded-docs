@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceSeedreamNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceSeedreamNode/pt-BR.md)
 
 O nó ByteDance Seedream 4 oferece capacidades unificadas de geração de texto para imagem e edição precisa com base em uma única frase, com resolução de até 4K. Ele pode criar novas imagens a partir de prompts de texto ou editar imagens existentes usando instruções textuais. O nó suporta tanto a geração de uma única imagem quanto a geração sequencial de múltiplas imagens relacionadas.
 

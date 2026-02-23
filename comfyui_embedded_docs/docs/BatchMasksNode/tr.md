@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BatchMasksNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BatchMasksNode/tr.md)
 
 Batch Masks düğümü, birden fazla bireysel maske girdisini tek bir toplu işte birleştirir. Değişken sayıda maske girdisi alır ve bunları tek bir toplu maske tensörü olarak çıktılar, böylece sonraki düğümlerde maskelerin toplu işlem görmesine olanak tanır.
 

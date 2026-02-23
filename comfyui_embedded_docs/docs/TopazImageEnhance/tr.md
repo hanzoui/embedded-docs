@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TopazImageEnhance/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TopazImageEnhance/tr.md)
 
 Topaz Image Enhance düğümü, sektör standardında yükseltme ve görüntü iyileştirme sağlar. Tek bir girdi görüntüsünü, kaliteyi, detayı ve çözünürlüğü iyileştirmek için bulut tabanlı bir AI modeli kullanarak işler. Düğüm, yaratıcı rehberlik, konu odaklama ve yüz koruma seçenekleri de dahil olmak üzere, iyileştirme süreci üzerinde ayrıntılı kontrol sunar.
 

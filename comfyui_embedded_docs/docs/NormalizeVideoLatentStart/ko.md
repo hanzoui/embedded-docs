@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/NormalizeVideoLatentStart/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/NormalizeVideoLatentStart/ko.md)
 
 이 노드는 비디오 잠재 표현의 처음 몇 프레임을 조정하여 이후에 오는 프레임과 더 비슷하게 만듭니다. 비디오 후반부의 참조 프레임 세트로부터 평균과 변동을 계산하고, 동일한 특성을 시작 프레임에 적용합니다. 이를 통해 비디오 시작 부분에서 더 부드럽고 일관된 시각적 전환을 만드는 데 도움이 됩니다.
 

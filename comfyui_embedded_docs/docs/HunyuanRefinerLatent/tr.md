@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanRefinerLatent/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanRefinerLatent/tr.md)
 
 HunyuanRefinerLatent düğümü, iyileştirme işlemleri için koşullandırma ve gizli girdileri işler. Gizli görüntü verilerini dahil ederken hem pozitif hem de negatif koşullandırmaya gürültü artırımı uygular ve daha fazla işleme için belirli boyutlarda yeni bir gizli çıktı üretir.
 

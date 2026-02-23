@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelComputeDtype/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelComputeDtype/ja.md)
 
 ModelComputeDtypeノードは、推論中にモデルが使用する計算データ型を変更することができます。このノードは入力モデルのコピーを作成し、指定されたデータ型設定を適用します。これにより、ハードウェアの性能に応じてメモリ使用量とパフォーマンスを最適化するのに役立ちます。これは特に、異なる精度設定のデバッグやテストに有用です。
 

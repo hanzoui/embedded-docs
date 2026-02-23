@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningTimestepsRange/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningTimestepsRange/pt-BR.md)
 
 O nó ConditioningTimestepsRange cria três intervalos de timestep distintos para controlar quando os efeitos de condicionamento são aplicados durante o processo de geração. Ele recebe valores percentuais de início e fim e divide todo o intervalo de timestep (0.0 a 1.0) em três segmentos: o intervalo principal entre as porcentagens especificadas, o intervalo antes da porcentagem inicial e o intervalo após a porcentagem final.
 

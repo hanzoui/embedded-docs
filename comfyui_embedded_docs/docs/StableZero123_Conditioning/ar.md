@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableZero123_Conditioning/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableZero123_Conditioning/ar.md)
 
 ```markdown
 عُقْدة StableZero123_Conditioning تعالج صورة الإدخال وزوايا الكاميرا لتوليد بيانات تكييف وتمثيلات كامنة لتوليد النماذج ثلاثية الأبعاد. تستخدم هذه العقدة نموذج CLIP للرؤية لتشفير ميزات الصورة، وتدمجها مع معلومات تضمين الكاميرا بناءً على زوايا الارتفاع والسمت، وتنتج تكييفًا إيجابيًا وسلبيًا إلى جانب تمثيل كامن لمهام التوليد ثلاثي الأبعاد اللاحقة.

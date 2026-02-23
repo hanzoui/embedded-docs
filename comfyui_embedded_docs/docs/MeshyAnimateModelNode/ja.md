@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyAnimateModelNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyAnimateModelNode/ja.md)
 
 このノードは、Meshyサービスを使用して既にリギングされた3Dキャラクターモデルに特定のアニメーションを適用します。前回のリギング操作から取得したタスクIDと、ライブラリから目的のアニメーションを選択するためのアクションIDを受け取ります。ノードはリクエストを処理し、アニメーション化されたモデルをGLBおよびFBXファイル形式で返します。
 

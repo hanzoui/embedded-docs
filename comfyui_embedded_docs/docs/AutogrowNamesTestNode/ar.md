@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AutogrowNamesTestNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AutogrowNamesTestNode/ar.md)
 
 هذه العقدة هي اختبار لميزة الإدخال التلقائي التوسعي (Autogrow). فهي تأخذ عددًا ديناميكيًا من مدخلات الأرقام العشرية (float)، كل منها مُوسوم باسم محدد، وتجمع قيمها في سلسلة نصية واحدة مفصولة بفواصل.
 

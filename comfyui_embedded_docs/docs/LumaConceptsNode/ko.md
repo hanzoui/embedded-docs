@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LumaConceptsNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LumaConceptsNode/ko.md)
 
 Luma Text to Video 및 Luma Image to Video 노드와 함께 사용할 하나 이상의 카메라 컨셉을 보유합니다. 이 노드를 사용하면 최대 네 개의 카메라 컨셉을 선택하고, 선택적으로 기존 컨셉 체인과 결합할 수 있습니다.
 

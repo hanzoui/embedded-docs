@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVCropGuides/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVCropGuides/ko.md)
 
 LTXVCropGuides 노드는 비디오 생성을 위한 조건화 및 잠재 입력을 처리하며, 키프레임 정보를 제거하고 잠재 차원을 조정합니다. 이 노드는 키프레임 섹션을 제외하도록 잠재 이미지와 노이즈 마스크를 자르고, 양극 및 음극 조건화 입력에서 키프레임 인덱스를 지웁니다. 이를 통해 키프레임 안내가 필요하지 않은 비디오 생성 워크플로우를 위한 데이터를 준비합니다.
 

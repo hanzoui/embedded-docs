@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GeminiImage/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GeminiImage/en.md)
 
 The GeminiImage node generates text and image responses from Google's Gemini AI models. It allows you to provide multimodal inputs including text prompts, images, and files to create coherent text and image outputs. The node handles all API communication and response parsing with the latest Gemini models.
 

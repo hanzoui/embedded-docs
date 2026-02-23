@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LossGraphNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LossGraphNode/ja.md)
 
 LossGraphNodeは、トレーニング損失値の経時変化を視覚的なグラフとして作成し、画像ファイルとして保存します。トレーニングプロセスからの損失データを受け取り、トレーニングステップにわたる損失の変化を示す折れ線グラフを生成します。生成されるグラフには軸ラベル、最小/最大損失値が含まれ、タイムスタンプ付きで一時出力ディレクトリに自動的に保存されます。
 

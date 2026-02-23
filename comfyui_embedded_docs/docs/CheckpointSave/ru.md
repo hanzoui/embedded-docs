@@ -22,9 +22,9 @@
 
 ## Совместимость с архитектурами
 
-- Полная поддержка: SDXL, SD3, SVD и другие основные архитектуры, см. [исходный код](https://github.com/comfyanonymous/ComfyUI/blob/master/comfy_extras/nodes_model_merging.py#L176-L189)
+- Полная поддержка: SDXL, SD3, SVD и другие основные архитектуры, см. [исходный код](https://github.com/hanzoai/studio/blob/master/comfy_extras/nodes_model_merging.py#L176-L189)
 - Базовая поддержка: Другие архитектуры могут быть сохранены, но без стандартизированной метаинформации
 
 ## Связанные ссылки
 
-Исходный код: [nodes_model_merging.py#L227](https://github.com/comfyanonymous/ComfyUI/blob/master/comfy_extras/nodes_model_merging.py#L227)
+Исходный код: [nodes_model_merging.py#L227](https://github.com/hanzoai/studio/blob/master/comfy_extras/nodes_model_merging.py#L227)

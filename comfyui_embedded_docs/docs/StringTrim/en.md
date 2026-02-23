@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringTrim/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringTrim/en.md)
 
 The StringTrim node removes whitespace characters from the beginning, end, or both sides of a text string. You can choose to trim from the left side, right side, or both sides of the string. This is useful for cleaning up text inputs by removing unwanted spaces, tabs, or newline characters.
 

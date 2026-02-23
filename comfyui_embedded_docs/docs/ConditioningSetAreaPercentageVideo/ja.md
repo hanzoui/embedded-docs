@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningSetAreaPercentageVideo/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningSetAreaPercentageVideo/ja.md)
 
 ConditioningSetAreaPercentageVideoノードは、ビデオ生成のための特定の領域と時間領域を定義することで、コンディショニングデータを変更します。全体の寸法に対するパーセンテージ値を使用して、コンディショニングが適用される領域の位置、サイズ、および持続時間を設定できます。これは、ビデオシーケンスの特定の部分に生成を集中させる場合に便利です。
 

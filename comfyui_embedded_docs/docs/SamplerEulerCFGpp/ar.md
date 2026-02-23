@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerEulerCFGpp/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerEulerCFGpp/ar.md)
 
 ```markdown
 تقدم عقدة SamplerEulerCFGpp طريقة أخذ العينات Euler CFG++ لتوليد المخرجات. توفر هذه العقدة نسختين مختلفتين من التنفيذ لأخذ عينات Euler CFG++ يمكن اختيارها بناءً على تفضيل المستخدم.

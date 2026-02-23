@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MinimaxTextToVideoNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MinimaxTextToVideoNode/ko.md)
 
 MiniMax의 API를 사용하여 프롬프트와 선택적 매개변수를 기반으로 동기적으로 비디오를 생성합니다. 이 노드는 MiniMax의 텍스트-비디오 변환 서비스에 연결하여 텍스트 설명으로부터 비디오 콘텐츠를 생성합니다.
 

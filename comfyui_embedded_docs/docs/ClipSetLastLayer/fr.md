@@ -1,4 +1,4 @@
-`Définir la Dernière Couche CLIP` est un nœud central dans ComfyUI pour contrôler la profondeur de traitement des modèles CLIP. Il permet aux utilisateurs de contrôler précisément où l'encodeur de texte CLIP arrête son traitement, affectant à la fois la profondeur de compréhension du texte et le style des images générées.
+`Définir la Dernière Couche CLIP` est un nœud central dans Hanzo Studio pour contrôler la profondeur de traitement des modèles CLIP. Il permet aux utilisateurs de contrôler précisément où l'encodeur de texte CLIP arrête son traitement, affectant à la fois la profondeur de compréhension du texte et le style des images générées.
 
 Imaginez le modèle CLIP comme un cerveau intelligent à 24 couches :
 

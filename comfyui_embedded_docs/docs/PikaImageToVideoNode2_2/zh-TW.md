@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PikaImageToVideoNode2_2/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PikaImageToVideoNode2_2/zh-TW.md)
 
 Pika Image to Video 節點將圖像和文字提示發送至 Pika API 2.2 版本以生成影片。它會根據提供的描述和設定，將輸入圖像轉換為影片格式。此節點負責處理 API 通訊，並返回生成的影片作為輸出。
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanVideo15LatentUpscaleWithModel/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanVideo15LatentUpscaleWithModel/ar.md)
 
 يقوم عقد Hunyuan Video 15 Latent Upscale With Model بزيادة دقة تمثيل الصورة الكامنة. حيث يقوم أولاً بتكبير العينات الكامنة إلى حجم محدد باستخدام طريقة استيفاء مختارة، ثم يقوم بتنقية النتيجة المكبرة باستخدام نموذج متخصص لتكبير Hunyuan Video 1.5 لتحسين الجودة.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyRefineNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyRefineNode/tr.md)
 
 Meshy: Refine Draft Model düğümü, daha önce oluşturulmuş bir 3B taslak modeli alır ve kalitesini iyileştirir, isteğe bağlı olarak doku ekler. Meshy API'sine bir iyileştirme görevi gönderir ve işlem tamamlandığında nihai 3B model dosyalarını döndürür.
 

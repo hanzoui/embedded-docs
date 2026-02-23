@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingSingleImageVideoEffectNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingSingleImageVideoEffectNode/ar.md)
 
 يقوم عُقْدَة "تأثير الفيديو من صورة واحدة لـ Kling" بإنشاء مقاطع فيديو بتأثيرات خاصة مختلفة بناءً على صورة مرجعية واحدة. حيث يطبق تأثيرات بصرية ومشاهد متنوعة لتحويل الصور الثابتة إلى محتوى فيديو ديناميكي. تدعم العُقْدَة مشاهد تأثير مختلفة، وخيارات للنماذج، وفترات زمنية للفيديو لتحقيق النتيجة البصرية المطلوبة.
 

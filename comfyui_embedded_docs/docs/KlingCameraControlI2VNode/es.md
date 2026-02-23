@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingCameraControlI2VNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingCameraControlI2VNode/es.md)
 
 El nodo Kling Image to Video Camera Control transforma imágenes fijas en videos cinematográficos con movimientos de cámara profesionales. Este nodo especializado de imagen a video permite controlar acciones de cámara virtual que incluyen zoom, rotación, paneo, inclinación y vista en primera persona, manteniendo el enfoque en tu imagen original. El control de cámara actualmente solo es compatible en modo pro con el modelo kling-v1-5 y una duración de 5 segundos.
 

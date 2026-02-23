@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyFlux2LatentImage/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyFlux2LatentImage/zh-TW.md)
 
 EmptyFlux2LatentImage 節點會建立一個空白的潛在表徵。它會生成一個填充為零的張量，作為 Flux 模型去噪過程的起點。潛在表徵的維度由輸入的寬度和高度決定，並按 16 的比例縮小。
 

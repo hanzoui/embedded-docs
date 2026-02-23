@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyAceStepLatentAudio/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyAceStepLatentAudio/ja.md)
 
 EmptyAceStepLatentAudioノードは、指定された長さの空の潜在オーディオサンプルを作成します。入力された秒数とオーディオ処理パラメータに基づいて計算された長さで、無音のオーディオ潜在表現のバッチを生成します。このノードは、潜在表現を必要とするオーディオ処理ワークフローの初期化に役立ちます。
 

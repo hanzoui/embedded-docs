@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ExtendIntermediateSigmas/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ExtendIntermediateSigmas/tr.md)
 
 ExtendIntermediateSigmas düğümü, mevcut bir sigma değerleri dizisini alır ve aralarına ek ara sigma değerleri ekler. Kaç tane ek adım ekleneceğini, enterpolasyon için boşluklandırma yöntemini ve sigma dizisi içinde uzatmanın nerede gerçekleşeceğini kontrol etmek için isteğe bağlı başlangıç ve bitiş sigma sınırlarını belirtmenize olanak tanır.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityStableImageSD_3_5Node/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityStableImageSD_3_5Node/zh-TW.md)
 
 此節點使用 Stability AI 的 Stable Diffusion 3.5 模型同步生成圖像。它根據文字提示建立圖像，並可在提供輸入圖像時修改現有圖像。該節點支援多種寬高比和風格預設，以自訂輸出結果。
 

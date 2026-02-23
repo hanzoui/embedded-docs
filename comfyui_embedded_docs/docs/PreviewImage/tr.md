@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PreviewImage/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PreviewImage/tr.md)
 
 PreviewImage düğümü, geçici önizleme görüntüleri oluşturmak için tasarlanmıştır. Her görüntü için otomatik olarak benzersiz bir geçici dosya adı oluşturur, görüntüyü belirtilen bir seviyede sıkıştırır ve geçici bir dizine kaydeder. Bu işlevsellik, orijinal dosyaları etkilemeden işleme sırasında görüntülerin önizlemelerini oluşturmak için özellikle kullanışlıdır.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GrokImageNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GrokImageNode/ar.md)
 
 يُنشئ عقدة Grok Image صورةً أو أكثر استنادًا إلى وصف نصي باستخدام نموذج Grok AI. يرسل العقدة المطالبة النصية إلى خدمة خارجية ويعيد الصور المُنشأة على شكل موترات يمكن استخدامها في سير العمل الخاص بك.
 

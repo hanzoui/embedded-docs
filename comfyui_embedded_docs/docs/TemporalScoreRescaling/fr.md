@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TemporalScoreRescaling/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TemporalScoreRescaling/fr.md)
 
 Ce nœud applique le Rescaling Temporel des Scores (TSR) à un modèle de diffusion. Il modifie le comportement d'échantillonnage du modèle en re-échelonnant le bruit ou le score prédit pendant le processus de dé-bruitage, ce qui peut orienter la diversité de la sortie générée. Ceci est implémenté en tant que fonction post-CFG (Classifier-Free Guidance).
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoRigNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoRigNode/tr.md)
 
 TripoRigNode, orijinal model görev kimliğinden riglenmiş bir 3B model oluşturur. Tripo API'sine GLB formatında Tripo spesifikasyonunu kullanarak animasyonlu bir rig oluşturmak için bir istek gönderir, ardından rig oluşturma görevi tamamlanana kadar API'yi yoklar.
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeQwenImageEditPlus/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeQwenImageEditPlus/ko.md)
 
 TextEncodeQwenImageEditPlus 노드는 텍스트 프롬프트와 선택적 이미지를 처리하여 이미지 생성 또는 편집 작업을 위한 조건화 데이터를 생성합니다. 특수화된 템플릿을 사용하여 입력 이미지를 분석하고 텍스트 지시사항이 이미지를 어떻게 수정해야 하는지 이해한 후, 이 정보를 인코딩하여 후속 생성 단계에서 사용할 수 있도록 합니다. 이 노드는 최대 세 개의 입력 이미지를 처리할 수 있으며, VAE가 제공될 경우 참조 잠재 공간을 선택적으로 생성할 수 있습니다.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RegexMatch/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RegexMatch/zh-TW.md)
 
 RegexMatch 節點用於檢查文字字串是否符合指定的正規表示式模式。它會在輸入字串中搜尋符合正規表示式模式的任何出現位置，並回傳是否找到符合項。您可以設定各種正規表示式旗標，例如大小寫敏感度、多行模式和 dotall 模式，以控制模式匹配的行為。
 

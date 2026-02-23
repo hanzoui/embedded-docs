@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanFirstLastFrameToVideo/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanFirstLastFrameToVideo/en.md)
 
 The WanFirstLastFrameToVideo node creates video conditioning by combining start and end frames with text prompts. It generates a latent representation for video generation by encoding the first and last frames, applying masks to guide the generation process, and incorporating CLIP vision features when available. This node prepares both positive and negative conditioning for video models to generate coherent sequences between specified start and end points.
 

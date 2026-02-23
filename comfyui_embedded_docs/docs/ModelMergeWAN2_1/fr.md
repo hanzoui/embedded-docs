@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeWAN2_1/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeWAN2_1/fr.md)
 
 Le nœud ModelMergeWAN2_1 fusionne deux modèles en mélangeant leurs composants à l'aide de moyennes pondérées. Il prend en charge différentes tailles de modèles, y compris les modèles 1,3B avec 30 blocs et les modèles 14B avec 40 blocs, avec un traitement spécial pour les modèles image vers vidéo qui incluent un composant supplémentaire d'incorporation d'image. Chaque composant des modèles peut être individuellement pondéré pour contrôler le ratio de mélange entre les deux modèles d'entrée.
 

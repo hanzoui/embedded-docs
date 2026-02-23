@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanAnimateToVideo/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanAnimateToVideo/zh.md)
 
 WanAnimateToVideo 节点通过结合包括姿态参考、面部表情和背景元素在内的多重条件输入来生成视频内容。它处理各种视频输入以创建连贯的动画序列，同时保持帧间的时间一致性。该节点处理潜在空间操作，并可通过延续运动模式来扩展现有视频。
 

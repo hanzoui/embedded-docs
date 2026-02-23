@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduStartEndToVideoNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduStartEndToVideoNode/ko.md)
 
 Vidu Start End To Video Generation 노드는 시작 프레임과 종료 프레임 사이의 프레임을 생성하여 비디오를 생성합니다. 텍스트 프롬프트를 사용하여 비디오 생성 과정을 안내하며, 다양한 해상도와 움직임 설정을 가진 여러 비디오 모델을 지원합니다. 이 노드는 처리를 시작하기 전에 시작 프레임과 종료 프레임의 종횡비가 호환되는지 검증합니다.
 

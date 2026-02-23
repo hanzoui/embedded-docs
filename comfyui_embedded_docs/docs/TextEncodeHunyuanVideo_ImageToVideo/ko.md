@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeHunyuanVideo_ImageToVideo/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeHunyuanVideo_ImageToVideo/ko.md)
 
 TextEncodeHunyuanVideo_ImageToVideo 노드는 텍스트 프롬프트와 이미지 임베딩을 결합하여 비디오 생성을 위한 조건화 데이터를 생성합니다. CLIP 모델을 사용하여 텍스트 입력과 CLIP 비전 출력의 시각적 정보를 처리한 후, 지정된 이미지 인터리브 설정에 따라 이 두 소스를 혼합한 토큰을 생성합니다.
 

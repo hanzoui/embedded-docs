@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookKeyframesFromFloats/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookKeyframesFromFloats/ja.md)
 
 このノードは、浮動小数点の強度値のリストからフックキーフレームを作成し、それらを指定された開始パーセンテージと終了パーセンテージの間に均等に分配します。アニメーションタイムライン上の特定のパーセンテージ位置に各強度値が割り当てられた、一連のキーフレームを生成します。このノードは、新しいキーフレームグループを作成するか、既存のグループに追加することができ、デバッグ目的で生成されたキーフレームを表示するオプションもあります。
 

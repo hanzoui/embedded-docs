@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmos14B/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmos14B/ar.md)
 
 تُدمج عقدة ModelMergeCosmos14B نموذجين للذكاء الاصطناعي باستخدام نهج قائم على الكتل مُصمم خصيصًا لهندسة نموذج Cosmos 14B. تتيح لك مزج المكونات المختلفة للنماذج من خلال ضبط قيم الأوزان بين 0.0 و1.0 لكل كتلة نموذج وطبقة تضمين.
 

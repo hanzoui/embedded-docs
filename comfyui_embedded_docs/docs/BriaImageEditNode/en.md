@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BriaImageEditNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BriaImageEditNode/en.md)
 
 The Bria FIBO Image Edit node allows you to modify an existing image using a text instruction. It sends the image and your prompt to the Bria API, which uses the FIBO model to generate a new, edited version of the image based on your request. You can also provide a mask to limit the edits to a specific area.
 

@@ -1,6 +1,6 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningSetDefaultAndCombine/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningSetDefaultAndCombine/ar.md)
 
-يقوم عُقدة PairConditioningSetDefaultAndCombine بتعيين قيم التكييف الافتراضية ودمجها مع بيانات التكييف المدخلة. تأخذ مدخلات التكييف الإيجابية والسلبية مع نظيراتها الافتراضية، ثم تعالجها من خلال نظام الخطافات (hook system) في ComfyUI لإنتاج مخرجات تكييف نهائية تتضمن القيم الافتراضية.
+يقوم عُقدة PairConditioningSetDefaultAndCombine بتعيين قيم التكييف الافتراضية ودمجها مع بيانات التكييف المدخلة. تأخذ مدخلات التكييف الإيجابية والسلبية مع نظيراتها الافتراضية، ثم تعالجها من خلال نظام الخطافات (hook system) في Hanzo Studio لإنتاج مخرجات تكييف نهائية تتضمن القيم الافتراضية.
 
 ## المدخلات
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TemporalScoreRescaling/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TemporalScoreRescaling/ar.md)
 
 تطبق هذه العقدة إعادة قياس النقاط الزمنية (TSR) على نموذج الانتشار. فهي تعدل سلوك أخذ العينات للنموذج عن طريق إعادة قياس الضوضاء أو النقاط المتوقعة أثناء عملية إزالة الضوضاء، مما يمكن أن يوجه تنوع المخرجات المُنشأة. يتم تنفيذ هذه الوظيفة كدالة ما بعد التوجيه الخالي من المصنف (CFG).
 

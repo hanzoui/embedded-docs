@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SplitSigmasDenoise/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SplitSigmasDenoise/ko.md)
 
 SplitSigmasDenoise 노드는 디노이징 강도 매개변수를 기반으로 시그마 값 시퀀스를 두 부분으로 나눕니다. 입력 시그마를 높은 시그마 시퀀스와 낮은 시그마 시퀀스로 분할하며, 분할 지점은 전체 스텝 수에 디노이즈 계수를 곱하여 결정됩니다. 이를 통해 노이즈 스케줄을 서로 다른 강도 범위로 분리하여 특수화된 처리를 할 수 있습니다.
 

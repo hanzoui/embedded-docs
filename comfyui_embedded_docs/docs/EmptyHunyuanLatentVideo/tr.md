@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyHunyuanLatentVideo/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyHunyuanLatentVideo/tr.md)
 
 `EmptyHunyuanLatentVideo` düğümü, `EmptyLatentImage` düğümüne benzer. Bu düğümü video üretimi için boş bir tuval olarak düşünebilirsiniz; burada genişlik, yükseklik ve uzunluk tuvalin özelliklerini tanımlar, ve toplu iş boyutu da oluşturulacak tuval sayısını belirler. Bu düğüm, sonraki video üretimi görevleri için hazır boş tuvaller oluşturur.
 

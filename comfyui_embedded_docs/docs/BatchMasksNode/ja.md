@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BatchMasksNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BatchMasksNode/ja.md)
 
 Batch Masksノードは、複数の個別マスク入力を単一のバッチに結合します。可変数のマスク入力を受け取り、それらを単一のバッチ化されたマスクテンソルとして出力します。これにより、後続のノードでマスクのバッチ処理が可能になります。
 

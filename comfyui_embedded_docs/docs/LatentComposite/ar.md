@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentComposite/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentComposite/ar.md)
 
 تم تصميم عقدة LatentComposite لدمج أو دمج تمثيلين كامنين في مخرج واحد. تُعد هذه العملية أساسية لإنشاء صور أو ميزات مركبة من خلال الجمع بين خصائص المدخلات الكامنة بطريقة مُتحكَّم فيها.
 

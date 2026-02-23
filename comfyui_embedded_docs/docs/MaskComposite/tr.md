@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MaskComposite/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MaskComposite/tr.md)
 
 Bu düğüm, iki maske girdisini toplama, çıkarma ve mantıksal işlemler gibi çeşitli operasyonlarla birleştirerek yeni, değiştirilmiş bir maske oluşturmada uzmanlaşmıştır. Karmaşık maskeleme efektleri elde etmek için maske verilerinin manipülasyonunu soyut bir şekilde ele alır ve maske tabanlı görüntü düzenleme ve işleme iş akışlarında çok önemli bir bileşen olarak hizmet eder.
 

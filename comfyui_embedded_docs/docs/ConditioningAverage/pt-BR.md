@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningAverage/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningAverage/pt-BR.md)
 
 O nó `ConditioningAverage` é usado para mesclar dois conjuntos diferentes de condicionamentos (como prompts de texto) de acordo com um peso especificado, gerando um novo vetor de condicionamento que se situa entre os dois. Ao ajustar o parâmetro de peso, você pode controlar de forma flexível a influência de cada condicionamento no resultado final. Isso é especialmente adequado para interpolação de prompts, fusão de estilos e outros casos de uso avançados.
 

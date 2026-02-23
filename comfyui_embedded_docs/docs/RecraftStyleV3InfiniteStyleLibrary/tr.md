@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftStyleV3InfiniteStyleLibrary/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftStyleV3InfiniteStyleLibrary/tr.md)
 
 Bu düğüm, önceden var olan bir UUID kullanarak Recraft'ın Sonsuz Stil Kütüphanesi'nden bir stil seçmenize olanak tanır. Sağlanan stil tanımlayıcısına dayanarak stil bilgilerini alır ve diğer Recraft düğümlerinde kullanılmak üzere döndürür.
 

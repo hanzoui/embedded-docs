@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityStableImageSD_3_5Node/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityStableImageSD_3_5Node/es.md)
 
 Este nodo genera imágenes de forma síncrona utilizando el modelo Stable Diffusion 3.5 de Stability AI. Crea imágenes basadas en indicaciones de texto y también puede modificar imágenes existentes cuando se proporcionan como entrada. El nodo admite varias relaciones de aspecto y preajustes de estilo para personalizar el resultado.
 

@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringConcatenate/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringConcatenate/es.md)
 
 El nodo StringConcatenate combina dos cadenas de texto en una uniéndolas con un delimitador especificado. Toma dos cadenas de entrada y un carácter o cadena delimitador, luego produce una única cadena donde las dos entradas están conectadas con el delimitador colocado entre ellas.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MoonvalleyVideo2VideoNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MoonvalleyVideo2VideoNode/tr.md)
 
 Moonvalley Marey Video'dan Video'ya düğümü, bir giriş videosunu metin açıklamasına dayalı olarak yeni bir videoya dönüştürür. Orijinal videodan hareket veya poz özelliklerini korurken, sizin isteminizle eşleşen videolar oluşturmak için Moonvalley API'sini kullanır. Metin istemleri ve çeşitli oluşturma parametreleri aracılığıyla çıktı videosunun stilini ve içeriğini kontrol edebilirsiniz.
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！[在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/APG/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！[在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/APG/zh.md)
 
 APG（自适应投影引导）节点通过调整扩散过程中引导应用的方式，来修改采样过程。它将引导向量分离为相对于条件输出的平行和正交分量，从而实现更可控的图像生成。该节点提供了用于缩放引导、归一化其幅度以及应用动量以实现扩散步骤间更平滑过渡的参数。
 

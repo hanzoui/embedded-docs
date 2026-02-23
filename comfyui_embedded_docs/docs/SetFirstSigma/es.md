@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SetFirstSigma/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SetFirstSigma/es.md)
 
 El nodo SetFirstSigma modifica una secuencia de valores sigma reemplazando el primer valor sigma de la secuencia con un valor personalizado. Toma una secuencia sigma existente y un nuevo valor sigma como entradas, y luego devuelve una nueva secuencia sigma donde solo se ha cambiado el primer elemento, manteniendo todos los demás valores sigma sin modificar.
 

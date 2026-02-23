@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityAudioInpaint/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityAudioInpaint/ja.md)
 
 テキスト指示を使用して既存のオーディオサンプルの一部を変換します。このノードを使用すると、記述的なプロンプトを提供してオーディオの特定のセクションを変更し、オーディオの残りの部分を保持しながら選択した部分を効果的に「インペイント」または再生成できます。
 

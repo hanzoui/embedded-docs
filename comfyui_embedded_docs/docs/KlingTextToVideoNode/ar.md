@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingTextToVideoNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingTextToVideoNode/ar.md)
 
 عُقدة Kling Text to Video تقوم بتحويل الأوصاف النصية إلى محتوى فيديو. تأخذ هذه العُقدة المطالبات النصية وتُنشئ تسلسلات فيديو مقابلة بناءً على إعدادات التهيئة المحددة. تدعم العُقدة نسب أبعاد مختلفة وأوضاع توليد لإنتاج مقاطع فيديو ذات مدد وجودة متنوعة.
 

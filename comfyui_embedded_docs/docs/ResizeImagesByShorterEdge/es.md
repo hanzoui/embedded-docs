@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResizeImagesByShorterEdge/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResizeImagesByShorterEdge/es.md)
 
 Este nodo redimensiona imágenes ajustando sus dimensiones para que la longitud del lado más corto coincida con un valor objetivo especificado. Calcula nuevas dimensiones manteniendo la relación de aspecto original de la imagen. Devuelve la imagen redimensionada.
 

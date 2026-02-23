@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringReplace/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringReplace/ko.md)
 
 StringReplace 노드는 입력 문자열에 대해 텍스트 치환 작업을 수행합니다. 입력 텍스트 내에서 지정된 부분 문자열을 검색하고 모든 발생 항목을 다른 부분 문자열로 대체합니다. 이 노드는 모든 치환이 적용된 수정된 문자열을 반환합니다.
 

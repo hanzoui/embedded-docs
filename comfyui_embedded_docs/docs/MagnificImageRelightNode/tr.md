@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageRelightNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageRelightNode/tr.md)
 
 Magnific Image Relight düğümü, bir girdi görüntüsünün aydınlatmasını ayarlar. Metin istemine dayalı stilistik aydınlatma uygulayabilir veya isteğe bağlı bir referans görüntüsünden aydınlatma özelliklerini aktarabilir. Düğüm, nihai çıktının parlaklığı, kontrastı ve genel havasını hassas bir şekilde ayarlamak için çeşitli kontroller sunar.
 

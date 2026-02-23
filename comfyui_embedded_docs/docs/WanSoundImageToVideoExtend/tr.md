@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanSoundImageToVideoExtend/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanSoundImageToVideoExtend/tr.md)
 
 WanSoundImageToVideoExtend düğümü, ses koşullandırması ve referans görüntüleri dahil ederek görüntüden videoya üretimi genişletir. Pozitif ve negatif koşullandırmaları video latents verileri ve isteğe bağlı ses gömme verileriyle alarak genişletilmiş video dizileri oluşturur. Düğüm bu girdileri işleyerek, ses ipuçlarıyla senkronize edilebilen tutarlı video çıktıları üretir.
 

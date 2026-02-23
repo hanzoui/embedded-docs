@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ControlNetApplySD3/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ControlNetApplySD3/fr.md)
 
 Ce nœud applique un guidage ControlNet au conditionnement de Stable Diffusion 3. Il prend des entrées de conditionnement positif et négatif ainsi qu'un modèle ControlNet et une image, puis applique le guidage de contrôle avec des paramètres de force et de timing ajustables pour influencer le processus de génération.
 

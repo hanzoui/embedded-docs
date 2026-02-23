@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ComfySwitchNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ComfySwitchNode/zh-TW.md)
 
 Switch 節點根據布林條件在兩個可能的輸入之間進行選擇。當 `switch` 啟用時，它輸出 `on_true` 輸入；當 `switch` 停用時，則輸出 `on_false` 輸入。這讓您可以在工作流程中建立條件邏輯並選擇不同的資料路徑。
 

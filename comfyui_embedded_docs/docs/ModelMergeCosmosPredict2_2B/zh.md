@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmosPredict2_2B/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmosPredict2_2B/zh.md)
 
 ModelMergeCosmosPredict2_2B 节点采用基于模块化的方法合并两个扩散模型，可对不同模型组件进行细粒度控制。该节点通过调整位置嵌入器、时间嵌入器、Transformer 模块和最终层的插值权重，允许您混合两个模型的特定部分。这为精确控制每个模型中不同架构组件对最终合并结果的贡献提供了可能。
 

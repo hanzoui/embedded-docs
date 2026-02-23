@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HitPawGeneralImageEnhance/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HitPawGeneralImageEnhance/zh-TW.md)
 
 此節點透過將低解析度影像升頻至超解析度來增強影像品質，同時移除偽影和雜訊。它使用外部 API 處理影像，並能自動調整輸入尺寸以符合處理限制。允許的最大輸出尺寸為 400 萬畫素。
 

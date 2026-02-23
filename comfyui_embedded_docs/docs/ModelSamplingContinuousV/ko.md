@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingContinuousV/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingContinuousV/ko.md)
 
 ModelSamplingContinuousV 노드는 연속 V-예측 샘플링 매개변수를 적용하여 모델의 샘플링 동작을 수정합니다. 입력 모델의 복제본을 생성하고 고급 샘플링 제어를 위한 사용자 정의 시그마 범위 설정으로 구성합니다. 이를 통해 사용자는 특정 최소 및 최대 시그마 값으로 샘플링 프로세스를 미세 조정할 수 있습니다.
 

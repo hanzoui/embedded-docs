@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProFirstLastFrameNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProFirstLastFrameNode/zh-TW.md)
 
 此節點使用 Kling AI 模型來生成影片。它需要一張起始圖片和一段文字提示。您可以選擇性地提供一張結束圖片或最多六張參考圖片，以引導影片的內容和風格。該節點處理這些輸入，以創建指定時長和解析度的影片。
 

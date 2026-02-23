@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeLTXV/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeLTXV/ko.md)
 
 ModelMergeLTXV 노드는 LTXV 모델 아키텍처에 특화된 고급 모델 병합 작업을 수행합니다. 트랜스포머 블록, 프로젝션 레이어 및 기타 특수화된 모듈을 포함한 다양한 모델 구성 요소에 대한 보간 가중치를 조정하여 두 개의 서로 다른 모델을 혼합할 수 있습니다.
 

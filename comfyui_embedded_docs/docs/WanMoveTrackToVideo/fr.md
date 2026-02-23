@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanMoveTrackToVideo/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanMoveTrackToVideo/fr.md)
 
 Le nœud WanMoveTrackToVideo prépare les données de conditionnement et d'espace latent pour la génération vidéo, en intégrant éventuellement des informations de suivi de mouvement. Il encode une séquence d'image de départ en une représentation latente et peut intégrer des données positionnelles provenant de pistes d'objets pour guider le mouvement dans la vidéo générée. Le nœud renvoie un conditionnement positif et négatif modifié ainsi qu'un tenseur latent vide prêt pour un modèle vidéo.
 

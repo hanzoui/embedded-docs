@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeAudio/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeAudio/ar.md)
 
 يقوم عقد VAEDecodeAudio بتحويل التمثيلات الكامنة مرة أخرى إلى أشكال موجية صوتية باستخدام مُشفر تلقائي متباين (Variational Autoencoder). يأخذ العقد عينات الصوت المشفرة ويعالجها عبر الـ VAE لإعادة بناء الصوت الأصلي، مع تطبيق التسوية (normalization) لضمان مستويات إخراج متسقة. يتم إرجاع الصوت الناتج بمعدل عينة قياسي يبلغ 44100 هرتز.
 

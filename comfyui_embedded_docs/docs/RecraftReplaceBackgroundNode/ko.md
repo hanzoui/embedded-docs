@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftReplaceBackgroundNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftReplaceBackgroundNode/ko.md)
 
 제공된 프롬프트를 기반으로 이미지의 배경을 교체합니다. 이 노드는 Recraft API를 사용하여 텍스트 설명에 따라 이미지의 새로운 배경을 생성하며, 주요 피사체는 그대로 유지한 채 배경을 완전히 변환할 수 있습니다.
 

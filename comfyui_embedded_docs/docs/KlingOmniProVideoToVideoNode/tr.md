@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProVideoToVideoNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProVideoToVideoNode/tr.md)
 
 Bu düğüm, bir giriş videosu ve isteğe bağlı referans görsellerine dayanarak yeni bir video oluşturmak için Kling AI modelini kullanır. İstenilen içeriği tanımlayan bir metin istemi sağlarsınız ve düğüm referans videosunu buna göre dönüştürür. Ayrıca çıktının stilini ve içeriğini yönlendirmek için en fazla dört ek referans görselini dahil edebilir.
 

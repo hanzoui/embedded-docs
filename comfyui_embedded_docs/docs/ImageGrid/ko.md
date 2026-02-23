@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageGrid/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageGrid/ko.md)
 
 Image Grid 노드는 여러 이미지를 하나의 정리된 격자 또는 콜라주로 결합합니다. 이미지 목록을 받아 지정된 열 수로 배열하며, 각 이미지를 정의된 셀 크기에 맞게 조정하고 선택적으로 패딩을 추가합니다. 결과는 모든 입력 이미지를 격자 레이아웃으로 포함하는 단일 새 이미지입니다.
 

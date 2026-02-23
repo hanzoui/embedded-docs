@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerLCMUpscale/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerLCMUpscale/en.md)
 
 The SamplerLCMUpscale node provides a specialized sampling method that combines Latent Consistency Model (LCM) sampling with image upscaling capabilities. It allows you to upscale images during the sampling process using various interpolation methods, making it useful for generating higher resolution outputs while maintaining image quality.
 

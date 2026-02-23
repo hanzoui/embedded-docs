@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxProDepthNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxProDepthNode/ar.md)
 
 يولد هذا العقد الصور باستخدام صورة تحكم بالعمق كإرشاد. يأخذ صورة تحكم وموجه نصي، ثم ينشئ صورة جديدة تتبع كلًا من معلومات العمق من صورة التحكم والوصف في الموجه. يتصل العقد بواجهة برمجة تطبيقات خارجية لتنفيذ عملية توليد الصور.
 

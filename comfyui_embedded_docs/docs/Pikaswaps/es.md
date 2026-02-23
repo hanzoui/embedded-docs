@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Pikaswaps/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Pikaswaps/es.md)
 
 El nodo Pika Swaps permite reemplazar objetos o regiones en tu video con nuevas imágenes. Puedes definir las áreas a reemplazar usando una máscara o coordenadas, y el nodo intercambiará perfectamente el contenido especificado a lo largo de la secuencia de video.
 

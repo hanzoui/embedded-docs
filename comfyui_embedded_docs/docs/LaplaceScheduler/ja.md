@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LaplaceScheduler/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LaplaceScheduler/ja.md)
 
 LaplaceSchedulerノードは、拡散サンプリングで使用するラプラス分布に従うシグマ値のシーケンスを生成します。最大値から最小値へと徐々に減少するノイズレベルのスケジュールを作成し、ラプラス分布のパラメータを使用して進行を制御します。このスケジューラは、拡散モデルのノイズスケジュールを定義するカスタムサンプリングワークフローで一般的に使用されます。
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceSD3/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceSD3/tr.md)
 
 SkipLayerGuidanceSD3 düğümü, atlanan katmanlarla ek bir sınıflandırıcısız yönlendirme seti uygulayarak ayrıntılı yapıya doğru yönlendirmeyi geliştirir. Bu deneysel uygulama, Perturbed Attention Guidance'dan ilham alır ve oluşturulan çıktıdaki yapısal ayrıntıları iyileştirmek için negatif koşullandırma işlemi sırasında belirli katmanları seçici bir şekilde atlayarak çalışır.
 

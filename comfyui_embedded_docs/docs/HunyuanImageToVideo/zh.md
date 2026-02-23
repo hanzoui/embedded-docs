@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanImageToVideo/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanImageToVideo/zh.md)
 
 HunyuanImageToVideo 节点使用混元视频模型将图像转换为视频潜在表示。该节点接收条件输入和可选的起始图像，生成可供视频生成模型进一步处理的视频潜在表示。该节点支持不同的引导类型，用于控制起始图像对视频生成过程的影响方式。
 

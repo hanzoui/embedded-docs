@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyLatentImage/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyLatentImage/zh-TW.md)
 
 `EmptyLatentImage` 節點旨在生成具有指定尺寸和批次大小的空白潛在空間表示。此節點作為在潛在空間中生成或操作圖像的基礎步驟，為後續的圖像合成或修改過程提供起點。
 

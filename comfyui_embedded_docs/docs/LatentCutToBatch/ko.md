@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentCutToBatch/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentCutToBatch/ko.md)
 
 LatentCutToBatch 노드는 잠재 표현(latent representation)을 가져와 지정된 차원을 따라 여러 개의 조각으로 분할합니다. 이 조각들은 새로운 배치 차원으로 쌓여, 단일 잠재 샘플을 더 작은 잠재 샘플들의 배치로 효과적으로 변환합니다. 이는 잠재 공간의 서로 다른 부분을 독립적으로 처리하는 데 유용합니다.
 

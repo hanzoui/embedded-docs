@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerEulerAncestralCFGPP/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerEulerAncestralCFGPP/es.md)
 
 El nodo SamplerEulerAncestralCFGPP crea un muestreador especializado para generar imágenes utilizando el método Euler Ancestral con guía libre de clasificador. Este muestreador combina técnicas de muestreo ancestral con condicionamiento de guía para producir variaciones diversas de imágenes mientras mantiene la coherencia. Permite ajustar finamente el proceso de muestreo a través de parámetros que controlan el ruido y los ajustes del tamaño de paso.
 

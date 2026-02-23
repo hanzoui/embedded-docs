@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LaplaceScheduler/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LaplaceScheduler/en.md)
 
 The LaplaceScheduler node generates a sequence of sigma values following a Laplace distribution for use in diffusion sampling. It creates a schedule of noise levels that gradually decrease from a maximum to minimum value, using Laplace distribution parameters to control the progression. This scheduler is commonly used in custom sampling workflows to define the noise schedule for diffusion models.
 

@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoRefineNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoRefineNode/es.md)
 
 El TripoRefineNode refina modelos 3D preliminares creados específicamente por modelos Tripo v1.4. Toma un ID de tarea de modelo y lo procesa a través de la API de Tripo para generar una versión mejorada del modelo. Este nodo está diseñado para trabajar exclusivamente con modelos preliminares producidos por modelos Tripo v1.4.
 

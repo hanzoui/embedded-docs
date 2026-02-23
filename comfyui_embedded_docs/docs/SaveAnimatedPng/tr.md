@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveAnimatedPNG/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveAnimatedPNG/tr.md)
 
 SaveAnimatedPNG düğümü, bir dizi kareden animasyonlu PNG görselleri oluşturmak ve kaydetmek için tasarlanmıştır. Tekil görüntü karelerini uyumlu bir animasyona dönüştürme işlemini gerçekleştirir ve kare süresi, döngü ve meta veri ekleme özelliklerinin özelleştirilmesine olanak tanır.
 

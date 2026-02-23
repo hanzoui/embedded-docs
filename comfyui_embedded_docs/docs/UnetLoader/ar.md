@@ -1,9 +1,9 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/UNETLoader/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UNETLoader/ar.md)
 
 ```markdown
 عُقدة UNETLoader مصممة لتحميل نماذج U-Net بالاسم، مما يسهل استخدام بنى U-Net المدربة مسبقًا داخل النظام.
 
-ستكتشف هذه العقدة النماذج الموجودة في مجلد `ComfyUI/models/diffusion_models`.
+ستكتشف هذه العقدة النماذج الموجودة في مجلد `Hanzo Studio/models/diffusion_models`.
 
 ## المدخلات
 

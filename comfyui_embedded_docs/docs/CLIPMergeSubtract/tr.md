@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPMergeSubtract/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPMergeSubtract/tr.md)
 
 CLIPMergeSubtract düğümü, bir CLIP modelinin ağırlıklarını diğerinden çıkararak model birleştirme işlemi gerçekleştirir. İlk modeli klonlayarak ve ardından ikinci modelin anahtar yamalarını, çıkarma gücünü kontrol eden ayarlanabilir bir çarpanla çıkararak yeni bir CLIP modeli oluşturur. Bu, temel modelden belirli özellikleri kaldırarak hassas ayarlanmış model harmanlamaya olanak tanır.
 

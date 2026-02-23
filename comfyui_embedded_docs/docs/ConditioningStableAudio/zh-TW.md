@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ConditioningStableAudio/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ConditioningStableAudio/zh-TW.md)
 
 ConditioningStableAudio 節點為音訊生成的正向與負向條件輸入添加時間資訊。它設定開始時間和總持續時間參數，有助於控制音訊內容的生成時機與長度。此節點透過附加音訊專用的時間元數據來修改現有的條件資料。
 

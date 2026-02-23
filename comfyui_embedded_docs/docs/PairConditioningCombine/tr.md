@@ -1,6 +1,6 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PairConditioningCombine/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PairConditioningCombine/tr.md)
 
-PairConditioningCombine düğümü, iki koşullandırma verisi çiftini (pozitif ve negatif) tek bir çift halinde birleştirir. İki ayrı koşullandırma çiftini girdi olarak alır ve ComfyUI'nin dahili koşullandırma birleştirme mantığını kullanarak bunları birleştirir. Bu düğüm deneyseldir ve öncelikle gelişmiş koşullandırma manipülasyonu iş akışlarında kullanılır.
+PairConditioningCombine düğümü, iki koşullandırma verisi çiftini (pozitif ve negatif) tek bir çift halinde birleştirir. İki ayrı koşullandırma çiftini girdi olarak alır ve Hanzo Studio'nin dahili koşullandırma birleştirme mantığını kullanarak bunları birleştirir. Bu düğüm deneyseldir ve öncelikle gelişmiş koşullandırma manipülasyonu iş akışlarında kullanılır.
 
 ## Girdiler
 

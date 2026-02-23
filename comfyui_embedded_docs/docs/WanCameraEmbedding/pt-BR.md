@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanCameraEmbedding/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanCameraEmbedding/pt-BR.md)
 
 O nó WanCameraEmbedding gera embeddings de trajetória de câmera usando embeddings de Plücker com base em parâmetros de movimento da câmera. Ele cria uma sequência de poses de câmera que simulam diferentes movimentos da câmera e os converte em tensores de embedding adequados para pipelines de geração de vídeo.
 

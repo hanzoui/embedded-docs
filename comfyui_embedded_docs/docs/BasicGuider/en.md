@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BasicGuider/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BasicGuider/en.md)
 
 The BasicGuider node creates a simple guidance mechanism for the sampling process. It takes a model and conditioning data as inputs and produces a guider object that can be used to guide the generation process during sampling. This node provides the fundamental guidance functionality needed for controlled generation.
 

@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanRefinerLatent/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanRefinerLatent/ja.md)
 
 HunyuanRefinerLatentノードは、条件付けと潜在入力を処理して精緻化操作を行うノードです。潜在画像データを組み込みながら、ポジティブ条件付けとネガティブ条件付けの両方にノイズ拡張を適用し、さらなる処理のために特定の次元を持つ新しい潜在出力を生成します。
 

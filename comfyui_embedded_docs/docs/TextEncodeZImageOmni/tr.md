@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeZImageOmni/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeZImageOmni/tr.md)
 
 TextEncodeZImageOmni düğümü, bir metin istemini ve isteğe bağlı referans görsellerini, görsel üretim modelleri için uygun bir koşullandırma formatına kodlayan gelişmiş bir koşullandırma düğümüdür. En fazla üç görseli işleyebilir, bunları isteğe bağlı olarak bir görsel kodlayıcı ve/veya bir VAE ile kodlayarak referans latents (gizli temsiller) üretebilir ve bu görsel referansları, belirli bir şablon yapısı kullanarak metin istemiyle bütünleştirir.
 

@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LumaReferenceNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LumaReferenceNode/es.md)
 
 Este nodo contiene una imagen y un valor de peso para usar con el nodo Luma Generate Image. Crea una cadena de referencia que puede pasarse a otros nodos Luma para influir en la generación de imágenes. El nodo puede iniciar una nueva cadena de referencia o agregarse a una existente.
 

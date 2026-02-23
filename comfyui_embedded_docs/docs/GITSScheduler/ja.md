@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GITSScheduler/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GITSScheduler/ja.md)
 
 GITSSchedulerノードは、GITS（Generative Iterative Time Steps）サンプリング手法用のノイズスケジュールシグマを生成します。このノードは係数パラメータとステップ数に基づいてシグマ値を計算し、使用される総ステップ数を削減できるオプションのデノイズ係数を備えています。ノードは事前定義されたノイズレベルと補間を使用して最終的なシグマスケジュールを作成します。
 

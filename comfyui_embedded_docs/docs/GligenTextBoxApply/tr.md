@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GLIGENTextBoxApply/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GLIGENTextBoxApply/tr.md)
 
 `GLIGENTextBoxApply` düğümü, metin tabanlı koşullandırmayı bir üretken modelin girdisine entegre etmek üzere tasarlanmıştır; özellikle metin kutusu parametrelerini uygulayarak ve bunları bir CLIP modeli kullanarak kodlayarak çalışır. Bu süreç, koşullandırmayı mekansal ve metinsel bilgilerle zenginleştirerek daha hassas ve bağlamdan haberdar üretimi kolaylaştırır.
 

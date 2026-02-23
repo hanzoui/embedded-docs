@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceTextToVideoNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceTextToVideoNode/ar.md)
 
 ```markdown
 عُقدة "بايت دانس" للنص إلى فيديو تُنشئ مقاطع فيديو باستخدام نماذج "بايت دانس" عبر واجهة برمجة التطبيقات (API) استنادًا إلى المطالبات النصية. تأخذ العُقدة وصفًا نصيًا وإعدادات فيديو متنوعة كمدخلات، ثم تُنشئ فيديو يتطابق مع المواصفات المقدمة. تتعامل العُقدة مع اتصال واجهة برمجة التطبيقات وتُعيد الفيديو المُنشئ كمخرج.

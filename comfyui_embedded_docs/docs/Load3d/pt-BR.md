@@ -1,14 +1,14 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Load3D/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Load3D/pt-BR.md)
 
-O nó Load3D é um nó central para carregar e processar arquivos de modelos 3D. Ao carregar o nó, ele recupera automaticamente os recursos 3D disponíveis em `ComfyUI/input/3d/`. Você também pode fazer upload de arquivos 3D suportados para visualização usando a função de upload.
+O nó Load3D é um nó central para carregar e processar arquivos de modelos 3D. Ao carregar o nó, ele recupera automaticamente os recursos 3D disponíveis em `Hanzo Studio/input/3d/`. Você também pode fazer upload de arquivos 3D suportados para visualização usando a função de upload.
 
 **Formatos Suportados**
 Atualmente, este nó suporta múltiplos formatos de arquivo 3D, incluindo `.gltf`, `.glb`, `.obj`, `.fbx` e `.stl`.
 
 **Preferências dos Nós 3D**
-Algumas preferências relacionadas aos nós 3D podem ser configuradas no menu de configurações do ComfyUI. Consulte a seguinte documentação para as configurações correspondentes:
+Algumas preferências relacionadas aos nós 3D podem ser configuradas no menu de configurações do Hanzo Studio. Consulte a seguinte documentação para as configurações correspondentes:
 
-[Menu de Configurações](https://docs.comfy.org/interface/settings/3d)
+[Menu de Configurações](https://docs.hanzo.ai/interface/settings/3d)
 
 Além das saídas regulares do nó, o Load3D possui muitas configurações relacionadas à visualização 3D no menu da tela.
 
@@ -16,7 +16,7 @@ Além das saídas regulares do nó, o Load3D possui muitas configurações relac
 
 | Nome do Parâmetro | Tipo     | Descrição                     | Padrão | Intervalo        |
 |-------------------|----------|-------------------------------|--------|------------------|
-| `model_file`      | Seleção de Arquivo | Caminho do arquivo do modelo 3D, suporta upload, por padrão lê arquivos de modelo de `ComfyUI/input/3d/` | - | Formatos suportados |
+| `model_file`      | Seleção de Arquivo | Caminho do arquivo do modelo 3D, suporta upload, por padrão lê arquivos de modelo de `Hanzo Studio/input/3d/` | - | Formatos suportados |
 | `width`           | INT      | Largura da renderização da tela | 1024   | 1-4096          |
 | `height`          | INT      | Altura da renderização da tela | 1024   | 1-4096          |
 
@@ -124,7 +124,7 @@ Este menu fornece a capacidade de converter e exportar rapidamente formatos de m
 ### 3. Funções do Menu Direito
 
 <video controls width="640" height="360">
-  <source src="https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
   Seu navegador não suporta reprodução de vídeo.
 </video>
 

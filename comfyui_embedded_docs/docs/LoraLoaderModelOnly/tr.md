@@ -1,6 +1,6 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraLoaderModelOnly/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraLoaderModelOnly/tr.md)
 
-Bu düğüm, `ComfyUI/models/loras` klasöründe bulunan modelleri tespit edecek ve ayrıca extra_model_paths.yaml dosyasında yapılandırılan ek yollardan modelleri okuyacaktır. Bazen, ilgili klasörden model dosyalarını okuyabilmesi için **ComfyUI arayüzünü yenilemeniz** gerekebilir.
+Bu düğüm, `Hanzo Studio/models/loras` klasöründe bulunan modelleri tespit edecek ve ayrıca extra_model_paths.yaml dosyasında yapılandırılan ek yollardan modelleri okuyacaktır. Bazen, ilgili klasörden model dosyalarını okuyabilmesi için **Hanzo Studio arayüzünü yenilemeniz** gerekebilir.
 
 Bu düğüm, bir CLIP modeli gerektirmeden bir LoRA modeli yüklemekte uzmanlaşmış olup, LoRA parametrelerine dayalı olarak belirli bir modeli geliştirmeye veya değiştirmeye odaklanır. Modelin davranışı üzerinde hassas ayarlı kontrol sağlayarak, LoRA parametreleri aracılığıyla modelin gücünün dinamik olarak ayarlanmasına olanak tanır.
 

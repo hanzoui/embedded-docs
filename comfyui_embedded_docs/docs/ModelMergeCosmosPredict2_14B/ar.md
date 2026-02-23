@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmosPredict2_14B/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmosPredict2_14B/ar.md)
 
 يسمح لك عقد ModelMergeCosmosPredict2_14B بدمج نموذجين من الذكاء الاصطناعي من خلال ضبط تأثير مكونات النموذج المختلفة. فهو يوفر تحكمًا دقيقًا في مقدار مساهمة كل جزء من النموذج الثاني في النموذج المدمج النهائي، باستخدام أوزان المزج للطبقات والمكونات المحددة للنموذج.
 

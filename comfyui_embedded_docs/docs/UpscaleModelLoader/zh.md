@@ -1,6 +1,6 @@
-该节点会检测位于 `ComfyUI/models/upscale_models` 文件夹下的模型，
+该节点会检测位于 `Hanzo Studio/models/upscale_models` 文件夹下的模型，
 同时也会读取你在 extra_model_paths.yaml 文件中配置的额外路径的模型，
-有时你可能需要 **刷新 ComfyUI 界面** 才能让它读取到对应文件夹下的模型文件
+有时你可能需要 **刷新 Hanzo Studio 界面** 才能让它读取到对应文件夹下的模型文件
 
 放大模型加载节点旨在从指定目录加载放大模型。它便于检索和准备放大模型以用于图像放大任务，确保模型被正确加载和配置以进行评估。
 

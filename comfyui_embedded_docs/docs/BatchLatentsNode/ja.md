@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BatchLatentsNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BatchLatentsNode/ja.md)
 
 Batch Latents ノードは、複数の潜在表現入力を単一のバッチに結合します。可変数の潜在表現サンプルを受け取り、それらをバッチ次元に沿って統合し、後続のノードでまとめて処理できるようにします。これは、単一の操作で複数の画像を生成または処理する場合に便利です。
 

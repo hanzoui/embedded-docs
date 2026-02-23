@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TorchCompileModel/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TorchCompileModel/zh-TW.md)
 
 TorchCompileModel 節點會對模型應用 PyTorch 編譯功能以優化其效能。它會建立輸入模型的副本，並使用指定的後端將其封裝在 PyTorch 的編譯功能中。這可以提升模型在推理過程中的執行速度。
 

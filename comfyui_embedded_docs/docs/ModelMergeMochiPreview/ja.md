@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeMochiPreview/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeMochiPreview/ja.md)
 
 このノードは、ブロックベースのアプローチを使用して2つのAIモデルを統合し、異なるモデルコンポーネントに対してきめ細かい制御を可能にします。位置周波数、埋め込み層、個々のトランスフォーマーブロックなど、特定のセクションに対する補間ウェイトを調整することで、モデルをブレンドすることができます。この統合プロセスでは、指定されたウェイト値に従って、両方の入力モデルのアーキテクチャとパラメータを組み合わせます。
 

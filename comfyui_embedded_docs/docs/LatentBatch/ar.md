@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentBatch/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentBatch/ar.md)
 
 تم تصميم عقدة LatentBatch لدمج مجموعتين من العينات الكامنة في دفعة واحدة، مع إمكانية تغيير حجم إحدى المجموعتين لمطابقة أبعاد الأخرى قبل عملية التسلسل. تُسهّل هذه العملية دمج التمثيلات الكامنة المختلفة لمهام المعالجة أو التوليد اللاحقة.
 

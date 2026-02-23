@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResizeImageMaskNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResizeImageMaskNode/zh.md)
 
 Resize Image/Mask 节点提供多种方法来改变输入图像或遮罩的尺寸。它可以通过缩放系数、设置特定尺寸、匹配另一输入的尺寸或基于像素数量进行调整，并使用多种插值方法来保证质量。
 

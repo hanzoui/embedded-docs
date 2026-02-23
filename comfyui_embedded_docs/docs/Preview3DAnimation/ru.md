@@ -1,22 +1,22 @@
-Узел Preview3DAnimation предназначен в первую очередь для предпросмотра вывода 3D-моделей. Этот узел принимает два входа: один — это `camera_info` от узла Load3D, второй — путь к файлу 3D-модели. Путь к файлу модели должен находиться в папке `ComfyUI/output`.
+Узел Preview3DAnimation предназначен в первую очередь для предпросмотра вывода 3D-моделей. Этот узел принимает два входа: один — это `camera_info` от узла Load3D, второй — путь к файлу 3D-модели. Путь к файлу модели должен находиться в папке `Hanzo Studio/output`.
 
 **Поддерживаемые форматы**
 В настоящее время этот узел поддерживает несколько форматов 3D-файлов, включая `.gltf`, `.glb`, `.obj`, `.fbx` и `.stl`.
 
 **Настройки 3D-узла**
-Некоторые параметры, связанные с 3D-узлами, можно настроить в меню настроек ComfyUI. Подробнее смотрите в следующей документации:
-[Меню настроек](https://docs.comfy.org/interface/settings/3d)
+Некоторые параметры, связанные с 3D-узлами, можно настроить в меню настроек Hanzo Studio. Подробнее смотрите в следующей документации:
+[Меню настроек](https://docs.hanzo.ai/interface/settings/3d)
 
 ## Входы
 
 | Имя параметра | Тип           | Описание                                                        |
 |--------------|--------------|------------------------------------------------------------------|
 | camera_info  | LOAD3D_CAMERA | Информация о камере                                              |
-| model_file   | STRING | Путь к файлу модели в `ComfyUI/output/`                          |
+| model_file   | STRING | Путь к файлу модели в `Hanzo Studio/output/`                          |
 
 ## Описание области Canvas
 
-В настоящее время 3D-узлы во фронтенде ComfyUI используют общий компонент Canvas, поэтому их базовые операции в основном совпадают, за исключением некоторых функциональных различий.
+В настоящее время 3D-узлы во фронтенде Hanzo Studio используют общий компонент Canvas, поэтому их базовые операции в основном совпадают, за исключением некоторых функциональных различий.
 
 > Следующее описание и интерфейс основаны в основном на узле Load3D. Для конкретных функций ориентируйтесь на реальный интерфейс узла.
 
@@ -36,7 +36,7 @@
 ### 1. Операции с видом
 
 <video controls width="640" height="360">
-  <source src="https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
   Ваш браузер не поддерживает воспроизведение видео.
 </video>
 
@@ -49,7 +49,7 @@
 
 ### 2. Функции левого меню
 
-![Menu](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu.webp)
+![Menu](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu.webp)
 
 В области предпросмотра некоторые меню, связанные с управлением видом, скрыты в меню. Нажмите кнопку меню, чтобы развернуть различные меню.
 
@@ -61,7 +61,7 @@
 
 #### Сцена (Scene)
 
-![scene menu](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_scene.webp)
+![scene menu](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_scene.webp)
 
 Меню Сцена предоставляет базовые функции настройки сцены:
 
@@ -72,7 +72,7 @@
 
 #### Модель (Model)
 
-![Menu_Scene](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_model.webp)
+![Menu_Scene](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_model.webp)
 
 Меню Модель предоставляет функции, связанные с моделью:
 
@@ -81,7 +81,7 @@
 
 #### Камера (Camera)
 
-![menu_modelmenu_camera](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_camera.webp)
+![menu_modelmenu_camera](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_camera.webp)
 
 Это меню позволяет переключаться между ортографическим и перспективным видом, а также настраивать угол обзора:
 
@@ -90,12 +90,12 @@
 
 #### Свет (Light)
 
-![menu_modelmenu_camera](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_light.webp)
+![menu_modelmenu_camera](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_light.webp)
 
 Через это меню можно быстро отрегулировать интенсивность глобального освещения сцены
 
 #### Экспорт (Export)
 
-![menu_export](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_export.webp)
+![menu_export](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_export.webp)
 
 Это меню позволяет быстро конвертировать и экспортировать форматы моделей

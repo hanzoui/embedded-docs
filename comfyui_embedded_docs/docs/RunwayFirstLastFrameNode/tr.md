@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RunwayFirstLastFrameNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RunwayFirstLastFrameNode/tr.md)
 
 Runway First-Last-Frame to Video düğümü, birinci ve son anahtar kareleri bir metin istemiyle birlikte yükleyerek videolar oluşturur. Runway'in Gen-3 modelini kullanarak sağlanan başlangıç ve bitiş kareleri arasında sorunsuz geçişler yaratır. Bu, özellikle bitiş karesinin başlangıç karesinden önemli ölçüde farklı olduğu karmaşık geçişler için kullanışlıdır.
 

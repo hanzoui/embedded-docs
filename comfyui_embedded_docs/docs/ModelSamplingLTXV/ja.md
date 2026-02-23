@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingLTXV/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingLTXV/ja.md)
 
 ModelSamplingLTXVノードは、トークン数に基づいて高度なサンプリングパラメータをモデルに適用します。入力潜在変数のトークン数に依存して、基本シフト値と最大シフト値の間の線形補間を使用してシフト値を計算します。その後、ノードは特殊なモデルサンプリング設定を作成し、入力モデルに適用します。
 

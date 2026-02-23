@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LossGraphNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LossGraphNode/zh-TW.md)
 
 LossGraphNode 會建立訓練損失值隨時間變化的視覺化圖表，並將其儲存為影像檔案。它從訓練過程中獲取損失資料，並生成一個折線圖，顯示損失在訓練步驟中的變化情況。生成的圖表包含座標軸標籤、最小/最大損失值，並會自動儲存到臨時輸出目錄中，並附上時間戳記。
 

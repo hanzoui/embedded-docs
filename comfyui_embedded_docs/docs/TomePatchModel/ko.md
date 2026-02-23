@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TomePatchModel/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TomePatchModel/ko.md)
 
 TomePatchModel 노드는 추론 과정에서 계산 요구량을 줄이기 위해 토큰 병합(ToMe) 기법을 확산 모델에 적용합니다. 이 방법은 어텐션 메커니즘에서 유사한 토큰들을 선택적으로 병합하여 작동하며, 이미지 품질을 유지하면서 더 적은 수의 토큰을 처리할 수 있도록 합니다. 이 기법은 품질 저하를 최소화하면서 생성 속도를 높이는 데 도움이 됩니다.
 

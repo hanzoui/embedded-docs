@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSDXL/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSDXL/zh.md)
 
 ModelMergeSDXL 节点允许您通过调整两个模型在架构不同部分的影响力，将两个 SDXL 模型融合在一起。您可以控制每个模型对时间嵌入、标签嵌入以及模型结构内各个块的贡献程度，从而创建一个融合了两个输入模型特性的混合模型。
 

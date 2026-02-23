@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/JoinImageWithAlpha/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/JoinImageWithAlpha/ar.md)
 
 تم تصميم هذه العقدة لإجراء عمليات المزج المركّب، تحديدًا لدمج صورة مع قناع ألفا المقابل لها لإنتاج صورة مخرجات واحدة. تقوم بدمج المحتوى المرئي مع معلومات الشفافية بشكل فعال، مما يتيح إنشاء صور تكون فيها مناطق معينة شفافة أو شبه شفافة.
 

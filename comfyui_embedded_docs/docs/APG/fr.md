@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/APG/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/APG/fr.md)
 
 Le nœud APG (Adaptive Projected Guidance - Guidage Projeté Adaptatif) modifie le processus d'échantillonnage en ajustant la manière dont le guidage est appliqué pendant la diffusion. Il sépare le vecteur de guidage en composantes parallèles et orthogonales par rapport à la sortie conditionnelle, permettant une génération d'image plus contrôlée. Le nœud fournit des paramètres pour mettre à l'échelle le guidage, normaliser son amplitude et appliquer une quantité de mouvement pour des transitions plus fluides entre les étapes de diffusion.
 

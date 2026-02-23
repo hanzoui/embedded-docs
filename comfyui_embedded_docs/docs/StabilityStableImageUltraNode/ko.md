@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StabilityStableImageUltraNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StabilityStableImageUltraNode/ko.md)
 
 프롬프트와 해상도를 기반으로 동기적으로 이미지를 생성합니다. 이 노드는 Stability AI의 Stable Image Ultra 모델을 사용하여 이미지를 생성하며, 텍스트 프롬프트를 처리하고 지정된 종횡비와 스타일로 해당 이미지를 생성합니다.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanFirstLastFrameToVideo/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanFirstLastFrameToVideo/ar.md)
 
 تُنشئ عقدة WanFirstLastFrameToVideo تنسيقًا شرطيًا للفيديو من خلال دمج الإطارات الأولية والنهائية مع نصوص التوجيه. تقوم بتوليد تمثيل كامن لتوليد الفيديو من خلال ترميز الإطار الأولي والإطار النهائي، وتطبيق أقنعة لتوجيه عملية التوليد، ودمج ميزات رؤية CLIP عند توفرها. تقوم هذه العقدة بإعداد التنسيق الشرطي الإيجابي والسلبي لنماذج الفيديو لتوليد تسلسلات متماسكة بين نقاط البداية والنهاية المحددة.
 

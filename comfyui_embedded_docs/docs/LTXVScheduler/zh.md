@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVScheduler/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVScheduler/zh.md)
 
 LTXVScheduler 节点为自定义采样过程生成 sigma 值。它根据输入潜在表示中的令牌数量计算噪声调度参数，并应用 sigmoid 变换来创建采样调度。该节点可以选择性地拉伸生成的 sigma 值以匹配指定的终止值。
 

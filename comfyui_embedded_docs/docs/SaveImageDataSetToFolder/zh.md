@@ -1,6 +1,6 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveImageDataSetToFolder/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImageDataSetToFolder/zh.md)
 
-此节点将图像列表保存到 ComfyUI 输出目录内的指定文件夹中。它接收多张图像作为输入，并以可自定义的文件名前缀将它们写入磁盘。
+此节点将图像列表保存到 Hanzo Studio 输出目录内的指定文件夹中。它接收多张图像作为输入，并以可自定义的文件名前缀将它们写入磁盘。
 
 ## 输入参数
 

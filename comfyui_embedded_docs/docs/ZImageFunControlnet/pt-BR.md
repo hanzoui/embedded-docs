@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ZImageFunControlnet/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ZImageFunControlnet/pt-BR.md)
 
 O nó ZImageFunControlnet aplica uma rede de controle especializada para influenciar o processo de geração ou edição de imagem. Ele utiliza um modelo base, um patch de modelo e um VAE, permitindo que você ajuste a intensidade do efeito de controle. Este nó pode trabalhar com uma imagem base, uma imagem para inpainting e uma máscara para edições mais direcionadas.
 

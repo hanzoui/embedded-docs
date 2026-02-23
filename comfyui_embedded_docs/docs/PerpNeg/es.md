@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PerpNeg/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PerpNeg/es.md)
 
 El nodo PerpNeg aplica guía negativa perpendicular al proceso de muestreo de un modelo. Este nodo modifica la función de configuración del modelo para ajustar las predicciones de ruido utilizando condicionamiento negativo y factores de escala. Ha quedado obsoleto y ha sido reemplazado por el nodo PerpNegGuider para una funcionalidad mejorada.
 

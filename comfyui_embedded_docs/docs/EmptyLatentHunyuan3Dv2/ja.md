@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyLatentHunyuan3Dv2/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyLatentHunyuan3Dv2/ja.md)
 
 EmptyLatentHunyuan3Dv2ノードは、Hunyuan3Dv2 3D生成モデル用に特別にフォーマットされた空白の潜在テンソルを作成します。このノードは、Hunyuan3Dv2アーキテクチャで必要とされる正しい次元と構造を持つ空の潜在空間を生成し、3D生成ワークフローをゼロから開始できるようにします。ノードはゼロで埋められた潜在テンソルを生成し、これは後続の3D生成プロセスの基礎として機能します。
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPTextEncodeHiDream/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPTextEncodeHiDream/pt-BR.md)
 
 O nó CLIPTextEncodeHiDream processa múltiplas entradas de texto usando diferentes modelos de linguagem e as combina em uma única saída de condicionamento. Ele tokeniza o texto de quatro fontes diferentes (CLIP-L, CLIP-G, T5-XXL e LLaMA) e os codifica usando uma abordagem de codificação programada. Isso permite um condicionamento de texto mais sofisticado, aproveitando vários modelos de linguagem simultaneamente.
 

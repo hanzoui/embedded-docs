@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageMask/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageMask/tr.md)
 
 LoadImageMask düğümü, belirli bir yoldan görüntüleri ve bunlarla ilişkili maskeleri yüklemek, bunları daha sonraki görüntü işleme veya analiz görevleriyle uyumluluğunu sağlamak için işlemek üzere tasarlanmıştır. Maskeler için alfa kanalı varlığı gibi çeşitli görüntü formatları ve koşullarını ele almaya odaklanır ve görüntüleri standart bir formata dönüştürerek aşağı yönlü işleme hazırlar.
 

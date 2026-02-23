@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GeminiNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GeminiNode/tr.md)
 
 Bu düğüm, kullanıcıların Google'ın Gemini AI modelleriyle etkileşime girerek metin yanıtları oluşturmasına olanak tanır. Modelin daha alakalı ve anlamlı yanıtlar üretmesi için bağlam olarak metin, resim, ses, video ve dosya gibi birden fazla girdi türü sağlayabilirsiniz. Düğüm, tüm API iletişimini ve yanıt ayrıştırmasını otomatik olarak halleder.
 

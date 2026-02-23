@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerCustomAdvanced/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerCustomAdvanced/ar.md)
 
 يقوم عقد SamplerCustomAdvanced بأخذ عينات متقدمة من الفضاء الكامن باستخدام ضوضاء مخصصة وتوجيه وتكوينات أخذ عينات. يقوم بمعالجة صورة كامنة من خلال عملية أخذ عينات موجهة مع توليد ضوضاء قابلة للتخصيص وجداول سيجما، منتجًا كلًا من المخرجات النهائية للعينة وإصدارًا منزوع الضوضاء عند التوفر.
 

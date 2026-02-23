@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVImgToVideo/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVImgToVideo/zh-TW.md)
 
 LTXVImgToVideo 節點將輸入圖像轉換為影片潛在表示，供影片生成模型使用。它接收單張圖像並使用 VAE 編碼器將其擴展為影格序列，然後應用帶有強度控制的條件調節，以決定在影片生成過程中保留原始圖像內容與修改內容的比例。
 

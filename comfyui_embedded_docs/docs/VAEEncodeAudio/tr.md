@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEEncodeAudio/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEEncodeAudio/tr.md)
 
 VAEEncodeAudio düğümü, ses verilerini Varyasyonel Otokodlayıcı (VAE) kullanarak gizli temsile dönüştürür. Ses girişini alır ve VAE üzerinden işleyerek, daha sonraki ses üretimi veya manipülasyon görevlerinde kullanılabilecek sıkıştırılmış gizli örnekler üretir. Düğüm, kodlamadan önce gerekirse sesi otomatik olarak 44100 Hz'e yeniden örnekler.
 

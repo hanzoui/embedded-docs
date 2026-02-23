@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DCTestNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DCTestNode/zh-TW.md)
 
 DCTestNode 是一個邏輯節點，它會根據使用者從動態下拉式選單中選擇的項目，返回不同類型的資料。它扮演著條件路由器的角色，所選的選項決定了哪個輸入欄位處於活動狀態，以及節點將輸出何種類型的值。
 

@@ -1,4 +1,4 @@
-Ce nœud détecte les modèles situés dans le dossier `ComfyUI/models/controlnet` et lit également les modèles des chemins supplémentaires que vous avez configurés dans le fichier extra_model_paths.yaml. Parfois, vous devrez **rafraîchir l'interface ComfyUI** pour qu'elle puisse lire les fichiers de modèle dans le dossier correspondant.
+Ce nœud détecte les modèles situés dans le dossier `Hanzo Studio/models/controlnet` et lit également les modèles des chemins supplémentaires que vous avez configurés dans le fichier extra_model_paths.yaml. Parfois, vous devrez **rafraîchir l'interface Hanzo Studio** pour qu'elle puisse lire les fichiers de modèle dans le dossier correspondant.
 
 Le nœud DiffControlNetLoader est conçu pour charger des réseaux de contrôle différentiel, qui sont des modèles spécialisés pouvant modifier le comportement d'un autre modèle en fonction des spécifications du réseau de contrôle. Ce nœud permet l'ajustement dynamique des comportements du modèle en appliquant des réseaux de contrôle différentiel, facilitant la création de sorties de modèle personnalisées.
 

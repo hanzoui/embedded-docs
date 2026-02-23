@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentSubtract/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentSubtract/zh-TW.md)
 
 LatentSubtract 節點專為從一個潛在表示中減去另一個潛在表示而設計。此操作可用於操控或修改生成模型輸出的特性，透過有效地從一個潛在空間中移除另一個潛在空間所表徵的特徵或屬性。
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EasyCache/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EasyCache/ar.md)
 
 ```markdown
 يُنفذ عقد EasyCache نظام تخزين مؤقت أصلي للنماذج لتحسين الأداء من خلال إعادة استخدام الخطوات المحسوبة مسبقًا أثناء عملية أخذ العينات. يضيف العقد وظيفة EasyCache إلى نموذج مع عتبات قابلة للتكوين لتحديد متى تبدأ وتتوقف عملية استخدام التخزين المؤقت خلال الجدول الزمني لأخذ العينات.

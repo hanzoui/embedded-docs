@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageDeduplication/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageDeduplication/zh-TW.md)
 
 此節點從批次中移除重複或非常相似的圖像。其運作方式是為每張圖像建立感知雜湊值——一種基於視覺內容的簡單數位指紋——然後進行比較。雜湊值相似度高於設定閾值的圖像會被視為重複項目並被過濾掉。
 

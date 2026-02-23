@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GLIGENTextBoxApply/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GLIGENTextBoxApply/zh-TW.md)
 
 `GLIGENTextBoxApply` 節點旨在將基於文本的條件化整合到生成模型的輸入中，具體方式是應用文本框參數並使用 CLIP 模型對其進行編碼。這個過程透過空間和文本信息豐富了條件化數據，從而實現更精確和上下文感知的生成。
 

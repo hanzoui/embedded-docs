@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SkipLayerGuidanceDiTSimple/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SkipLayerGuidanceDiTSimple/ar.md)
 
 نسخة مبسطة من عقدة SkipLayerGuidanceDiT تقوم بتعديل المسار غير المشروط فقط أثناء عملية إزالة الضوضاء. تطبق هذه العقدة توجيه طبقات التخطي على طبقات المحولات النموذجية المحددة في نماذج DiT (محولات الانتشار) من خلال تخطي طبقات معينة بشكل انتقائي أثناء المسار غير المشروط بناءً على معايير التوقيت والطبقة المحددة.
 

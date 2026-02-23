@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageTextSetFromFolderNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageTextSetFromFolderNode/tr.md)
 
 Belirtilen bir dizinden eğitim amacıyla bir grup görüntüyü ve bunlara karşılık gelen metin açıklamalarını yükler. Bu düğüm, görüntü dosyalarını ve bunlarla ilişkili metin açıklama dosyalarını otomatik olarak arar, görüntüleri belirtilen yeniden boyutlandırma ayarlarına göre işler ve açıklamaları sağlanan CLIP modelini kullanarak kodlar.
 

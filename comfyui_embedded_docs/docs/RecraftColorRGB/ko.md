@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RecraftColorRGB/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RecraftColorRGB/ko.md)
 
 특정 RGB 값을 선택하여 Recraft 색상을 생성합니다. 이 노드를 사용하면 개별적인 빨강, 녹색, 파랑 값을 지정하여 색상을 정의할 수 있으며, 이 값들은 다른 Recraft 작업에서 사용할 수 있는 Recraft 색상 형식으로 변환됩니다.
 

@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GeminiImage/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GeminiImage/tr.md)
 
 GeminiImage düğümü, Google'ın Gemini AI modellerinden metin ve görüntü yanıtları oluşturur. Tutarlı metin ve görüntü çıktıları oluşturmak için metin istemleri, görüntüler ve dosyalar dahil olmak üzere çoklu ortam girdileri sağlamanıza olanak tanır. Düğüm, en son Gemini modelleriyle tüm API iletişimini ve yanıt ayrıştırmasını halleder.
 

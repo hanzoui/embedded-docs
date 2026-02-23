@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Vidu2ReferenceVideoNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Vidu2ReferenceVideoNode/ja.md)
 
 Vidu2 Reference-to-Video Generationノードは、テキストプロンプトと複数の参照画像から動画を生成します。最大7つの被写体を定義でき、各被写体には独自の参照画像セットを設定し、プロンプト内で`@subject{subject_id}`を使用して参照することができます。このノードは、動画の長さ、アスペクト比、動きを設定可能な動画を生成します。
 

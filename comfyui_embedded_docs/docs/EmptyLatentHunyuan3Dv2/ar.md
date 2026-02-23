@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyLatentHunyuan3Dv2/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyLatentHunyuan3Dv2/ar.md)
 
 يقوم عُقدة EmptyLatentHunyuan3Dv2 بإنشاء موترات كامنة فارغة مُهيأة خصيصًا لنماذج الجيل ثلاثي الأبعاد Hunyuan3Dv2. تقوم هذه العُقدة بإنشاء مساحات كامنة فارغة ذات الأبعاد والبنية الصحيحة المطلوبة من قبل بنية Hunyuan3Dv2، مما يسمح لك ببدء سير عمل الجيل ثلاثي الأبعاد من الصفر. تنتج العُقدة موترات كامنة مملوءة بقيم صفرية لتكون بمثابة الأساس لعمليات الجيل ثلاثي الأبعاد اللاحقة.
 

@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraLoaderBypassModelOnly/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraLoaderBypassModelOnly/ar.md)
 
 يُطبق هذا العقدة تقنية LoRA (التكيف ذو الرتبة المنخفضة) على نموذج لتعديل سلوكه، لكنه يؤثر فقط على مكون النموذج نفسه. يقوم بتحميل ملف LoRA محدد ويضبط أوزان النموذج بقوة معينة، تاركًا المكونات الأخرى مثل مشفر النصوص CLIP دون تغيير.
 

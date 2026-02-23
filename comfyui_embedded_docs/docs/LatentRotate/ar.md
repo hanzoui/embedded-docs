@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentRotate/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentRotate/ar.md)
 
 تم تصميم العقدة LatentRotate لتدوير التمثيلات الكامنة للصور بزوايا محددة. حيث تُجرد تعقيد التعامل مع الفضاء الكامن لتحقيق تأثيرات التدوير، مما يمكن المستخدمين من تحويل الصور بسهولة في الفضاء الكامن للنموذج التوليدي.
 

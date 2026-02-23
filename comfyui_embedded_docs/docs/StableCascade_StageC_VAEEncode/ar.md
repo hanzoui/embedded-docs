@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableCascade_StageC_VAEEncode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableCascade_StageC_VAEEncode/ar.md)
 
 يعالج عقد StableCascade_StageC_VAEEncode الصور من خلال مُشفر VAE لتوليد تمثيلات كامنة لنماذج Stable Cascade. يأخذ العقد صورة إدخال ويضغطها باستخدام نموذج VAE المحدد، ثم يُخرج تمثيلين كامنين: أحدهما للمرحلة C وتمثيل نائب للمرحلة B. يتحكم معامل الضغط في مدى تقليص حجم الصورة قبل التشفير.
 

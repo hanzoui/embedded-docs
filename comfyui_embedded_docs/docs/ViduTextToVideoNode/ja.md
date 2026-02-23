@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduTextToVideoNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduTextToVideoNode/ja.md)
 
 Vidu Text To Video Generationノードは、テキストの記述から動画を作成します。様々な動画生成モデルを使用して、テキストプロンプトを動画コンテンツに変換し、再生時間、アスペクト比、視覚的なスタイルについてカスタマイズ可能な設定を提供します。
 

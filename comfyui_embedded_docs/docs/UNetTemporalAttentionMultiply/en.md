@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/UNetTemporalAttentionMultiply/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UNetTemporalAttentionMultiply/en.md)
 
 The UNetTemporalAttentionMultiply node applies multiplication factors to different types of attention mechanisms in a temporal UNet model. It modifies the model by adjusting the weights of self-attention and cross-attention layers, distinguishing between structural and temporal components. This allows fine-tuning of how much influence each attention type has on the model's output.
 

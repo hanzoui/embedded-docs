@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RegexReplace/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RegexReplace/ko.md)
 
 RegexReplace 노드는 정규식 패턴을 사용하여 문자열에서 텍스트를 찾고 바꿉니다. 텍스트 패턴을 검색하여 새로운 텍스트로 대체할 수 있으며, 대소문자 구분, 다중 행 매칭, 대체 횟수 제한 등 패턴 매칭 작동 방식을 제어하는 옵션을 제공합니다.
 

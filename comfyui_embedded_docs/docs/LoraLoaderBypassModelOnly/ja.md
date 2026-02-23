@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraLoaderBypassModelOnly/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraLoaderBypassModelOnly/ja.md)
 
 このノードは、モデルの動作を変更するためにLoRA（Low-Rank Adaptation）を適用しますが、モデルコンポーネント自体にのみ影響を与えます。指定されたLoRAファイルを読み込み、与えられた強度でモデルの重みを調整し、CLIPテキストエンコーダーなどの他のコンポーネントは変更しません。
 

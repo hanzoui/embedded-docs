@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMPP_2S_Ancestral/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMPP_2S_Ancestral/en.md)
 
 The SamplerDPMPP_2S_Ancestral node creates a sampler that uses the DPM++ 2S Ancestral sampling method for generating images. This sampler combines deterministic and stochastic elements to produce varied results while maintaining some consistency. It allows you to control the randomness and noise levels during the sampling process.
 

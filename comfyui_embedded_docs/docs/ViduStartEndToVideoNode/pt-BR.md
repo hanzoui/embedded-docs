@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ViduStartEndToVideoNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ViduStartEndToVideoNode/pt-BR.md)
 
 O nó Vidu Start End To Video Generation cria um vídeo gerando quadros entre um quadro inicial e um quadro final. Ele usa um prompt de texto para orientar o processo de geração de vídeo e suporta vários modelos de vídeo com diferentes configurações de resolução e movimento. O nó valida que os quadros inicial e final têm proporções de aspecto compatíveis antes do processamento.
 

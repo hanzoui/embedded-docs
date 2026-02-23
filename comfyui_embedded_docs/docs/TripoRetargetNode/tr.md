@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoRetargetNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoRetargetNode/tr.md)
 
 TripoRetargetNode, önceden tanımlanmış animasyonları 3B karakter modellerine hareket verilerini yeniden hedefleyerek uygular. Daha önce işlenmiş bir 3B modeli alır ve bir dizi önceden ayarlanmış animasyondan birini uygulayarak, çıktı olarak animasyonlu bir 3B model dosyası oluşturur. Düğüm, animasyon yeniden hedefleme işlemini gerçekleştirmek için Tripo API'si ile iletişim kurar.
 

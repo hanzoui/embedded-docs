@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SVD_img2vid_Conditioning/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SVD_img2vid_Conditioning/zh.md)
 
 SVD_img2vid_Conditioning 节点用于为 Stable Video Diffusion 视频生成准备条件数据。该节点接收初始图像，通过 CLIP 视觉编码器和 VAE 编码器进行处理，创建正负条件对以及用于视频生成的空潜空间。此节点设置了控制生成视频中运动量、帧率和增强级别的必要参数。
 

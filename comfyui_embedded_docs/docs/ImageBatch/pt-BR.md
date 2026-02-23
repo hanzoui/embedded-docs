@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageBatch/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageBatch/pt-BR.md)
 
 O nó `ImageBatch` é projetado para combinar duas imagens em um único lote. Se as dimensões das imagens não coincidirem, ele redimensiona automaticamente a segunda imagem para corresponder às dimensões da primeira antes de combiná-las.
 

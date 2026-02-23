@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVAudioVAEEncode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVAudioVAEEncode/zh.md)
 
 LTXV Audio VAE Encode 节点接收音频输入，并使用指定的 Audio VAE 模型将其压缩为更小的潜在表示。此过程对于在潜在空间工作流中生成或操作音频至关重要，因为它将原始音频数据转换为流程中其他节点能够理解和处理的格式。
 

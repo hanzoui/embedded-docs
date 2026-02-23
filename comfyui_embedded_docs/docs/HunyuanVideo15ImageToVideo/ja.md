@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanVideo15ImageToVideo/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanVideo15ImageToVideo/ja.md)
 
 HunyuanVideo15ImageToVideoノードは、HunyuanVideo 1.5モデルに基づいた動画生成のために、コンディショニングと潜在空間のデータを準備します。動画シーケンスの初期潜在表現を作成し、オプションで開始画像やCLIP vision出力を統合して生成プロセスをガイドすることができます。
 

@@ -1,6 +1,6 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CLIPSetLastLayer/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CLIPSetLastLayer/zh-TW.md)
 
-`CLIP Set Last Layer` 是 ComfyUI 中用於控制 CLIP 模型處理深度的核心節點。它允許使用者精確控制 CLIP 文字編碼器停止處理的位置，這會影響文字理解的深度和生成圖像的風格。
+`CLIP Set Last Layer` 是 Hanzo Studio 中用於控制 CLIP 模型處理深度的核心節點。它允許使用者精確控制 CLIP 文字編碼器停止處理的位置，這會影響文字理解的深度和生成圖像的風格。
 
 將 CLIP 模型想像成一個 24 層的智能大腦：
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SetModelHooksOnCond/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SetModelHooksOnCond/zh-TW.md)
 
 此節點將自定義掛鉤附加到條件資料上，讓您能夠在模型執行期間攔截並修改條件處理過程。它接收一組掛鉤並將其應用於提供的條件資料，從而實現對文字生成圖像工作流程的高級自定義。附加了掛鉤的修改後條件資料將返回供後續處理步驟使用。
 

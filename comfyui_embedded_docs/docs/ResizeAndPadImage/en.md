@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResizeAndPadImage/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResizeAndPadImage/en.md)
 
 The ResizeAndPadImage node resizes an image to fit within specified dimensions while maintaining its original aspect ratio. It scales the image down proportionally to fit within the target width and height, then adds padding around the edges to fill any remaining space. The padding color and interpolation method can be customized to control the appearance of the padded areas and the quality of the resizing.
 

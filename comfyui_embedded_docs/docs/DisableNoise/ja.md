@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DisableNoise/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DisableNoise/ja.md)
 
 DisableNoiseノードは、サンプリングプロセスにおけるノイズ生成を無効化するために使用できる空のノイズ設定を提供します。このノイズオブジェクトにはノイズデータが含まれておらず、この出力に接続された他のノードがノイズ関連の操作をスキップできるようになります。
 

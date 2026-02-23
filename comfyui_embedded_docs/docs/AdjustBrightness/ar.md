@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AdjustBrightness/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AdjustBrightness/ar.md)
 
 تعدِّل عقدة Adjust Brightness سطوع الصورة المدخلة. تعمل عن طريق ضرب قيمة كل بكسل بعامل محدد، ثم تضمن بقاء القيم الناتجة ضمن نطاق صالح. عامل بقيمة 1.0 يترك الصورة دون تغيير، والقيم الأقل من 1.0 تجعلها أغمق، والقيم الأعلى من 1.0 تجعلها أكثر إشراقًا.
 

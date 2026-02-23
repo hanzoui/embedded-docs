@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerLCMUpscale/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerLCMUpscale/fr.md)
 
 Le nœud SamplerLCMUpscale fournit une méthode d'échantillonnage spécialisée qui combine l'échantillonnage par modèle de cohérence latente (LCM) avec des capacités de suréchantillonnage d'image. Il vous permet de suréchantillonner les images pendant le processus d'échantillonnage en utilisant diverses méthodes d'interpolation, ce qui le rend utile pour générer des sorties de plus haute résolution tout en maintenant la qualité de l'image.
 

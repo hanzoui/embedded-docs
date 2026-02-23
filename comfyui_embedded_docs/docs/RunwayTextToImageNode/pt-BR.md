@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RunwayTextToImageNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RunwayTextToImageNode/pt-BR.md)
 
 O nó Runway Text to Image gera imagens a partir de prompts de texto usando o modelo Gen 4 da Runway. Você pode fornecer uma descrição textual e, opcionalmente, incluir uma imagem de referência para orientar o processo de geração de imagem. O nó gerencia a comunicação com a API e retorna a imagem gerada.
 

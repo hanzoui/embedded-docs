@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerDPMPP_SDE/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerDPMPP_SDE/zh-TW.md)
 
 SamplerDPMPP_SDE 節點建立一個 DPM++ SDE（隨機微分方程）取樣器，用於取樣流程中。此取樣器提供具有可配置雜訊參數和裝置選擇的隨機取樣方法。它會回傳一個可在取樣管線中使用的取樣器物件。
 

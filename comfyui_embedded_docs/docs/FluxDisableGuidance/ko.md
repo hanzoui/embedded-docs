@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FluxDisableGuidance/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FluxDisableGuidance/ko.md)
 
 이 노드는 Flux 및 유사 모델에 대한 가이던스 임베드 기능을 완전히 비활성화합니다. 입력으로 받은 조건화 데이터에서 가이던스 구성 요소를 None으로 설정하여 제거함으로써, 생성 과정에서 가이던스 기반 조건화를 효과적으로 끕니다.
 

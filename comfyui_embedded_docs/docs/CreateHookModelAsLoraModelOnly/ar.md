@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookModelAsLoraModelOnly/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookModelAsLoraModelOnly/ar.md)
 
 هذه العقدة تُنشئ خطافًا (hook) يطبق نموذج LoRA (التكيف ذو الرتبة المنخفضة) لتعديل المكون النموذجي فقط للشبكة العصبية. تقوم بتحميل ملف نقطة فحص وتطبيقه بقوة محددة على النموذج مع ترك مكون CLIP دون تغيير. هذه عقدة تجريبية توسّع وظائف الفئة الأساسية CreateHookModelAsLora.
 

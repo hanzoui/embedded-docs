@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PorterDuffImageComposite/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PorterDuffImageComposite/pt-BR.md)
 
 O nó PorterDuffImageComposite é projetado para realizar a composição de imagens usando os operadores de composição Porter-Duff. Ele permite a combinação de imagens de origem e destino de acordo com vários modos de mesclagem, possibilitando a criação de efeitos visuais complexos através da manipulação da transparência da imagem e da sobreposição de imagens de maneiras criativas.
 

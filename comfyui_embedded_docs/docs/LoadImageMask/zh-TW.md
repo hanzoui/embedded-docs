@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageMask/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageMask/zh-TW.md)
 
 LoadImageMask 節點專門用於從指定路徑載入影像及其相關遮罩，並進行處理以確保與後續影像處理或分析任務的相容性。該節點著重處理各種影像格式和條件，例如遮罩的透明度通道存在與否，並透過將影像和遮罩轉換為標準化格式，為下游處理做好準備。
 

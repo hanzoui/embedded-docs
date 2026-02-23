@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GITSScheduler/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GITSScheduler/es.md)
 
 El nodo GITSScheduler genera programaciones de ruido sigmas para el método de muestreo GITS (Generative Iterative Time Steps). Calcula los valores sigma basándose en un parámetro de coeficiente y número de pasos, con un factor de eliminación de ruido opcional que puede reducir el total de pasos utilizados. El nodo utiliza niveles de ruido predefinidos e interpolación para crear la programación sigma final.
 

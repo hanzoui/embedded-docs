@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CustomCombo/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CustomCombo/es.md)
 
 El nodo Custom Combo (Combinación Personalizada) te permite crear un menú desplegable personalizado con tu propia lista de opciones de texto. Es un nodo enfocado en el frontend que proporciona una representación en el backend para garantizar la compatibilidad dentro de tu flujo de trabajo. Cuando seleccionas una opción del menú desplegable, el nodo emite ese texto como una cadena.
 

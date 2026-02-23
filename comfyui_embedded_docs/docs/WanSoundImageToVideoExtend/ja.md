@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanSoundImageToVideoExtend/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanSoundImageToVideoExtend/ja.md)
 
 WanSoundImageToVideoExtendノードは、オーディオ条件付けと参照画像を組み込むことで、画像から動画への生成を拡張します。ポジティブおよびネガティブな条件付けと動画の潜在データ、オプションのオーディオ埋め込みを受け取り、拡張された動画シーケンスを生成します。このノードはこれらの入力を処理し、オーディオキューと同期させた一貫性のある動画出力を作成します。
 

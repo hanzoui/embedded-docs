@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TrimVideoLatent/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TrimVideoLatent/ar.md)
 
 يقوم عُقدة TrimVideoLatent بإزالة الإطارات من بداية التمثيل الكامن للفيديو. يأخذ العُقدة عينة فيديو كامنة ويقطع عددًا محددًا من الإطارات من البداية، معيدًا الجزء المتبقي من الفيديو. هذا يسمح لك بتقصير تسلسلات الفيديو من خلال إزالة الإطارات الأولية.
 

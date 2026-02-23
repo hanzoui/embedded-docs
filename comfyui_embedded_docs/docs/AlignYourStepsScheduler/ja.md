@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AlignYourStepsScheduler/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AlignYourStepsScheduler/ja.md)
 
 AlignYourStepsSchedulerノードは、異なるモデルタイプに基づいてデノイズプロセス用のシグマ値を生成します。サンプリングプロセスの各ステップに適したノイズレベルを計算し、デノイズパラメータに応じて総ステップ数を調整します。これにより、さまざまな拡散モデルの特定の要件にサンプリングステップを合わせることができます。
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookLora/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookLora/ko.md)
 
 Create Hook LoRA 노드는 LoRA(Low-Rank Adaptation) 수정을 모델에 적용하기 위한 훅 객체를 생성합니다. 지정된 LoRA 파일을 로드하고 모델 및 CLIP 강도를 조정할 수 있는 훅을 생성한 다음, 이러한 훅을 전달된 기존 훅과 결합합니다. 이 노드는 이전에 로드된 LoRA 파일을 캐싱하여 중복 작업을 방지함으로써 LoRA 로딩을 효율적으로 관리합니다.
 

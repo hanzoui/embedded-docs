@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProImageNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProImageNode/zh-TW.md)
 
 Kling Omni Image (Pro) 節點使用 Kling AI 模型生成或編輯圖像。它根據文字描述創建圖像，並允許您提供參考圖像來引導風格或內容。該節點會向外部 API 發送請求，由 API 處理任務並返回最終圖像。
 

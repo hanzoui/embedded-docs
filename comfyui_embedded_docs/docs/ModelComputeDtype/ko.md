@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelComputeDtype/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelComputeDtype/ko.md)
 
 ModelComputeDtype 노드는 모델이 추론 과정에서 사용하는 계산 데이터 타입을 변경할 수 있게 해줍니다. 이 노드는 입력 모델의 복사본을 생성하고 지정된 데이터 타입 설정을 적용하여, 하드웨어 성능에 따라 메모리 사용량과 성능을 최적화하는 데 도움을 줍니다. 이는 다양한 정밀도 설정을 디버깅하고 테스트하는 데 특히 유용합니다.
 

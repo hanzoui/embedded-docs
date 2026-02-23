@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanTextToImageApi/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanTextToImageApi/ja.md)
 
 Wan Text to Imageノードは、テキストの記述に基づいて画像を生成します。AIモデルを使用して文章プロンプトから視覚的なコンテンツを作成し、英語と中国語のテキスト入力をサポートします。このノードは、出力画像のサイズ、品質、スタイルの設定を調整するための様々なコントロールを提供します。
 

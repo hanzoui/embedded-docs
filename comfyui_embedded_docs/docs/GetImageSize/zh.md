@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GetImageSize/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GetImageSize/zh.md)
 
 GetImageSize 节点从输入图像中提取尺寸和批次信息。它会返回图像的宽度、高度和批次大小，同时将这些信息作为进度文本显示在节点界面上。原始图像数据保持不变。
 

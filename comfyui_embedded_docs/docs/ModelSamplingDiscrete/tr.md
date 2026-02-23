@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingDiscrete/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingDiscrete/tr.md)
 
 Bu düğüm, ayrık örnekleme stratejisi uygulayarak bir modelin örnekleme davranışını değiştirmek için tasarlanmıştır. Epsilon, v_prediction, lcm veya x0 gibi farklı örnekleme yöntemlerinin seçimine olanak tanır ve isteğe bağlı olarak sıfır atış gürültü oranı (zsnr) ayarına dayalı olarak modelin gürültü azaltma stratejisini ayarlar.
 

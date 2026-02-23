@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TruncateText/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TruncateText/tr.md)
 
 Bu düğüm, metni belirtilen maksimum uzunlukta keserek kısaltır. Herhangi bir giriş metnini alır ve ayarladığınız karakter sayısına kadar olan ilk kısmını döndürür. Metnin belirli bir boyutu aşmamasını sağlamanın basit bir yoludur.
 

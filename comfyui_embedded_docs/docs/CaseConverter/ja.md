@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CaseConverter/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CaseConverter/ja.md)
 
 Case Converterノードは、テキスト文字列を異なる文字ケース形式に変換します。入力文字列を受け取り、選択されたモードに基づいて変換を行い、指定されたケースフォーマットが適用された出力文字列を生成します。このノードは4つの異なるケース変換オプションをサポートしており、テキストの大文字小文字の使い分けを変更できます。
 

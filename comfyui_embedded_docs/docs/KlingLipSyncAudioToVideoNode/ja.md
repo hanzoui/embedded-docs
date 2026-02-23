@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingLipSyncAudioToVideoNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingLipSyncAudioToVideoNode/ja.md)
 
 Kling Lip Sync Audio to Video ノードは、動画ファイル内の口の動きを音声ファイルの内容に合わせて同期させます。このノードは音声内の音声パターンを分析し、動画内の顔の動きを調整して、リアルなリップシンクを実現します。この処理には、明確な顔が含まれる動画と、はっきりと聞き取れる音声が含まれる音声ファイルの両方が必要です。
 

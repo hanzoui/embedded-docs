@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanReferenceVideoApi/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanReferenceVideoApi/ar.md)
 
 يستخدم عقد Wan Reference to Video المظهر المرئي والصوت من فيديو أو أكثر من مقاطع الفيديو المرجعية المدخلة، جنبًا إلى جنب مع نص وصف، لإنشاء فيديو جديد. يحافظ العقد على الاتساق مع الشخصيات من المادة المرجعية أثناء إنشاء محتوى جديد بناءً على وصفك.
 

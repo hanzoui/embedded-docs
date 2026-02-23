@@ -1,6 +1,6 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CombineHooks/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CombineHooks/en.md)
 
-The Combine Hooks [2] node merges two hook groups into a single combined hook group. It takes two optional hook inputs and combines them using ComfyUI's hook combination functionality. This allows you to consolidate multiple hook configurations for streamlined processing.
+The Combine Hooks [2] node merges two hook groups into a single combined hook group. It takes two optional hook inputs and combines them using Hanzo Studio's hook combination functionality. This allows you to consolidate multiple hook configurations for streamlined processing.
 
 ## Inputs
 

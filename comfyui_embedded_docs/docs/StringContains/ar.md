@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StringContains/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StringContains/ar.md)
 
 يقوم عُقدة StringContains بالتحقق مما إذا كانت سلسلة نصية معينة تحتوي على سلسلة فرعية محددة. يمكنها إجراء هذا الفحص إما بمطابقة حساسة لحالة الأحرف أو غير حساسة لها، مع إرجاع نتيجة منطقية تشير إلى ما إذا تم العثور على السلسلة الفرعية داخل السلسلة الرئيسية.
 

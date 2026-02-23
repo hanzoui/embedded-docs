@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageTextSetFromFolderNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageTextSetFromFolderNode/ar.md)
 
 يقوم بتحميل مجموعة من الصور ونصوص التسميات التوضيحية المرتبطة بها من مجلد محدد لأغراض التدريب. تبحث العقدة تلقائيًا عن ملفات الصور وملفات النصوص المرتبطة بها، وتعالج الصور وفقًا لإعدادات تغيير الحجم المحددة، وتشفر التسميات التوضيحية باستخدام نموذج CLIP المقدم.
 

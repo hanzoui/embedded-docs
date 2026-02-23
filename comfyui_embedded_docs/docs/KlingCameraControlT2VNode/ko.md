@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingCameraControlT2VNode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingCameraControlT2VNode/ko.md)
 
 Kling Text to Video Camera Control 노드는 텍스트를 실제 영화 촬영 기법을 모방한 전문적인 카메라 움직임이 적용된 영상 비디오로 변환합니다. 이 노드는 줌, 회전, 팬, 틸트, 1인칭 시점을 포함한 가상 카메라 동작을 제어하는 것을 지원하며, 원본 텍스트에 대한 초점을 유지합니다. 지속 시간, 모드 및 모델 이름은 하드 코딩되어 있습니다. 카메라 제어는 5초 지속 시간의 kling-v1-5 모델을 사용하는 프로 모드에서만 지원되기 때문입니다.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WavespeedFlashVSRNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WavespeedFlashVSRNode/pt-BR.md)
 
 O WavespeedFlashVSRNode é um upscaler de vídeo rápido e de alta qualidade que aumenta a resolução e restaura a nitidez de filmagens de baixa resolução ou desfocadas. Ele processa um vídeo de entrada e gera um novo vídeo em uma resolução mais alta selecionada pelo usuário.
 

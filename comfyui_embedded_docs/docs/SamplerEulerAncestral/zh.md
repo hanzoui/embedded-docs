@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerEulerAncestral/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerEulerAncestral/zh.md)
 
 SamplerEulerAncestral 节点用于创建欧拉祖先采样器以生成图像。该采样器采用特定的数学方法，结合欧拉积分与祖先采样技术来生成图像变体。通过调整控制生成过程中随机性和步长的参数，您可以配置该采样器的行为。
 

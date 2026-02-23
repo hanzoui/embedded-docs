@@ -1,6 +1,6 @@
-Ce nœud détectera les modèles situés dans le dossier `ComfyUI/models/vae`,
+Ce nœud détectera les modèles situés dans le dossier `Hanzo Studio/models/vae`,
 et lira également les modèles des chemins supplémentaires que vous avez configurés dans le fichier extra_model_paths.yaml.
-Parfois, vous devrez **rafraîchir l'interface ComfyUI** pour qu'elle puisse lire les fichiers de modèle dans le dossier correspondant.
+Parfois, vous devrez **rafraîchir l'interface Hanzo Studio** pour qu'elle puisse lire les fichiers de modèle dans le dossier correspondant.
 
 Le nœud VAELoader est conçu pour charger des modèles d'Autoencodeur Variationnel (VAE), spécifiquement adaptés pour gérer à la fois les VAEs standards et approximatifs. Il prend en charge le chargement des VAEs par nom, y compris une gestion spécialisée pour les modèles 'taesd' et 'taesdxl', et s'ajuste dynamiquement en fonction de la configuration spécifique du VAE.
 

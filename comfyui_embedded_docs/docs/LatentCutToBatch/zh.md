@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentCutToBatch/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentCutToBatch/zh.md)
 
 LatentCutToBatch 节点接收一个潜在表示，并沿着指定维度将其分割成多个切片。这些切片随后被堆叠到一个新的批次维度中，从而有效地将单个潜在样本转换为一批较小的潜在样本。这对于独立处理潜在空间的不同部分非常有用。
 

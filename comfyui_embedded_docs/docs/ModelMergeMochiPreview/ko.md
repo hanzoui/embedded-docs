@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeMochiPreview/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeMochiPreview/ko.md)
 
 이 노드는 블록 기반 접근 방식을 사용하여 두 개의 AI 모델을 병합하며, 다양한 모델 구성 요소에 대한 세밀한 제어를 제공합니다. 위치 주파수, 임베딩 레이어, 개별 트랜스포머 블록 등 특정 섹션에 대한 보간 가중치를 조정하여 모델을 혼합할 수 있습니다. 병합 프로세스는 지정된 가중치 값에 따라 두 입력 모델의 아키텍처와 매개변수를 결합합니다.
 

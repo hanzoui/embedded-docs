@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookModelAsLora/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookModelAsLora/ko.md)
 
 이 노드는 체크포인트 가중치를 로드하고 모델 및 CLIP 구성 요소에 강도 조정을 적용하여 LoRA(저순위 적응) 방식의 후크 모델을 생성합니다. 기존 모델에 후크 기반 접근법을 통해 LoRA 스타일 수정을 적용할 수 있어, 영구적인 모델 변경 없이 미세 조정과 적응이 가능합니다. 이 노드는 이전 후크와 결합할 수 있으며 효율성을 위해 로드된 가중치를 캐시합니다.
 

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VideoTriangleCFGGuidance/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VideoTriangleCFGGuidance/fr.md)
 
 Le nœud VideoTriangleCFGGuidance applique un motif d'échelle triangulaire d'orientation sans classifieur aux modèles vidéo. Il modifie l'échelle de conditionnement au fil du temps en utilisant une fonction d'onde triangulaire qui oscille entre la valeur CFG minimale et l'échelle de conditionnement d'origine. Cela crée un motif d'orientation dynamique qui peut aider à améliorer la cohérence et la qualité de la génération vidéo.
 

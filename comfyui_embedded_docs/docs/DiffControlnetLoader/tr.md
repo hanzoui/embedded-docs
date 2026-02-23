@@ -1,6 +1,6 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DiffControlNetLoader/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DiffControlNetLoader/tr.md)
 
-Bu düğüm, `ComfyUI/models/controlnet` klasöründe bulunan modelleri tespit edecek ve ayrıca extra_model_paths.yaml dosyasında yapılandırılan ek yollardaki modelleri de okuyacaktır. Bazen, ilgili klasörden model dosyalarını okuyabilmesi için **ComfyUI arayüzünü yenilemeniz** gerekebilir.
+Bu düğüm, `Hanzo Studio/models/controlnet` klasöründe bulunan modelleri tespit edecek ve ayrıca extra_model_paths.yaml dosyasında yapılandırılan ek yollardaki modelleri de okuyacaktır. Bazen, ilgili klasörden model dosyalarını okuyabilmesi için **Hanzo Studio arayüzünü yenilemeniz** gerekebilir.
 
 DiffControlNetLoader düğümü, diferansiyel kontrol ağlarını yüklemek için tasarlanmıştır. Bunlar, kontrol ağı özelliklerine dayanarak başka bir modelin davranışını değiştirebilen özelleştirilmiş modellerdir. Bu düğüm, diferansiyel kontrol ağları uygulayarak model davranışlarının dinamik olarak ayarlanmasına olanak tanır ve özelleştirilmiş model çıktılarının oluşturulmasını kolaylaştırır.
 

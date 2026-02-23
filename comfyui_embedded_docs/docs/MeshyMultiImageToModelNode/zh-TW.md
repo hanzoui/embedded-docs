@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyMultiImageToModelNode/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyMultiImageToModelNode/zh-TW.md)
 
 此節點使用 Meshy API 從多張輸入圖像生成 3D 模型。它會上傳提供的圖像，提交處理任務，並返回生成的 3D 模型檔案（GLB 和 FBX）以及用於參考的任務 ID。
 

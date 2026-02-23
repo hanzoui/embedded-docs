@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeTiled/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeTiled/en.md)
 
 The VAEDecodeTiled node decodes latent representations into images using a tiled approach to handle large images efficiently. It processes the input in smaller tiles to manage memory usage while maintaining image quality. The node also supports video VAEs by processing temporal frames in chunks with overlap for smooth transitions.
 

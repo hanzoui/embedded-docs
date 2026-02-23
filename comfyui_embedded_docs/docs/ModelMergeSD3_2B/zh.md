@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeSD3_2B/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeSD3_2B/zh.md)
 
 ModelMergeSD3_2B 节点允许您通过以可调节的权重混合两个 Stable Diffusion 3 2B 模型的组件来合并它们。该节点提供了对嵌入层和 Transformer 块的独立控制，从而能够为专门的生成任务进行精细调整的模型组合。
 

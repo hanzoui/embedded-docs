@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveGLB/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveGLB/zh-TW.md)
 
 {heading_overview}
 
@@ -9,7 +9,7 @@ SaveGLB 節點將 3D 網格資料儲存為 GLB 檔案，這是一種常見的 3D
 | 參數名稱 | 資料類型 | 必填 | 數值範圍 | 描述 |
 |-----------|-----------|----------|-------|-------------|
 | `mesh` | MESH | 是 | - | 要儲存為 GLB 檔案的 3D 網格資料 |
-| `檔名前綴` | STRING | 否 | - | 輸出檔案名稱的前綴（預設值："mesh/ComfyUI"） |
+| `檔名前綴` | STRING | 否 | - | 輸出檔案名稱的前綴（預設值："mesh/Hanzo Studio"） |
 
 {heading_outputs}
 

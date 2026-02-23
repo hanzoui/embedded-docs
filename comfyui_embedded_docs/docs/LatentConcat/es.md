@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentConcat/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentConcat/es.md)
 
 El nodo LatentConcat combina dos muestras latentes a lo largo de una dimensión especificada. Toma dos entradas latentes y las concatena a lo largo del eje elegido (dimensión x, y o t). El nodo ajusta automáticamente el tamaño del lote de la segunda entrada para que coincida con la primera entrada antes de realizar la operación de concatenación.
 

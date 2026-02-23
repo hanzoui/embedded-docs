@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageGrid/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageGrid/zh-TW.md)
 
 Image Grid 節點可將多張圖片組合成單一、有組織的網格或拼貼圖。它接收圖片列表，並將其排列成指定數量的欄位，同時調整每張圖片尺寸以符合定義的單元格大小，並可選擇在圖片之間添加間距。最終輸出的是一張包含所有輸入圖片、以網格佈局排列的新圖片。
 

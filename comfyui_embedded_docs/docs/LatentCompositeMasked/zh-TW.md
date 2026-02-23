@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentCompositeMasked/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentCompositeMasked/zh-TW.md)
 
 LatentCompositeMasked 節點專為將兩個潛在表徵在指定座標位置進行混合而設計，可選擇性地使用遮罩來實現更精確的合成控制。此節點能將一個影像的部分內容疊加到另一個影像上，並具備調整來源影像尺寸的能力，從而創建出複雜的潛在影像。
 

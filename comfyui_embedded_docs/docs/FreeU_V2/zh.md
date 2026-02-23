@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/FreeU_V2/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/FreeU_V2/zh.md)
 
 FreeU_V2 节点通过修改 U-Net 架构对扩散模型进行基于频率的增强。它使用可配置参数对不同特征通道进行缩放，从而在不需额外训练的情况下提升图像生成质量。该节点通过修补模型的输出块，将缩放因子应用于特定通道维度。
 

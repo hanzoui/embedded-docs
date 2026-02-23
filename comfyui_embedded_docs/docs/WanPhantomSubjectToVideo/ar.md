@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanPhantomSubjectToVideo/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanPhantomSubjectToVideo/ar.md)
 
 يُنشئ عقد WanPhantomSubjectToVideo محتوى فيديو من خلال معالجة مدخلات التكييف والصور المرجعية الاختيارية. يقوم بإنشاء تمثيلات كامنة لتوليد الفيديو ويمكنه دمج التوجيه البصري من الصور المدخلة عند توفيرها. يقوم العقد بإعداد بيانات التكييف مع تسلسل بعد الزمن لنماذج الفيديو ويخرج بيانات التكييف المعدلة مع بيانات الفيديو الكامنة المُنشأة.
 

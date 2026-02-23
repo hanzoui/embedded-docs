@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/GLIGENTextBoxApply/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/GLIGENTextBoxApply/pt-BR.md)
 
 O nó `GLIGENTextBoxApply` é projetado para integrar condicionamento baseado em texto na entrada de um modelo generativo, especificamente aplicando parâmetros de caixa de texto e codificando-os usando um modelo CLIP. Este processo enriquece o condicionamento com informações espaciais e textuais, facilitando uma geração mais precisa e consciente do contexto.
 

@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanImageToVideo/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanImageToVideo/en.md)
 
 The WanImageToVideo node prepares conditioning and latent representations for video generation tasks. It creates an empty latent space for video generation and can optionally incorporate starting images and CLIP vision outputs to guide the video generation process. The node modifies both positive and negative conditioning inputs based on the provided image and vision data.
 

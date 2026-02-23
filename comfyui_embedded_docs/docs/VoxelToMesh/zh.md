@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VoxelToMesh/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VoxelToMesh/zh.md)
 
 VoxelToMesh 节点使用不同算法将三维体素数据转换为网格几何体。该节点处理体素网格并生成构成三维网格表示的顶点和面。该节点支持多种转换算法，并允许调整阈值以控制表面提取。
 

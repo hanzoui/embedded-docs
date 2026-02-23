@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeLTXV/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeLTXV/ar.md)
 
 يقوم عقد ModelMergeLTXV بتنفيذ عمليات دمج نماذج متقدمة مصممة خصيصًا لهندسات نماذج LTXV. يسمح لك بدمج نموذجين مختلفين معًا من خلال ضبط أوزان الاستيفاء لمكونات النموذج المختلفة بما في ذلك كتل المحولات (transformer)، وطبقات الإسقاط، ووحدات متخصصة أخرى.
 

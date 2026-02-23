@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAESave/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAESave/pt-BR.md)
 
 O nó VAESave é projetado para salvar modelos VAE juntamente com seus metadados, incluindo prompts e informações PNG adicionais, em um diretório de saída especificado. Ele encapsula a funcionalidade de serializar o estado do modelo e as informações associadas em um arquivo, facilitando a preservação e o compartilhamento de modelos treinados.
 

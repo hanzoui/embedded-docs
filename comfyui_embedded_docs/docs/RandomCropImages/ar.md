@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RandomCropImages/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RandomCropImages/ar.md)
 
 يقوم عقد Random Crop Images باختيار قسم مستطيل بشكل عشوائي من كل صورة مُدخلة ويقصه إلى عرض وارتفاع محددين. يُستخدم هذا بشكل شائع لزيادة البيانات لإنشاء تنويعات من صور التدريب. يتم تحديد الموضع العشوائي للقص بواسطة قيمة `seed`، مما يضمن إمكانية إعادة إنتاج نفس القص.
 

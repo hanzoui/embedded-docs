@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyFlux2LatentImage/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyFlux2LatentImage/ar.md)
 
 يقوم عقد `EmptyFlux2LatentImage` بإنشاء تمثيل كامن (latent) فارغ وخالي. يولد موترًا (tensor) مملوءًا بالأصفار، ليكون بمثابة نقطة بداية لعملية إزالة الضوضاء (denoising) الخاصة بنموذج Flux. يتم تحديد أبعاد التمثيل الكامن بناءً على عرض وارتفاع الإدخال، بعد قياسهما بمعامل قياس مقداره 16.
 

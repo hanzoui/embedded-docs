@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadLatent/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadLatent/ko.md)
 
 LoadLatent 노드는 입력 디렉토리에 있는 .latent 파일에서 이전에 저장된 잠재 표현을 불러옵니다. 파일에서 잠재 텐서 데이터를 읽고 필요한 스케일링 조정을 적용한 후, 다른 노드에서 사용할 수 있도록 잠재 데이터를 반환합니다.
 

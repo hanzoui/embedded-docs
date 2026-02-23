@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingVirtualTryOnNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingVirtualTryOnNode/pt-BR.md)
 
 Kling Virtual Try On Node. Insira uma imagem de uma pessoa e uma imagem de uma peça de roupa para experimentar a roupa na pessoa. Você pode combinar várias imagens de itens de vestuário em uma única imagem com um fundo branco.
 

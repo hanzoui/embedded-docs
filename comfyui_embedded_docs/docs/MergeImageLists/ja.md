@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MergeImageLists/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MergeImageLists/ja.md)
 
 Merge Image Lists ノードは、複数の個別の画像リストを1つの連続したリストに結合します。このノードは、接続された各入力からすべての画像を受け取り、受け取った順番に連結することで動作します。異なるソースからの画像を整理したり、バッチ処理のためにまとめたりする際に便利です。
 

@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingSD3/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingSD3/fr.md)
 
 Le nœud ModelSamplingSD3 applique les paramètres d'échantillonnage de Stable Diffusion 3 à un modèle. Il modifie le comportement d'échantillonnage du modèle en ajustant le paramètre de décalage, qui contrôle les caractéristiques de la distribution d'échantillonnage. Le nœud crée une copie modifiée du modèle d'entrée avec la configuration d'échantillonnage spécifiée appliquée.
 

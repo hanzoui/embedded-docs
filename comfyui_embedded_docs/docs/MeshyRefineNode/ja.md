@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyRefineNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyRefineNode/ja.md)
 
 Meshy: Refine Draft Model ノードは、以前に生成された3Dドラフトモデルを受け取り、品質を向上させ、オプションでテクスチャを追加します。Meshy APIにリファインメントタスクを送信し、処理が完了すると最終的な3Dモデルファイルを返します。
 

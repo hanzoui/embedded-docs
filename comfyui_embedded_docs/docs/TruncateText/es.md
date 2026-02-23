@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TruncateText/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TruncateText/es.md)
 
 Este nodo acorta texto recortándolo a una longitud máxima especificada. Toma cualquier texto de entrada y devuelve solo la primera parte, hasta el número de caracteres que establezcas. Es una forma sencilla de asegurar que el texto no exceda un tamaño determinado.
 

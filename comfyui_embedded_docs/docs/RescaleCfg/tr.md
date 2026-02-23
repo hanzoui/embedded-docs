@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RescaleCFG/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RescaleCFG/tr.md)
 
 RescaleCFG düğümü, bir modelin çıktısındaki koşullandırma ve koşulsuzlandırma ölçeklerini belirli bir çarpan kullanarak ayarlamak için tasarlanmıştır ve böylece daha dengeli ve kontrollü bir üretim süreci hedefler. Modelin çıktısını yeniden ölçeklendirerek, koşullu ve koşulsuz bileşenlerin etkisini değiştirir ve bu sayede modelin performansını veya çıktı kalitesini potansiyel olarak iyileştirir.
 

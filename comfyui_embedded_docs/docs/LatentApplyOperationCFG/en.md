@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentApplyOperationCFG/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentApplyOperationCFG/en.md)
 
 The LatentApplyOperationCFG node applies a latent operation to modify the conditioning guidance process in a model. It works by intercepting the conditioning outputs during the classifier-free guidance (CFG) sampling process and applying the specified operation to the latent representations before they are used for generation.
 

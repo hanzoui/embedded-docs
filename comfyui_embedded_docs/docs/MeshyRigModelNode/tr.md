@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyRigModelNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyRigModelNode/tr.md)
 
 Meshy: Rig Model düğümü, Meshy'den bir 3B model görevi alır ve iskeletlendirilmiş bir karakter modeli oluşturur. Model için otomatik olarak bir iskelet oluşturur, böylece model pozlanabilir ve canlandırılabilir. Düğüm, iskeletlendirilmiş modeli hem GLB hem de FBX dosya formatlarında çıktı olarak verir.
 

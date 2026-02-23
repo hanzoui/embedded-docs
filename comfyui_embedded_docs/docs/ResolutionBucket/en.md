@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ResolutionBucket/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ResolutionBucket/en.md)
 
 This node organizes a list of latent images and their corresponding conditioning data by their resolution. It groups together items that share the same height and width, creating separate batches for each unique resolution. This process is useful for preparing data for efficient training, as it allows models to process multiple items of the same size together.
 

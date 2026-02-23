@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/DifferentialDiffusion/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/DifferentialDiffusion/pt-BR.md)
 
 O nó Differential Diffusion modifica o processo de remoção de ruído aplicando uma máscara binária baseada em limiares de timestep. Ele cria uma máscara que mescla entre a máscara de remoção de ruído original e uma máscara binária baseada em limiares, permitindo um ajuste controlado da força do processo de difusão.
 

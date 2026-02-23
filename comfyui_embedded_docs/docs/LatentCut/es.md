@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentCut/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentCut/es.md)
 
 El nodo LatentCut extrae una sección específica de muestras latentes a lo largo de una dimensión elegida. Permite recortar una porción de la representación latente especificando la dimensión (x, y o t), la posición inicial y la cantidad a extraer. El nodo maneja tanto indexación positiva como negativa y ajusta automáticamente la cantidad de extracción para mantenerse dentro de los límites disponibles.
 

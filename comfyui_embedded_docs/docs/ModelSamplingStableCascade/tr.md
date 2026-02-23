@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingStableCascade/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingStableCascade/tr.md)
 
 **ModelSamplingStableCascade** düğümü, bir modele kararlı kademeli örnekleme uygular ve örnekleme parametrelerini bir kaydırma değeri ile ayarlar. Girdi modelinin, kararlı kademeli üretim için özel örnekleme yapılandırmasına sahip değiştirilmiş bir versiyonunu oluşturur.
 

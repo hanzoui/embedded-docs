@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PreviewImage/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PreviewImage/pt-BR.md)
 
 O nó PreviewImage é projetado para criar imagens de visualização temporárias. Ele gera automaticamente um nome de arquivo temporário único para cada imagem, comprime a imagem para um nível especificado e a salva em um diretório temporário. Essa funcionalidade é particularmente útil para gerar visualizações de imagens durante o processamento sem afetar os arquivos originais.
 

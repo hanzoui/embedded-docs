@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVAudioVAEDecode/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVAudioVAEDecode/ko.md)
 
 LTXV Audio VAE Decode 노드는 오디오의 잠재 표현을 다시 오디오 파형으로 변환합니다. 특화된 Audio VAE 모델을 사용하여 이 디코딩 과정을 수행하며, 특정 샘플링 레이트를 가진 오디오 출력을 생성합니다.
 

@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SplitAudioChannels/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SplitAudioChannels/ko.md)
 
 SplitAudioChannels 노드는 스테레오 오디오를 개별적인 좌우 채널로 분리합니다. 두 개의 채널을 가진 스테레오 오디오 입력을 받아 왼쪽 채널과 오른쪽 채널에 해당하는 두 개의 별도 오디오 스트림을 출력합니다.
 

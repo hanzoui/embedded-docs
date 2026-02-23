@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoraLoaderBypass/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoraLoaderBypass/es.md)
 
 El nodo LoraLoaderBypass aplica un LoRA (Adaptación de Bajo Rango) a un modelo de difusión y a un modelo CLIP en un modo especial de "bypass". A diferencia de un cargador LoRA estándar, este método no modifica permanentemente los pesos del modelo base. En su lugar, calcula la salida sumando el efecto del LoRA al paso hacia adelante normal del modelo, lo cual es útil para entrenamiento o cuando se trabaja con modelos que tienen sus pesos descargados.
 

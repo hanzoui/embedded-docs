@@ -1,6 +1,6 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveImageTextDataSetToFolder/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveImageTextDataSetToFolder/tr.md)
 
-Save Image and Text Dataset to Folder düğümü, bir dizi görüntüyü ve bunlara karşılık gelen metin açıklamalarını, ComfyUI'nin çıktı dizini içinde belirtilen bir klasöre kaydeder. PNG dosyası olarak kaydedilen her görüntü için, aynı temel ada sahip eşleşen bir metin dosyası, açıklamasını saklamak üzere oluşturulur. Bu, oluşturulan görüntülerin ve bunların açıklamalarının düzenli veri kümeleri oluşturmak için kullanışlıdır.
+Save Image and Text Dataset to Folder düğümü, bir dizi görüntüyü ve bunlara karşılık gelen metin açıklamalarını, Hanzo Studio'nin çıktı dizini içinde belirtilen bir klasöre kaydeder. PNG dosyası olarak kaydedilen her görüntü için, aynı temel ada sahip eşleşen bir metin dosyası, açıklamasını saklamak üzere oluşturulur. Bu, oluşturulan görüntülerin ve bunların açıklamalarının düzenli veri kümeleri oluşturmak için kullanışlıdır.
 
 ## Girişler
 

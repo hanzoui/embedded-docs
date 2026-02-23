@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentBatchSeedBehavior/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentBatchSeedBehavior/tr.md)
 
 LatentBatchSeedBehavior düğümü, bir grup gizli örneğin tohum davranışını değiştirmek için tasarlanmıştır. Topluluk genelinde tohumun rastgeleleştirilmesini veya sabitlenmesini sağlayarak, oluşturulan çıktılarda ya çeşitlilik eklenmesini ya da tutarlılığın korunmasını etkiler.
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LatentUpscaleModelLoader/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LatentUpscaleModelLoader/zh.md)
 
 该节点加载专为放大潜空间表示而设计的模型。它从系统的指定文件夹中读取模型文件，并自动检测其类型（720p、1080p 或其他），以实例化并配置正确的内部模型架构。加载后的模型即可供其他节点用于潜空间超分辨率任务。
 
@@ -6,7 +6,7 @@
 
 | 参数名 | 数据类型 | 必填 | 取值范围 | 描述 |
 |-----------|-----------|----------|-------|-------------|
-| `model_name` | STRING | 是 | *`latent_upscale_models` 文件夹中的所有文件* | 要加载的潜空间放大模型文件名。可用选项根据 ComfyUI `latent_upscale_models` 目录中的文件动态生成。 |
+| `model_name` | STRING | 是 | *`latent_upscale_models` 文件夹中的所有文件* | 要加载的潜空间放大模型文件名。可用选项根据 Hanzo Studio `latent_upscale_models` 目录中的文件动态生成。 |
 
 ## 输出
 

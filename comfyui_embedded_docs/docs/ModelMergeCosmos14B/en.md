@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelMergeCosmos14B/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelMergeCosmos14B/en.md)
 
 The ModelMergeCosmos14B node merges two AI models using a block-based approach specifically designed for Cosmos 14B model architecture. It allows you to blend different components of the models by adjusting weight values between 0.0 and 1.0 for each model block and embedding layer.
 

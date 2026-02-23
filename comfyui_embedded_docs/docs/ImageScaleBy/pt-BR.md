@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageScaleBy/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageScaleBy/pt-BR.md)
 
 O nó ImageScaleBy é projetado para aumentar a escala de imagens por um fator de escala especificado usando vários métodos de interpolação. Ele permite o ajuste do tamanho da imagem de maneira flexível, atendendo a diferentes necessidades de aumento de escala.
 

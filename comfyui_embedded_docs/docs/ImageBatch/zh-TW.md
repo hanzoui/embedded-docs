@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageBatch/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageBatch/zh-TW.md)
 
 `ImageBatch` 節點專為將兩張圖像合併為單一批次而設計。如果圖像的尺寸不匹配，它會在合併前自動將第二張圖像重新縮放以匹配第一張圖像的尺寸。
 

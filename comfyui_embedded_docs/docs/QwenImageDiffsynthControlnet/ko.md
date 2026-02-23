@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/QwenImageDiffsynthControlnet/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/QwenImageDiffsynthControlnet/ko.md)
 
 QwenImageDiffsynthControlnet 노드는 기본 모델의 동작을 수정하기 위해 확산 합성 제어 네트워크 패치를 적용합니다. 이미지 입력과 선택적 마스크를 사용하여 모델의 생성 과정을 조정 가능한 강도로 안내하며, 제어 네트워크의 영향을 통합한 패치된 모델을 생성하여 더욱 제어된 이미지 합성을 가능하게 합니다.
 

@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateList/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [在 GitHub 上編輯](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateList/zh-TW.md)
 
 此節點將多個輸入組合成單一的順序列表。它接收任意數量相同資料類型的輸入，並按照連接順序將它們串接起來。此節點對於準備批次資料（例如圖像或文字）以便在工作流程中由其他節點處理非常有用。
 

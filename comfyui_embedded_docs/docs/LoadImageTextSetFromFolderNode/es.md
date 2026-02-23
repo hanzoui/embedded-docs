@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageTextSetFromFolderNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageTextSetFromFolderNode/es.md)
 
 Carga un lote de imágenes y sus correspondientes textos descriptivos desde un directorio específico para fines de entrenamiento. El nodo busca automáticamente archivos de imagen y sus archivos de texto de descripción asociados, procesa las imágenes según la configuración de redimensionado especificada y codifica las descripciones utilizando el modelo CLIP proporcionado.
 

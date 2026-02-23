@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ReferenceLatent/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ReferenceLatent/fr.md)
 
 Ce nœud définit le latent de référence pour un modèle d'édition. Il prend des données de conditionnement et une entrée latente optionnelle, puis modifie le conditionnement pour inclure les informations du latent de référence. Si le modèle le supporte, vous pouvez chaîner plusieurs nœuds ReferenceLatent pour définir plusieurs images de référence.
 

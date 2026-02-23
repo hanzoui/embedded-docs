@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HunyuanVideo15LatentUpscaleWithModel/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HunyuanVideo15LatentUpscaleWithModel/es.md)
 
 El nodo Hunyuan Video 15 Latent Upscale With Model aumenta la resolución de una representación de imagen latente. Primero, escala las muestras latentes a un tamaño especificado utilizando un método de interpolación elegido, y luego refina el resultado escalado utilizando un modelo especializado de escala superior Hunyuan Video 1.5 para mejorar la calidad.
 

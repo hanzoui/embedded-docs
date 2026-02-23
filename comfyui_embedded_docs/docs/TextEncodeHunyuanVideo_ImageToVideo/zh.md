@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TextEncodeHunyuanVideo_ImageToVideo/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TextEncodeHunyuanVideo_ImageToVideo/zh.md)
 
 TextEncodeHunyuanVideo_ImageToVideo 节点通过将文本提示与图像嵌入相结合，为视频生成创建条件数据。它使用 CLIP 模型处理文本输入和来自 CLIP 视觉输出的视觉信息，然后根据指定的图像交错设置生成融合这两个来源的令牌。
 

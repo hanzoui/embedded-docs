@@ -1,6 +1,6 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Load3DAnimation/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Load3DAnimation/pt-BR.md)
 
-O nó Load3DAnimation é um nó central para carregar e processar arquivos de modelos 3D. Ao carregar o nó, ele recupera automaticamente os recursos 3D disponíveis em `ComfyUI/input/3d/`. Você também pode fazer upload de arquivos 3D suportados para visualização usando a função de upload.
+O nó Load3DAnimation é um nó central para carregar e processar arquivos de modelos 3D. Ao carregar o nó, ele recupera automaticamente os recursos 3D disponíveis em `Hanzo Studio/input/3d/`. Você também pode fazer upload de arquivos 3D suportados para visualização usando a função de upload.
 
 > - A maioria das funções deste nó é a mesma do nó Load 3D, mas este nó suporta o carregamento de modelos com animações, e você pode visualizar as animações correspondentes no nó.
 > - O conteúdo desta documentação é o mesmo do nó Load3D, porque, exceto pela visualização e reprodução de animações, suas capacidades são idênticas.
@@ -9,9 +9,9 @@ O nó Load3DAnimation é um nó central para carregar e processar arquivos de mo
 Atualmente, este nó suporta múltiplos formatos de arquivo 3D, incluindo `.gltf`, `.glb`, `.obj`, `.fbx` e `.stl`.
 
 **Preferências dos Nós 3D**
-Algumas preferências relacionadas aos nós 3D podem ser configuradas no menu de configurações do ComfyUI. Consulte a documentação a seguir para as configurações correspondentes:
+Algumas preferências relacionadas aos nós 3D podem ser configuradas no menu de configurações do Hanzo Studio. Consulte a documentação a seguir para as configurações correspondentes:
 
-[Menu de Configurações](https://docs.comfy.org/interface/settings/3d)
+[Menu de Configurações](https://docs.hanzo.ai/interface/settings/3d)
 
 Além das saídas regulares do nó, o Load3D possui muitas configurações relacionadas à visualização 3D no menu da tela.
 
@@ -19,7 +19,7 @@ Além das saídas regulares do nó, o Load3D possui muitas configurações relac
 
 | Nome do Parâmetro | Tipo     | Descrição                     | Padrão | Intervalo        |
 |-------------------|----------|---------------------------------|---------|------------------|
-| `model_file`      | Seleção de Arquivo | Caminho do arquivo do modelo 3D, suporta upload, por padrão lê arquivos de modelo de `ComfyUI/input/3d/` | - | Formatos suportados |
+| `model_file`      | Seleção de Arquivo | Caminho do arquivo do modelo 3D, suporta upload, por padrão lê arquivos de modelo de `Hanzo Studio/input/3d/` | - | Formatos suportados |
 | `width`           | INT      | Largura da renderização da tela | 1024    | 1-4096           |
 | `height`          | INT      | Altura da renderização da tela  | 1024    | 1-4096           |
 
@@ -60,7 +60,7 @@ A área da Tela do nó Load3D contém inúmeras operações de visualização, i
 ### 1. Operações de Visualização
 
 <video controls width="640" height="360">
-  <source src="https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
   Seu navegador não suporta a reprodução de vídeo.
 </video>
 
@@ -73,7 +73,7 @@ Operações de controle de visualização:
 
 ### 2. Funções do Menu Esquerdo
 
-![Menu](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu.webp)
+![Menu](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu.webp)
 
 Na tela, algumas configurações estão ocultas no menu. Clique no botão do menu para expandir diferentes menus
 
@@ -85,7 +85,7 @@ Na tela, algumas configurações estão ocultas no menu. Clique no botão do men
 
 #### Cena
 
-![menu da cena](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_scene.webp)
+![menu da cena](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_scene.webp)
 
 O menu Cena fornece algumas funções básicas de configuração de cena
 
@@ -96,7 +96,7 @@ O menu Cena fornece algumas funções básicas de configuração de cena
 
 #### Modelo
 
-![Menu_Cena](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_model.webp)
+![Menu_Cena](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_model.webp)
 
 O menu Modelo fornece algumas funções relacionadas ao modelo
 
@@ -105,7 +105,7 @@ O menu Modelo fornece algumas funções relacionadas ao modelo
 
 #### Câmera
 
-![menu_modelmenu_camera](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_camera.webp)
+![menu_modelmenu_camera](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_camera.webp)
 
 Este menu fornece a alternância entre visualizações ortográfica e em perspectiva, e configurações de tamanho do ângulo de perspectiva
 
@@ -114,13 +114,13 @@ Este menu fornece a alternância entre visualizações ortográfica e em perspec
 
 #### Luz
 
-![menu_modelmenu_camera](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_light.webp)
+![menu_modelmenu_camera](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_light.webp)
 
 Através deste menu, você pode ajustar rapidamente a intensidade da iluminação global da cena
 
 #### Exportar
 
-![menu_exportar](https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/menu_export.webp)
+![menu_exportar](https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/menu_export.webp)
 
 Este menu fornece a capacidade de converter e exportar rapidamente formatos de modelo
 

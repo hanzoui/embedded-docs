@@ -1,6 +1,6 @@
 DualCLIPLoaderノードは、2つのCLIPモデルを同時にロードするために設計されており、両モデルの特徴を統合または比較する操作を容易にします。
 
-このノードは、`ComfyUI/models/text_encoders` フォルダ内にあるモデルを自動的に検出します。
+このノードは、`Hanzo Studio/models/text_encoders` フォルダ内にあるモデルを自動的に検出します。
 
 ## 入力
 

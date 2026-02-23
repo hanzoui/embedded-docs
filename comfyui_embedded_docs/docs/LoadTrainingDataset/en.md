@@ -1,12 +1,12 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadTrainingDataset/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadTrainingDataset/en.md)
 
-This node loads an encoded training dataset that has been previously saved to disk. It searches for and reads all data shard files from a specified folder within the ComfyUI output directory, then returns the combined latent vectors and conditioning data for use in training workflows.
+This node loads an encoded training dataset that has been previously saved to disk. It searches for and reads all data shard files from a specified folder within the Hanzo Studio output directory, then returns the combined latent vectors and conditioning data for use in training workflows.
 
 ## Inputs
 
 | Parameter | Data Type | Required | Range | Description |
 |-----------|-----------|----------|-------|-------------|
-| `folder_name` | STRING | No | N/A | Name of the folder containing the saved dataset, located inside the ComfyUI output directory (default: "training_dataset"). |
+| `folder_name` | STRING | No | N/A | Name of the folder containing the saved dataset, located inside the Hanzo Studio output directory (default: "training_dataset"). |
 
 ## Outputs
 

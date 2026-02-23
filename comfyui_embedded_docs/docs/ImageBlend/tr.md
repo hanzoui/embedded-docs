@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageBlend/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageBlend/tr.md)
 
 `ImageBlend` düğümü, iki görüntüyü belirli bir karıştırma modu ve karıştırma faktörüne göre birleştirmek için tasarlanmıştır. Normal, çarpma, ekran, kaplama, yumuşak ışık ve fark gibi çeşitli karıştırma modlarını destekleyerek çok yönlü görüntü işleme ve kompozit oluşturma tekniklerine olanak tanır. Bu düğüm, iki görüntü katmanı arasındaki görsel etkileşimi ayarlayarak kompozit görüntüler oluşturmak için gereklidir.
 

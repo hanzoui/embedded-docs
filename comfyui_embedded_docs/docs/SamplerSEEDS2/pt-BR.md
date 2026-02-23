@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SamplerSEEDS2/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SamplerSEEDS2/pt-BR.md)
 
 Este nó fornece um amostrador configurável para gerar imagens. Ele implementa o algoritmo SEEDS-2, que é um resolvedor de equações diferenciais estocásticas (SDE). Ao ajustar seus parâmetros, você pode configurá-lo para se comportar como vários amostradores específicos, incluindo `seeds_2`, `exp_heun_2_x0` e `exp_heun_2_x0_sde`.
 

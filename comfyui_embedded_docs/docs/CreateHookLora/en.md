@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/CreateHookLora/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/CreateHookLora/en.md)
 
 The Create Hook LoRA node generates hook objects for applying LoRA (Low-Rank Adaptation) modifications to models. It loads a specified LoRA file and creates hooks that can adjust model and CLIP strengths, then combines these hooks with any existing hooks passed to it. The node efficiently manages LoRA loading by caching previously loaded LoRA files to avoid redundant operations.
 

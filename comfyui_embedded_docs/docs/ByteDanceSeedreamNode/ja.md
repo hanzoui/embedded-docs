@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ByteDanceSeedreamNode/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ByteDanceSeedreamNode/ja.md)
 
 ByteDance Seedream 4ノードは、最大4K解像度での統一されたテキストから画像への生成機能と、精密な単一文による編集機能を提供します。テキストプロンプトから新しい画像を作成したり、テキスト指示を使用して既存の画像を編集したりすることができます。このノードは、単一画像の生成と、複数の関連画像の連続生成の両方をサポートしています。
 

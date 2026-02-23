@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BatchImagesMasksLatentsNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BatchImagesMasksLatentsNode/pt-BR.md)
 
 O nó Batch Images/Masks/Latents combina múltiplas entradas do mesmo tipo em um único lote (batch). Ele detecta automaticamente se as entradas são imagens, máscaras ou representações latentes e usa o método de agrupamento apropriado. Isso é útil para preparar vários itens para processamento por nós que aceitam entradas em lote.
 

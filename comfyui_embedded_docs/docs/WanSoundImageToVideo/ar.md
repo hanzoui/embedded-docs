@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanSoundImageToVideo/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanSoundImageToVideo/ar.md)
 
 يقوم عقد WanSoundImageToVideo بتوليد محتوى فيديو من الصور مع إمكانية التكييف الصوتي الاختياري. يأخذ العقد نصوص تكييف إيجابية وسلبية مع نموذج VAE لإنشاء عينات كامنة للفيديو، ويمكنه دمج صور مرجعية وترميز صوتي وفيديوهات تحكم ومراجع حركة لتوجيه عملية توليد الفيديو.
 

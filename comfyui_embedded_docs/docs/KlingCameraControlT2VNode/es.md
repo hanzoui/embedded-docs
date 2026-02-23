@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingCameraControlT2VNode/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingCameraControlT2VNode/es.md)
 
 El nodo Kling Text to Video Camera Control transforma texto en videos cinematográficos con movimientos de cámara profesionales que simulan cinematografía del mundo real. Este nodo permite controlar acciones de cámara virtual que incluyen zoom, rotación, paneo, inclinación y vista en primera persona, manteniendo el enfoque en su texto original. La duración, el modo y el nombre del modelo están codificados porque el control de cámara solo es compatible en modo pro con el modelo kling-v1-5 en duración de 5 segundos.
 

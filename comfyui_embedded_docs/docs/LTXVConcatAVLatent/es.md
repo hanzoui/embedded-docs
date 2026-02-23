@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVConcatAVLatent/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVConcatAVLatent/es.md)
 
 El nodo LTXVConcatAVLatent combina una representación latente de video y una representación latente de audio en una única salida latente concatenada. Fusiona los tensores `samples` de ambas entradas y, si están presentes, también sus tensores `noise_mask`, preparándolos para su posterior procesamiento en un pipeline de generación de video.
 

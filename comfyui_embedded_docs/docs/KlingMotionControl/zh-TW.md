@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingMotionControl/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingMotionControl/zh-TW.md)
 
 Kling Motion Control 節點透過將參考影片中的動作、表情和攝影機運動應用到由參考圖像和文字提示定義的角色上，從而生成影片。它允許您控制角色的最終朝向是來自參考影片還是參考圖像。
 

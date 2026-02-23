@@ -1,14 +1,14 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Load3D/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Load3D/zh-TW.md)
 
-Load3D 節點是用於載入和處理 3D 模型檔案的核心節點。載入節點時，它會自動從 `ComfyUI/input/3d/` 中取得可用的 3D 資源。您也可以使用上傳功能來上傳支援的 3D 檔案進行預覽。
+Load3D 節點是用於載入和處理 3D 模型檔案的核心節點。載入節點時，它會自動從 `Hanzo Studio/input/3d/` 中取得可用的 3D 資源。您也可以使用上傳功能來上傳支援的 3D 檔案進行預覽。
 
 **支援的格式**
 目前，此節點支援多種 3D 檔案格式，包括 `.gltf`、`.glb`、`.obj`、`.fbx` 和 `.stl`。
 
 **3D 節點偏好設定**
-一些與 3D 節點相關的偏好設定可以在 ComfyUI 的設定選單中進行配置。請參考以下文件進行相應設定：
+一些與 3D 節點相關的偏好設定可以在 Hanzo Studio 的設定選單中進行配置。請參考以下文件進行相應設定：
 
-[設定選單](https://docs.comfy.org/interface/settings/3d)
+[設定選單](https://docs.hanzo.ai/interface/settings/3d)
 
 除了常規的節點輸出外，Load3D 在畫布選單中還有許多與 3D 檢視相關的設定。
 
@@ -16,7 +16,7 @@ Load3D 節點是用於載入和處理 3D 模型檔案的核心節點。載入節
 
 | 參數名稱      | 類型           | 描述                                                         | 預設值 | 範圍          |
 |--------------|----------------|--------------------------------------------------------------|--------|---------------|
-| model_file   | File Selection | 3D 模型檔案路徑，支援上傳，預設從 `ComfyUI/input/3d/` 讀取模型檔案 | -      | 支援的格式    |
+| model_file   | File Selection | 3D 模型檔案路徑，支援上傳，預設從 `Hanzo Studio/input/3d/` 讀取模型檔案 | -      | 支援的格式    |
 | width        | INT            | 畫布渲染寬度                                                 | 1024   | 1-4096       |
 | height       | INT            | 畫布渲染高度                                                 | 1024   | 1-4096       |
 
@@ -124,7 +124,7 @@ Load3D 節點的畫布區域包含眾多檢視操作，包括：
 ### 3. 右側選單功能
 
 <video controls width="640" height="360">
-  <source src="https://raw.githubusercontent.com/Comfy-Org/embedded-docs/refs/heads/main/comfyui_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/hanzoui/embedded-docs/refs/heads/main/hanzo_studio_embedded_docs/docs/Load3d/asset/view_operations.mp4" type="video/mp4">
   您的瀏覽器不支援影片播放。
 </video>
 

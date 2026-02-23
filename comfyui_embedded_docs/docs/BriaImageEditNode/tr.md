@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/BriaImageEditNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [GitHub'da Düzenle](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/BriaImageEditNode/tr.md)
 
 Bria FIBO Görüntü Düzenleme düğümü, mevcut bir görüntüyü bir metin talimatı kullanarak değiştirmenize olanak tanır. Görüntüyü ve isteminizi Bria API'sine gönderir; API, isteğinize dayanarak görüntünün yeni, düzenlenmiş bir versiyonunu oluşturmak için FIBO modelini kullanır. Ayrıca, düzenlemeleri belirli bir alanla sınırlamak için bir maske sağlayabilirsiniz.
 

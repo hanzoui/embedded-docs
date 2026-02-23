@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MeshyTextToModelNode/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [تحرير على GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MeshyTextToModelNode/ar.md)
 
 يستخدم عقد Meshy: Text to Model واجهة برمجة تطبيقات Meshy لإنشاء نموذج ثلاثي الأبعاد من وصف نصي. حيث يرسل طلبًا إلى واجهة برمجة التطبيقات مع المطالبة والإعدادات الخاصة بك، ثم ينتظر حتى يكتمل الإنشاء ويقوم بتنزيل ملفات النموذج الناتجة.
 

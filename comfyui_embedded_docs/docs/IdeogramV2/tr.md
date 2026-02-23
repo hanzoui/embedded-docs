@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/IdeogramV2/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/IdeogramV2/tr.md)
 
 Ideogram V2 düğümü, Ideogram V2 AI modelini kullanarak görüntüler oluşturur. Bir API servisi aracılığıyla metin prompt'ları ve çeşitli oluşturma ayarlarını alarak görüntüler oluşturur. Düğüm, çıktı görüntülerini özelleştirmek için farklı en-boy oranları, çözünürlükler ve stil seçeneklerini destekler.
 

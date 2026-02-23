@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/SaveAnimatedPNG/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/SaveAnimatedPNG/pt-BR.md)
 
 O nó SaveAnimatedPNG é projetado para criar e salvar imagens PNG animadas a partir de uma sequência de quadros. Ele gerencia a montagem de quadros de imagem individuais em uma animação coesa, permitindo a personalização da duração dos quadros, do loop e da inclusão de metadados.
 

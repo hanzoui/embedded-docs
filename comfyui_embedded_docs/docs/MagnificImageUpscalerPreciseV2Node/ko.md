@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/MagnificImageUpscalerPreciseV2Node/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/MagnificImageUpscalerPreciseV2Node/ko.md)
 
 Magnific Image Upscale (Precise V2) 노드는 선명도, 그레인, 디테일 향상을 정밀하게 제어하며 고품질 이미지 업스케일링을 수행합니다. 이 노드는 외부 API를 통해 이미지를 처리하며, 최대 10060×10060 픽셀의 출력 해상도를 지원합니다. 다양한 처리 스타일을 제공하며, 요청된 출력 크기가 허용 최대 크기를 초과할 경우 입력 이미지를 자동으로 다운스케일할 수 있습니다.
 

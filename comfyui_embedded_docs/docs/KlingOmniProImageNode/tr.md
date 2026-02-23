@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingOmniProImageNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingOmniProImageNode/tr.md)
 
 Kling Omni Image (Pro) düğümü, Kling AI modelini kullanarak görüntüler oluşturur veya düzenler. Metin açıklamasına dayalı görüntüler oluşturur ve stil veya içeriği yönlendirmek için referans görüntüler sağlamanıza olanak tanır. Düğüm, görevi işleyen ve nihai görüntüyü döndüren harici bir API'ye istek gönderir.
 

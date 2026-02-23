@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ModelSamplingAuraFlow/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ModelSamplingAuraFlow/fr.md)
 
 Le nœud ModelSamplingAuraFlow applique une configuration d'échantillonnage spécialisée aux modèles de diffusion, spécifiquement conçue pour les architectures de modèles AuraFlow. Il modifie le comportement d'échantillonnage du modèle en appliquant un paramètre de décalage qui ajuste la distribution d'échantillonnage. Ce nœud hérite du framework d'échantillonnage de modèle SD3 et offre un contrôle fin sur le processus d'échantillonnage.
 

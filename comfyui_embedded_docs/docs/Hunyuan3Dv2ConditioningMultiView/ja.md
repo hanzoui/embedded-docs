@@ -1,4 +1,4 @@
-> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Hunyuan3Dv2ConditioningMultiView/ja.md)
+> このドキュメントは AI によって生成されました。エラーを見つけた場合や改善のご提案がある場合は、ぜひ貢献してください！ [GitHub で編集](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Hunyuan3Dv2ConditioningMultiView/ja.md)
 
 Hunyuan3Dv2ConditioningMultiViewノードは、3Dビデオ生成のためのマルチビューCLIPビジョン埋め込みを処理します。オプションの正面、左側、背面、右側のビュー埋め込みを受け取り、それらを位置エンコーディングと組み合わせて、ビデオモデルのためのコンディショニングデータを作成します。このノードは、結合された埋め込みからのポジティブコンディショニングと、ゼロ値のネガティブコンディショニングの両方を出力します。
 

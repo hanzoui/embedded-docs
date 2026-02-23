@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TripoRefineNode/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TripoRefineNode/en.md)
 
 The TripoRefineNode refines draft 3D models created specifically by v1.4 Tripo models. It takes a model task ID and processes it through the Tripo API to generate an improved version of the model. This node is designed to work exclusively with draft models produced by Tripo v1.4 models.
 

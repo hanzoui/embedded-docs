@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LTXVAddGuide/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LTXVAddGuide/tr.md)
 
 LTXVAddGuide düğümü, girdi görüntülerini veya videolarını kodlayarak ve bunları koşullandırma verilerine ana kareler olarak dahil ederek, gizli dizilere video koşullandırma kılavuzu ekler. Girdiyi bir VAE kodlayıcı aracılığıyla işler ve ortaya çıkan gizli öğeleri belirtilen kare konumlarına stratejik olarak yerleştirirken, hem pozitif hem de negatif koşullandırmayı ana kare bilgileriyle günceller. Düğüm, kare hizalama kısıtlamalarını ele alır ve koşullandırma etkisinin gücü üzerinde kontrol sağlar.
 

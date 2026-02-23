@@ -1,4 +1,4 @@
-> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/EmptyChromaRadianceLatentImage/en.md)
+> This documentation was AI-generated. If you find any errors or have suggestions for improvement, please feel free to contribute! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/EmptyChromaRadianceLatentImage/en.md)
 
 The EmptyChromaRadianceLatentImage node creates a blank latent image with specified dimensions for use in chroma radiance workflows. It generates a tensor filled with zeros that serves as a starting point for latent space operations. The node allows you to define the width, height, and batch size of the empty latent image.
 

@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WavespeedImageUpscaleNode/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WavespeedImageUpscaleNode/zh.md)
 
 WaveSpeed 图像超分辨率节点使用外部 AI 服务来提高图像的分辨率和质量。它接收一张输入照片，并将其超分辨率到更高的目标分辨率，例如 2K、4K 或 8K，从而生成更清晰、细节更丰富的结果。
 

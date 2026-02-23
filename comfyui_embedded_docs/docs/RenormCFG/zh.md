@@ -1,4 +1,4 @@
-> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RenormCFG/zh.md)
+> 本文档由 AI 生成。如果您发现任何错误或有改进建议，欢迎贡献！ [在 GitHub 上编辑](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RenormCFG/zh.md)
 
 RenormCFG 节点通过应用条件缩放和归一化来改进扩散模型中的无分类器引导（CFG）过程。它根据指定的时间步阈值和重归一化因子调整去噪过程，从而在图像生成过程中控制条件预测与无条件预测的影响强度。
 

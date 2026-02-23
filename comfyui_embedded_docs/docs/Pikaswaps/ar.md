@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Pikaswaps/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Pikaswaps/ar.md)
 
 تتيح عقدة Pika Swaps استبدال الكائنات أو المناطق في الفيديو الخاص بك بصور جديدة. يمكنك تحديد المناطق المراد استبدالها باستخدام قناع أو إحداثيات، وستقوم العقدة باستبدال المحتوى المحدد بسلاسة طوال تسلسل الفيديو.
 

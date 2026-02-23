@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/LoadImageOutput/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/LoadImageOutput/fr.md)
 
 Le nœud LoadImageOutput charge les images depuis le dossier de sortie. Lorsque vous cliquez sur le bouton d'actualisation, il met à jour la liste des images disponibles et sélectionne automatiquement la première, facilitant ainsi l'itération à travers vos images générées.
 

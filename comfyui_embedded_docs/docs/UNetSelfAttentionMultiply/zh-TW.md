@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/UNetSelfAttentionMultiply/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UNetSelfAttentionMultiply/zh-TW.md)
 
 UNetSelfAttentionMultiply 節點對 UNet 模型中的自注意力機制的查詢、鍵、值和輸出組件應用乘法因子。它允許您縮放注意力計算的不同部分，以實驗注意力權重如何影響模型的行為。
 

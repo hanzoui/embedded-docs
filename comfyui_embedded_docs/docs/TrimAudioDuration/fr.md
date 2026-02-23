@@ -1,4 +1,4 @@
-> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/TrimAudioDuration/fr.md)
+> Cette documentation a été générée par IA. Si vous trouvez des erreurs ou avez des suggestions d'amélioration, n'hésitez pas à contribuer ! [Modifier sur GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/TrimAudioDuration/fr.md)
 
 Le nœud TrimAudioDuration vous permet de découper un segment temporel spécifique d'un fichier audio. Vous pouvez spécifier quand commencer la découpe et quelle doit être la durée du clip audio résultant. Le nœud fonctionne en convertissant les valeurs temporelles en positions de trames audio et en extrayant la portion correspondante de la forme d'onde audio.
 

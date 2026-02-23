@@ -1,4 +1,4 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/AudioAdjustVolume/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/AudioAdjustVolume/ar.md)
 
 يقوم عُقدة AudioAdjustVolume بتعديل مستوى الصوت من خلال تطبيق تعديلات على مستوى الصوت بوحدة الديسيبل. تأخذ العُقدة مدخلاً صوتياً وتطبق عامل تضخيم بناءً على مستوى الصوت المحدد، حيث تزيد القيم الموجبة من مستوى الصوت وتقلل القيم السالبة منه. تُرجع العُقدة الصوت المعدل بنفس معدل العينات الأصلي.
 

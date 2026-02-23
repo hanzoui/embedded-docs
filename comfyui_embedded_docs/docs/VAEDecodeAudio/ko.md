@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/VAEDecodeAudio/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/VAEDecodeAudio/ko.md)
 
 VAEDecodeAudio 노드는 변분 자동인코더(VAE)를 사용하여 잠재 표현을 오디오 웨이브폼으로 다시 변환합니다. 인코딩된 오디오 샘플을 입력받아 VAE를 통해 처리하여 원본 오디오를 재구성하며, 일관된 출력 수준을 보장하기 위해 정규화를 적용합니다. 결과 오디오는 44100 Hz의 표준 샘플 레이트로 반환됩니다.
 

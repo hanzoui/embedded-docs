@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/Flux2Scheduler/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/Flux2Scheduler/tr.md)
 
 Flux2Scheduler düğümü, Flux modeli için özel olarak tasarlanmış, gürültü giderme işlemi için bir gürültü seviyesi (sigmas) dizisi oluşturur. Görüntü oluşturma sırasında gürültü kaldırma ilerleyişini etkileyen, gürültü giderme adım sayısına ve hedef görüntünün boyutlarına dayalı bir zamanlama hesaplar.
 

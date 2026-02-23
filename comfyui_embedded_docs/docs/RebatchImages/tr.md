@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/RebatchImages/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/RebatchImages/tr.md)
 
 RebatchImages düğümü, bir grup görseli yeni bir grup konfigürasyonuna göre yeniden düzenlemek ve belirtilen şekilde grup boyutunu ayarlamak için tasarlanmıştır. Bu işlem, grup işlemlerinde görsel verilerin işlenmesini yönetmek ve optimize etmek için gereklidir; görsellerin verimli bir şekilde işlenmesi için istenen grup boyutuna göre düzenlenmesini sağlar.
 

@@ -1,6 +1,6 @@
-> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/UpscaleModelLoader/ar.md)
+> تم إنشاء هذه الوثيقة بواسطة الذكاء الاصطناعي. إذا وجدت أي أخطاء أو لديك اقتراحات للتحسين، فلا تتردد في المساهمة! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/UpscaleModelLoader/ar.md)
 
-سيقوم هذا العقد باكتشاف النماذج الموجودة في مجلد `ComfyUI/models/upscale_models`، كما سيقوم بقراءة النماذج من المسارات الإضافية المُكونة في ملف extra_model_paths.yaml. في بعض الأحيان، قد تحتاج إلى **تحديث واجهة ComfyUI** للسماح لها بقراءة ملفات النماذج من المجلد المقابل.
+سيقوم هذا العقد باكتشاف النماذج الموجودة في مجلد `Hanzo Studio/models/upscale_models`، كما سيقوم بقراءة النماذج من المسارات الإضافية المُكونة في ملف extra_model_paths.yaml. في بعض الأحيان، قد تحتاج إلى **تحديث واجهة Hanzo Studio** للسماح لها بقراءة ملفات النماذج من المجلد المقابل.
 
 تم تصميم عقد UpscaleModelLoader لتحميل نماذج التكبير من دليل محدد. فهو يسهل عملية استرجاع وإعداد نماذج التكبير لمهام تكبير الصور، ويضمن تحميل النماذج وتكوينها بشكل صحيح للتقييم.
 

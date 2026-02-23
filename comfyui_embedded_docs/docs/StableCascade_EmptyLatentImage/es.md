@@ -1,4 +1,4 @@
-> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/StableCascade_EmptyLatentImage/es.md)
+> Esta documentación fue generada por IA. Si encuentra algún error o tiene sugerencias de mejora, ¡no dude en contribuir! [Editar en GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/StableCascade_EmptyLatentImage/es.md)
 
 El nodo StableCascade_EmptyLatentImage crea tensores latentes vacíos para modelos Stable Cascade. Genera dos representaciones latentes separadas - una para la etapa C y otra para la etapa B - con dimensiones apropiadas basadas en la resolución de entrada y configuraciones de compresión. Este nodo proporciona el punto de partida para el pipeline de generación de Stable Cascade.
 

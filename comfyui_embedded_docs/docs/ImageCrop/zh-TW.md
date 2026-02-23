@@ -1,4 +1,4 @@
-> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/ImageCrop/zh-TW.md)
+> 本文檔由 AI 生成。如果您發現任何錯誤或有改進建議，歡迎貢獻！ [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/ImageCrop/zh-TW.md)
 
 `ImageCrop` 節點設計用於從指定的 x 和 y 座標開始，將圖像裁剪為指定的寬度和高度。此功能對於聚焦圖像的特定區域或調整圖像尺寸以滿足特定需求至關重要。
 

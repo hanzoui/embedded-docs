@@ -1,4 +1,4 @@
-> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/HitPawGeneralImageEnhance/ko.md)
+> 이 문서는 AI에 의해 생성되었습니다. 오류를 발견하거나 개선 제안이 있으시면 기여해 주세요! [GitHub에서 편집](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/HitPawGeneralImageEnhance/ko.md)
 
 이 노드는 저해상도 이미지를 초해상도로 업스케일하여 아티팩트와 노이즈를 제거합니다. 외부 API를 사용하여 이미지를 처리하며, 처리 제한 내에 머물도록 입력 크기를 자동으로 조정할 수 있습니다. 허용되는 최대 출력 크기는 4메가픽셀입니다.
 

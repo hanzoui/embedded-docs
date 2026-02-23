@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/WanReferenceVideoApi/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/WanReferenceVideoApi/tr.md)
 
 Wan Referanstan Video düğümü, bir veya daha fazla girdi referans videosundan görsel görünüm ve sesi, bir metin istemiyle birlikte kullanarak yeni bir video oluşturur. Referans materyalindeki karakterlerle tutarlılığı korurken, açıklamanıza dayalı yeni içerik oluşturur.
 

@@ -1,4 +1,4 @@
-> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/PixverseImageToVideoNode/pt-BR.md)
+> Esta documentação foi gerada por IA. Se você encontrar erros ou tiver sugestões de melhoria, sinta-se à vontade para contribuir! [Editar no GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/PixverseImageToVideoNode/pt-BR.md)
 
 Gera vídeos com base em uma imagem de entrada e um prompt de texto. Este nó recebe uma imagem e cria um vídeo animado aplicando as configurações de movimento e qualidade especificadas para transformar a imagem estática em uma sequência em movimento.
 

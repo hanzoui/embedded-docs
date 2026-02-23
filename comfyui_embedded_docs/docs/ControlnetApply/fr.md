@@ -1,7 +1,7 @@
 Cette documentation concerne le nœud original `Apply ControlNet(Advanced)`. Le plus ancien nœud `Apply ControlNet` a été renommé en `Apply ControlNet(Old)`. Bien que vous puissiez encore voir le nœud `Apply ControlNet(Old)` dans de nombreux dossiers de workflow que vous téléchargez depuis comfyui.org pour des raisons de compatibilité, vous ne pouvez plus trouver le nœud `Apply ControlNet(Old)` via la recherche ou la liste des nœuds. Veuillez utiliser le nœud `Apply ControlNet` à la place.
 Ce nœud applique ControlNet à une image et à un conditionnement donnés, ajustant les attributs de l'image selon les paramètres et la force spécifiés des réseaux de contrôle tels que Depth, OpenPose, Canny, HED.
 
-Pour utiliser ControlNet, un prétraitement de l'image d'entrée est nécessaire. Les nœuds initiaux de ComfyUI n'incluent pas de préprocesseurs ni de modèles ControlNet, vous devez donc d'abord installer le préprocesseur ContrlNet [Télécharger le préprocesseur](https://github.com/Fannovel16/comfy_controlnet_preprocessors) et le modèle ControlNet correspondant.
+Pour utiliser ControlNet, un prétraitement de l'image d'entrée est nécessaire. Les nœuds initiaux de Hanzo Studio n'incluent pas de préprocesseurs ni de modèles ControlNet, vous devez donc d'abord installer le préprocesseur ContrlNet [Télécharger le préprocesseur](https://github.com/Fannovel16/comfy_controlnet_preprocessors) et le modèle ControlNet correspondant.
 
 ### Entrées
 

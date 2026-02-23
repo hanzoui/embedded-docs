@@ -1,4 +1,4 @@
-> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/Comfy-Org/embedded-docs/blob/main/comfyui_embedded_docs/docs/KlingLipSyncTextToVideoNode/tr.md)
+> Bu belge yapay zeka tarafından oluşturulmuştur. Herhangi bir hata bulursanız veya iyileştirme önerileriniz varsa, katkıda bulunmaktan çekinmeyin! [Edit on GitHub](https://github.com/hanzoui/embedded-docs/blob/main/hanzo_studio_embedded_docs/docs/KlingLipSyncTextToVideoNode/tr.md)
 
 Kling Lip Sync Text to Video Node, bir video dosyasındaki ağız hareketlerini bir metin istemine uyacak şekilde senkronize eder. Bir girdi videosu alır ve karakterin dudak hareketlerinin sağlanan metinle hizalandığı yeni bir video oluşturur. Düğüm, doğal görünümlü konuşma senkronizasyonu oluşturmak için ses sentezi kullanır.
 
