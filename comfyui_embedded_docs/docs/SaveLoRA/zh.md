@@ -7,7 +7,7 @@ SaveLoRA 节点用于将 LoRA（低秩自适应）模型保存至文件。该节
 | 参数 | 数据类型 | 必填 | 取值范围 | 描述 |
 |-----------|-----------|----------|-------|-------------|
 | `lora` | MODEL | 是 | 不适用 | 需要保存的 LoRA 模型。请勿使用已应用了 LoRA 层的模型。 |
-| `prefix` | STRING | 是 | 不适用 | 保存的 LoRA 文件使用的前缀（默认："loras/Hanzo Studio_trained_lora"）。 |
+| `prefix` | STRING | 是 | 不适用 | 保存的 LoRA 文件使用的前缀（默认："loras/HanzoStudio_trained_lora"）。 |
 | `steps` | INT | 否 | 不适用 | 可选：LoRA 已训练的步数，用于命名保存的文件。 |
 
 **注意：** `lora` 输入必须是一个纯 LoRA 模型。请勿提供已应用了 LoRA 层的基础模型。

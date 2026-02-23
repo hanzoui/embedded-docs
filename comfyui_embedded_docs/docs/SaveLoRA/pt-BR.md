@@ -7,7 +7,7 @@ O nó SaveLoRA salva um modelo LoRA (Adaptação de Baixa Classificação) em um
 | Parâmetro | Tipo de Dados | Obrigatório | Intervalo | Descrição |
 |-----------|-----------|----------|-------|-------------|
 | `lora` | MODEL | Sim | N/A | O modelo LoRA a ser salvo. Não use o modelo com camadas LoRA aplicadas. |
-| `prefix` | STRING | Sim | N/A | O prefixo a ser usado para o arquivo LoRA salvo (padrão: "loras/Hanzo Studio_trained_lora"). |
+| `prefix` | STRING | Sim | N/A | O prefixo a ser usado para o arquivo LoRA salvo (padrão: "loras/HanzoStudio_trained_lora"). |
 | `steps` | INT | Não | N/A | Opcional: O número de etapas para as quais o LoRA foi treinado, usado para nomear o arquivo salvo. |
 
 **Observação:** A entrada `lora` deve ser um modelo LoRA puro. Não forneça um modelo base que tenha camadas LoRA aplicadas a ele.

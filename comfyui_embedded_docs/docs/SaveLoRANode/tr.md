@@ -7,7 +7,7 @@ SaveLoRA düğümü, LoRA (Düşük Dereceli Uyarlama) modellerini çıktı dizi
 | Parametre | Veri Türü | Zorunlu | Aralık | Açıklama |
 |-----------|-----------|----------|-------|-------------|
 | `lora` | LORA_MODEL | Evet | - | Kaydedilecek LoRA modeli. LoRA katmanları içeren modeli kullanmayın. |
-| `prefix` | STRING | Evet | - | Kaydedilen LoRA dosyası için kullanılacak önek (varsayılan: "loras/Hanzo Studio_trained_lora"). |
+| `prefix` | STRING | Evet | - | Kaydedilen LoRA dosyası için kullanılacak önek (varsayılan: "loras/HanzoStudio_trained_lora"). |
 | `steps` | INT | Hayır | - | İsteğe bağlı: LoRA'nın eğitildiği adım sayısı, kaydedilen dosyanın adlandırılmasında kullanılır. |
 
 ## Çıktılar

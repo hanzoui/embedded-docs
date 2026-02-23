@@ -6,7 +6,7 @@ LoraSave 节点从模型差异中提取并保存 LoRA（低秩自适应）文件
 
 | 参数 | 数据类型 | 必填 | 取值范围 | 描述 |
 |------|-----------|------|----------|------|
-| `文件名前缀` | STRING | 是 | - | 输出文件名的前缀（默认："loras/Hanzo Studio_extracted_lora"） |
+| `文件名前缀` | STRING | 是 | - | 输出文件名的前缀（默认："loras/HanzoStudio_extracted_lora"） |
 | `排名` | INT | 是 | 1-4096 | LoRA 的秩值，控制大小和复杂度（默认：8） |
 | `lora类型` | COMBO | 是 | 多个可用选项 | 要创建的 LoRA 类型，提供多种可用选项 |
 | `偏差差异` | BOOLEAN | 是 | - | 是否在 LoRA 计算中包含偏置差异（默认：True） |

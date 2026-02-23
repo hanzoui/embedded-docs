@@ -6,7 +6,7 @@ El nodo LoraSave extrae y guarda archivos LoRA (Low-Rank Adaptation) a partir de
 
 | Parámetro | Tipo de Dato | Requerido | Rango | Descripción |
 |-----------|-----------|----------|-------|-------------|
-| `prefijo_nombre_archivo` | STRING | Sí | - | El prefijo para el nombre del archivo de salida (por defecto: "loras/Hanzo Studio_extracted_lora") |
+| `prefijo_nombre_archivo` | STRING | Sí | - | El prefijo para el nombre del archivo de salida (por defecto: "loras/HanzoStudio_extracted_lora") |
 | `rango` | INT | Sí | 1-4096 | El valor de rango para el LoRA, que controla el tamaño y la complejidad (por defecto: 8) |
 | `tipo_lora` | COMBO | Sí | Múltiples opciones disponibles | El tipo de LoRA a crear, con varias opciones disponibles |
 | `diferencia_sesgo` | BOOLEAN | Sí | - | Si se deben incluir diferencias de sesgo en el cálculo del LoRA (por defecto: True) |

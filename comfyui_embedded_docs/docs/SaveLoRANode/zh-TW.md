@@ -7,7 +7,7 @@
 | 參數名稱 | 資料類型 | 必填 | 數值範圍 | 描述 |
 |-----------|-----------|----------|-------|-------------|
 | `lora` | LORA_MODEL | 是 | - | 要儲存的 LoRA 模型。請勿使用帶有 LoRA 層的模型。 |
-| `prefix` | STRING | 是 | - | 用於儲存 LoRA 檔案的檔案名稱前綴（預設值："loras/Hanzo Studio_trained_lora"）。 |
+| `prefix` | STRING | 是 | - | 用於儲存 LoRA 檔案的檔案名稱前綴（預設值："loras/HanzoStudio_trained_lora"）。 |
 | `steps` | INT | 否 | - | 可選：LoRA 已訓練的步數，用於命名儲存的檔案。 |
 
 ## 輸出結果

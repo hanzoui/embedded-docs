@@ -6,7 +6,7 @@ LoraSave düğümü, model farklılıklarından LoRA (Low-Rank Adaptation) dosya
 
 | Parametre | Veri Türü | Zorunlu | Aralık | Açıklama |
 |-----------|-----------|----------|-------|-------------|
-| `dosyaadı_öneki` | STRING | Evet | - | Çıktı dosya adı için önek (varsayılan: "loras/Hanzo Studio_extracted_lora") |
+| `dosyaadı_öneki` | STRING | Evet | - | Çıktı dosya adı için önek (varsayılan: "loras/HanzoStudio_extracted_lora") |
 | `rütbe` | INT | Evet | 1-4096 | LoRA için rank değeri, boyutu ve karmaşıklığı kontrol eder (varsayılan: 8) |
 | `lora_türü` | COMBO | Evet | Birden fazla seçenek mevcut | Oluşturulacak LoRA'nın türü, çeşitli mevcut seçeneklerle |
 | `yanlılık_farkı` | BOOLEAN | Evet | - | LoRA hesaplamasında bias farklılıklarının dahil edilip edilmeyeceği (varsayılan: True) |

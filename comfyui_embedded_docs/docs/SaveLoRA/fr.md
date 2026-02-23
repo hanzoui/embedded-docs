@@ -5,7 +5,7 @@
 | Paramètre | Type de données | Requis | Plage | Description |
 |-----------|-----------|----------|-------|-------------|
 | `lora` | MODEL | Oui | N/A | Le modèle LoRA à sauvegarder. Ne pas utiliser le modèle avec les couches LoRA appliquées. |
-| `prefix` | STRING | Oui | N/A | Le préfixe à utiliser pour le fichier LoRA sauvegardé (par défaut : "loras/Hanzo Studio_trained_lora"). |
+| `prefix` | STRING | Oui | N/A | Le préfixe à utiliser pour le fichier LoRA sauvegardé (par défaut : "loras/HanzoStudio_trained_lora"). |
 | `steps` | INT | Non | N/A | Optionnel : Le nombre d'étapes d'entraînement du LoRA, utilisé pour nommer le fichier sauvegardé. |
 
 **Note :** L'entrée `lora` doit être un modèle LoRA pur. Ne fournissez pas un modèle de base auquel des couches LoRA ont été appliquées.

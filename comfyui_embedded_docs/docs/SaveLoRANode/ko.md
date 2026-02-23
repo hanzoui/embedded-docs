@@ -7,7 +7,7 @@ SaveLoRA 노드는 LoRA(Low-Rank Adaptation) 모델을 출력 디렉토리에 �
 | 매개변수 | 데이터 타입 | 필수 | 범위 | 설명 |
 |-----------|-----------|----------|-------|-------------|
 | `lora` | LORA_MODEL | 예 | - | 저장할 LoRA 모델입니다. LoRA 레이어가 적용된 모델을 사용하지 마세요. |
-| `prefix` | STRING | 예 | - | 저장할 LoRA 파일에 사용할 접두사입니다 (기본값: "loras/Hanzo Studio_trained_lora"). |
+| `prefix` | STRING | 예 | - | 저장할 LoRA 파일에 사용할 접두사입니다 (기본값: "loras/HanzoStudio_trained_lora"). |
 | `steps` | INT | 아니오 | - | 선택사항: LoRA가 학습된 스텝 수로, 저장되는 파일의 이름을 지정하는 데 사용됩니다. |
 
 ## 출력

@@ -7,7 +7,7 @@ El nodo SaveLoRA guarda un modelo LoRA (Adaptación de Bajo Rango) en un archivo
 | Parámetro | Tipo de Dato | Obligatorio | Rango | Descripción |
 |-----------|-----------|----------|-------|-------------|
 | `lora` | MODEL | Sí | N/A | El modelo LoRA que se va a guardar. No usar el modelo con capas LoRA. |
-| `prefix` | STRING | Sí | N/A | El prefijo que se usará para el archivo LoRA guardado (por defecto: "loras/Hanzo Studio_trained_lora"). |
+| `prefix` | STRING | Sí | N/A | El prefijo que se usará para el archivo LoRA guardado (por defecto: "loras/HanzoStudio_trained_lora"). |
 | `steps` | INT | No | N/A | Opcional: El número de pasos para los que se ha entrenado el LoRA, utilizado para nombrar el archivo guardado. |
 
 **Nota:** La entrada `lora` debe ser un modelo LoRA puro. No proporciones un modelo base que tenga capas LoRA aplicadas.

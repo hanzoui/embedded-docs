@@ -7,7 +7,7 @@ The SaveLoRA node saves LoRA (Low-Rank Adaptation) models to your output directo
 | Parameter | Data Type | Required | Range | Description |
 |-----------|-----------|----------|-------|-------------|
 | `lora` | LORA_MODEL | Yes | - | The LoRA model to save. Do not use the model with LoRA layers. |
-| `prefix` | STRING | Yes | - | The prefix to use for the saved LoRA file (default: "loras/Hanzo Studio_trained_lora"). |
+| `prefix` | STRING | Yes | - | The prefix to use for the saved LoRA file (default: "loras/HanzoStudio_trained_lora"). |
 | `steps` | INT | No | - | Optional: The number of steps the LoRA has been trained for, used to name the saved file. |
 
 ## Outputs

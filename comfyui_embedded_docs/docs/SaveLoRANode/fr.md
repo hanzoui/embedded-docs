@@ -7,7 +7,7 @@ Le nœud SaveLoRA enregistre les modèles LoRA (Low-Rank Adaptation) dans votre 
 | Paramètre | Type de données | Requis | Plage | Description |
 |-----------|-----------|----------|-------|-------------|
 | `lora` | LORA_MODEL | Oui | - | Le modèle LoRA à sauvegarder. Ne pas utiliser le modèle avec les couches LoRA. |
-| `prefix` | STRING | Oui | - | Le préfixe à utiliser pour le fichier LoRA sauvegardé (par défaut : "loras/Hanzo Studio_trained_lora"). |
+| `prefix` | STRING | Oui | - | Le préfixe à utiliser pour le fichier LoRA sauvegardé (par défaut : "loras/HanzoStudio_trained_lora"). |
 | `steps` | INT | Non | - | Optionnel : Le nombre d'étapes pour lesquelles le LoRA a été entraîné, utilisé pour nommer le fichier sauvegardé. |
 
 ## Sorties

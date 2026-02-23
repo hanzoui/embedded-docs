@@ -6,7 +6,7 @@ Le nœud LoraSave extrait et enregistre des fichiers LoRA (Low-Rank Adaptation) 
 
 | Paramètre | Type de données | Requis | Plage | Description |
 |-----------|-----------|----------|-------|-------------|
-| `filename_prefix` | STRING | Oui | - | Le préfixe pour le nom de fichier de sortie (par défaut : "loras/Hanzo Studio_extracted_lora") |
+| `filename_prefix` | STRING | Oui | - | Le préfixe pour le nom de fichier de sortie (par défaut : "loras/HanzoStudio_extracted_lora") |
 | `rank` | INT | Oui | 1-4096 | La valeur de rang pour le LoRA, contrôlant la taille et la complexité (par défaut : 8) |
 | `lora_type` | COMBO | Oui | Plusieurs options disponibles | Le type de LoRA à créer, avec diverses options disponibles |
 | `bias_diff` | BOOLEAN | Oui | - | Indique s'il faut inclure les différences de biais dans le calcul du LoRA (par défaut : True) |

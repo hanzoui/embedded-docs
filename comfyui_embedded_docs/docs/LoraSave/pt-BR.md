@@ -6,7 +6,7 @@ O nó LoraSave extrai e salva arquivos LoRA (Low-Rank Adaptation) a partir de di
 
 | Parâmetro | Tipo de Dados | Obrigatório | Intervalo | Descrição |
 |-----------|-----------|----------|-------|-------------|
-| `filename_prefix` | STRING | Sim | - | O prefixo para o nome do arquivo de saída (padrão: "loras/Hanzo Studio_extracted_lora") |
+| `filename_prefix` | STRING | Sim | - | O prefixo para o nome do arquivo de saída (padrão: "loras/HanzoStudio_extracted_lora") |
 | `rank` | INT | Sim | 1-4096 | O valor de *rank* para o LoRA, controlando o tamanho e a complexidade (padrão: 8) |
 | `lora_type` | COMBO | Sim | Múltiplas opções disponíveis | O tipo de LoRA a ser criado, com várias opções disponíveis |
 | `bias_diff` | BOOLEAN | Sim | - | Se deve incluir diferenças de *bias* no cálculo do LoRA (padrão: True) |

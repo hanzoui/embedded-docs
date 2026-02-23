@@ -6,7 +6,7 @@ The LoraSave node extracts and saves LoRA (Low-Rank Adaptation) files from model
 
 | Parameter | Data Type | Required | Range | Description |
 |-----------|-----------|----------|-------|-------------|
-| `filename_prefix` | STRING | Yes | - | The prefix for the output filename (default: "loras/Hanzo Studio_extracted_lora") |
+| `filename_prefix` | STRING | Yes | - | The prefix for the output filename (default: "loras/HanzoStudio_extracted_lora") |
 | `rank` | INT | Yes | 1-4096 | The rank value for the LoRA, controlling the size and complexity (default: 8) |
 | `lora_type` | COMBO | Yes | Multiple options available | The type of LoRA to create, with various available options |
 | `bias_diff` | BOOLEAN | Yes | - | Whether to include bias differences in the LoRA calculation (default: True) |

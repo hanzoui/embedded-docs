@@ -7,7 +7,7 @@ SaveLoRAノードは、LoRA（Low-Rank Adaptation）モデルをファイルと�
 | パラメータ | データ型 | 必須 | 範囲 | 説明 |
 |-----------|-----------|----------|-------|-------------|
 | `lora` | MODEL | はい | N/A | 保存するLoRAモデル。LoRAレイヤーが適用されたモデルは使用しないでください。 |
-| `prefix` | STRING | はい | N/A | 保存するLoRAファイルに使用するプレフィックス（デフォルト: "loras/Hanzo Studio_trained_lora"）。 |
+| `prefix` | STRING | はい | N/A | 保存するLoRAファイルに使用するプレフィックス（デフォルト: "loras/HanzoStudio_trained_lora"）。 |
 | `steps` | INT | いいえ | N/A | オプション: LoRAが学習されたステップ数。保存されるファイルの命名に使用されます。 |
 
 **注意:** `lora`入力は純粋なLoRAモデルである必要があります。LoRAレイヤーが適用されたベースモデルを指定しないでください。
